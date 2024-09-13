@@ -1,28 +1,27 @@
-# Authors
+# Possible Authors of the Pages, Bolgs, Links, etc.
 
-Billy Rick:
-  name        : "Billy Rick"
-  bio         : "What do you want, jewels? I am a very extravagant man."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+Yikun (Thomas) Li:
+  name             : "Yikun Li"
+  avatar           : "/assets/images/Yiji.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD Student @ [<u>Statistics and Data Science</u>](https://statistics.northwestern.edu/), [<u>Northwestern University</u>](https://www.northwestern.edu/)"
+  location         : "Evanston, IL"
+  # email            : "YikunLi2028@u.northwestern.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
+      url: "mailto:YikunLi2028@u.northwestern.edu"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://tomlee0122.github.io/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/TomLee0122"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
-
-Cornelius Fiddlebone:
-  name        : "Cornelius Fiddlebone"
-  bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:cornelius@thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rhymeswithsackit"
+      url: "https://twitter.com/Terminatorno4/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.facebook.com/profile.php?id=100093191584267"
+    - label: "Bilibili"
+      icon: "fab fa-fw fa-bilibili"
+      url: "https://space.bilibili.com/450623590"
