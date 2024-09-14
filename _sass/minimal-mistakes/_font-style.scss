@@ -1,11 +1,15 @@
 .large-text {
-    font-size: 24px;
+    font-size: $type-size-2;
 }
 
 .medium-text {
-    font-size: 18px;
+    font-size: $type-size-5;
 }
 
 .small-text {
-    font-size: 14px;
+    font-size: $type-size-7;
+}
+
+.mpar {
+    margin-bottom: 3em;
 }
