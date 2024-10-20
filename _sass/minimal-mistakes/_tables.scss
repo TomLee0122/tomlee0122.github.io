@@ -5,7 +5,7 @@
 table {
   display: block;
   margin-bottom: 1em;
-  width: 100%;
+  // width: 100%;
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
@@ -168,6 +168,7 @@ th {
   // background-color: var(--background-color-neutral-subtle, #f8f9fa);
   color: var(--color-base, #202122);
   margin: 1em 0;
+  // margin-bottom: 1em;
   // border: 1px solid var(--border-color-base, #a2a9b1);
   // border-collapse: collapse;
   text-align: center;
