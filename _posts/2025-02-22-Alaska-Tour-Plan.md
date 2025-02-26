@@ -17,7 +17,7 @@ toc_sticky: true
 permalink: /blogs/travel/Alaska-Tour-Plan/
 ---
 
-# <span style="color: #8E403A;">旅行景点</span>
+# <span style="color: #8E403A;">主要旅行景点</span>
 
 ## 安克雷奇市区与周边
 
@@ -139,7 +139,7 @@ $12 青少年（3-15岁）；<br>
 地址：3101 Glen Alps Road Anchorage, AK 99516；<br>
 网站：无官方网站。相关信息可参阅<a href="https://www.alaska.org/detail/flattop-mountain" class="custom-link-1">alaska.org</a>与<a href="https://www.anchorage.net/outdoors/the-chugach-mountains/flattop-mountain/" class="custom-link-1">Visit Alaska</a>。
 
-<span style="color:red;"><b>注意</b></span>：平顶山地区范围广大，游玩路线多样，部分路线山势陡峭。通常建议自驾或乘坐往返于市区与平顶山的shuttle bus前往位于Glen Alps的停车场。之后有多个目的地可选：<br>
+<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>：平顶山地区范围广大，游玩路线多样，部分路线山势陡峭。通常建议自驾或乘坐往返于市区与平顶山的shuttle bus前往位于Glen Alps的停车场。之后有多个目的地可选：<br>
 1，从Glen Alps停车场出发，沿着Blueberry trail步行至尽头，此段路程约0.5公里，耗时约30分钟。<br>
 2，到达Blueberry Hill后，可继续前往平顶山山顶。<span style="color: red;">此段路程较为陡峭</span>，耗时约1小时。<br>
 3，若时间较为宽裕，可前往更远端的Williwaw Lakes或Wolverine Peak。<span style="color: red;">此段路程约9公里</span>，耗时约4个小时。若选择此路线，需作好充足准备。
@@ -162,7 +162,7 @@ $12 青少年（3-15岁）；<br>
 电话：+1 +19074220500；<br>
 网站：<a href="https://www.nps.gov/kefj/index.htm" class="custom-link-1">基奈峡湾国家公园</a>。
 
-<b><span style="color: red;">注意</span>：冬季期间，基奈峡湾国家公园的绝大部分道路与游客中心都会关闭，步行进入基奈湾峡国家公园需要穿越约13公里的无人区域。</b>
+<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>：冬季期间，基奈峡湾国家公园的绝大部分道路与游客中心都会关闭，步行进入基奈湾峡国家公园需要穿越约13公里的无人区域。</b>
 
 <div style="text-align: center;margin-bottom: 1em;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53848.20681929178!2d-149.8610556119419!3d59.89652693709974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c79c630608aa09%3A0x12143ced272edc64!2sKenai%20Fjords%20National%20Park!5e0!3m2!1szh-CN!2sus!4v1740369602989!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -179,6 +179,89 @@ $12 青少年（3-15岁）；<br>
 地址：Kenai Fjords Tours：TBA；Major Marine Tours：1412 4th Ave, Seward, Alaska 99664；<br>
 电话：Kenai Fjords Tours：+1 800-808-8068；Major Marine Tours：+1 800-764-7300；<br>
 
+## 费尔班克斯市区与周边
+
+### &#9642; <span style="color: #71D7FF;">北方极地博物馆 (University of Alaska Museum of the North)</span>
+
+北方极地博物馆位于费尔班克斯市区西北角的阿拉斯加大学 (University of Alaska) 校园内。博物馆的主题是北极地区的历史、自然、当地文化等。
+
+<b>开放时间</b>：<br>
+<b>冬季时间（9月16日至5月14日）</b>：<br>
+周一至周日：上午9点至下午5点30分。<br>
+
+<b>夏季时间（5月15日至9月15日）</b>：<br>
+周一至周日：上午9点至晚上7点；<br>
+
+<b>注</b>：入馆通道将于闭馆时间前30分钟关闭。开放时间可能会有所调整。
+
+<b>门票</b>：<br>
+
+$20 成人 （18-64岁）<br>
+$16 老人（65岁及以上）、阿拉斯加居民、现役军人、儿童（6至17岁）<br>
+$14 团体票（8人及以上）<br>
+免费 博物馆工作人员、阿拉斯加大学教员、学生、5岁及以下儿童和EBT卡持有者。
+
+<b>预计游览时间</b>：2小时。
+
+地址：1962 Yukon Dr, Fairbanks, AK 99775；<br>
+电话：+1 907-474-7505；<br>
+网站：<a href="https://www.uaf.edu/museum/" class="custom-link-1">北方极地博物馆</a>。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1695.096127827871!2d-147.84489632206424!3d64.85848467774692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51325b4b7cbbc601%3A0xa5b80d8047b26e59!2sUniversity%20of%20Alaska%20Museum%20of%20the%20North!5e0!3m2!1szh-CN!2sus!4v1740525992604!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+### &#9642; <span style="color: #71D7FF;">圣诞老人之家 (Santa Clause House)</span>
+Where it's Christmas Every Day! 来自北极的浓郁圣诞风情。圣诞老人之家位于费尔班克斯市区东南角的北极 (North Pole)。这里更像是一个巨大的圣诞小镇与纪念品商店，有各种各样的圣诞装饰品、礼物、以及来自阿拉斯加的手工艺品。在这儿还可以寄出圣诞老人的明信片！
+
+<b>开放时间</b>：<br>
+除以下节假日外，周一至周日：早上10点至下午6点。<br>
+1月1日、2日；<br>
+复活节周日（4月20日）；<br>
+感恩节（11月27日）；<br>
+圣诞节期间12月25日、26日、27日。<em class="small-text" style="color: gray;">（一定是出去送礼物了吧！）</em><br>
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：1小时。
+
+地址：101 St Nicholas Dr, North Pole, AK 99705；<br>
+电话：+1 907-488-2200；<br>
+网站：<a href="https://www.santaclaushouse.com/" class="custom-link-1">圣诞老人之家</a>。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1701.6232441422499!2d-147.34571472206974!3d64.75489857768018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51324d4f91f3e801%3A0x2840219de72fedd1!2sSanta%20Clause%20House!5e0!3m2!1szh-CN!2sus!4v1740526861204!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+### &#9642; <span style="color: #71D7FF;">费尔班克斯冰雕博物馆 (Fairbanks Ice Museum)</span>
+
+费尔班克斯冰雕博物馆位于费尔班克斯市区中心。冰雕博物馆内有各种各样的冰雕作品。
+
+<b>开放时间</b>：<br>
+周一至周日：上午10点至下午8点。
+
+<b>门票</b>：<br>
+$15 成人；<br>
+$10 儿童（6至14岁）；<br>
+$12 团体票（10人及以上）。
+
+<b>冰雕展费用</b>：
+$10 成人；<br>
+$8 儿童（6至14岁）；<br>
+$8 团体票（10人及以上）。
+
+<b>预计游览时间</b>：1小时。
+
+地址：500 2nd Ave, Fairbanks, AK 99701；<br>
+电话：+1 907-451-8222；<br>
+网站：<a href="http://icemuseum.com/" class="custom-link-1">费尔班克斯冰雕博物馆</a>。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1696.0230310684165!2d-147.72073922206502!3d64.84377997773737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5132454896de0959%3A0x326675f714d4934d!2sFairbanks%20Ice%20Museum!5e0!3m2!1szh-CN!2sus!4v1740527921062!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## 东/西部环线
+
 ### &#9642; <span style="color: #71D7FF;">马塔努斯卡冰川 (Matanuska Glacier)</span>
 
 马塔努斯卡冰川位于连接安克雷奇与费尔班克斯的东部环线上 (Glenn Highway)，位于安克雷奇西北角约160公里处。马塔努斯卡冰川是阿拉斯加州最大的冰川之一，同时也是世界上最大的可以驾车到达的冰川。马塔努斯卡河 (Matanuska River) 源自马塔努斯卡冰川的融水。
@@ -193,16 +276,51 @@ $12 青少年（3-15岁）；<br>
 
 <b>出发时间</b>：可从上午10点、上午11点、下午1点、下午2点中选择。
 
-<b>费用</b>：约$150。
+<b>费用</b>：<br>
+$150 成人；<br>
+$30 12岁及以下儿童；<br>
+$50 现役军人；<br>
+$50 阿拉斯加居民；<br>
+$60 阿拉斯加居民的亲朋好友（参观时需由本地居民陪同）。
 
-<b>网站</b>：<a href="https://glacier-tours.com/matanuska-glacier-tours-in-winter/" class="custom-link-1">马塔努斯卡冰川</a>。
+网站：<a href="https://glacier-tours.com/matanuska-glacier-tours-in-winter/" class="custom-link-1">马塔努斯卡冰川</a>。
 
 <div style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d308162.5264142786!2d-147.86816363739572!3d61.64282911431455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c995194c250291%3A0xdc683d977b34deb!2z6ams5aGU5Yqq5pav5Y2h5Yaw5bed!5e0!3m2!1szh-CN!2sus!4v1740418896536!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-## 费尔班克斯市区与周边
+### &#9642; <span style="color: #71D7FF;">迪纳利国家公园和保留区 (Denali National Park and Preserve)</span>
 
-### &#9642; <span style="color: #71D7FF;">北方极地博物馆 (University of Alaska Museum of the North)</span>
+迪纳利国家公园和保留区位于连接安克雷奇与费尔班克斯的西部环线上 (George Parks Highway)，距安克雷奇约380公里，距费尔班克斯约200公里。迪纳利国家公园和保留区以北美洲最高峰：迪纳利山（原名麦金利山，海拔6190米）为中心，占地约24585平方公里。迪纳利国家公园和保留区内有众多野生动物，包括棕熊、驯鹿、狼、麋鹿等。
 
-北方极地博物馆位于费尔班克斯市区西北角的阿拉斯加大学 (University of Alaska) 校园内。博物馆的主题是北极地区的历史、自然、当地文化等。
+<b>开放时间</b>：全天开放。
+
+<b>门票</b>：<br>
+$15 成人；<br>
+免费 15岁及以下儿童。
+
+<b>预计游览时间</b>：1天及以上。<br>
+园区内有多条徒步/自行车路线可供选择，具体信息可访问<a href="https://www.nps.gov/dena/planyourvisit/winter-activities.htm" class="custom-link-1">冬季游览指引</a>与<a href="https://home.nps.gov/dena/planyourvisit/dayhiking.htm" class="custom-link-1">迪纳利国家公园和保留区</a>官网。
+
+电话：+1 907-683-9532；<br>
+网站：<a href="https://www.nps.gov/dena/index.htm" class="custom-link-1">迪纳利国家公园和保留区</a>。
+
+<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>
+1，迪纳利公园内只有一条公路 (Denali Park Road)。夏季期间，公路的前15英里（约24公里）对私家车开放，之后需要乘坐公园的巴士进入园区；冬季期间，公路的前3英里（约5公里）对私家车开放，且园区巴士在冬季期间<b>不运营</b>。<br>
+2，公路的1.3英里（约2公里）处是Murie Science and Learning Center，作为冬季期间的游客中心。在此可以领取有关迪纳利国家公园和保留区的信息的手册以及租借雪鞋等。<br>
+3，迪纳利国家公园和保留区内的气候多变，冬季期间短时间内气温可骤降至零下30摄氏度，需做好保暖防护。<br>
+4，园区内野生动物众多，包括可能具有危险性的棕熊。在园区内行走时，切不可随意投喂野生动物。根据园区的建议，游客应与野生动物保持至少25码的距离；与熊保持至少300码的距离。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d920806.3381067665!2d-152.43440700484936!3d63.20755486389573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56cdf3ff88d01605%3A0xc6b53b15131936a5!2z6L-q57qz5Yip5Zu95a625YWs5Zut5ZKM5L-d55WZ5Yy6!5e0!3m2!1szh-CN!2sus!4v1740530680181!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;迪纳利国家公园于1917年成立，最早的目的是保护<a href="https://en.wikipedia.org/wiki/Dall_sheep" class="custom-link-1">白大角羊 (Dall sheep)</a>。<br>
+  &bull;迪纳利国家公园最初名为麦金利国家公园，以当时的美国总统威廉·麦金利命名。1980年，美国总统吉米·卡特签署《阿拉斯加国家利益土地保护法》，将公园更名为迪纳利国家公园和保留区，"迪纳利"在<a href="https://en.wikipedia.org/wiki/Athabaskan_languages" class="custom-link-1">阿萨巴斯卡语 (Athabaskan)</a>中意为"高大的"。<br>
+  </p>
+</blockquote>
