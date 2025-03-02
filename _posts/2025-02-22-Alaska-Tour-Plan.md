@@ -260,6 +260,10 @@ $8 团体票（10人及以上）。
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1696.0230310684165!2d-147.72073922206502!3d64.84377997773737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5132454896de0959%3A0x326675f714d4934d!2sFairbanks%20Ice%20Museum!5e0!3m2!1szh-CN!2sus!4v1740527921062!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### &#9642; <span style="color: #71D7FF;">道顿公路 (Dalton Highway)</span>
+
+
+
 ## 东/西部环线
 
 ### &#9642; <span style="color: #71D7FF;">马塔努斯卡冰川 (Matanuska Glacier)</span>
@@ -324,3 +328,6 @@ $15 成人；<br>
   &bull;迪纳利国家公园最初名为麦金利国家公园，以当时的美国总统威廉·麦金利命名。1980年，美国总统吉米·卡特签署《阿拉斯加国家利益土地保护法》，将公园更名为迪纳利国家公园和保留区，"迪纳利"在<a href="https://en.wikipedia.org/wiki/Athabaskan_languages" class="custom-link-1">阿萨巴斯卡语 (Athabaskan)</a>中意为"高大的"。<br>
   </p>
 </blockquote>
+
+
+### &#9642; <span style="color: #71D7FF;">蓝冰洞 (Castner Glacier)</span>
