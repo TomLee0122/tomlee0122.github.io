@@ -26,3 +26,19 @@
     <script src="{{ script | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true });
+
+  document.addEventListener("DOMContentLoaded", function() {
+    let mermaidBlocks = document.querySelectorAll("pre code.language-mermaid");
+    mermaidBlocks.forEach((block) => {
+      let newDiv = document.createElement("div");
+      newDiv.classList.add("mermaid");
+      newDiv.innerHTML = block.textContent;
+      block.parentNode.replaceWith(newDiv);
+    });
+    mermaid.init();
+  });
+</script>
