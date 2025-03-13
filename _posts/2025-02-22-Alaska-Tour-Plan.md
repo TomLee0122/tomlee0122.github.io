@@ -335,3 +335,35 @@ $15 成人；<br>
 Test
 
 # <span style="color: #8E403A;">旅行日程</span>
+
+
+<!-- <table class="my_table_1">
+  <colgroup>
+    <col style="width: 25%">
+    <col style="width: 20%">
+    <col style="width: 10%">
+    <col style="width: 10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>姓名</th>
+      <th>数学</th>
+      <th>英语</th>
+      <th>科学</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>张三</td>
+      <td>90</td>
+      <td>80</td>
+      <td>85</td>
+    </tr>
+    <tr>
+      <td>李四</td>
+      <td>78</td>
+      <td>88</td>
+      <td>92</td>
+    </tr>
+  </tbody>
+</table> -->

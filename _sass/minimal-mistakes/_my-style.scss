@@ -25,9 +25,46 @@
 // .mermaid .node rect {
 //     width: 200px !important;
 //   }
-  
+
 //   /* 设置箭头样式 */
 //   .mermaid .edgePath path {
 //     stroke: #ff0000;  /* 设置箭头的颜色 */
 //     stroke-width: 2px;  /* 设置箭头的宽度 */
 //   }
+
+
+.my_table_1 {
+    width: 100%;
+    margin: 20px auto;
+    table-layout: auto; /* 确保表格宽度固定 */
+    border-collapse: collapse; /* 确保表格边框不会重叠 */
+    border-radius: 12px; /* 设置圆角 */
+    overflow: hidden; /* 防止内容超出圆角边框 */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影效果 */
+  }
+  
+//   .my_table_1 thead, .my_table_1 tbody, .my_table_1 tr {
+//     display: contents; /* 让表头和内容的元素继承 grid 布局 */
+//   }
+  
+  .my_table_1 th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  
+
+.my_table_1 th {
+    background-color: #f2f2f2;
+    /* 表头背景色 */
+}
+
+.my_table_1 tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+    /* 每隔一行添加背景色 */
+}
+
+.my_table_1 tbody tr:hover {
+    background-color: #f1f1f1;
+    /* 鼠标悬停时改变背景色 */
+}
