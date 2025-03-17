@@ -334,36 +334,86 @@ $15 成人；<br>
 
 Test
 
+# <span style="color: #8E403A;">旅居安排</span>
+
+## 安克雷奇
+
+<b>时间</b>：3月24日周一15:00 p.m.至3月27日周四12:00 p.m.
+
+<b>地点</b>：5436 Dorbrandt St, Anchorage, AK 99518, USA.<br>
+位于安克雷奇机场西边，市区南边。距机场驾车约7分钟，距市区驾车约15分钟。<br>
+预定码：HM3ZDRQ3RY。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8153.617402285912!2d-149.91213187851199!3d61.16905614064214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c897f3280fd361%3A0x43c93aea00066d07!2s5436%20Dorbrandt%20St%2C%20Anchorage%2C%20AK%2099518!5e0!3m2!1szh-CN!2sus!4v1742104317324!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<b>电话</b>：TBA.
+
+## 费尔班克斯
+
+<b>时间</b>：3月27日周四15:00 p.m.至3月30日周日10:00 a.m.
+
+<b>地点</b>：TBA<br>
+预定码：HMK95FPAFT。
+
+<b>电话</b>：TBA.
+
+## 坎特维尔 (Cantwell)
+
+<b>时间</b>：3月30日周日16:00 p.m.至4月1日周二11:00 a.m.
+
+<b>地点</b>：MP 133.7 Denali Highway, Cantwell, AK 99729, USA.<br>
+位于西部环线中部的坎特维尔小镇，距迪纳利国家公园入口约30分钟。<br>
+预定码：4630798190；PIN：7532.
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7148.666899919355!2d-148.90461446762234!3d63.388928799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56ccf0244c6d45e9%3A0xf6f07a82e45d2bf9!2sBackwoods%20Lodge!5e0!3m2!1szh-CN!2sus!4v1742105128429!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<b>电话</b>：+1 (907)-987-0960.
+
+<b>注</b>：此地点北部不远处有一个加油站。
+
+
 # <span style="color: #8E403A;">旅行日程</span>
 
+<div style="max-width: 75%; text-align: center; margin: 0 auto;">
+<table class="my_table_1" border="1">
+  <col style="width: 20%;">
+  <col style="width: 20%;">
+  <col style="width: 60%;">
+  <tr>
+    <th>地点</th>
+    <th>日期</th>
+    <th>行程</th>
+  </tr>
+  <tr>
+    <td rowspan="7"><b>安克雷奇</b></td> <!-- 这一列跨越 4 行 -->
+    <td rowspan="2">3月24日</td>
+    <td>计划12:55 p.m.抵达泰德-史蒂文斯安克雷奇国际机场，航班号：TBD。</td>
+  </tr>
+  <tr>
+    <td><b>下午</b>：入住、在市区超市采购物资。</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3月25日</td>
+    <td><b>上午</b>：安克雷奇历史艺术博物馆、安克雷奇火车站。</td>
+  </tr>
+  <tr>
+    <td><b>下午</b>：平顶山。</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3月26日</td>
+    <td><b>上午</b>：基奈峡湾国家公园。</td>
+  </tr>
+  <tr>
+    <td><b>下午</b>：基奈峡湾国家公园。</td>
+  </tr>
+  <tr>
+    <td>3月27日</td>
+    <td><b>上午</b>：安克雷奇动物园。</td>
+  </tr>
+</table>
 
-<!-- <table class="my_table_1">
-  <colgroup>
-    <col style="width: 25%">
-    <col style="width: 20%">
-    <col style="width: 10%">
-    <col style="width: 10%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>姓名</th>
-      <th>数学</th>
-      <th>英语</th>
-      <th>科学</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>张三</td>
-      <td>90</td>
-      <td>80</td>
-      <td>85</td>
-    </tr>
-    <tr>
-      <td>李四</td>
-      <td>78</td>
-      <td>88</td>
-      <td>92</td>
-    </tr>
-  </tbody>
-</table> -->
+</div>

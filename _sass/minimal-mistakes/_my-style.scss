@@ -37,6 +37,7 @@
     width: 100%;
     margin: 20px auto;
     table-layout: auto; /* 确保表格宽度固定 */
+    border: 1px solid #000000; /* 设置边框 */
     border-collapse: collapse; /* 确保表格边框不会重叠 */
     border-radius: 12px; /* 设置圆角 */
     overflow: hidden; /* 防止内容超出圆角边框 */
