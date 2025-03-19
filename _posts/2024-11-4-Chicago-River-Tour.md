@@ -1,7 +1,12 @@
 ---
 title: 芝加哥河之旅 (Chicago River Tour)
 excerpt: |
-  <span style="font-family: 'Lucida Handwriting';font-size:1.5em;color: #0AAD4E">The Beauty of Chicago</span>
+  <div style="maring-bottom: 1em;">
+  <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #0AAD4E">The Beauty of Chicago. Series 1.</span>
+  </div>
+  <div>
+  <img src='/assets/images/Travel/Chicago River Tour/Flag_of_Chicago,_Illinois.svg.png' alt='' style='max-width: 35%; height: auto;'>
+  </div>
 header: 
   image: "/assets/images/Travel/Chicago River Tour/2024-11-01 185249.jpg"
   caption: <a href="https://www.google.com/maps/place/%E6%B5%B7%E5%86%9B%E7%A0%81%E5%A4%B4/@41.8921836,-87.6139832,16z/data=!3m1!5s0x880e2b4ba5b33581:0x1fc721b72d7b73c4!4m10!1m2!2m1!1snavy+pier!3m6!1s0x880e2b4d91f12edb:0xd0acdb96b088a4dc!8m2!3d41.8918633!4d-87.6050944!15sCgluYXZ5IHBpZXJaCyIJbmF2eSBwaWVykgESdG91cmlzdF9hdHRyYWN0aW9u4AEA!16zL20vMGM3bG4?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D">Navy Pier</a>
@@ -12,6 +17,7 @@ classes: wide
 author_profile: true
 related: false
 read_time: false
+last_modified_at: 2025-03-19
 permalink: /blogs/travel/chicago-river-tour/
 ---
 
