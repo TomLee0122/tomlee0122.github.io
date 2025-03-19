@@ -21,6 +21,29 @@
     color: var(--color-1);
 }
 
+.custom-link-2 {
+    --main-color: #3FA4FF;
+    --color-1: orange;
+    --color-2: #8E403A;
+    --color-3: #FFD700;
+    --color-4: #FF6347;
+    --color-5: green;
+    --color-6: #95ceff;
+    color: var(--main-color);
+}
+
+.custom-link-2:visited {
+    color: black;
+}
+
+// .custom-link-1:hover {
+//     color: green;
+// }
+
+.custom-link-2:active {
+    color: black;
+}
+
 // /* 设置每个节点的宽度 */
 // .mermaid .node rect {
 //     width: 200px !important;
