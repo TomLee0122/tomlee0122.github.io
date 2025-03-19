@@ -1,17 +1,21 @@
 ---
 title: 阿拉斯加旅行指南
-excerpt: "Under construction."
-# header: 
-#   image: "/assets/images/Travel/Chicago River Tour/2024-11-01 185249.jpg"
-#   caption: <a href="https://www.google.com/maps/place/%E6%B5%B7%E5%86%9B%E7%A0%81%E5%A4%B4/@41.8921836,-87.6139832,16z/data=!3m1!5s0x880e2b4ba5b33581:0x1fc721b72d7b73c4!4m10!1m2!2m1!1snavy+pier!3m6!1s0x880e2b4d91f12edb:0xd0acdb96b088a4dc!8m2!3d41.8918633!4d-87.6050944!15sCgluYXZ5IHBpZXJaCyIJbmF2eSBwaWVykgESdG91cmlzdF9hdHRyYWN0aW9u4AEA!16zL20vMGM3bG4?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D">Navy Pier</a>
+excerpt: |
+  <div style="margin-bottom: 1em;">
+  <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #A52A2A">🌳Into the Nature from Alaska.🌳</span>
+  </div>
+  <div>
+  <img src='/assets/images/Travel/Alaska Tour Plan/Insightful-Quiz-Question-Image-13-1024x768.png' alt='' style='max-width: 35%; height: auto;'>
+  </div>
 tags:
   - Travel
 # primary_tag: Travel
 layout: single
-classes: wide
+# classes: wide
 author_profile: true
 related: false
 read_time: false
+last_modified_at: 2025-03-19
 toc: true
 toc_sticky: true
 permalink: /blogs/travel/Alaska-Tour-Plan/
@@ -31,6 +35,7 @@ permalink: /blogs/travel/Alaska-Tour-Plan/
 周日：中午12点至下午6点。<br>
 <b>注</b>：每月第一个周五延长开放时间至晚上9点，6点后免费入馆。
 
+
 <b>门票</b>：<br>
 $25 成人 (18-64岁)<br>
 $20 阿拉斯加居民 (18-64岁)<br>
@@ -45,7 +50,7 @@ $12 儿童 (6-12岁)*<br>
 网站：<a href="https://www.anchoragemuseum.org/" class="custom-link-1">安克雷奇博物馆</a>。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3842.2382601482577!2d-149.88815402208795!3d61.21623065858035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c896296ce7438d%3A0x5745ca1a5052f9af!2z5a6J5YWL6Zu35aWH5Y6G5Y-y6Im65pyv5Y2a54mp6aaG!5e0!3m2!1szh-CN!2sus!4v1740331160277!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3842.2382601482577!2d-149.88815402208795!3d61.21623065858035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c896296ce7438d%3A0x5745ca1a5052f9af!2z5a6J5YWL6Zu35aWH5Y6G5Y-y6Im65pyv5Y2a54mp6aaG!5e0!3m2!1szh-CN!2sus!4v1740331160277!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">安克雷奇动物园 (Alaska Zoo)</span>
@@ -73,7 +78,7 @@ $12 青少年（3-15岁）；<br>
 网站：<a href="https://www.alaskazoo.org/" class="custom-link-1">安克雷奇动物园</a>。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33597.944913313804!2d-149.84574440772968!3d61.14293558317947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c89a04f821661f%3A0xa18c6267f53e05ea!2z6Zi_5ouJ5pav5Yqg5Yqo54mp5Zut!5e0!3m2!1szh-CN!2sus!4v1740332795133!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33597.944913313804!2d-149.84574440772968!3d61.14293558317947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c89a04f821661f%3A0xa18c6267f53e05ea!2z6Zi_5ouJ5pav5Yqg5Yqo54mp5Zut!5e0!3m2!1szh-CN!2sus!4v1740332795133!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">安克雷奇植物园 (Alaska Botanical Garden)</span>
@@ -105,7 +110,7 @@ $12 青少年（3-15岁）；<br>
 网站：<a href="https://alaskabg.org/" class="custom-link-1">安克雷奇植物园</a>。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61532.7727912549!2d-149.87592607010507!3d61.18706100081363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c896d7e53505fb%3A0x52486d0012981808!2sAlaska%20Botanical%20Garden!5e0!3m2!1szh-CN!2sus!4v1740334675962!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61532.7727912549!2d-149.87592607010507!3d61.18706100081363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c896d7e53505fb%3A0x52486d0012981808!2sAlaska%20Botanical%20Garden!5e0!3m2!1szh-CN!2sus!4v1740334675962!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">地震公园 (Earthquake Park)</span>
@@ -123,7 +128,7 @@ $12 青少年（3-15岁）；<br>
 网站：无官方网站。相关信息可参阅<a href="https://www.alaska.org/detail/earthquake-park" class="custom-link-1">alaska.org</a>与<a href="https://www.anchorage.net/outdoors/trails-and-local-parks/earthquake-park/" class="custom-link-1">Visit Alaska</a>。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5437.547397575755!2d-149.97018095679482!3d61.19420383146667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c8bd40a230606f%3A0x978a1d820daedc47!2sEarthquake%20Park!5e0!3m2!1szh-CN!2sus!4v1740365635384!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5437.547397575755!2d-149.97018095679482!3d61.19420383146667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c8bd40a230606f%3A0x978a1d820daedc47!2sEarthquake%20Park!5e0!3m2!1szh-CN!2sus!4v1740365635384!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">平顶山 (Flattop Mountain)</span>
@@ -145,7 +150,7 @@ $12 青少年（3-15岁）；<br>
 3，若时间较为宽裕，可前往更远端的Williwaw Lakes或Wolverine Peak。<span style="color: red;">此段路程约9公里</span>，耗时约4个小时。若选择此路线，需作好充足准备。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23095.293787491!2d-149.67313111387966!3d61.12339613370837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c89a9f0e760871%3A0x41551d96dba29326!2sGlen%20Alps%20%2F%20Flattop%20Trailhead!5e0!3m2!1szh-CN!2sus!4v1740368291785!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23095.293787491!2d-149.67313111387966!3d61.12339613370837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c89a9f0e760871%3A0x41551d96dba29326!2sGlen%20Alps%20%2F%20Flattop%20Trailhead!5e0!3m2!1szh-CN!2sus!4v1740368291785!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">基奈峡湾国家公园 (Kenai Fjords National Park)</span>
@@ -162,10 +167,10 @@ $12 青少年（3-15岁）；<br>
 电话：+1 +19074220500；<br>
 网站：<a href="https://www.nps.gov/kefj/index.htm" class="custom-link-1">基奈峡湾国家公园</a>。
 
-<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>：冬季期间，基奈峡湾国家公园的绝大部分道路与游客中心都会关闭，步行进入基奈湾峡国家公园需要穿越约13公里的无人区域。</b>
+<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>：冬季期间，基奈峡湾国家公园的绝大部分道路与游客中心都会关闭，步行进入基奈湾峡国家公园需要穿越约13公里的无人区域。
 
 <div style="text-align: center;margin-bottom: 1em;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53848.20681929178!2d-149.8610556119419!3d59.89652693709974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c79c630608aa09%3A0x12143ced272edc64!2sKenai%20Fjords%20National%20Park!5e0!3m2!1szh-CN!2sus!4v1740369602989!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d513298.5828353113!2d-150.7192206509931!3d59.83132566621694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c79c630608aa09%3A0x12143ced272edc64!2sKenai%20Fjords%20National%20Park!5e0!3m2!1szh-CN!2sus!4v1742421725258!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <b>另选</b>：更为安全、便捷的游览基奈峡湾国家公园的方式是乘坐基奈峡湾国家公园的游船。基奈峡湾国家公园有两家游船公司 - <a href="https://www.alaskacollection.com/day-tours/kenai-fjords-tours/" class="custom-link-1">Kenai Fjords Tours</a> 与 <a href="https://majormarine.com/" class="custom-link-1">Major Marine Tours</a>。鉴于我们前往阿拉斯加的时间，彼时两家游船公司皆只有一条线路开放：<a href="https://www.alaskacollection.com/day-tours/kenai-fjords-tours/spring-resurrection-bay-tour/" class="custom-link-1">Spring Resurrection Bay Tour</a>与<a href="https://majormarine.com/tour/spring-wildlife-cruise/" class="custom-link-1">Spring Wildlife Cruise</a>。
@@ -208,7 +213,7 @@ $14 团体票（8人及以上）<br>
 网站：<a href="https://www.uaf.edu/museum/" class="custom-link-1">北方极地博物馆</a>。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1695.096127827871!2d-147.84489632206424!3d64.85848467774692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51325b4b7cbbc601%3A0xa5b80d8047b26e59!2sUniversity%20of%20Alaska%20Museum%20of%20the%20North!5e0!3m2!1szh-CN!2sus!4v1740525992604!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1695.096127827871!2d-147.84489632206424!3d64.85848467774692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51325b4b7cbbc601%3A0xa5b80d8047b26e59!2sUniversity%20of%20Alaska%20Museum%20of%20the%20North!5e0!3m2!1szh-CN!2sus!4v1740525992604!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">圣诞老人之家 (Santa Clause House)</span>
@@ -230,7 +235,7 @@ Where it's Christmas Every Day! 来自北极的浓郁圣诞风情。圣诞老人
 网站：<a href="https://www.santaclaushouse.com/" class="custom-link-1">圣诞老人之家</a>。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1701.6232441422499!2d-147.34571472206974!3d64.75489857768018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51324d4f91f3e801%3A0x2840219de72fedd1!2sSanta%20Clause%20House!5e0!3m2!1szh-CN!2sus!4v1740526861204!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1701.6232441422499!2d-147.34571472206974!3d64.75489857768018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51324d4f91f3e801%3A0x2840219de72fedd1!2sSanta%20Clause%20House!5e0!3m2!1szh-CN!2sus!4v1740526861204!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">费尔班克斯冰雕博物馆 (Fairbanks Ice Museum)</span>
@@ -257,12 +262,48 @@ $8 团体票（10人及以上）。
 网站：<a href="http://icemuseum.com/" class="custom-link-1">费尔班克斯冰雕博物馆</a>。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1696.0230310684165!2d-147.72073922206502!3d64.84377997773737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5132454896de0959%3A0x326675f714d4934d!2sFairbanks%20Ice%20Museum!5e0!3m2!1szh-CN!2sus!4v1740527921062!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1696.0230310684165!2d-147.72073922206502!3d64.84377997773737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5132454896de0959%3A0x326675f714d4934d!2sFairbanks%20Ice%20Museum!5e0!3m2!1szh-CN!2sus!4v1740527921062!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+### &#9642; <span style="color: #71D7FF;">驯鹿农场 (Running Reindeer Ranch)</span>
+
+体验与驯鹿亲密接触的机会，了解这种神奇动物的生活习性。费尔班克斯拥有当地唯一一家能和驯鹿一起散步的农场，可以牵着小鹿合影，结束后还能买掉落的鹿角做成的礼物。
+
+<b>开放时间</b>：<br>
+每日有两个时段：10:30 a.m.与2:00 p.m.
+
+<b>门票</b>：<br>
+$120 成人；<br>
+$110 儿童（3-11岁）；<br>
+免费 婴儿（0-2岁）。
+
+<b>预计游览时间</b>：2-2.5小时。
+
+地址：Running Reindeer Ranch, 1470 Ivans Alley Fairbanks, AK 99709；<br>
+电话：+1 907-455-4998；<br>
+网站：<a href="https://runningreindeer.com/" class="custom-link-1">驯鹿农场</a>。
+
+<div style="text-align: center;margin-bottom: 1em;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11597.123203659154!2d-147.9662025201953!3d64.92268877396091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x513242e0aabda225%3A0xb1bc629fac568ccd!2sRunning%20Reindeer%20Ranch!5e0!3m2!1szh-CN!2sus!4v1742410669434!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<b>注</b>：需要提前预约，参观人数限制为4-22人。
+
 
 ### &#9642; <span style="color: #71D7FF;">道顿公路 (Dalton Highway)</span>
 
+通往北极的勇敢者之路！道顿公路全程666公里，始于费尔班克斯，止于北冰洋旁的戴德霍斯 (Deadhorse)。道顿公路于1974为了建设阿拉斯加输油管道而修建，全程为未铺装公路，是美国最偏远、最艰险的公路之一。道顿公路沿途风景壮丽，穿越了北极圈、阿拉斯加山脉、北极苔原等地。著名的北极圈标志碑位于道顿公路185公里处。
 
+<b>预计驾车时间（全程）</b>：11小时。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3134682.872143431!2d-154.47097096486678!3d67.44139560201793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x5132454f67fd65a9%3A0xb3d805e009fef73a!2z6Zi_5ouJ5pav5Yqg5bee6LS55bCU54-t5YWL5pav!3m2!1d64.8400511!2d-147.7199757!4m5!1s0x512077009926947f%3A0x1d228d1ae7281c59!2zRGVhZGhvcnNlLCDmma7mi4nlvrfpnI3mub7pmL_mi4nmlq_liqDlt54!3m2!1d70.20019959999999!2d-148.4597191!5e0!3m2!1szh-CN!2sus!4v1742411479515!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>
+1，道顿公路全程为未铺装公路，路况较差，大部分阿拉斯加地区的租车公司不允许租户驾车驶入道顿公路。如需自驾，需要在费尔班克斯寻找合适的当地租车公司，例如<a href="https://www.alaska4x4rentals.com/" class="custom-link-1">Alaska 4X4 Rentals</a>, <a href="https://www.alaskaoverlander.com/" class="custom-link-1">Alaska Overlander</a>, <a href="https://alaskaautorental.com/" class="custom-link-1">Alaska Auto Rental</a>；<br>
+2，道顿公路沿途大部分地区无信号，需提前准备好离线地图以免迷路；<br>
+3，道顿公路沿途大部分地区为无人区，务必准备好充足的食物与饮水。<br>
 
 ## 东/西部环线
 
@@ -290,7 +331,7 @@ $60 阿拉斯加居民的亲朋好友（参观时需由本地居民陪同）。
 网站：<a href="https://glacier-tours.com/matanuska-glacier-tours-in-winter/" class="custom-link-1">马塔努斯卡冰川</a>。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d308162.5264142786!2d-147.86816363739572!3d61.64282911431455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c995194c250291%3A0xdc683d977b34deb!2z6ams5aGU5Yqq5pav5Y2h5Yaw5bed!5e0!3m2!1szh-CN!2sus!4v1740418896536!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d308162.5264142786!2d-147.86816363739572!3d61.64282911431455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c995194c250291%3A0xdc683d977b34deb!2z6ams5aGU5Yqq5pav5Y2h5Yaw5bed!5e0!3m2!1szh-CN!2sus!4v1740418896536!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">迪纳利国家公园和保留区 (Denali National Park and Preserve)</span>
@@ -316,7 +357,7 @@ $15 成人；<br>
 4，园区内野生动物众多，包括可能具有危险性的棕熊。在园区内行走时，切不可随意投喂野生动物。根据园区的建议，游客应与野生动物保持至少25码的距离；与熊保持至少300码的距离。
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d920806.3381067665!2d-152.43440700484936!3d63.20755486389573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56cdf3ff88d01605%3A0xc6b53b15131936a5!2z6L-q57qz5Yip5Zu95a625YWs5Zut5ZKM5L-d55WZ5Yy6!5e0!3m2!1szh-CN!2sus!4v1740530680181!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d920806.3381067665!2d-152.43440700484936!3d63.20755486389573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56cdf3ff88d01605%3A0xc6b53b15131936a5!2z6L-q57qz5Yip5Zu95a625YWs5Zut5ZKM5L-d55WZ5Yy6!5e0!3m2!1szh-CN!2sus!4v1740530680181!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <blockquote>
@@ -332,7 +373,19 @@ $15 成人；<br>
 
 ### &#9642; <span style="color: #71D7FF;">蓝冰洞 (Castner Glacier)</span>
 
-Test
+蓝冰洞位于东部环线距安克雷奇约450公里处。是由冰川活动形成的神奇而美丽的自然景观。
+
+<b>开放时间</b>：全天开放。
+
+<b>门票</b>：免费。（若报名旅游团则费用视团而定。）
+
+<b>预计游览时间</b>：1-2小时。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57124.74263626545!2d-145.70429000649236!3d63.42134559852884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5134d7fb8f39111f%3A0x76521bb41deabe99!2sCastner%20Glacier!5e0!3m2!1szh-CN!2sus!4v1742414291534!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<b>注</b>：据称近年由于自然侵蚀与氧化，蓝冰洞有部分坍塌，颜色也在变得暗淡。
 
 # <span style="color: #8E403A;">旅居安排</span>
 
@@ -342,10 +395,10 @@ Test
 
 <b>地点</b>：5436 Dorbrandt St, Anchorage, AK 99518, USA.<br>
 位于安克雷奇机场西边，市区南边。距机场驾车约7分钟，距市区驾车约15分钟。<br>
-预定码：HM3ZDRQ3RY。
+<!-- 预定码：HM3ZDRQ3RY。 -->
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8153.617402285912!2d-149.91213187851199!3d61.16905614064214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c897f3280fd361%3A0x43c93aea00066d07!2s5436%20Dorbrandt%20St%2C%20Anchorage%2C%20AK%2099518!5e0!3m2!1szh-CN!2sus!4v1742104317324!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8153.617402285912!2d-149.91213187851199!3d61.16905614064214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c897f3280fd361%3A0x43c93aea00066d07!2s5436%20Dorbrandt%20St%2C%20Anchorage%2C%20AK%2099518!5e0!3m2!1szh-CN!2sus!4v1742104317324!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <b>电话</b>：TBA.
@@ -354,8 +407,13 @@ Test
 
 <b>时间</b>：3月27日周四15:00 p.m.至3月30日周日10:00 a.m.
 
-<b>地点</b>：TBA<br>
-预定码：HMK95FPAFT。
+<b>地点</b>：620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA<br>
+位于费尔班克斯西北郊，距机场驾车约15分钟。<br>
+<!-- 预定码：HMK95FPAFT。 -->
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5641.06299669955!2d-147.80555140590104!3d64.88663136375632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5132449177287135%3A0xbffbbde79e696125!2s620%20Eton%20Blvd%2C%20Fairbanks%2C%20AK%2099709!5e0!3m2!1szh-CN!2sus!4v1742408511391!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 <b>电话</b>：TBA.
 
@@ -364,11 +422,11 @@ Test
 <b>时间</b>：3月30日周日16:00 p.m.至4月1日周二11:00 a.m.
 
 <b>地点</b>：MP 133.7 Denali Highway, Cantwell, AK 99729, USA.<br>
-位于西部环线中部的坎特维尔小镇，距迪纳利国家公园入口约30分钟。<br>
-预定码：4630798190；PIN：7532.
+位于西部环线中部的坎特维尔小镇，距迪纳利国家公园入口驾车约30分钟。<br>
+<!-- 预定码：4630798190；PIN：7532. -->
 
 <div style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7148.666899919355!2d-148.90461446762234!3d63.388928799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56ccf0244c6d45e9%3A0xf6f07a82e45d2bf9!2sBackwoods%20Lodge!5e0!3m2!1szh-CN!2sus!4v1742105128429!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7148.666899919355!2d-148.90461446762234!3d63.388928799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56ccf0244c6d45e9%3A0xf6f07a82e45d2bf9!2sBackwoods%20Lodge!5e0!3m2!1szh-CN!2sus!4v1742105128429!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <b>电话</b>：+1 (907)-987-0960.
@@ -378,7 +436,9 @@ Test
 
 # <span style="color: #8E403A;">旅行日程</span>
 
-<div style="max-width: 75%; text-align: center; margin: 0 auto;">
+## 安克雷奇
+
+<div style="max-width: 75%; text-align: center; margin: 0 auto;margin-bottom: 2em">
 <table class="my_table_1" border="1">
   <col style="width: 20%;">
   <col style="width: 20%;">
@@ -389,31 +449,116 @@ Test
     <th>行程</th>
   </tr>
   <tr>
-    <td rowspan="7"><b>安克雷奇</b></td> <!-- 这一列跨越 4 行 -->
+    <td rowspan="8"><b>安克雷奇</b></td>
     <td rowspan="2">3月24日</td>
-    <td>计划12:55 p.m.抵达泰德-史蒂文斯安克雷奇国际机场，航班号：TBD。</td>
+    <td>预计12:55 p.m.抵达泰德-史蒂文斯安克雷奇国际机场，航班号：TBD.</td>
   </tr>
   <tr>
     <td><b>下午</b>：入住、在市区超市采购物资。</td>
   </tr>
   <tr>
     <td rowspan="2">3月25日</td>
-    <td><b>上午</b>：安克雷奇历史艺术博物馆、安克雷奇火车站。</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%AE%89%E5%85%8B%E9%9B%B7%E5%A5%87%E5%8E%86%E5%8F%B2%E8%89%BA%E6%9C%AF%E5%8D%9A%E7%89%A9%E9%A6%86-anchorage-museum" class="custom-link-2">安克雷奇历史艺术博物馆</a>、安克雷奇火车站。</td>
   </tr>
   <tr>
-    <td><b>下午</b>：平顶山。</td>
+    <td><b>下午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%B9%B3%E9%A1%B6%E5%B1%B1-flattop-mountain" class="custom-link-2">平顶山</a>。</td>
   </tr>
   <tr>
     <td rowspan="2">3月26日</td>
-    <td><b>上午</b>：基奈峡湾国家公园。</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%9F%BA%E5%A5%88%E5%B3%A1%E6%B9%BE%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD-kenai-fjords-national-park" class="custom-link-2">基奈峡湾国家公园</a>。</td>
   </tr>
   <tr>
-    <td><b>下午</b>：基奈峡湾国家公园。</td>
+    <td><b>下午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%9F%BA%E5%A5%88%E5%B3%A1%E6%B9%BE%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD-kenai-fjords-national-park" class="custom-link-2">基奈峡湾国家公园</a>。</td>
   </tr>
   <tr>
-    <td>3月27日</td>
-    <td><b>上午</b>：安克雷奇动物园。</td>
+    <td rowspan="2">3月27日</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%AE%89%E5%85%8B%E9%9B%B7%E5%A5%87%E5%8A%A8%E7%89%A9%E5%9B%AD-alaska-zoo" class="custom-link-2">安克雷奇动物园</a>、从安克雷奇退房，前往<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%A9%AC%E5%A1%94%E5%8A%AA%E6%96%AF%E5%8D%A1%E5%86%B0%E5%B7%9D-matanuska-glacier" class="custom-link-2">马塔努斯卡冰川</a>。</td>
+  </tr>
+  <tr>
+    <td><b>下午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%A9%AC%E5%A1%94%E5%8A%AA%E6%96%AF%E5%8D%A1%E5%86%B0%E5%B7%9D-matanuska-glacier" class="custom-link-2">马塔努斯卡冰川</a>（<b>建议在12:30 p.m.前到达冰川，须在1:30 p.m.之前到达冰川</b>）。</td>
   </tr>
 </table>
-
 </div>
+
+## 费尔班克斯
+
+<div style="max-width: 75%; text-align: center; margin: 0 auto;margin-bottom: 2em;">
+<table class="my_table_1" border="1">
+  <col style="width: 20%;">
+  <col style="width: 20%;">
+  <col style="width: 15%;">
+  <col style="width: 45%;">
+  <tr>
+    <th>地点</th>
+    <th>日期</th>
+    <th colspan="2">行程</th>
+  </tr>
+  <tr>
+    <td rowspan="8"><b>费尔班克斯</b></td>
+    <td>3月27日</td>
+    <td colspan="2">计划8:00 p.m.抵达居住地点。</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3月28日</td>
+    <td colspan="2"><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%8C%97%E6%96%B9%E6%9E%81%E5%9C%B0%E5%8D%9A%E7%89%A9%E9%A6%86-university-of-alaska-museum-of-the-north" class="custom-link-2">北方极地博物馆</a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>下午</b>：狗拉雪橇、<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%9C%A3%E8%AF%9E%E8%80%81%E4%BA%BA%E4%B9%8B%E5%AE%B6-santa-clause-house" class="custom-link-2">圣诞老人之家</a>。</td>
+  </tr>
+  <tr>
+    <td rowspan="4">3月29日</td>
+    <td rowspan="2"><b>Option 1</b></td>
+    <td><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%A9%AF%E9%B9%BF%E5%86%9C%E5%9C%BA-running-reindeer-ranch" class="custom-link-2">驯鹿农场</a>。</td>
+  </tr>
+  <tr>
+    <td><b>下午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%81%93%E9%A1%BF%E5%85%AC%E8%B7%AF-dalton-highway" class="custom-link-2">道顿公路</a>（至北极圈标志碑处）。</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><b>Option 2</b></td>
+    <td><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%81%93%E9%A1%BF%E5%85%AC%E8%B7%AF-dalton-highway" class="custom-link-2">道顿公路</a>。</td>
+  </tr>
+  <tr>
+    <td><b>下午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%81%93%E9%A1%BF%E5%85%AC%E8%B7%AF-dalton-highway" class="custom-link-2">道顿公路</a>。</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3月30日</td>
+    <td colspan="2"><b>上午</b>：从费尔班克斯退房，<b>午饭后</b>前往<a href="/blogs/travel/Alaska-Tour-Plan/#-%E8%BF%AA%E7%BA%B3%E5%88%A9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E5%92%8C%E4%BF%9D%E7%95%99%E5%8C%BA-denali-national-park-and-preserve" class="custom-link-2">迪纳利国家公园与保留区</a>。</td>
+  </tr>
+</table>
+</div>
+
+## 坎特维尔
+
+<div style="max-width: 75%; text-align: center; margin: 0 auto;margin-bottom: 2em">
+<table class="my_table_1" border="1">
+  <col style="width: 20%;">
+  <col style="width: 20%;">
+  <col style="width: 60%;">
+  <tr>
+    <th>地点</th>
+    <th>日期</th>
+    <th>行程</th>
+  </tr>
+  <tr>
+    <td rowspan="8"><b>迪纳利国家公园与保留区及周边</b></td>
+    <td>3月30日</td>
+    <td>计划4:00 p.m.抵达居住地点。预前往迪纳利国家公园与保留区了解信息。</td>
+  </tr>
+  <tr>
+    <td rowspan="2">3月31日</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E8%BF%AA%E7%BA%B3%E5%88%A9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E5%92%8C%E4%BF%9D%E7%95%99%E5%8C%BA-denali-national-park-and-preserve" class="custom-link-2">迪纳利国家公园与保留区</a>。</td>
+  </tr>
+  <tr>
+    <td><b>下午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E8%BF%AA%E7%BA%B3%E5%88%A9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E5%92%8C%E4%BF%9D%E7%95%99%E5%8C%BA-denali-national-park-and-preserve" class="custom-link-2">迪纳利国家公园与保留区</a>。</td>
+  </tr>
+  <tr>
+    <td rowspan="2">4月1日</td>
+    <td><b>上午</b>：从坎特韦尔退房，返回安克雷奇并还车。</td>
+  </tr>
+  <tr>
+    <td><b>下午</b>：在机场寄存行李、<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%9C%B0%E9%9C%87%E5%85%AC%E5%9B%AD-earthquake-park" class="custom-link-2">地震公园</a>。预计返程航班起飞时间：8:30 p.m. 航班号：TBD.</td>
+  </tr>
+</table>
+</div>
+
+# <span style="color: #8E403A;">附录I：主要行动路线</span>
