@@ -15,7 +15,7 @@ layout: single
 author_profile: true
 related: false
 read_time: false
-last_modified_at: 2025-03-19
+last_modified_at: 2025-03-24
 toc: true
 toc_sticky: true
 permalink: /blogs/travel/Alaska-Tour-Plan/
@@ -292,7 +292,7 @@ $110 儿童（3-11岁）；<br>
 
 ### &#9642; <span style="color: #71D7FF;">道顿公路 (Dalton Highway)</span>
 
-通往北极的勇敢者之路！道顿公路全程666公里，始于费尔班克斯，止于北冰洋旁的戴德霍斯 (Deadhorse)。道顿公路于1974为了建设阿拉斯加输油管道而修建，全程为未铺装公路，是美国最偏远、最艰险的公路之一。道顿公路沿途风景壮丽，穿越了北极圈、阿拉斯加山脉、北极苔原等地。著名的北极圈标志碑位于道顿公路185公里处。
+通往北极的勇敢者之路！道顿公路全程666公里，始于费尔班克斯，止于北冰洋旁的戴德霍斯 (Deadhorse)。道顿公路于1974为了建设阿拉斯加输油管道而修建，全程为未铺装公路，是美国最偏远、最艰险的公路之一。道顿公路沿途风景壮丽，穿越了北极圈、阿拉斯加山脉、北极苔原等地。著名的北极圈标志碑位于道顿公路185公里处（位于coldfoot附近）。
 
 <b>预计驾车时间（全程）</b>：11小时。
 
@@ -438,7 +438,7 @@ $15 成人；<br>
 
 ## 安克雷奇
 
-<div style="max-width: 75%; text-align: center; margin: 0 auto;margin-bottom: 2em">
+<div style="max-width: 80%; text-align: center; margin: 0 auto;margin-bottom: 2em">
 <table class="my_table_1" border="1">
   <col style="width: 20%;">
   <col style="width: 20%;">
@@ -482,7 +482,7 @@ $15 成人；<br>
 
 ## 费尔班克斯
 
-<div style="max-width: 75%; text-align: center; margin: 0 auto;margin-bottom: 2em;">
+<div style="max-width: 80%; text-align: center; margin: 0 auto;margin-bottom: 2em;">
 <table class="my_table_1" border="1">
   <col style="width: 20%;">
   <col style="width: 20%;">
@@ -529,7 +529,7 @@ $15 成人；<br>
 
 ## 坎特维尔
 
-<div style="max-width: 75%; text-align: center; margin: 0 auto;margin-bottom: 2em">
+<div style="max-width: 80%; text-align: center; margin: 0 auto;margin-bottom: 2em">
 <table class="my_table_1" border="1">
   <col style="width: 20%;">
   <col style="width: 20%;">
@@ -562,3 +562,33 @@ $15 成人；<br>
 </div>
 
 # <span style="color: #8E403A;">附录I：主要行动路线</span>
+
+## 安克雷奇 &rarr; 马卡努斯塔冰川 &rarr; 费尔班克斯
+
+从位于安克雷奇的居住点 (5436 Dorbrandt St, Anchorage, AK 99518, USA) 出发，途径马卡努斯卡冰川，到达位于费尔班克斯的居住点 (620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA)。全程700公里，预计总共驾车时间约8小时。
+
+<b>时间</b>：3月27日周四，10:00 a.m.出发前往马塔努斯卡冰川，预计12:30 p.m.到达马塔努斯卡冰川；3:30 p.m.从马塔努斯卡冰川出发，预计8:30 p.m.到达位于费尔班克斯的居住点。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d1854517.5392249702!2d-150.26152414411115!3d63.00463082883928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x56c897f3280fd361%3A0x43c93aea00066d07!2zNTQzNiBEb3JicmFuZHQgU3RyZWV0LCDlronlhYvpm7flpYfpmL_mi4nmlq_liqDlt54!3m2!1d61.170902299999995!2d-149.9046649!4m5!1s0x56c9866575a583ff%3A0x9d70f06c96042a06!2z5Yaw5bed5pmvIOmYv-aLieaWr-WKoOW3numCruaUv-e8lueggTogOTk2NzQ!3m2!1d61.799166299999996!2d-147.6097871!4m5!1s0x5132449177287135%3A0xbffbbde79e696125!2zNjIwIEV0b24gQmx2ZCwg6LS55bCU54-t5YWL5pav6Zi_5ouJ5pav5Yqg5bee!3m2!1d64.8874625!2d-147.7987551!5e0!3m2!1szh-CN!2sus!4v1742872177278!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## 费尔班克斯 &rarr; 道顿公路 &rarr; 费尔班克斯
+
+按照Option 1的情况（即只到达道顿公路的北极圈标志处），从位于费尔班克斯的居住点 (620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA) 出发，到达道顿公路的北极圈标志处，再原路返回。<span style="color: red;">全程约620公里，驾车时间约9小时</span>。
+
+<b>时间</b>：3月29日周六，预计1:30 p.m.出发，6:00 p.m.到达北极圈标志处，10:30 p.m.返回费尔班克斯。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d840412.8581625723!2d-150.5200266665976!3d65.70687221021144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x5132449177287135%3A0xbffbbde79e696125!2s620%20Eton%20Blvd%2C%20Fairbanks%2C%20AK%2099709!3m2!1d64.8874625!2d-147.7987551!4m5!1s0x512949c9e49853ab%3A0x518721fb57ab89ce!2zQXJjdGljIENpcmNsZSBTaWduLCDpmL_mi4nmlq_liqDlt54!3m2!1d66.5558324!2d-150.81111719999998!5e0!3m2!1szh-CN!2sus!4v1742875062703!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## 费尔班克斯 &rarr; 坎特维尔、迪纳利国家公园与保留区 &rarr; 安克雷奇
+
+从位于费尔班克斯的居住点 (620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA) 出发，在坎特维尔停留并游玩迪纳利国家公园与保留区，最后返回安克雷奇。全程约580公里，驾车时间约6小时30分钟。
+
+<b>时间</b>：3月30日10:00 a.m.从位于费尔班克斯的居住点出发，预计12:30 p.m.到达坎特维尔；4月1日7:30 a.m.从坎特维尔出发，预计11:40 a.m.到达泰德-史蒂文斯安克雷奇国际机场（1:00 p.m.前需要完成还车手续）。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d1854467.1382928945!2d-151.67446041249397!3d63.00542407471897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x5132449177287135%3A0xbffbbde79e696125!2s620%20Eton%20Blvd%2C%20Fairbanks%2C%20AK%2099709!3m2!1d64.8874625!2d-147.7987551!4m5!1s0x56ccdf5119bf48fb%3A0x7cdaaedf368f0f46!2zRGVuYWxpIFBhcmssIOmYv-aLieaWr-WKoOW3ng!3m2!1d63.6546041!2d-148.8339521!4m5!1s0x56c8a2b56b971a11%3A0x96b75a34a7bd6faf!2z6Zi_5ouJ5pav5Yqg5bee5a6J5YWL6Zu35aWHIFdlc3QgSW50ZXJuYXRpb25hbCBBaXJwb3J0IFJvYWQsIOazsOW-t8K35Y-y6JKC5paH5pav5a6J5YWL6Zu35aWH5Zu96ZmF5py65Zy6!3m2!1d61.1769173!2d-149.9905923!5e0!3m2!1szh-CN!2sus!4v1742876172467!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
