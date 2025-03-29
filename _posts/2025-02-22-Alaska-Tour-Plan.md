@@ -15,7 +15,7 @@ layout: single
 author_profile: true
 related: false
 read_time: false
-last_modified_at: 2025-03-24
+last_modified_at: 2025-03-29
 toc: true
 toc_sticky: true
 permalink: /blogs/travel/Alaska-Tour-Plan/
@@ -87,7 +87,7 @@ $12 青少年（3-15岁）；<br>
 
 <b>开放时间（白天）</b>：<br>
 周一至周四：需要预约；<br>
-周五至周六：中午12点至下午4点；<br>
+周五至周六：12:00 p.m.至4:00 p.m.；<br>
 周日：闭馆。
 
 <b>注</b>：<br>
@@ -97,9 +97,9 @@ $12 青少年（3-15岁）；<br>
 <b>门票</b>：$5，6岁以下儿童以及植物园会员免费。
 
 <b>开放时间（冬季夜晚）</b>：<br>
-周五至周六：下午5点至晚上8点<br>
+周五至周六：5:00 p.m.至8:00 p.m.<br>
 
-<b>注</b>：周五与周六最后入园时间为晚上7点30分。
+<b>注</b>：周五与周六最后入园时间为7:30 p.m.
 
 <b>门票</b>：$10（非会员），$6（会员），6岁及以下儿童免费。
 
@@ -192,10 +192,10 @@ $12 青少年（3-15岁）；<br>
 
 <b>开放时间</b>：<br>
 <b>冬季时间（9月16日至5月14日）</b>：<br>
-周一至周日：上午9点至下午5点30分。<br>
+周一至周日：9:00 a.m.至5:30 p.m.<br>
 
 <b>夏季时间（5月15日至9月15日）</b>：<br>
-周一至周日：上午9点至晚上7点；<br>
+周一至周日：9:00 a.m.至7:00 p.m.<br>
 
 <b>注</b>：入馆通道将于闭馆时间前30分钟关闭。开放时间可能会有所调整。
 
@@ -216,11 +216,33 @@ $14 团体票（8人及以上）<br>
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1695.096127827871!2d-147.84489632206424!3d64.85848467774692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51325b4b7cbbc601%3A0xa5b80d8047b26e59!2sUniversity%20of%20Alaska%20Museum%20of%20the%20North!5e0!3m2!1szh-CN!2sus!4v1740525992604!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### &#9642; <span style="color: #71D7FF;">莫里斯汤普森文化中心 (Morris Thompson Cultural & Visitors Center)</span>
+
+莫里斯汤普森文化中心位于费尔班克斯的市区北部，是一个集游客信息、文化展示和社区活动于一体的综合中心。
+
+<b>开放时间</b>：<br>
+<b>1月2日-5月26日</b>：
+每日8:00 a.m.至5:00 p.m.<br>
+<b>5月27日-9月3日</b>：
+每日8:00 a.m.至6:00 p.m.<br>
+<b>9月4日-12月31日</b>：
+每日8:00 a.m.至5:00 p.m.<br>
+
+<b>门票</b>：免费。
+
+地址：101 Dunkel Street Fairbanks, AK 99701；<br>
+电话：907-459-3700；<br>
+网站：<a href="https://morristhompsoncenter.org/" class="custom-link-1">莫里斯汤普森文化中心</a>。
+
+<div style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1695.8829188700684!2d-147.7152991223059!3d64.84600287773888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51324546449ef7d5%3A0x44f893ec9eff50bf!2sMorris%20Thompson%20Cultural%20%26%20Visitors%20Center!5e0!3m2!1szh-CN!2sus!4v1743235844642!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### &#9642; <span style="color: #71D7FF;">圣诞老人之家 (Santa Clause House)</span>
 Where it's Christmas Every Day! 来自北极的浓郁圣诞风情。圣诞老人之家位于费尔班克斯市区东南角的北极 (North Pole)。这里更像是一个巨大的圣诞小镇与纪念品商店，有各种各样的圣诞装饰品、礼物、以及来自阿拉斯加的手工艺品。在这儿还可以寄出圣诞老人的明信片！
 
 <b>开放时间</b>：<br>
-除以下节假日外，周一至周日：早上10点至下午6点。<br>
+除以下节假日外，周一至周日：10:00 a.m.至6:00 p.m.<br>
 1月1日、2日；<br>
 复活节周日（4月20日）；<br>
 感恩节（11月27日）；<br>
@@ -243,7 +265,7 @@ Where it's Christmas Every Day! 来自北极的浓郁圣诞风情。圣诞老人
 费尔班克斯冰雕博物馆位于费尔班克斯市区中心。冰雕博物馆内有各种各样的冰雕作品。
 
 <b>开放时间</b>：<br>
-周一至周日：上午10点至下午8点。
+周一至周日：10:00 a.m.至8:00 p.m.
 
 <b>门票</b>：<br>
 $15 成人；<br>
@@ -317,9 +339,9 @@ $110 儿童（3-11岁）；<br>
 
 <b>预计游览时间</b>：2小时。
 
-<b>注</b>：虽然马塔努斯卡冰川本身并不收费，但是我们大概率需要向导带领我们进行冰川徒步。
+<b>注</b>：虽然马塔努斯卡冰川本身并不收费，但是我们需要向导带领我们进行冰川徒步。
 
-<b>出发时间</b>：可从上午10点、上午11点、下午1点、下午2点中选择。
+<b>出发时间</b>：可从10:00 a.m.、11:00 a.m.、1:00 p.m.、2:00 p.m.中选择。
 
 <b>费用</b>：<br>
 $150 成人；<br>
@@ -451,7 +473,7 @@ $15 成人；<br>
   <tr>
     <td rowspan="8"><b>安克雷奇</b></td>
     <td rowspan="2">3月24日</td>
-    <td>预计12:55 p.m.抵达泰德-史蒂文斯安克雷奇国际机场，航班号：TBD.</td>
+    <td>预计12:55 p.m.抵达泰德-史蒂文斯安克雷奇国际机场，航班号：123.</td>
   </tr>
   <tr>
     <td><b>下午</b>：入住、在市区超市采购物资。</td>
@@ -472,7 +494,7 @@ $15 成人；<br>
   </tr>
   <tr>
     <td rowspan="2">3月27日</td>
-    <td><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%AE%89%E5%85%8B%E9%9B%B7%E5%A5%87%E5%8A%A8%E7%89%A9%E5%9B%AD-alaska-zoo" class="custom-link-2">安克雷奇动物园</a>、从安克雷奇退房，前往<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%A9%AC%E5%A1%94%E5%8A%AA%E6%96%AF%E5%8D%A1%E5%86%B0%E5%B7%9D-matanuska-glacier" class="custom-link-2">马塔努斯卡冰川</a>。</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%AE%89%E5%85%8B%E9%9B%B7%E5%A5%87%E5%8A%A8%E7%89%A9%E5%9B%AD-alaska-zoo" class="custom-link-2"><del>安克雷奇动物园</del></a>、从安克雷奇退房，前往<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%A9%AC%E5%A1%94%E5%8A%AA%E6%96%AF%E5%8D%A1%E5%86%B0%E5%B7%9D-matanuska-glacier" class="custom-link-2">马塔努斯卡冰川</a>。</td>
   </tr>
   <tr>
     <td><b>下午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%A9%AC%E5%A1%94%E5%8A%AA%E6%96%AF%E5%8D%A1%E5%86%B0%E5%B7%9D-matanuska-glacier" class="custom-link-2">马塔努斯卡冰川</a>（<b>建议在12:30 p.m.前到达冰川，须在1:30 p.m.之前到达冰川</b>）。</td>
@@ -503,7 +525,7 @@ $15 成人；<br>
     <td colspan="2"><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%8C%97%E6%96%B9%E6%9E%81%E5%9C%B0%E5%8D%9A%E7%89%A9%E9%A6%86-university-of-alaska-museum-of-the-north" class="custom-link-2">北方极地博物馆</a></td>
   </tr>
   <tr>
-    <td colspan="2"><b>下午</b>：狗拉雪橇、<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%9C%A3%E8%AF%9E%E8%80%81%E4%BA%BA%E4%B9%8B%E5%AE%B6-santa-clause-house" class="custom-link-2">圣诞老人之家</a>。</td>
+    <td colspan="2"><b>下午</b>：<del>狗拉雪橇</del>、<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%9C%A3%E8%AF%9E%E8%80%81%E4%BA%BA%E4%B9%8B%E5%AE%B6-santa-clause-house" class="custom-link-2">圣诞老人之家</a>。</td>
   </tr>
   <tr>
     <td rowspan="4">3月29日</td>
@@ -514,7 +536,7 @@ $15 成人；<br>
     <td><b>下午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%81%93%E9%A1%BF%E5%85%AC%E8%B7%AF-dalton-highway" class="custom-link-2">道顿公路</a>（至北极圈标志碑处）。</td>
   </tr>
   <tr>
-    <td rowspan="2"><b>Option 2</b></td>
+    <td rowspan="2"><b><del>Option 2</del></b></td>
     <td><b>上午</b>：<a href="/blogs/travel/Alaska-Tour-Plan/#-%E9%81%93%E9%A1%BF%E5%85%AC%E8%B7%AF-dalton-highway" class="custom-link-2">道顿公路</a>。</td>
   </tr>
   <tr>
@@ -522,7 +544,7 @@ $15 成人；<br>
   </tr>
   <tr>
     <td rowspan="2">3月30日</td>
-    <td colspan="2"><b>上午</b>：从费尔班克斯退房，<b>午饭后</b>前往<a href="/blogs/travel/Alaska-Tour-Plan/#-%E8%BF%AA%E7%BA%B3%E5%88%A9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E5%92%8C%E4%BF%9D%E7%95%99%E5%8C%BA-denali-national-park-and-preserve" class="custom-link-2">迪纳利国家公园与保留区</a>。</td>
+    <td colspan="2"><b>上午</b>：从费尔班克斯退房，<a href="/blogs/travel/Alaska-Tour-Plan/#-%E8%8E%AB%E9%87%8C%E6%96%AF%E6%B1%A4%E6%99%AE%E6%A3%AE%E6%96%87%E5%8C%96%E4%B8%AD%E5%BF%83-morris-thompson-cultural--visitors-center" class="custom-link-2">莫里斯汤普森文化中心</a>，<b>午饭后</b>前往<a href="/blogs/travel/Alaska-Tour-Plan/#-%E8%BF%AA%E7%BA%B3%E5%88%A9%E5%9B%BD%E5%AE%B6%E5%85%AC%E5%9B%AD%E5%92%8C%E4%BF%9D%E7%95%99%E5%8C%BA-denali-national-park-and-preserve" class="custom-link-2">迪纳利国家公园与保留区</a>。</td>
   </tr>
 </table>
 </div>
