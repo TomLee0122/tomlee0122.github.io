@@ -11,7 +11,7 @@ tags:
   - Travel
 # primary_tag: Travel
 layout: single
-# classes: wide
+# classes: custom-background
 author_profile: true
 related: false
 read_time: false
@@ -378,9 +378,20 @@ $15 成人；<br>
 3，迪纳利国家公园和保留区内的气候多变，冬季期间短时间内气温可骤降至零下30摄氏度，需做好保暖防护。<br>
 4，园区内野生动物众多，包括可能具有危险性的棕熊。在园区内行走时，切不可随意投喂野生动物。根据园区的建议，游客应与野生动物保持至少25码的距离；与熊保持至少300码的距离。
 
-<div style="text-align: center;">
+<div style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d920806.3381067665!2d-152.43440700484936!3d63.20755486389573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56cdf3ff88d01605%3A0xc6b53b15131936a5!2z6L-q57qz5Yip5Zu95a625YWs5Zut5ZKM5L-d55WZ5Yy6!5e0!3m2!1szh-CN!2sus!4v1740530680181!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+<b>景区地图 (From the <a href="https://www.nps.gov/dena/planyourvisit/maps.htm#onthisPage-0" class="custom-link-1">official website of Denali National Park</a>)</b>：
+
+ <div style="text-align: center;margin-bottom: 1.5em;">
+  <!-- <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png" alt="" style="max-width: 150%; height: auto;}"> -->
+  <a href="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png" target="_blank">
+    <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png " alt="Click to view larger image" style="max-width: 600px; height: auto;">
+</a>
+<figcaption style="margin-top: 1.5em;">请点击查看完整图片。</figcaption>
+</div>
+
 
 <blockquote>
   <p style="font-size:0.8em">
