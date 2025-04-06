@@ -6,6 +6,7 @@ excerpt: |
   </div>
   <div>
   <img src='/assets/images/Travel/Alaska Tour Plan/Insightful-Quiz-Question-Image-13-1024x768.png' alt='' style='max-width: 35%; height: auto;'>
+  <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>
 tags:
   - Travel
@@ -15,7 +16,7 @@ layout: single
 author_profile: true
 related: false
 read_time: false
-last_modified_at: 2025-03-29
+last_modified_at: 2025-04-06
 toc: true
 toc_sticky: true
 permalink: /blogs/travel/Alaska-Tour-Plan/
@@ -606,9 +607,9 @@ $15 成人；<br>
   <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d1854517.5392249702!2d-150.26152414411115!3d63.00463082883928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x56c897f3280fd361%3A0x43c93aea00066d07!2zNTQzNiBEb3JicmFuZHQgU3RyZWV0LCDlronlhYvpm7flpYfpmL_mi4nmlq_liqDlt54!3m2!1d61.170902299999995!2d-149.9046649!4m5!1s0x56c9866575a583ff%3A0x9d70f06c96042a06!2z5Yaw5bed5pmvIOmYv-aLieaWr-WKoOW3numCruaUv-e8lueggTogOTk2NzQ!3m2!1d61.799166299999996!2d-147.6097871!4m5!1s0x5132449177287135%3A0xbffbbde79e696125!2zNjIwIEV0b24gQmx2ZCwg6LS55bCU54-t5YWL5pav6Zi_5ouJ5pav5Yqg5bee!3m2!1d64.8874625!2d-147.7987551!5e0!3m2!1szh-CN!2sus!4v1742872177278!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-## 费尔班克斯 &rarr; 道顿公路 &rarr; 费尔班克斯
+## 费尔班克斯 &rarr; 道顿公路（北极圈标志） &rarr; 费尔班克斯
 
-按照Option 1的情况（即只到达道顿公路的北极圈标志处），从位于费尔班克斯的居住点 (620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA) 出发，到达道顿公路的北极圈标志处，再原路返回。<span style="color: red;">全程约620公里，驾车时间约9小时</span>。
+按照Option 1的情况（即只到达道顿公路的北极圈标志处），从位于费尔班克斯的居住点 (620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA) 出发，到达道顿公路的北极圈标志处，再原路返回。<span style="color: red;">全程约620公里，驾车时间<del style="text-decoration-color: black;">约7小时</del></span>。<span class="hover-switch" style="color: gray;font-style: italic;"><span class="a">7小时?</span><span class="b">其实是14小时！</span></span>
 
 <b>时间</b>：3月29日周六，预计1:30 p.m.出发，6:00 p.m.到达北极圈标志处，10:30 p.m.返回费尔班克斯。
 
