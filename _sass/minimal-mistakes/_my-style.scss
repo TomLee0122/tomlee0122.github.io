@@ -102,7 +102,7 @@ td {
 
 .hover-switch {
     display: inline; /* 确保元素保持在同一行 */
-    position: absolute;
+    position: relative;
   
     span.a,
     span.b {
