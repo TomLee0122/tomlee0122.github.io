@@ -39,3 +39,38 @@ permalink: /blogs/travel/chicago-river-tour/
   <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.jpg" alt="" style="max-width: 100%; height: auto;}">
   <figcaption style="margin-top: 1.5em;">芝加哥天际线，摄于威利斯大厦 (Willis Tower)。</figcaption>
 </div>
+
+# <span><span style="color: #8E403A;"> 芝加哥河 </span>
+
+## <span style="color: gray;"> 简介 </span>
+
+芝加哥河 (Chicago River) 是芝加哥地区一系列河流与水道的统称，主要包括北支 (north branch)，南支 (south branch) 和干流 (main stem)。芝加哥河的流域包括了整个芝加哥大都会地区 (Chicago metropolitan area)。包括主要支流在内，芝加哥河全长156 miles（约合251公里）。芝加哥河的干流东接密西根湖，北支于芝加哥北部小镇埃文斯顿 (Evanston) 北部与密西根湖相连，南支则向南接入密西西比河 (Mississippi River)，最终流入墨西哥湾 (Gulf of Mexico)。
+
+<div style="text-align: center;margin-bottom: 1.5em">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d56530.046779693985!2d-87.63987213319413!3d41.8714625153871!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-CN!2sus!4v1743992875439!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em;">芝加哥河地图。其北支、南支、干流对应于芝加哥市中心附近"Y"型水道的三个河道。</figcaption>
+</div>
+
+芝加哥河虽然不长，但在芝加哥的历史上有着重要的地位。它连接了五大湖之一的密西根湖与美国第二长的河流——密西西比河，成为了密西根湖周边地区与美国中南部地区之间的水上交通要道，也在历史上极大推动了芝加哥成为美国中西部的贸易枢纽城市。
+
+## <span style="color: gray;"> 流向的逆转 (The reverse of the flow) </span>
+
+19世纪中期以前，芝加哥河始终从芝加哥西部地区的平原缓慢地流向密西根湖。缓慢的水流使得芝加哥河的水体难以有效地新陈代谢，从而导致了水体污染的问题。每逢恶劣天气，大量的污水更是直接涌入芝加哥河与密西根湖，加剧了芝加哥河的污染情况与芝加哥地区的水资源短缺问题。长期的水体污染问题还诱导了一系列的公共卫生问题，尤其是霍乱、伤寒等传染病。1887年，<a href="https://www.ilga.gov/">伊利诺伊州议会 (Illinois General Assembly) </a>正式决定通过人造工程改变芝加哥河的流向。这项艰巨的工程在芝加哥西南部修建了一条长达 28 miles（约合45公里）的芝加哥运河 (Chicago Sanitary and Ship Canal)，以连接芝加哥河南支与德斯普兰斯河 (Des Plaines River)，并于1900年最终完全改变了芝加哥河主要支流的流向。这项工程一举解决了芝加哥河的水体污染问题，并且打通了密西根湖与密西西比河之间的水上交通通道，为后续芝加哥的经济发展奠定了基础。芝加哥运河至今仍然是连接密西根湖与密西西比河的唯一水道。1999年，芝加哥河的水体治理计划与流向逆转工程被美国土木工程师学会 (American Society of Civil Engineers) 评选为人造工程的千年纪念碑 (Civil Engineering Monument of the Millennium)。
+
+<div style="text-align: center;">
+  <img src="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.jpg" alt="" style="max-width: 80%; height: auto;}">
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">历史上芝加哥运河工程从提出到最后实现的主要节点。Credit: <a href="https://chicagology.com/harbor/riverreversal/">https://chicagology.com/harbor/riverreversal/.</a></figcaption>
+</div>
+
+<div style="text-align: center;">
+  <img src="/assets/images/Travel/Chicago River Tour/chicagosanitaryandshipcanalmap.jpg" alt="" style="max-width: 100%; height: auto;}">
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">芝加哥运河地图。Credit: <a href="https://chicagology.com/harbor/riverreversal/." class="custom-link-1"></a>https://chicagology.com/harbor/riverreversal/.</figcaption>
+</div>
+
+<div style="text-align: center;">
+  <img src="/assets/images/Travel/Chicago River Tour/canal.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">位于洛克波特 (lockport) 的芝加哥运河水闸。Credit: <a href="https://www.thedesplaines.com/?page_id=364">https://www.thedesplaines.com/?page_id=364.</a></figcaption>
+</div>
+
+
+## <span style="color: gray;"> 芝加哥河上的建筑之旅 </span>

@@ -590,7 +590,7 @@ $15 成人；<br>
     <td><b>上午</b>：从坎特韦尔退房，返回安克雷奇并还车。</td>
   </tr>
   <tr>
-    <td><b>下午</b>：在机场寄存行李、<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%9C%B0%E9%9C%87%E5%85%AC%E5%9B%AD-earthquake-park" class="custom-link-2">地震公园</a>。预计返程航班起飞时间：8:30 p.m. 航班号：TBD.</td>
+    <td><b>下午</b>：在机场寄存行李、<a href="/blogs/travel/Alaska-Tour-Plan/#-%E5%9C%B0%E9%9C%87%E5%85%AC%E5%9B%AD-earthquake-park" class="custom-link-2">地震公园</a>。预计返程航班起飞时间：8:30 p.m. 航班号：UA123.</td>
   </tr>
 </table>
 </div>
