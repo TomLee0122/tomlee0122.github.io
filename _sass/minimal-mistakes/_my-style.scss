@@ -1,3 +1,7 @@
+/* Custom CSS for my blog */
+
+/* 链接相关样式 */
+
 .custom-link-1 {
     --main-color: #3FA4FF;
     --color-1: orange;
@@ -44,6 +48,23 @@
     color: black;
 }
 
+.page__content a.custom-link-3 {
+    color: #007acc;
+    text-decoration: none;
+    border-bottom: 1px dashed #007acc;
+}
+
+.page__content a.custom-link-3:visited {
+    color: #007acc;
+    border-bottom-color: #007acc;
+}
+
+.page__content a.custom-link-3:hover {
+    color: #e60073;
+    border-bottom-color: #e60073;
+    text-decoration: none;
+}
+
 // /* 设置每个节点的宽度 */
 // .mermaid .node rect {
 //     width: 200px !important;
@@ -56,6 +77,7 @@
 //   }
 
 
+/* 表格相关样式 */
 .my_table_1 {
     width: 100%;
     margin: 20px auto;
@@ -100,28 +122,60 @@ td {
     /* 鼠标悬停时改变背景色 */
 }
 
+/* hover-switch 相关样式 */
+
 .hover-switch {
-    display: inline; /* 确保元素保持在同一行 */
+    display: inline;
+    /* 确保元素保持在同一行 */
     position: relative;
-  
+
     span.a,
     span.b {
-      display: inline; /* 确保在同一行显示 */
-      position: relative;
-      left: 0;
-      top: 0;
-      transition: opacity 0.4s ease;
+        display: inline;
+        /* 确保在同一行显示 */
+        position: relative;
+        left: 0;
+        top: 0;
+        transition: opacity 0.4s ease;
     }
-  
+
     span.b {
-      opacity: 0;
+        opacity: 0;
     }
-  
+
     &:hover span.a {
-      opacity: 0;
+        opacity: 0;
     }
-  
+
     &:hover span.b {
-      opacity: 1;
+        opacity: 1;
     }
-  }  
+}
+
+/* lightgallery 相关样式 */
+
+/* 图像容器使用 Flexbox 来排列 */
+#lightgallery {
+    display: flex;
+    /* 使用 flexbox 使图像水平排列 */
+    flex-wrap: wrap;
+    /* 允许换行 */
+    gap: 20px;
+    /* 图像之间的间距 */
+}
+
+/* 确保每个图像并排显示 */
+.gallery-item {
+    display: inline-block;
+    margin: 0px;
+    max-width: 30%;
+    /* 限制每个图像占据容器的最大宽度 */
+}
+
+/* 控制图像的大小 */
+.gallery-item img {
+    width: 100%;
+    /* 图像填充容器宽度 */
+    height: auto;
+    /* 保持图片比例 */
+}
