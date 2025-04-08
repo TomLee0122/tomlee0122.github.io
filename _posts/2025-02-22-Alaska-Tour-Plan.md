@@ -623,6 +623,34 @@ $15 成人；<br>
 
 <b>时间</b>：3月30日10:00 a.m.从位于费尔班克斯的居住点出发，预计12:30 p.m.到达坎特维尔；4月1日7:30 a.m.从坎特维尔出发，预计11:40 a.m.到达泰德-史蒂文斯安克雷奇国际机场（1:00 p.m.前需要完成还车手续）。
 
-<div style="text-align: center;">
+<div style="text-align: center; margin-bottom: 2em;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d1854467.1382928945!2d-151.67446041249397!3d63.00542407471897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x5132449177287135%3A0xbffbbde79e696125!2s620%20Eton%20Blvd%2C%20Fairbanks%2C%20AK%2099709!3m2!1d64.8874625!2d-147.7987551!4m5!1s0x56ccdf5119bf48fb%3A0x7cdaaedf368f0f46!2zRGVuYWxpIFBhcmssIOmYv-aLieaWr-WKoOW3ng!3m2!1d63.6546041!2d-148.8339521!4m5!1s0x56c8a2b56b971a11%3A0x96b75a34a7bd6faf!2z6Zi_5ouJ5pav5Yqg5bee5a6J5YWL6Zu35aWHIFdlc3QgSW50ZXJuYXRpb25hbCBBaXJwb3J0IFJvYWQsIOazsOW-t8K35Y-y6JKC5paH5pav5a6J5YWL6Zu35aWH5Zu96ZmF5py65Zy6!3m2!1d61.1769173!2d-149.9905923!5e0!3m2!1szh-CN!2sus!4v1742876172467!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+# <span style="color: #8E403A;"> 附录II </span>
+
+<!-- 引入 CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/dist/css/lightgallery.min.css">
+
+<!-- 图片画廊 -->
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-24 165445.jpg" class="gallery-item">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-24 165445.jpg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" class="gallery-item">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.jpg" class="gallery-item">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.jpg" alt="Image 3">
+  </a>
+</div>
+
+<!-- 引入 JS -->
+<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/dist/js/lightgallery.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    lightGallery(document.getElementById('lightgallery'), {
+      selector: 'a'
+    });
+  });
+</script>

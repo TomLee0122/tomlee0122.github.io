@@ -23,5 +23,9 @@
   },
   "devDependencies": {
     "uglify-js": "^3.17.4"
+  },
+  "dependencies": {
+    "lightgallery": "^2.8.3",
+    "minimal-mistakes": "^0.0.1-security"
   }
 }
