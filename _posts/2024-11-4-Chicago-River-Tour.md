@@ -79,14 +79,12 @@ permalink: /blogs/travel/chicago-river-tour/
 
 箭牌大厦坐落于芝加哥北密西根大道 (North Michigan Avenue) 南部400-410号，位于芝加哥著名的“<a href="https://www.google.com/search?q=The+Magnificent+Mile&oq=The+Magnificent+Mile&gs_lcrp=EgRlZGdlKgkIABBFGDkYgAQyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABge0gEHMTI3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8" class="custom-link-3">华丽一英里 (The Magnificent Mile)</a>”与芝加哥河交界处。箭牌集团的创始人William Wrigley Jr.于1910年前后决定在芝加哥修建这座大厦作为箭牌集团的总部。大厦于1920年正式开始修建，包含南塔与北塔两个部分。南塔于1921年完工，北塔于1924年完工完工。这座建筑的灵感来源于西班牙的塞维利亚主教座堂 (Seville Cathedral) 的钟楼与法国文艺复兴时期 (Renaissance) 的建筑风格。每座塔的六个面都由非常特殊的明亮白色陶瓦覆盖。芝加哥于1893年的世界博览会中获得了“白城 (White City)”的称号，据称William Wrigley Jr.在考虑这座建筑的外观时，受到了“白城”的启发。
 
-
-
-箭牌大厦地处芝加哥市最为繁华的商业区，它保存在几乎所有前往芝加哥游玩，并且在芝加哥downtown地区漫步过的人们的相册中。2012年，箭牌大厦被芝加哥市政府认定为芝加哥地标之一。
-
 <div style="text-align: center;">
   <img src="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" alt="" style="max-width: 90%; height: auto;}">
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">箭牌大厦。</figcaption>
 </div>
+
+箭牌大厦地处芝加哥市最为繁华的商业区，它保存在几乎所有前往芝加哥游玩，并且在芝加哥downtown地区漫步过的人们的相册中。2012年，箭牌大厦被芝加哥市政府认定为芝加哥地标之一。
 
 <div style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d883.033891620474!2d-87.62437441783523!3d41.8894130667085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2caea511689f%3A0x7d92d3215f6863d5!2sThe%20Wrigley%20Building!5e0!3m2!1szh-CN!2sus!4v1744083445081!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -110,3 +108,5 @@ permalink: /blogs/travel/chicago-river-tour/
   &bull; 现今，箭牌大厦已不再是箭牌集团的总部。箭牌集团于2010年出售了这座大厦，如今它已经成为了集办公、酒店、餐饮、购物于一体的综合写字楼。
   </p>
 </blockquote>
+
+### <span style="color: gray;"> 马利纳城 (Marina City) </span>
