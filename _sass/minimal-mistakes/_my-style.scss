@@ -179,3 +179,75 @@ td {
     height: auto;
     /* 保持图片比例 */
 }
+
+/* 默认：桌面端显示地图，隐藏链接 */
+.map-desktop {
+    display: block;
+  }
+  .map-mobile {
+    display: none;
+  }
+  
+  /* 在屏幕宽度小于等于850px时（即手机） */
+  @media screen and (max-width: 850px) {
+    .map-desktop {
+      display: none;
+    }
+    .map-mobile {
+      display: block;
+      font-size: 1.1em;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-left: 4px solid #007acc;
+    }
+  }
+  
+  .map-card {
+    display: none;  /* 默认隐藏，移动端才显示 */
+    margin: 1em 0;
+  }
+  
+  @media screen and (max-width: 850px) {
+    .map-card {
+      display: block;
+    }
+  }
+  
+  .map-card-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    transition: box-shadow 0.2s ease;
+  }
+  
+  .map-card-link:hover {
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+  
+  .map-card-thumbnail img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  
+  .map-card-info {
+    flex-grow: 1;
+  }
+  
+  .map-card-title {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .map-card-address {
+    font-size: 0.9em;
+    color: #666;
+  }
+  
