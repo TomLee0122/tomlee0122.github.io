@@ -12,7 +12,7 @@ tags:
   - Travel
 # primary_tag: Travel
 layout: single
-# classes: custom-background
+classes: wide
 author_profile: true
 related: false
 read_time: false
@@ -50,8 +50,20 @@ $12 儿童 (6-12岁)*<br>
 电话：+1 907-929-9200；<br>
 网站：<a href="https://www.anchoragemuseum.org/" class="custom-link-1">安克雷奇博物馆</a>。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3842.2382601482577!2d-149.88815402208795!3d61.21623065858035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c896296ce7438d%3A0x5745ca1a5052f9af!2z5a6J5YWL6Zu35aWH5Y6G5Y-y6Im65pyv5Y2a54mp6aaG!5e0!3m2!1szh-CN!2sus!4v1740331160277!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/oMq1dtRYiDxGqPtC6" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">安克雷奇历史艺术博物馆</div>
+      <div class="map-card-address">625 C St, Anchorage, AK 99501</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">安克雷奇动物园 (Alaska Zoo)</span>
@@ -78,8 +90,20 @@ $12 青少年（3-15岁）；<br>
 电话：+1 907-346-3242；<br>
 网站：<a href="https://www.alaskazoo.org/" class="custom-link-1">安克雷奇动物园</a>。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33597.944913313804!2d-149.84574440772968!3d61.14293558317947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c89a04f821661f%3A0xa18c6267f53e05ea!2z6Zi_5ouJ5pav5Yqg5Yqo54mp5Zut!5e0!3m2!1szh-CN!2sus!4v1740332795133!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/p35FiSPtfWdExURHA" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">安克雷奇动物园</div>
+      <div class="map-card-address">4731 O'Malley Rd, Anchorage, AK 99507</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">安克雷奇植物园 (Alaska Botanical Garden)</span>
@@ -110,8 +134,20 @@ $12 青少年（3-15岁）；<br>
 电话：+1 907-770-3692；<br>
 网站：<a href="https://alaskabg.org/" class="custom-link-1">安克雷奇植物园</a>。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61532.7727912549!2d-149.87592607010507!3d61.18706100081363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c896d7e53505fb%3A0x52486d0012981808!2sAlaska%20Botanical%20Garden!5e0!3m2!1szh-CN!2sus!4v1740334675962!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/aUgu5nAbmZ5DVQpe8" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">安克雷奇植物园</div>
+      <div class="map-card-address">4601 Campbell Airstrip Rd, Anchorage, AK 99507</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">地震公园 (Earthquake Park)</span>
@@ -128,8 +164,20 @@ $12 青少年（3-15岁）；<br>
 电话：+1 907-3434-355；<br>
 网站：无官方网站。相关信息可参阅<a href="https://www.alaska.org/detail/earthquake-park" class="custom-link-1">alaska.org</a>与<a href="https://www.anchorage.net/outdoors/trails-and-local-parks/earthquake-park/" class="custom-link-1">Visit Alaska</a>。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5437.547397575755!2d-149.97018095679482!3d61.19420383146667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c8bd40a230606f%3A0x978a1d820daedc47!2sEarthquake%20Park!5e0!3m2!1szh-CN!2sus!4v1740365635384!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/F6UKxRTLuAQiEdR37" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">地震公园</div>
+      <div class="map-card-address">5101 Point Woronzof Rd, Anchorage, AK 99502</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">平顶山 (Flattop Mountain)</span>
@@ -150,8 +198,20 @@ $12 青少年（3-15岁）；<br>
 2，到达Blueberry Hill后，可继续前往平顶山山顶。<span style="color: red;">此段路程较为陡峭</span>，耗时约1小时。<br>
 3，若时间较为宽裕，可前往更远端的Williwaw Lakes或Wolverine Peak。<span style="color: red;">此段路程约9公里</span>，耗时约4个小时。若选择此路线，需作好充足准备。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23095.293787491!2d-149.67313111387966!3d61.12339613370837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c89a9f0e760871%3A0x41551d96dba29326!2sGlen%20Alps%20%2F%20Flattop%20Trailhead!5e0!3m2!1szh-CN!2sus!4v1740368291785!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/5QH58sStyad4AXWM7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">平顶山</div>
+      <div class="map-card-address">3101 Glen Alps Road Anchorage, AK 99516</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">基奈峡湾国家公园 (Kenai Fjords National Park)</span>
@@ -170,8 +230,20 @@ $12 青少年（3-15岁）；<br>
 
 <b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>：冬季期间，基奈峡湾国家公园的绝大部分道路与游客中心都会关闭，步行进入基奈湾峡国家公园需要穿越约13公里的无人区域。
 
-<div style="text-align: center;margin-bottom: 1em;">
+<div class="map-desktop" style="text-align: center;margin-bottom: 1em;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d513298.5828353113!2d-150.7192206509931!3d59.83132566621694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c79c630608aa09%3A0x12143ced272edc64!2sKenai%20Fjords%20National%20Park!5e0!3m2!1szh-CN!2sus!4v1742421725258!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/2SVCxdwx267nqtv89" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">基奈峡湾国家公园</div>
+      <div class="map-card-address">Seward, AK 99664</div>
+    </div>
+  </a>
 </div>
 
 <b>另选</b>：更为安全、便捷的游览基奈峡湾国家公园的方式是乘坐基奈峡湾国家公园的游船。基奈峡湾国家公园有两家游船公司 - <a href="https://www.alaskacollection.com/day-tours/kenai-fjords-tours/" class="custom-link-1">Kenai Fjords Tours</a> 与 <a href="https://majormarine.com/" class="custom-link-1">Major Marine Tours</a>。鉴于我们前往阿拉斯加的时间，彼时两家游船公司皆只有一条线路开放：<a href="https://www.alaskacollection.com/day-tours/kenai-fjords-tours/spring-resurrection-bay-tour/" class="custom-link-1">Spring Resurrection Bay Tour</a>与<a href="https://majormarine.com/tour/spring-wildlife-cruise/" class="custom-link-1">Spring Wildlife Cruise</a>。
@@ -213,8 +285,20 @@ $14 团体票（8人及以上）<br>
 电话：+1 907-474-7505；<br>
 网站：<a href="https://www.uaf.edu/museum/" class="custom-link-1">北方极地博物馆</a>。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1695.096127827871!2d-147.84489632206424!3d64.85848467774692!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51325b4b7cbbc601%3A0xa5b80d8047b26e59!2sUniversity%20of%20Alaska%20Museum%20of%20the%20North!5e0!3m2!1szh-CN!2sus!4v1740525992604!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/sQ17Vq4vjDyfEbov7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">北方极地博物馆</div>
+      <div class="map-card-address">1962 Yukon Dr, Fairbanks, AK 99775</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">莫里斯汤普森文化中心 (Morris Thompson Cultural & Visitors Center)</span>
@@ -235,8 +319,20 @@ $14 团体票（8人及以上）<br>
 电话：907-459-3700；<br>
 网站：<a href="https://morristhompsoncenter.org/" class="custom-link-1">莫里斯汤普森文化中心</a>。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1695.8829188700684!2d-147.7152991223059!3d64.84600287773888!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51324546449ef7d5%3A0x44f893ec9eff50bf!2sMorris%20Thompson%20Cultural%20%26%20Visitors%20Center!5e0!3m2!1szh-CN!2sus!4v1743235844642!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/RVmvkTernABRMxVi9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">莫里斯汤普森文化中心</div>
+      <div class="map-card-address">101 Dunkel Street Fairbanks, AK 99701</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">圣诞老人之家 (Santa Clause House)</span>
@@ -257,8 +353,20 @@ Where it's Christmas Every Day! 来自北极的浓郁圣诞风情。圣诞老人
 电话：+1 907-488-2200；<br>
 网站：<a href="https://www.santaclaushouse.com/" class="custom-link-1">圣诞老人之家</a>。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1701.6232441422499!2d-147.34571472206974!3d64.75489857768018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x51324d4f91f3e801%3A0x2840219de72fedd1!2sSanta%20Clause%20House!5e0!3m2!1szh-CN!2sus!4v1740526861204!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/DKd6sPXC46Eq6ory9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">圣诞老人之家</div>
+      <div class="map-card-address">101 St Nicholas Dr, North Pole, AK 99705</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">费尔班克斯冰雕博物馆 (Fairbanks Ice Museum)</span>
@@ -284,8 +392,20 @@ $8 团体票（10人及以上）。
 电话：+1 907-451-8222；<br>
 网站：<a href="http://icemuseum.com/" class="custom-link-1">费尔班克斯冰雕博物馆</a>。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1696.0230310684165!2d-147.72073922206502!3d64.84377997773737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5132454896de0959%3A0x326675f714d4934d!2sFairbanks%20Ice%20Museum!5e0!3m2!1szh-CN!2sus!4v1740527921062!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/6kxyzhMKYKPuHtNh9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">费尔班克斯冰雕博物馆</div>
+      <div class="map-card-address">500 2nd Ave, Fairbanks, AK 99701</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">驯鹿农场 (Running Reindeer Ranch)</span>
@@ -306,8 +426,20 @@ $110 儿童（3-11岁）；<br>
 电话：+1 907-455-4998；<br>
 网站：<a href="https://runningreindeer.com/" class="custom-link-1">驯鹿农场</a>。
 
-<div style="text-align: center;margin-bottom: 1em;">
+<div class="map-desktop" style="text-align: center;margin-bottom: 1em;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11597.123203659154!2d-147.9662025201953!3d64.92268877396091!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x513242e0aabda225%3A0xb1bc629fac568ccd!2sRunning%20Reindeer%20Ranch!5e0!3m2!1szh-CN!2sus!4v1742410669434!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/uWz3sELgz6HsVdo78" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">驯鹿农场</div>
+      <div class="map-card-address">1470 Ivans Alley Fairbanks, AK 99709</div>
+    </div>
+  </a>
 </div>
 
 <b>注</b>：需要提前预约，参观人数限制为4-22人。
@@ -319,8 +451,20 @@ $110 儿童（3-11岁）；<br>
 
 <b>预计驾车时间（全程）</b>：11小时。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3134682.872143431!2d-154.47097096486678!3d67.44139560201793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x5132454f67fd65a9%3A0xb3d805e009fef73a!2z6Zi_5ouJ5pav5Yqg5bee6LS55bCU54-t5YWL5pav!3m2!1d64.8400511!2d-147.7199757!4m5!1s0x512077009926947f%3A0x1d228d1ae7281c59!2zRGVhZGhvcnNlLCDmma7mi4nlvrfpnI3mub7pmL_mi4nmlq_liqDlt54!3m2!1d70.20019959999999!2d-148.4597191!5e0!3m2!1szh-CN!2sus!4v1742411479515!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/Upf7GDpAXwyTGenN9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">道顿公路</div>
+      <div class="map-card-address">Dalton Highway, Alaska</div>
+    </div>
+  </a>
 </div>
 
 <b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>
@@ -353,8 +497,20 @@ $60 阿拉斯加居民的亲朋好友（参观时需由本地居民陪同）。
 
 网站：<a href="https://glacier-tours.com/matanuska-glacier-tours-in-winter/" class="custom-link-1">马塔努斯卡冰川</a>。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d308162.5264142786!2d-147.86816363739572!3d61.64282911431455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c995194c250291%3A0xdc683d977b34deb!2z6ams5aGU5Yqq5pav5Y2h5Yaw5bed!5e0!3m2!1szh-CN!2sus!4v1740418896536!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/yPiku4MJ1mHLXfyj7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">马塔努斯卡冰川</div>
+      <div class="map-card-address">Matanuska Glacier, Alaska</div>
+    </div>
+  </a>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">迪纳利国家公园和保留区 (Denali National Park and Preserve)</span>
@@ -379,18 +535,28 @@ $15 成人；<br>
 3，迪纳利国家公园和保留区内的气候多变，冬季期间短时间内气温可骤降至零下30摄氏度，需做好保暖防护。<br>
 4，园区内野生动物众多，包括可能具有危险性的棕熊。在园区内行走时，切不可随意投喂野生动物。根据园区的建议，游客应与野生动物保持至少25码的距离；与熊保持至少300码的距离。
 
-<div style="text-align: center;margin-bottom: 1.5em">
+<div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d920806.3381067665!2d-152.43440700484936!3d63.20755486389573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56cdf3ff88d01605%3A0xc6b53b15131936a5!2z6L-q57qz5Yip5Zu95a625YWs5Zut5ZKM5L-d55WZ5Yy6!5e0!3m2!1szh-CN!2sus!4v1740530680181!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/hNV9CiFhLodtVFaEA" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">迪纳利国家公园和保留区</div>
+      <div class="map-card-address">Denali National Park and Preserve, Alaska</div>
+    </div>
+  </a>
 </div>
 
 <b>景区地图 (From the <a href="https://www.nps.gov/dena/planyourvisit/maps.htm#onthisPage-0" class="custom-link-1">official website of Denali National Park</a>)</b>：
 
- <div style="text-align: center;margin-bottom: 1.5em;">
-  <!-- <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png" alt="" style="max-width: 150%; height: auto;}"> -->
+<div style="text-align: center;margin-bottom: 1.5em;">
   <a href="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png" target="_blank">
-    <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png " alt="Click to view larger image" style="max-width: 600px; height: auto;">
-</a>
-<figcaption style="margin-top: 1.5em;">请点击查看完整图片。</figcaption>
+    <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png " alt="Click to view larger image" style="max-width: 80%; height: auto;">
+  </a>
 </div>
 
 
@@ -415,8 +581,20 @@ $15 成人；<br>
 
 <b>预计游览时间</b>：1-2小时。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57124.74263626545!2d-145.70429000649236!3d63.42134559852884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5134d7fb8f39111f%3A0x76521bb41deabe99!2sCastner%20Glacier!5e0!3m2!1szh-CN!2sus!4v1742414291534!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/L8LHmMopuVMUdgVD9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">蓝冰洞</div>
+      <div class="map-card-address">Castner Glacier, Alaska</div>
+    </div>
+  </a>
 </div>
 
 <b>注</b>：据称近年由于自然侵蚀与氧化，蓝冰洞有部分坍塌，颜色也在变得暗淡。
@@ -431,11 +609,21 @@ $15 成人；<br>
 位于安克雷奇机场西边，市区南边。距机场驾车约7分钟，距市区驾车约15分钟。<br>
 <!-- 预定码：HM3ZDRQ3RY。 -->
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8153.617402285912!2d-149.91213187851199!3d61.16905614064214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c897f3280fd361%3A0x43c93aea00066d07!2s5436%20Dorbrandt%20St%2C%20Anchorage%2C%20AK%2099518!5e0!3m2!1szh-CN!2sus!4v1742104317324!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<b>电话</b>：TBA.
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/oFAWHk22wRYWdwAz9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">安克雷奇居所</div>
+      <div class="map-card-address">5436 Dorbrandt St, Anchorage, AK 99518</div>
+    </div>
+  </a>
+</div>
 
 ## 费尔班克斯
 
@@ -445,11 +633,21 @@ $15 成人；<br>
 位于费尔班克斯西北郊，距机场驾车约15分钟。<br>
 <!-- 预定码：HMK95FPAFT。 -->
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5641.06299669955!2d-147.80555140590104!3d64.88663136375632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5132449177287135%3A0xbffbbde79e696125!2s620%20Eton%20Blvd%2C%20Fairbanks%2C%20AK%2099709!5e0!3m2!1szh-CN!2sus!4v1742408511391!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<b>电话</b>：TBA.
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/pPdEKSk4iEk1qwGPA" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">费尔班克斯居所</div>
+      <div class="map-card-address">620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709</div>
+    </div>
+  </a>
+</div>
 
 ## 坎特维尔 (Cantwell)
 
@@ -459,8 +657,20 @@ $15 成人；<br>
 位于西部环线中部的坎特维尔小镇，距迪纳利国家公园入口驾车约30分钟。<br>
 <!-- 预定码：4630798190；PIN：7532. -->
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7148.666899919355!2d-148.90461446762234!3d63.388928799999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56ccf0244c6d45e9%3A0xf6f07a82e45d2bf9!2sBackwoods%20Lodge!5e0!3m2!1szh-CN!2sus!4v1742105128429!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/p4oZSEWo56wBNM2d7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">坎特维尔居所</div>
+      <div class="map-card-address">MP 133.7 Denali Highway, Cantwell, AK 99729</div>
+    </div>
+  </a>
 </div>
 
 <b>电话</b>：+1 (907)-987-0960.
@@ -603,8 +813,20 @@ $15 成人；<br>
 
 <b>时间</b>：3月27日周四，10:00 a.m.出发前往马塔努斯卡冰川，预计12:30 p.m.到达马塔努斯卡冰川；3:30 p.m.从马塔努斯卡冰川出发，预计8:30 p.m.到达位于费尔班克斯的居住点。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d1854517.5392249702!2d-150.26152414411115!3d63.00463082883928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x56c897f3280fd361%3A0x43c93aea00066d07!2zNTQzNiBEb3JicmFuZHQgU3RyZWV0LCDlronlhYvpm7flpYfpmL_mi4nmlq_liqDlt54!3m2!1d61.170902299999995!2d-149.9046649!4m5!1s0x56c9866575a583ff%3A0x9d70f06c96042a06!2z5Yaw5bed5pmvIOmYv-aLieaWr-WKoOW3numCruaUv-e8lueggTogOTk2NzQ!3m2!1d61.799166299999996!2d-147.6097871!4m5!1s0x5132449177287135%3A0xbffbbde79e696125!2zNjIwIEV0b24gQmx2ZCwg6LS55bCU54-t5YWL5pav6Zi_5ouJ5pav5Yqg5bee!3m2!1d64.8874625!2d-147.7987551!5e0!3m2!1szh-CN!2sus!4v1742872177278!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/StqX9rZKADJUagib6" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">安克雷奇 &rarr; 马卡努斯塔冰川 &rarr; 费尔班克斯</div>
+      <div class="map-card-address">Anchorage, AK 99518, USA &rarr; Matanuska Glacier, Alaska &rarr; Fairbanks, Alaska 99709, USA</div>
+    </div>
+  </a>
 </div>
 
 ## 费尔班克斯 &rarr; 道顿公路（北极圈标志） &rarr; 费尔班克斯
@@ -613,8 +835,20 @@ $15 成人；<br>
 
 <b>时间</b>：3月29日周六，预计1:30 p.m.出发，6:00 p.m.到达北极圈标志处，10:30 p.m.返回费尔班克斯。
 
-<div style="text-align: center;">
+<div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d840412.8581625723!2d-150.5200266665976!3d65.70687221021144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x5132449177287135%3A0xbffbbde79e696125!2s620%20Eton%20Blvd%2C%20Fairbanks%2C%20AK%2099709!3m2!1d64.8874625!2d-147.7987551!4m5!1s0x512949c9e49853ab%3A0x518721fb57ab89ce!2zQXJjdGljIENpcmNsZSBTaWduLCDpmL_mi4nmlq_liqDlt54!3m2!1d66.5558324!2d-150.81111719999998!5e0!3m2!1szh-CN!2sus!4v1742875062703!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/Ckhtc1bi7Cn9x2vb8" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">费尔班克斯 &rarr; 道顿公路（北极圈标志） &rarr; 费尔班克斯</div>
+      <div class="map-card-address">Fairbanks, Alaska 99709, USA &rarr; Arctic Circle Sign, Alaska &rarr; Fairbanks, Alaska 99709, USA</div>
+    </div>
+  </a>
 </div>
 
 ## 费尔班克斯 &rarr; 坎特维尔、迪纳利国家公园与保留区 &rarr; 安克雷奇
@@ -623,8 +857,20 @@ $15 成人；<br>
 
 <b>时间</b>：3月30日10:00 a.m.从位于费尔班克斯的居住点出发，预计12:30 p.m.到达坎特维尔；4月1日7:30 a.m.从坎特维尔出发，预计11:40 a.m.到达泰德-史蒂文斯安克雷奇国际机场（1:00 p.m.前需要完成还车手续）。
 
-<div style="text-align: center; margin-bottom: 2em;">
+<div class="map-desktop" style="text-align: center; margin-bottom: 2em;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m34!1m12!1m3!1d1854467.1382928945!2d-151.67446041249397!3d63.00542407471897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m19!3e0!4m5!1s0x5132449177287135%3A0xbffbbde79e696125!2s620%20Eton%20Blvd%2C%20Fairbanks%2C%20AK%2099709!3m2!1d64.8874625!2d-147.7987551!4m5!1s0x56ccdf5119bf48fb%3A0x7cdaaedf368f0f46!2zRGVuYWxpIFBhcmssIOmYv-aLieaWr-WKoOW3ng!3m2!1d63.6546041!2d-148.8339521!4m5!1s0x56c8a2b56b971a11%3A0x96b75a34a7bd6faf!2z6Zi_5ouJ5pav5Yqg5bee5a6J5YWL6Zu35aWHIFdlc3QgSW50ZXJuYXRpb25hbCBBaXJwb3J0IFJvYWQsIOazsOW-t8K35Y-y6JKC5paH5pav5a6J5YWL6Zu35aWH5Zu96ZmF5py65Zy6!3m2!1d61.1769173!2d-149.9905923!5e0!3m2!1szh-CN!2sus!4v1742876172467!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/H3GJEUrpD74B3q3H7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">费尔班克斯 &rarr; 坎特维尔、迪纳利国家公园与保留区 &rarr; 安克雷奇</div>
+      <div class="map-card-address">Fairbanks, Alaska 99709, USA &rarr; Denali National Park and Preserve, Alaska &rarr; Anchorage, AK 99518, USA</div>
+    </div>
+  </a>
 </div>
 
 # <span style="color: #8E403A;"> 附录II </span>
