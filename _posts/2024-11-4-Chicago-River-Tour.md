@@ -77,21 +77,21 @@ permalink: /blogs/travel/chicago-river-tour/
   <a href="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.jpg" alt="" style="max-width: 80%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">历史上芝加哥运河工程从提出到最后实现的主要节点。Credit: <a href="https://chicagology.com/harbor/riverreversal/">https://chicagology.com/harbor/riverreversal/.</a></figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">历史上芝加哥运河工程从提出到最后实现的主要节点。Credit: <a href="https://chicagology.com/harbor/riverreversal/" class="custom-link-3">https://chicagology.com/harbor/riverreversal/.</a></figcaption>
 </div>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/chicagosanitaryandshipcanalmap.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/chicagosanitaryandshipcanalmap.jpg" alt="" style="max-width: 100%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">芝加哥运河地图。Credit: <a href="https://chicagology.com/harbor/riverreversal/." class="custom-link-1"></a>https://chicagology.com/harbor/riverreversal/.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">芝加哥运河地图。Credit: <a href="https://chicagology.com/harbor/riverreversal/." class="custom-link-3">https://chicagology.com/harbor/riverreversal/</a>.</figcaption>
 </div>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/canal.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/canal.jpg" alt="" style="max-width: 90%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">位于洛克波特 (lockport) 的芝加哥运河水闸。Credit: <a href="https://www.thedesplaines.com/?page_id=364">https://www.thedesplaines.com/?page_id=364.</a></figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">位于洛克波特 (lockport) 的芝加哥运河水闸。Credit: <a href="https://www.thedesplaines.com/?page_id=364" class="custom-link-3">https://www.thedesplaines.com/?page_id=364.</a></figcaption>
 </div>
 
 
@@ -109,7 +109,7 @@ permalink: /blogs/travel/chicago-river-tour/
   <a href="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" alt="" style="max-width: 90%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">箭牌大厦。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">箭牌大厦。Credit: <a href="https://en.wikipedia.org/wiki/Wrigley_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Wrigley_Building</a>.</figcaption>
 </div>
 
 箭牌大厦已不再是箭牌集团的总部。箭牌集团于2010年出售了这座大厦，如今它已经成为了集办公、酒店、餐饮、购物于一体的综合写字楼。
@@ -122,7 +122,7 @@ permalink: /blogs/travel/chicago-river-tour/
 </div>
 
 <div class="map-card">
-  <a href="https://maps.app.goo.gl/2b3d7h4k5v9x8y6F7" target="_blank" class="map-card-link">
+  <a href="https://maps.app.goo.gl/nzrDSDAaWw3w31jC6" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
     </div>
@@ -158,7 +158,7 @@ permalink: /blogs/travel/chicago-river-tour/
     <a href="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg" target="_blank">
     <img src="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg" alt="Click to view larger image" style="max-width: 40%; height: auto;">
 </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">马利纳城。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">马利纳城。Credit: <a href="https://en.wikipedia.org/wiki/Marina_City" class="custom-link-3">https://en.wikipedia.org/wiki/Marina_City</a>.</figcaption>
 </div>
 
 Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20世纪50-60年代流行的<a href="https://en.wikipedia.org/wiki/White_flight" class="custom-link-3">“白人群飞” (White flight) </a>现象。当时的美国正处于国内与国际移民热潮中，大量非洲裔、墨西哥裔美国人以及海外移民迁移到了美国北方城市。受种族关系、社会地位、资源分配的影响，许多欧洲裔的美国白人最终选择离开城市而迁往城市周边的郊区甚至是乡村地带居住。白人群飞现象是美国上世纪的郊区城市化 (Suburbanization) 和城市去中心化 (Urban decentralization) 中的重要一环，同时也加速了上述进程。在这种现象下，美国上世纪50-70年代许多中部与中西部城市都受到了很大影响，例如芝加哥、巴尔的摩 (Baltimore)、克里夫兰 (Cleveland)、底特律 (Detroit)、堪萨斯城 (Kansas City) 、奥克兰 (Oakland) 等。正是在这样的背景下，Bertrand Goldberg 提出了“城中之城”的概念，希望通过这种特殊的建筑形式减缓白人群飞现象和它对城市的影响。
@@ -200,8 +200,53 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 ### <span style="color: gray;"> 芝加哥商品市场 (Merchandise Mart, or The Mart) </span>
 
-芝加哥商品市场位于 222 W Merchandise Mart Plaza, 60654, 同时也恰好在芝加哥河的“Y”型分岔口处。芝加哥商品市场是芝加哥的规模巨大的贸易综合体，整个建筑包括了各式各样的商铺、仓库、购物广场等与商业活动相关的设施。
+芝加哥商品市场位于 222 W Merchandise Mart Plaza, 60654, 同时也恰好在芝加哥河的“Y”型分岔口处。芝加哥商品市场是芝加哥的规模巨大的贸易综合体，整个建筑包括了各式各样的零售商铺、仓库、购物广场等与商业活动相关的设施。
 
 当芝加哥商品市场于1930年建成时，它的占地面积令人震惊地超过了372000平方米，等同于几乎52个标准足球场。这使得它一举成为世界上占地面积最大的建筑，这一地位直到1943年才被五角大楼 (Pentagon) 取代。芝加哥商品市场如此之大，使得它在相当长一段时间内拥有自己的邮政编码 (60654)。
 
-建造如此庞大的建筑自然非易事。
+建造如此庞大的建筑自然非易事。装载着水泥原料的巨大货船开到芝加哥河的交叉口，水泥原料由压缩空气运送至20米高处，建筑内有巨大的水泥搅拌机，搅拌后的水泥被运送到垂直塔吊上的货机中，塔吊也随着建造进程的不断推进而被不断延长；建造所用的沙子和石砾则由火车直接运输到施工工地附近，而后由长传送带和运输电梯运送到高处的施工工地。自1928年芝加哥商品市场动工，至1930年最终建成，这个庞然大物消耗了两千九百万块砖、40 miles （约合64公里）长的管道、380 miles （约合610公里）长的线路、三百一十万立方米的混凝土、五千七百立方米的的石头以及六万吨钢铁。建成之后，整个建筑物一共包含4000扇窗户、建筑物内有多达30座电梯。建筑前后，共有约5700人直接参与了这项工程的修建。整个工程的耗资在当时超过了两千六百万美元。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em;">芝加哥商品市场。Credit: <a href="https://en.wikipedia.org/wiki/Merchandise_Mart#" class="custom-link-3">https://en.wikipedia.org/wiki/Merchandise_Mart#</a>.</figcaption>
+</div>
+
+芝加哥商品市场使用了装饰风艺术 (Art Deco) 的建筑风格。它的外观与内部装饰都非常精致。装饰风艺术在20世纪上半叶非常流行，它强调了建筑物上的几何图案、装饰细节、对称结构。著名的使用了装饰风艺术的建筑包括了纽约的克莱斯勒大厦 (Chrysler Building)、帝国大厦 (Empire State Building)、洛克菲勒中心 (Rockefeller Center)，法国的镀金门宫殿 (Palais de la Porte Dorée)，中国上海的上海大厦 (Shanghai Tower)，和平饭店 (Peace Hotel) 等等。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">近距离的芝加哥商品市场。</figcaption>
+</div>
+
+<div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.206793365386!2d-87.63802472354905!3d41.88840957124053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cb6e328686d%3A0x43f86a8214e286bb!2sTHE%20MART!5e0!3m2!1szh-CN!2sus!4v1744394988412!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的芝加哥商品市场。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/iJiMmqPG27qKA1LJ8" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">芝加哥商品市场</div>
+      <div class="map-card-address">222 W Merchandise Mart Plaza, Chicago, IL, 60654</div>
+    </div>
+  </a>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  <p style="font-size:0.8em">
+  &bull; 芝加哥商品市场曾经很长一段时间由肯尼迪家族 (Kennedy family) 所有，直至1998年被出售给房地产公司 Vornado Realty Trust。
+  </p>
+  </p>
+  <p style="font-size:0.8em">
+  &bull; 芝加哥商品市场的原址是芝加哥的一个小型贸易点与芝加哥西北铁路公司的威尔斯街站 (Wells Street Station). 该站在1911年芝加哥西北铁路乘客中心 (Chicago and North Western Passenger Terminal，现为 Richard B. Ogilvie Transportation Center) 建成后被关闭。然而，留下的铁路轨道为芝加哥商品市场的建造提供了便利条件。
+  </p>
+</blockquote>
