@@ -65,9 +65,6 @@ permalink: /blogs/travel/chicago-river-tour/
   </a>
 </div>
 
-
-
-
 芝加哥河虽然不长，但在芝加哥的历史上有着重要的地位。它连接了五大湖之一的密西根湖与美国第二长的河流——密西西比河，成为了密西根湖周边地区与美国中南部地区之间的水上交通要道，也在历史上极大推动了芝加哥成为美国中西部的贸易枢纽城市。
 
 ### <span style="color: gray;"> 流向的逆转 (The reverse of the flow) </span>
@@ -254,13 +251,135 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 ### <span style="color: gray;"> 可移动的桥 (Movable Bridges) </span>
 
-在介绍一座城市的建筑时，桥梁 (Bridges) 一般不会作为主角登场。然而，在芝加哥，这一点并不适用。由于芝加哥河的存在，横跨芝加哥河两岸的桥梁，在芝加哥的历史上发挥了极为重要的作用，也在这座城市的演变过程中逐渐成为了这座城市的符号之一。
+在介绍一座城市的建筑时，桥梁 (Bridges) 一般不会作为主角登场。然而，在芝加哥，这一点并不适用。由于芝加哥河的存在，横跨芝加哥河两岸的桥梁，在芝加哥的历史上留下了浓墨重彩的一笔，也在这座城市的演变过程中逐渐成为了这座城市的符号之一。
 
-与我们一般见到的桥不同，芝加哥河上横跨的桥，大多数是可移动的 (Movable)，这并不是指这座桥可以沿着河道自由地移动到需要它的位置，而是指这座桥可以在需要的时候“抬起”或“放下”。对于芝加哥的桥，所谓“抬起”，一般指的是它可以从中间“断裂”开来，并且两边的两部分各可以绕着河道两边的两个端点转动，从而将整个桥面抬升起来。“放下”的过程亦然。
+与我们一般见到的桥不同，芝加哥河上横跨的桥，大多数是可移动的 (Movable)，这并不是指这座桥可以沿着河道自由地移动到需要它的位置，而是指这座桥可以在需要的时候“抬起”或“放下”，供下方的船只通过。
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" alt="" style="max-width: 90%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1em;">正要抬起的位于麦迪逊大街 (Madison Street) 上的桥。Credit: <a href="https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)" class="custom-link-3">https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)</a>.</figcaption>
+  <figcaption style="margin-top: 1em;">正要抬起的位于麦迪逊大街 (Madison Street) 上的 Lyric Opera Bridge. Credit: <a href="https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)" class="custom-link-3">https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)</a>.</figcaption>
 </div>
+
+#### <span style="color: gray;"> 历史 </span>
+
+虽然如今芝加哥河上有着众多的桥，穿越芝加哥河并非难事，但是在19世纪20年代，为了穿越芝加哥河到达对岸，人们需要颇费周折。当时常见的交通工具包括渡船和木筏。建造一座方便通行的，永久性的桥的提议很早就被人们提出了，但是反对的声音也不绝于耳。一是当时的芝加哥河的南北两岸的发展情况有很大差异，南岸的经济状况要明显好于北岸，因此南岸的商人担心建议一座连接南北两岸的桥会使得他们的生意被北岸抢走；二是有许多人的职业与芝加哥河的通行密切相关，例如他们是渡船的船主、船夫、木筏的制造者或者为这些人提供伙食、住宿的服务商，他们担心桥的建造会使得他们失业；三是当时芝加哥河上的贸易运输非常繁忙，人们担心桥的建造会阻挡大型船只进入芝加哥的港口。基于种种情况，桥的建造计划被搁置了很长时间。1832年，北岸的居民完全出资在如今 Kinzie Street 附近修建了第一座供行人与马车通行的，连通芝加哥河南北两岸的桥，它也是芝加哥河历史上第一座永久性的桥。随后，芝加哥河上修建了越来越多的类似的连接南北两岸的人行桥。第一座可移动的桥建于1834年，位于如今的 Dearborn Street 附近。然而，这座桥存在着严重的设计缺陷，这使得它在使用过程中经常出现故障，导致无法正常地“抬起”与“落下”，影响了交通通行。严重时，桥梁的故障会导致河两岸的行人与车辆需要等待数个小时甚至数天时间。第一座穿越芝加哥河的铁路桥于1852年建成，地点同样位于 Kinzie Street 附近。如今，芝加哥是世界上拥有可移动桥数量第二多的城市，第一多的则是荷兰的阿姆斯特丹 (Amsterdam)。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/chicagoriver1931.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/chicagoriver1931.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">1931年时的芝加哥河景象<span class="small-text" style="color: gray;"><em>（这是今天芝加哥的哪里呢？）</em></span>。Credit: <a href="https://chicagology.com/harbor/riverbridges/" class="custom-link-3">https://chicagology.com/harbor/riverbridges/</a>.</figcaption>
+</div>
+
+#### <span style="color: gray;"> 可移动的桥是如何运作的？ </span>
+
+可移动的桥基本都使用电力驱动。在19世纪，电是非常昂贵的能源。为了节省成本，大多数早期的桥都设计得十分精巧以至于仅需要很少的电力就可以驱动桥梁“抬起”或“落下”。常见的可移动的桥可以大致可以分为以下几种类型：
+
+##### <span style="color: gray;"> 开合桥 (Trunnion Bascule Bridge) </span>
+
+开合桥是如今芝加哥河上最常见的可移动桥，它根据运作时桥梁是否从中间“断开”又可分为双叶开合桥 (Double-leaf bascule bridge) 与单叶开合桥 (Single-leaf bascule bridge)。无论是哪一种类型，开合桥的基本工作原理都是杠杆原理。每一叶都由桥体、中央轴 (Trunnion) 和配重组成。配重的重量被精确控制以至于它对于中央轴的力矩仅仅略小于桥体对于中央轴的力矩。这使得仅需要很小的力就可以控制桥体的“抬起”与“落下”。每一叶还包含一些精巧的机械结构以使得桥体和配重都能够平滑地绕着中央轴旋转。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/Kinzie_Street_railroad_bridge_schematic.png" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Kinzie_Street_railroad_bridge_schematic.png" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em;">开合桥的工作示意图，Cwt. (counter weight) 即为配重。Credit: <a href="https://en.m.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#" class="custom-link-3">https://en.m.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#</a>.</figcaption>
+</div>
+
+##### <span style="color: gray;"> 中心墩旋转桥 (Center Pier Swing Bridge) </span>
+
+顾名思义，这种桥的工作原理是整个桥面围绕着中央的桥墩旋转。当桥面旋转到与河道平行时，船只就可以通过。由于这种桥对于河道的宽度有着较大要求（需要能够在河道中央建造一个足够承重与旋转的桥墩，以及在旋转后剩余的河道需要足以让船只通行），它在芝加哥河位于市区的部分并不常见。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/Center_Pier_Swing_Bridge.png" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Center_Pier_Swing_Bridge.png" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em;">1889年位于 State Street 上的中心墩旋转桥。Credit: <a href="http://www.encyclopedia.chicagohistory.org/pages/10789.html" class="custom-link-3">http://www.encyclopedia.chicagohistory.org/pages/10789.html</a>.</figcaption>
+</div>
+
+##### <span style="color: gray;"> Scherzer 式旋转升降桥 (Scherzer Rolling Lift Bridge) </span>
+
+以其发明者 William D. Scherzer 的名字命名的 Scherzer 式旋转升降桥的工作原理与开合桥类似，只不过将联动桥面与配重的杆式结构换成了巨大的轮盘。Scherzer 式旋转升降桥的优点是具有高可靠性，不宜故障，缺点则是需要较大的空间来放置轮盘。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/scherzeradvertisement.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/scherzeradvertisement.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">1897年宣传 Scherzer 式旋转升降桥的广告。Credit: <a href="https://chicagology.com/harbor/riverbridges/" class="custom-link-3">https://chicagology.com/harbor/riverbridges/</a>.</figcaption>
+</div>
+
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/HMS-Hall-of-Fame-William-Scherzer.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/HMS-Hall-of-Fame-William-Scherzer.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em;">芝加哥河上的 Scherzer 式旋转升降桥。Credit: <a href="https://heavymovablestructures.org/wp-content/uploads/2021/02/HMS-Hall-of-Fame-William-Scherzer.pdf" class="custom-link-3">https://heavymovablestructures.org/wp-content/uploads/2021/02/HMS-Hall-of-Fame-William-Scherzer.pdf</a>.</figcaption>
+</div>
+
+#### <span style="color: gray;"> 桥梁的守护员 (Bridge Tender) </span>
+
+<em>"The tramp, the wharf rat, and the river pirate are [the bridge tender’s] neighbors." -Chicago Tribune, 1896 </em>
+
+时至今日，在芝加哥许多重要的可移动的桥的附近，你都可以找到一座白色的小房子，它叫做桥梁小屋 (Bridge Tender House)，那是桥梁维护员的工作地点（也有可能是居住地点）。桥梁维护员的最主要职责当然是按照计划，在合适的时间控制桥梁的“抬起”与“落下”，以使得船只与行人、车辆通行，并且保障他们的安全。然而，桥梁维护员工作的全貌还远不止于此。桥梁维护员还要定期检查并且维护桥梁，确保它们处于良好的工作状态、处理与任何桥梁有关的突发事件、发现并且驱赶在桥上的流浪者、阻止那些失去了生活的希望而走上桥的人以及在任何时候都要做好准备去营救不慎从桥上掉入河中的人！
+
+现存在芝加哥的桥梁小屋一共有70座，分布在芝加哥河的三条主要支流上。桥梁维护员曾经日夜待在这些小屋中，监视着桥梁的状态。然而，随着时代的演变，如今开往芝加哥的主要的贸易商船都不再驶入芝加哥河内部，而是停泊于芝加哥港 (Port of Chicago)，桥梁维护员的工作时间也大大缩短。如今，仅有7座桥梁小屋为24小时值守，大部分桥梁小屋在全年95%以上的时间都处于无人值守状态，桥梁维护员也仅仅会在特定的桥梁需要“抬起”的日期到达这些桥梁小屋。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/Bridge_Tender_House.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/THP-map-01.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">芝加哥河上现存的桥梁小屋以及它们的位置。Credit: <a href="https://www.tenderhouseproject.com/chicagobridgehouses" class="custom-link-3">https://www.tenderhouseproject.com/chicagobridgehouses</a>.</figcaption>
+</div>
+
+更多有关桥梁维护员与桥梁小屋的故事，请访问 <a href="https://www.tenderhouseproject.com/chicagobridgehouses" class="custom-link-3">https://www.tenderhouseproject.com/chicagobridgehouses</a>.
+
+#### <span style="color: gray;"> Kinzie Street Railroad Bridge </span>
+
+如果你乘坐游船游览芝加哥河，那么在船行驶到北支时，绝大部分时间你会看到一座处于“抬起”状态的桥，它就是 Kinzie Street Railroad Bridge. 它建于1908年，属于单叶开合桥。在它建成之时，它是世界上最大，也是最重的开合桥。它是联合太平洋铁路 (Union Pacific Railroad) 的一条支线，用于服务北支东岸的众多公司与工厂。随着芝加哥城区交通的便利，这条支线的效率逐渐下降。2000年，随着 The Chicago Sun-Times 报社印刷厂的迁移<span class="small-text" style="color: gray;"><em>（这家报社出现在这篇blog之前的某张图片中，你能找到它吗？）</em></span>，这条铁路失去了它在东岸的最后一个客户，并在随后不久被关闭。Kinzie Street Railroad Bridge 也因此被半永久性地被锁定在“抬起”状态。
+
+如今，你仍然可以在这座桥的两岸看到曾经的铁路轨道。虽然绝大部分时候它都处于“抬起”状态，但是每年当工作人员例行检查这座桥时，它会被“放下”一次。<span class="small-text" style="color: gray;"><em>你会成为看到它放下的时候的幸运儿吗？</em></span>
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/KinzieStRRBrdg08.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/KinzieStRRBrdg08.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Kinzie Street Railroad Bridge。Credit: <a href="https://en.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#" class="custom-link-3">https://en.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#</a>.</figcaption>
+</div>
+
+#### <span style="color: gray;"> 后话 </span>
+
+历史上还有着许许多多有关芝加哥河上的桥梁的人与故事，如果对他们感兴趣的话，不妨去参观一下位于芝加哥市区的<a href="https://www.chicagoriver.org/programs/education-and-outreach/mccormick-bridgehouse-chicago-river-museum" class="custom-link-3">McCormick Bridgehouse & Chicago River Museum</a>.
+
+<div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.2022186186614!2d-87.62723192328012!3d41.88850796476136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2caec38f3099%3A0x8d893967f1929d0!2sMcCormick%20Bridgehouse%20%26%20Chicago%20River%20Museum!5e0!3m2!1szh-CN!2sus!4v1744500110206!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">McCormick Bridgehouse & Chicago River Museum.</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/dwhmZKPSk2kM4mJ48" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">McCormick Bridgehouse & Chicago River Museum</div>
+      <div class="map-card-address">99 Chicago Riverwalk, Chicago, IL 60601</div>
+    </div>
+  </a>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  <p style="font-size:0.8em">
+  &bull; 芝加哥河上的可移动桥大多数都会定期“抬起”，如果你想亲眼目睹这一过程，可以访问<a href="https://chicagoloopbridges.com/schedule.html" class="custom-link-3">https://chicagoloopbridges.com/schedule.html</a> 查看日期与时间。
+  </p>
+  </p>
+  <p style="font-size:0.8em">
+  &bull; 发明了 Scherzer 式旋转升降桥的 William D. Scherzer 同时负责设计了西北大学 (Northwestern University) 的天文台建筑 (Dearborn Observatory)。
+  </p>
+  <!-- <p style="font-size:0.8em">
+  &bull; 
+  </p> -->
+</blockquote>
