@@ -22,6 +22,7 @@ author_profile: true
 related: false
 read_time: false
 last_modified_at: 2025-04-09
+toc: true
 permalink: /blogs/travel/chicago-river-tour/
 ---
 
@@ -250,3 +251,16 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
   &bull; 芝加哥商品市场的原址是芝加哥的一个小型贸易点与芝加哥西北铁路公司的威尔斯街站 (Wells Street Station). 该站在1911年芝加哥西北铁路乘客中心 (Chicago and North Western Passenger Terminal，现为 Richard B. Ogilvie Transportation Center) 建成后被关闭。然而，留下的铁路轨道为芝加哥商品市场的建造提供了便利条件。
   </p>
 </blockquote>
+
+### <span style="color: gray;"> 可移动的桥 (Movable Bridges) </span>
+
+在介绍一座城市的建筑时，桥梁 (Bridges) 一般不会作为主角登场。然而，在芝加哥，这一点并不适用。由于芝加哥河的存在，横跨芝加哥河两岸的桥梁，在芝加哥的历史上发挥了极为重要的作用，也在这座城市的演变过程中逐渐成为了这座城市的符号之一。
+
+与我们一般见到的桥不同，芝加哥河上横跨的桥，大多数是可移动的 (Movable)，这并不是指这座桥可以沿着河道自由地移动到需要它的位置，而是指这座桥可以在需要的时候“抬起”或“放下”。对于芝加哥的桥，所谓“抬起”，一般指的是它可以从中间“断裂”开来，并且两边的两部分各可以绕着河道两边的两个端点转动，从而将整个桥面抬升起来。“放下”的过程亦然。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em;">正要抬起的位于麦迪逊大街 (Madison Street) 上的桥。Credit: <a href="https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)" class="custom-link-3">https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)</a>.</figcaption>
+</div>
