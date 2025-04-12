@@ -18,7 +18,7 @@ related: false
 read_time: false
 last_modified_at: 2025-04-06
 toc: true
-toc_sticky: true
+# toc_sticky: true
 permalink: /blogs/travel/Alaska-Tour-Plan/
 ---
 
