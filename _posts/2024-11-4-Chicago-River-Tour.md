@@ -354,7 +354,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.2022186186614!2d-87.62723192328012!3d41.88850796476136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2caec38f3099%3A0x8d893967f1929d0!2sMcCormick%20Bridgehouse%20%26%20Chicago%20River%20Museum!5e0!3m2!1szh-CN!2sus!4v1744500110206!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">McCormick Bridgehouse & Chicago River Museum.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的McCormick Bridgehouse & Chicago River Museum.</figcaption>
 </div>
 
 <div class="map-card">
@@ -379,7 +379,94 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
   <p style="font-size:0.8em">
   &bull; 发明了 Scherzer 式旋转升降桥的 William D. Scherzer 同时负责设计了西北大学 (Northwestern University) 的天文台建筑 (Dearborn Observatory)。
   </p>
-  <!-- <p style="font-size:0.8em">
-  &bull; 
-  </p> -->
 </blockquote>
+
+### <span style="color: gray;"> 河北路150號大厦 </span>
+
+河北路150號大厦位于 150 N Riverside Plaza，它建于2017年，坐落在芝加哥河南支的西侧河岸。与芝加哥商品市场一样，它也位于芝加哥河的“Y”型分叉口处。河北路150號大厦高229米，是芝加哥的一座现代化摩天大楼。
+
+河北路150號大厦的独特之处在于它的设计。整个建筑非常纤细，为了节约地基占用的空间，建筑的整体是下窄上宽的形态。整个地基的占地面积大约只有上层较宽部分的占地面积的25%。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/150_North_Riverside,_Wolf_Point,_Chicago.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/150_North_Riverside,_Wolf_Point,_Chicago.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1.5em;">河北路150號大厦，整个建筑<br>呈现出下窄上宽<br>的姿态。</figcaption>
+</div>
+
+高层建筑通常对于大风天气较为敏感，因为大风产生的风压会使得高层建筑产生晃动，从而影响内部人员的活动，严重时甚至影响整个建筑物的安全。这种情况在建筑物更高、更“细”时会更加明显。对于河北路150號大厦，其独特的设计使得设计师在前期设计时不得不考虑这一点。为了使得建筑物在大风天气下仍然能够保持稳定，设计师在大厦的高层安装了数个液体谐振阻尼器 (Tuned Mass Dampers)。液体谐振阻尼器由若干个巨大的水箱组成，水箱的尺寸被设计得以至于其谐振频率与整座大厦的谐振频率非常接近。在大风天气到来之前，内部会充满水，大风天气到来时，质量巨大的水箱和它与大厦非常接近的谐振频率使得它能够给予大厦一个与大风产生的力矩相反的力矩，以此来部分抵消大厦的晃动。谐振阻尼器经常运用在高层建筑中以减弱大风对于建筑的影响，除液体谐振阻尼器外，经常使用的还有固体谐振阻尼器，它们的工作原理与液体谐振阻尼器类似。更多有关高层建筑的谐振阻尼器的知识，可以参阅<a href="https://en.wikipedia.org/wiki/Tuned_mass_damper" class="custom-link-3">https://en.wikipedia.org/wiki/Tuned_mass_damper</a>.
+
+<div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.3431983752107!2d-87.63980996102148!3d41.885475689664496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cc7ed999a0b%3A0x4fc33263be6edca3!2z5rKz5YyX6LevMTUw6Jmf!5e0!3m2!1szh-CN!2sus!4v1744763676664!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的河北路150號大厦。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/Znjrx7RvkeexE6Ap9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">河北路150號大厦</div>
+      <div class="map-card-address">150 N Riverside Plaza, Chicago, IL 60606</div>
+    </div>
+  </a>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  <p style="font-size:0.8em">
+  &bull; 著名的<a href="https://www.hyatt.com/" class="custom-link-3">凯悦酒店集团 (Hyatt Hotels Corporation)</a> 的总部就位于河北路150號大厦。
+  </p>
+  </p>
+  <p style="font-size:0.8em">
+  &bull; 虽然河北路150號大厦的总体高度并不算非常出色，甚至不在芝加哥最高的十座摩天大楼之列，但是它却是它所在的河岸的最高建筑物。<span class="small-text" style="color: gray;"><em>这说明有时候选择比努力更加重要！</em></span>
+  </p>
+</blockquote>
+
+### <span style="color: gray;"> 芝加哥歌剧院 (Lyric Opera of Chicago) </span>
+
+芝加哥歌剧院位于 20 N Wacker Drive, Chicago, IL 60606. 它建于1929年，坐落在芝加哥河南支的东侧河岸，至今已有近100年的历史。在它最初建成的时候，它是芝加哥市民歌剧公司 (Chicago Civic Opera). 然而，芝加哥市民歌剧公司在美国大萧条时期破产，公司几经破产与重组，在1954年重组并且重新命名为 Lyric Opera of Chicago. 自那之后，芝加哥歌剧院一直是 Lyric Opera of Chicago 的总部所在地。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/Lyric_Opera_of_Chicago.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Civic_Opera_House_060528.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em;">芝加哥歌剧院外貌（背面）。Credit: <a href="https://en.wikipedia.org/wiki/Civic_Opera_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Civic_Opera_Building</a>.</figcaption>
+</div>
+
+芝加哥歌剧院的建造最早由芝加哥地区的能源公司 (Commonwealth Edison) 的总裁 Samuel Insull 提出。Samuel Insull 委托了建筑公司 Graham, Anderson, Probst & White <span class="small-text" style="color: gray;"><em>（这家公司是不是在哪里出现过？）</em></span>来负责设计和建造芝加哥歌剧院。芝加哥歌剧院由一座主塔和两座副塔组成，主塔高45层，两座副塔均高22层。芝加哥歌剧院的内部设计采用了装饰风艺术，从每一扇门、每一扇窗到每一个房梁角落、每一根承重柱都经过精心设计，内部的整体风格艺术而古典，非常符合它作为剧院的身份。芝加哥歌剧院的主厅是拥有3563个座位的大剧场，它是北美洲第二大的剧场，仅次于纽约的大都会歌剧院 (Metropolitan Opera House)。在20世纪，来自世界各地的众多知名的歌剧演员都将芝加哥歌剧院作为他们在北美洲首演的演出地，有关相关演员的列表，可参阅<a href="https://en.wikipedia.org/wiki/Lyric_Opera_of_Chicago" class="custom-link-3">https://en.wikipedia.org/wiki/Lyric_Opera_of_Chicago</a>.
+
+在芝加哥城上演的第一部歌剧是于1850年在芝加哥演出的梦游女 (La sonnambula)，但具体的演出地点已经无从考证。芝加哥的第一个歌剧院建于1865年，但不幸的是，它仅仅在6年之后就在芝加哥大火中被烧毁。在芝加哥建成的第二座歌剧院是位于南密西根大道 (South Michigan Avenue) 上的 Auditorium Building，它于1889年建成，至今仍然存在。芝加哥歌剧院是芝加哥的第三座剧院。
+
+<div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5940.9783486303795!2d-87.6399726232803!3d41.88233576514791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cb8925e8fe5%3A0x1a7ed21598ee5c97!2z6Iqd5Yqg5ZOl5q2M5Ymn6Zmi!5e0!3m2!1szh-CN!2sus!4v1744771089820!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的芝加哥歌剧院。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/ZeWpm2U1DzNrCWHu7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">芝加哥歌剧院</div>
+      <div class="map-card-address">20 N Wacker Dr, Chicago, IL 60606</div>
+    </div>
+  </a>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  <p style="font-size:0.8em">
+  &bull; 芝加哥歌剧院的外表像是一把巨大的椅子，它面朝东方，背对西方。这与 Samuel Insull 有关。Samuel Insull 在来到芝加哥之前，在纽约与托马斯·爱迪生 (Thomas Edison) 同事。由于对于当时公司收购事宜的不满，他在公司被收购完成后不久辞去了在纽约的职务。当时恰巧 Comonwealth Edison 公司的前任总裁刚刚退休，公司又在为即将在芝加哥举办的1893年哥伦比亚世博会而忙碌。在这种背景下，Samuel Insull 被邀请来到 Commonwealth Edison 公司担任总裁，而 Samuel Insull 也欣然接受了这一职务。Samuel Insull 在与 Graham, Anderson, Probst & White 商讨芝加哥歌剧院的设计时，要求将它的“椅背”朝向西方，以此来暗示他在纽约的不愉快经历以及他的不满（纽约在芝加哥的西边）。因为如此，芝加哥歌剧院也被称为“Insull的王位” (Insull's Throne).
+  </p>
+  </p>
+  <p style="font-size:0.8em">
+  &bull; 如果你在坐船时仔细观察芝加哥歌剧院背面的文字，你会发现它的拼写似乎是错误的 (Civic Opera Bvilding). 这其实与历史上的英文字母表中的字母 "U" 和 "V" 有关。最早的拉丁字母表只有23个字母，而非今天英语字母表的26个，其中只包含字母 "V" 而不包含字母 "U". 这是由于早期时候，"U" 和 "V" 被认为是同一个字母的两个变体 (allographs)，它们的发音是完全相同的。直到17世纪初印刷技术的规范化，字母 "U" 才被印刷师 Lazare Zetzner 正式引入到字母表中。在设计芝加哥歌剧院背面的文字时，采用了较为古典的 "Building" 的拼写方式，即 "Bvilding".
+  </p>
+</blockquote>
+
+### <span style="color: gray;"> 韦莱集团大厦 (Willis Tower) </span> <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_logo.png" alt="" style="max-width: 12%; height: auto;">
