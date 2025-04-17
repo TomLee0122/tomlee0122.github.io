@@ -313,7 +313,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      # author_profile_custom: author-profile-custom
       read_time: false
-      # comments: true
-      # share: true
+      comments: false
+      share: false
       related: false
