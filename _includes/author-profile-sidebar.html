@@ -1,0 +1,24 @@
+<!-- {% assign authors = page.authors | default: [page.author] | compact %}
+
+{% for author_id in authors %}
+  {% assign author = site.data.authors[author_id] %}
+  <div class="h-card sidebar-author">
+    {% if author.avatar %}
+      <div class="author__avatar">
+        <a href="{{ author.home | default: '/' | absolute_url }}">
+          <img src="{{ author.avatar | relative_url }}" alt="{{ author.name }}" class="u-photo">
+        </a>
+      </div>
+    {% endif %}
+    <div class="author__content">
+      <h3 class="author__name p-name">
+        <a href="{{ author.home | default: '/' | absolute_url }}" class="u-url">{{ author.name }}</a>
+      </h3>
+      {% if author.bio %}
+        <div class="author__bio p-note">
+          {{ author.bio | markdownify }}
+        </div>
+      {% endif %}
+    </div>
+  </div>
+{% endfor %} -->

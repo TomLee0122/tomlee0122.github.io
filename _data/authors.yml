@@ -1,8 +1,8 @@
 # Possible Authors of the Pages, Bolgs, Links, etc.
 
-Yikun (Thomas) Li:
+yikunli:
   name             : "Yikun Li"
-  avatar           : "/assets/images/Yiji.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Yiji.jpg"
   bio              : "PhD Student @ [<u>Statistics and Data Science</u>](https://statistics.northwestern.edu/), [<u>Northwestern University</u>](https://www.northwestern.edu/)"
   location         : "Evanston, IL"
   # email            : "YikunLi2028@u.northwestern.edu"
@@ -25,3 +25,18 @@ Yikun (Thomas) Li:
     - label: "Bilibili"
       icon: "fab fa-fw fa-bilibili"
       url: "https://space.bilibili.com/450623590"
+
+tuorui:
+  name: "Tuorui V1ncent19 Peng"
+  bio: "En voyage dans l'espace de Hilbert."
+  avatar: ""
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:v1ncent19@outlook.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://v1ncent19.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/V1ncentPeng"
