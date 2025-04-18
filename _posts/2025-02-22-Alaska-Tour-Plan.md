@@ -14,6 +14,8 @@ tags:
 layout: single
 classes: wide
 author_profile: true
+authors:
+  - yikunli
 related: false
 read_time: false
 last_modified_at: 2025-04-06
