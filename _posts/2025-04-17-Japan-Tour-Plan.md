@@ -34,13 +34,60 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ## 东京-富士山
 
+乘坐每天早晨从东京新宿站出发的 <a href="https://www.fujikyu-railway.jp/fujikaiyuu/" class="custom-link-1">富士洄游</a> 火车前往富士山河口湖；两小时左右到。<br>
 
+### 富士洄游
 
+<b>路线</b>：新宿站-河口湖站。<br>
+<b>时刻表</b>：<br>
+每天早晨 7:30 /	8:30 / 9:30 /	10:30 am 从新宿站发车。
+<b>票价</b>：TBD<br>
+<b>车程</b>：约2小时。<br>
+<b>预定方式</b>：提前一个月通过 [JR](https://smart-ex.jp/top.php) 预定 [富士洄游](https://www.fujikyu-railway.jp/fujikaiyuu/)<br>
 
 ## 富士山-京都
 
+先乘坐 [Sekitori](https://sekitori.jp/) 巴士从河口湖到三岛站，然后转乘新干线前往京都；4 小时左右到。<br>
 
-## 京都-大阪-奈良
+主要参考 [xhs帖子](https://www.xiaohongshu.com/explore/6639958a000000001e01c6b6?xsec_token=ABQ_s1aOeXVCxwLUhLTOMJJDofyEthOS8IkVtkuNXoMQs=&xsec_source=pc_search&source=web_explore_feed).
+
+### Sekitori 巴士
+
+<b>路线</b>：河口湖站-三岛站。<br>
+<b>时刻表</b>：在 9:30am - 7:00pm 之间，平均每半小时一班<br>
+<b>票价</b>：TBD<br>
+<b>车程</b>：约 1.5 小时。<br>
+<b>预定方式</b>：提前一个月通过 [Sekitori](https://sekitori.jp/) 预定<br>
+
+### 新干线
+
+<b>路线</b>：三岛站-京都站；可能需要在名古屋中转<br>
+<b>时刻表</b>：平均每半小时一班。<br>
+<b>票价</b>：TBD<br>
+<b>车程</b>：约 2 小时。<br>
+<b>预定方式</b>：提前一个月通过 [JR](https://smart-ex.jp/top.php) 预定，也可以三岛站现场买，据称余票较为充裕<br>
+
+
+
+## 京都-大阪-奈良-宇治-琵琶湖
+
+在此区域的交通基本无需特别预定。较特殊的路线包括：
+
+- 京都-大阪：方式很多，基本分为以下几种：
+
+  | 方式 | 车次 | 速度(15/30/50 min) | 价格(¥500-1500) |
+  | --- | --- | --- | --- |
+  | JR 新干线 | 多 | 快 | 贵 |
+  | JR 关西机场特急 Haruka | 少 | 中 | 贵 |
+  | JR 新快速：东海道、山阳本线 | 中 | 中 | 中 |
+  | 阪急京都线 | 多 | 慢 | 低 |
+  | 京阪本线（急行/特急） | 多 | 慢 | 低 |
+  
+- 京都-奈良：一般都坐近铁京都线&近铁奈良线，45 min ¥800.
+- 大阪-奈良：一般都坐近铁难波线&近铁奈良线，30 min ¥700.
+- 京都-宇治：JR，20 min ¥300.
+- 京都-志贺：JR，30 min ¥400.
+- 京都-彦根：JR，1 hr ¥1000.
 
 
 
@@ -195,8 +242,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>门票</b>：详见下图<br>
 <!-- include a figure -->
 <figure>
-  <img src="images/2025-04-17-20-02-53.png" alt="Tokyo Skytree Ticket Price" style="max-width: 100%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;">
-  <figcaption>东京天空树票价</figcaption>
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-04-17-20-02-53.png" alt="Tokyo Skytree Ticket Price" style="max-width: 80%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;">
 </figure>
 
 <div class="map-desktop" style="text-align: center;">
