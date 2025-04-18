@@ -29,7 +29,8 @@ yikunli:
 tuorui:
   name: "Tuorui V1ncent19 Peng"
   bio: "En voyage dans l'espace de Hilbert."
-  avatar: ""
+  location: "Evanston, IL"
+  avatar: "/assets/images/Noe.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
