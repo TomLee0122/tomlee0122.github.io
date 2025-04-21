@@ -2,7 +2,7 @@
 title: 日本旅行指南
 excerpt: |
   <div style="margin-bottom: 1em;">
-  <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #C0C0C0">Eastern Gate of Asia. <img src='/assets/images/Travel/Japan Tour Plan/Flag_of_Japan.png' alt='' style='max-width: 10%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'></span>
+  <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #C0C0C0">Eastern Gate of Asia. <img src='/assets/images/Travel/Japan Tour Plan/Flag_of_Japan.png' alt='' style='max-width: 6%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'></span>
   </div>
   <div>
   <img src='/assets/images/Travel/Japan Tour Plan/Ise-Shrine_Naiku-Ujibashi-Torii.jpg' alt='' style='max-width: 35%; height: auto;'>
@@ -14,9 +14,7 @@ tags:
 layout: single
 classes: wide
 author_profile: true
-authors:
-  - tuorui
-  - yikunli
+# author: tuorui
 related: false
 read_time: false
 last_modified_at: 2025-04-17
