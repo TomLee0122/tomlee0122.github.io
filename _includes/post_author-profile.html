@@ -1,4 +1,4 @@
-{% assign authors = page.authors | default: page.authors[0] | default: page.author %}
+{% assign authors = page.authors | default: page.author | default: 'yikunli' %}
 
 {% for one_author in authors %}
 
