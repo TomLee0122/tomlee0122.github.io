@@ -14,7 +14,9 @@ tags:
 layout: single
 classes: wide
 author_profile: true
-# author: tuorui
+authors: 
+  - tuorui
+  - yikunli
 related: false
 read_time: false
 last_modified_at: 2025-04-17
