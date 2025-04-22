@@ -26,11 +26,22 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 ---
 
 
+
+
+# <span style="color:rgb(254, 17, 0);">！！预约日程！！</span>
+
+
+
+
+
+- ✅4.18 号可以预定 [众议院参观](/blogs/travel/Japan-Tour-Plan/#-参观众议院)（i.e.提前两个月）
+- 5.1 可以预定 [皇居参观](/blogs/travel/Japan-Tour-Plan/#-皇居参观)
+- 5.18/5.19/5.20 每晚 chicago time 7:30 pm 预约 [机库参观](/blogs/travel/Japan-Tour-Plan/#-jal--ana-机库参观)
+- 5.20 左右可以开始预约 [富士洄游](/blogs/travel/Japan-Tour-Plan/#富士洄游)。（不约应该问题也不大，可以坐其它种类的铁路）
+- 5.20 左右可以开始预约 富士山 - 三岛 - 京都 的 [Sekitori 巴士](/blogs/travel/Japan-Tour-Plan/#sekitori-巴士) 和 [新干线](/blogs/travel/Japan-Tour-Plan/#新干线).
+
+
 # <span style="color: #8E403A;">日程安排</span>
-
-
-
-
 
 
 <div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
@@ -210,28 +221,37 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 # <span style="color: #8E403A;">交通方式</span>
 
-主要通过铁道进行（除铁道交通较少的京都外）。关于日本铁道票券规则的综述见 <a href="/blogs/travel/Japan-Tour-Plan/#%E6%97%A5%E6%9C%AC%E9%93%81%E8%B7%AF%E4%BA%A4%E9%80%9A%E7%A5%A8%E5%88%B8%E7%BB%BC%E8%BF%B0" class="custom-link-1">附录</a>。<br>
+主要通过铁道进行（除铁道交通较少的京都外）。关于日本铁道票券规则的综述见 <a href="/blogs/travel/Japan-Tour-Plan/#%E6%97%A5%E6%9C%AC%E9%93%81%E8%B7%AF%E4%BA%A4%E9%80%9A%E7%A5%A8%E5%88%B8%E7%BB%BC%E8%BF%B0" class="custom-link-1">附录</a>。下面是一些常用的城际火车的指引。
 
-## 东京-富士山
+## <span style="color: #71D7FF;">东京-富士山</span>
 
-乘坐每天早晨从东京新宿站出发的 <a href="https://www.fujikyu-railway.jp/fujikaiyuu/" class="custom-link-1">富士洄游</a> 火车前往富士山河口湖；两小时左右到。<br>
+这一程有多种交通方式，下面介绍常见的几种：
 
-### 富士洄游
+### 直达车
 
-<b>路线</b>：新宿站-河口湖站。<br>
-<b>时刻表</b>：<br>
-每天早晨 7:30 /	8:30 / 9:30 /	10:30 am 从新宿站发车。
-<b>票价</b>：TBD<br>
-<b>车程</b>：约2小时。<br>
-<b>预定方式</b>：提前一个月通过 [JR](https://smart-ex.jp/top.php) 预定 [富士洄游](https://www.fujikyu-railway.jp/fujikaiyuu/)<br>
+- JR 中央线特急 <a href="https://www.fujikyu-railway.jp/fujikaiyuu/" class="custom-link-1">富士洄游</a>：新宿站-河口湖站。每天早晨 7:30 /	8:30 / 9:30 /	10:30 am 从新宿站发车。2 hr ¥4000，最好提前通过 [JR](https://smart-ex.jp/top.php) 预定。<br>
+- JR 中央线特快：JR 东京站-河口湖站。3hr ¥2600
 
-## 富士山-京都
+### 转乘车
 
-先乘坐 [Sekitori](https://sekitori.jp/) 巴士从河口湖到三岛站，然后转乘新干线前往京都；4 小时左右到。<br>
+事实上由于富士山确实是一个热门目的地，所以转乘一般不比直达车慢多少。其中关键的一个转乘点是大月站（Otsuki），基本的 idea 就是通过各种方式到达大月站（约一个半钟），然后转乘富士急行线（Fujikyu）到达河口湖站（一个多种）。需要注意的是富士急行线的车次较少（~30 min），所以需要等车不要摸鱼误点。
+
+### 巴士
+
+有很多公司提供服务，最便宜且（名义上）比较快的，但是要小心晚点和高峰期拥堵问题。
+
+
+
+
+
+
+## <span style="color: #71D7FF;">富士山-京都</span>
+
+先乘坐 [Sekitori](https://sekitori.jp/) 巴士从河口湖到三岛站，然后转乘新干线前往京都；4 小时左右到。
 
 主要参考 [xhs帖子](https://www.xiaohongshu.com/explore/6639958a000000001e01c6b6?xsec_token=ABQ_s1aOeXVCxwLUhLTOMJJDofyEthOS8IkVtkuNXoMQs=&xsec_source=pc_search&source=web_explore_feed).
 
-### Sekitori 巴士
+### 1. Sekitori 巴士
 
 <b>路线</b>：河口湖站-三岛站。<br>
 <b>时刻表</b>：在 9:30am - 7:00pm 之间，平均每半小时一班<br>
@@ -239,7 +259,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>车程</b>：约 1.5 小时。<br>
 <b>预定方式</b>：提前一个月通过 [Sekitori](https://sekitori.jp/) 预定<br>
 
-### 新干线
+### 2. 新干线
 
 <b>路线</b>：三岛站-京都站；可能需要在名古屋中转<br>
 <b>时刻表</b>：平均每半小时一班。<br>
@@ -249,7 +269,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 
 
-## 京都-大阪-奈良-宇治-琵琶湖
+## <span style="color: #71D7FF;">京都-大阪-奈良-宇治-琵琶湖</span>
 
 在此区域的交通基本无需特别预定。较特殊的路线包括：
 
@@ -279,11 +299,18 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ## 东京都
 
-### 东北方向
+
+<div class="map-desktop" style="text-align: center;">
+  <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
+        <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt=""></a>
+</div>
+
+
+### <span style="color: #71D7FF;">东北区域</span>
 
 
 
-#### &#9642; <span style="color: #71D7FF;">東京国立博物館</span>
+#### 東京国立博物館
 
 
 <b>开放时间</b>：<br>
@@ -294,7 +321,6 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 
 <b>门票</b>：<br>
-
 ¥1000 成人 <br>
 ¥500 大学生 <br>
 ¥0 青少年 (<17岁)、老年人 (>79岁)、中小学生<br>
@@ -331,7 +357,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 
 <!-- 国立西洋美術館 -->
-#### &#9642; <span style="color: #71D7FF;">国立西洋美術館</span>
+#### 国立西洋美術館
 
 <b>开放时间</b>：<br>
 周一：闭馆；<br>
@@ -339,15 +365,12 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 周五、周六：9:30 am - 8:00 pm；<br>
 
 <b>门票</b>：<br> 
-
 ¥500 成人 <br>
 ¥250 大学生 <br>
 ¥0 青少年 (<17岁)、老年人 (>79岁)、中小学生<br>
 ¥0 残疾人士及其陪同者<br>
 
-<b>导览</b>：<br>
-
-<a href="https://www.nmwa.go.jp/zh/visit/floorplans.html" class="custom-link-1">导览图</a>；<br>
+<b>导览</b>：<a href="https://www.nmwa.go.jp/zh/visit/floorplans.html" class="custom-link-1">导览图</a>；<br>
 
 
 <b>预计游览时间</b>：2小时。
@@ -374,7 +397,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <!-- 上野公園 -->
 
-#### &#9642; <span style="color: #71D7FF;">上野公園</span>
+#### 上野公園
 
 <b>开放时间</b>：全天开放<br>
 <b>门票</b>：免费<br>
@@ -382,7 +405,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <!-- 浅草寺 -->
 
-#### &#9642; <span style="color: #71D7FF;">浅草寺</span>
+#### 浅草寺
 
 <b>开放时间</b>：全天开放<br>
 <b>门票</b>：免费<br>
@@ -412,7 +435,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <!-- 东京天空树 -->
 
-#### &#9642; <span style="color: #71D7FF;">东京天空树</span>
+#### 东京天空树
 
 <b>开放时间</b>：<br>
 周一-周五：10:00 am - 10:00 pm；<br>
@@ -422,9 +445,9 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <b>门票</b>：详见下图<br>
 <!-- include a figure -->
-<figure>
+<div class="map-desktop" style="text-align: center;"><figure>
   <img src="/assets/images/Travel/Japan Tour Plan/2025-04-17-20-02-53.png" alt="Tokyo Skytree Ticket Price" style="max-width: 80%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;">
-</figure>
+</figure></div>
 
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39584.03950465002!2d139.74110742335426!3d35.70582921557903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ed0d12f9adf%3A0x7d1d4fb31f43f72a!2z5Lic5Lqs5aSp56m65qCR!5e0!3m2!1szh-CN!2sus!4v1744939405810!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -445,24 +468,39 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 
 
-### &#9642; <span style="color: #71D7FF;">皇居周边</span>
+### <span style="color: #71D7FF;">中部区域</span>
 
-#### &#9642; <span style="color: #71D7FF;">皇居参观</span>
+#### 皇居参观
 
-提前至上一个月一号开始，通过 [宫内厅官网](https://sankan.kunaicho.go.jp/multilingual/lang/cn/information.html) 预约.
+提前至上一个月一号开始，通过 [宫内厅官网](https://sankan.kunaicho.go.jp/multilingual/lang/cn/information.html) 预约。有 9:30 am 和 12:30 pm 两个 spot 可选。也可以选择不预约直接去现场排队登记参观（名额有限）
 
-#### &#9642; <span style="color: #71D7FF;">参观众议院</span>
+#### 参观众议院
 
-可以提前两个月通过邮件方式预约 [众议院参观英文导览](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm)；<br>
-
-
-### &#9642; <span style="color: #71D7FF;">其他区域</span>
+可以提前两个月通过邮件方式预约 [众议院参观英文导览](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm)；（仅有当天下午三点场次为英文）<br>
 
 
-#### &#9642; <span style="color: #71D7FF;">JAL Sky Museum</span>
+### 其他区域
 
-提前一个月当地时间 9:30am 放票，通过 [JAL 官网](https://www.jal.com/ja/kengaku/en/) 预订。
-（非常抢手，需要蹲点。例如：计划 6 月 19 日参观，就需要在 5 月 19 日芝加哥时间 7:30am 蹲点抢票）
+
+#### JAL / ANA 机库参观
+
+- **JAL Sky Museum**：提前一个月当地时间 9:30am 放票，通过 [JAL 官网](https://www.jal.com/ja/kengaku/en/) 预订。
+（非常抢手，需要蹲点。例如：计划 6 月 19 日参观，就需要在 5 月 18 日芝加哥时间 7:30pm 蹲点抢票）
+- **ANA Blue Hanger Tour**：同样是提前一个月芝加哥时间 7:30pm 蹲点在 [ANA 官网](https://www.anahd.co.jp/group/tour/ana-blue-hangar/reservation/) 预定。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -548,3 +586,4 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 - 京阪本线：即使是特急也只需要买乘车券/IC卡（特急车有付费特殊车厢 Premium Car ，需额外买票）；
 - 近铁的线路如果是普通 / 急行只需刷卡入场或买乘车券，特急需要进站后在红色特急券机器额外买特急券（带指定席）；
 - JR 奈良等普通 JR 车只需买乘车券/IC卡；
+
