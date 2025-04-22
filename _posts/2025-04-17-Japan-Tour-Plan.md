@@ -32,13 +32,18 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 
 
+（以下均为芝加哥时间）
 
-
-- ✅4.18 号可以预定 [众议院参观](/blogs/travel/Japan-Tour-Plan/#-参观众议院)（i.e.提前两个月）
-- 5.1 可以预定 [皇居参观](/blogs/travel/Japan-Tour-Plan/#-皇居参观)
+- ✅**邮件已发** 4.18 号起可以预定 [众议院参观](/blogs/travel/Japan-Tour-Plan/#-参观众议院)（i.e.提前两个月）
+- 4.31 开始可以预定京都国宾馆参观
+- 4.31 可以预定 [皇居参观](/blogs/travel/Japan-Tour-Plan/#-皇居参观)
+- 5.9 8:00 pm chicago time 可以预约下个月的 [三鹰之森吉卜力美术馆](/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆)
 - 5.18/5.19/5.20 每晚 chicago time 7:30 pm 预约 [机库参观](/blogs/travel/Japan-Tour-Plan/#-jal--ana-机库参观)
+- 5.18-5.20 可以预约 Shibuya Sky /晴空塔/麻布台 Hills 之类的票
 - 5.20 左右可以开始预约 [富士洄游](/blogs/travel/Japan-Tour-Plan/#富士洄游)。（不约应该问题也不大，可以坐其它种类的铁路）
 - 5.20 左右可以开始预约 富士山 - 三岛 - 京都 的 [Sekitori 巴士](/blogs/travel/Japan-Tour-Plan/#sekitori-巴士) 和 [新干线](/blogs/travel/Japan-Tour-Plan/#新干线).
+- 提前个 ~ 10 天预定 富士山租车/热门饭馆/热门景点。
+  - 例子：岚山小火车，琉璃光院，大阪城公园天守阁，二条城本丸，京都御苑，京都仙洞御所。
 
 
 # <span style="color: #8E403A;">日程安排</span>
@@ -489,7 +494,9 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 - **ANA Blue Hanger Tour**：同样是提前一个月芝加哥时间 7:30pm 蹲点在 [ANA 官网](https://www.anahd.co.jp/group/tour/ana-blue-hangar/reservation/) 预定。
 
 
+#### 三鹰之森吉卜力美术馆
 
+提前至上一个月的当地时间 10 日 10:00am 开始放票，通过 [罗森订票平台](https://www.lawson.co.jp/ghibli_museum/english.html#top) 预定，
 
 
 
