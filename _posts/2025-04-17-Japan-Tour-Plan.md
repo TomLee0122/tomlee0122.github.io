@@ -412,9 +412,11 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 #### 浅草寺
 
-<b>开放时间</b>：全天开放<br>
+<b>开放时间</b>：6:00 am 开门<br>
 <b>门票</b>：免费<br>
 <b>预计游览时间</b>：1小时。<br>
+
+<b>导览</b>：[参拝案内](https://www.senso-ji.jp/visit/)
 
 地址：2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032日本；<br>
 电话：+81 3-3842-0181；<br>
@@ -484,6 +486,24 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 可以提前两个月通过邮件方式预约 [众议院参观英文导览](https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm)；（仅有当天下午三点场次为英文）<br>
 
 
+
+
+### <span style="color: #71D7FF;">西部区域</span>
+
+
+#### 明治神宫
+
+
+<b>导览 & 参拜指南</b>：[官方网站](https://www.meijijingu.or.jp/sanpai/2.php)
+
+
+#### 新宿 - 圣地巡礼
+
+请汤米补充一下巡礼案内。
+
+
+
+
 ### 其他区域
 
 
@@ -497,6 +517,151 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 #### 三鹰之森吉卜力美术馆
 
 提前至上一个月的当地时间 10 日 10:00am 开始放票，通过 [罗森订票平台](https://www.lawson.co.jp/ghibli_museum/english.html#top) 预定，
+
+
+
+
+
+
+
+## 京都府
+
+### 中部区域
+
+#### 清水寺
+
+<b>开放时间</b>：6:00 am - 18:00 pm<br>
+
+<b>导览</b>：[参拝案内](https://www.kiyomizudera.or.jp/news/open-hour.php)；<br>
+
+#### 三十三间堂
+
+<b>开放时间</b>：8:30 am - 5:00 pm<br>
+<b>门票</b>：¥600<br>
+
+<b>导览</b>：[参拝案内](https://www.sanjusangendo.jp/visit/)；<br>
+
+#### 南禅寺
+
+<b>开放时间</b>：8:40 am - 5:00 pm<br>
+
+<导览>：[参拝案内](https://nanzenji.or.jp/about_rinzaishu/visit)；<br>
+
+
+#### 禅林寺 - 永观堂
+
+<b>开放时间</b>：9:00 am - 4:00 pm<br>
+<b>门票</b>：¥600<br>
+<b>导览</b>：[参拝案内](https://www.eikando.or.jp/haikan.html)；[地图](https://www.eikando.or.jp/keidaizu.pdf)；<br>
+
+
+#### 平安神宫
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
