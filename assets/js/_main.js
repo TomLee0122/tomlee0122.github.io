@@ -7,10 +7,17 @@ $(document).ready(function () {
   $("#main").fitVids();
 
   // Follow menu drop down
-  $(".author__urls-wrapper button").on("click", function () {
-    $(".author__urls").toggleClass("is--visible");
-    $(".author__urls-wrapper").find("button").toggleClass("open");
+  $(".author__urls-wrapper button").on("click", function (e) {
+    // 找到当前按钮所在的 .author__urls-wrapper
+    var $wrapper = $(this).closest(".author__urls-wrapper");
+
+    // 只在这个 wrapper 里面切换 is--visible
+    $wrapper.find(".author__urls").toggleClass("is--visible");
+
+    // 只在当前按钮上切换 open
+    $(this).toggleClass("open");
   });
+
 
   // Close search screen with Esc key
   $(document).keyup(function (e) {

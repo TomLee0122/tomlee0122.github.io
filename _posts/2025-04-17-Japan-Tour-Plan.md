@@ -5,7 +5,7 @@ excerpt: |
   <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #C0C0C0">Eastern Gate of Asia. <img src='/assets/images/Travel/Japan Tour Plan/Flag_of_Japan.png' alt='' style='max-width: 6%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'></span>
   </div>
   <div>
-  <img src='/assets/images/Travel/Japan Tour Plan/Ise-Shrine_Naiku-Ujibashi-Torii.jpg' alt='' style='max-width: 35%; height: auto;'>
+  <img src='/assets/images/Travel/Japan Tour Plan/Ise-Shrine_Naiku-Ujibashi-Torii.jpg' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>
 tags:
