@@ -16,6 +16,7 @@ $(document).ready(function () {
 
     // 只在当前按钮上切换 open
     $(this).toggleClass("open");
+    console.log("Follow menu toggled");
   });
 
 
