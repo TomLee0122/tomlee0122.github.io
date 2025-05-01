@@ -22,10 +22,17 @@
     "node": ">= 0.10.0"
   },
   "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglify-es": "^3.0.0",
     "uglify-js": "^3.17.4"
   },
   "dependencies": {
     "lightgallery": "^2.8.3",
     "minimal-mistakes": "^0.0.1-security"
+  },
+  "scripts": {
+    "build:js": "gulp build:js"
   }
 }
