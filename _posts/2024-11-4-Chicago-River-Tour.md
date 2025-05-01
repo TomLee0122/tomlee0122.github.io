@@ -8,7 +8,7 @@ excerpt: |
   <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #0AAD4E">The Beauty of Chicago. Series 1.</span>
   </div>
   <div>
-  <img src='/assets/images/Travel/Chicago River Tour/Flag_of_Chicago,_Illinois.svg.png' alt='' style='max-width: 35%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'>
+  <img src='/assets/images/Travel/Chicago River Tour/Flag_of_Chicago,_Illinois.svg.png' alt='' style='max-width: 40%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>
 header: 
