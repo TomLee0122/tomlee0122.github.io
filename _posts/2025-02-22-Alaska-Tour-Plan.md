@@ -5,7 +5,7 @@ excerpt: |
   <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #A52A2A">🌳Into the Nature from Alaska.🌳</span>
   </div>
   <div>
-  <img src='/assets/images/Travel/Alaska Tour Plan/Insightful-Quiz-Question-Image-13-1024x768.png' alt='' style='max-width: 35%; height: auto;'>
+  <img src='/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.jpg' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>
 tags:
