@@ -35,8 +35,8 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 （以下均为芝加哥时间）
 
 - ✅**邮件已发** 4.18 号起可以预定 [众议院参观](/blogs/travel/Japan-Tour-Plan/#-参观众议院)（i.e.提前两个月）
-- 4.31 开始可以预定京都国宾馆参观
-- 4.31 可以预定 [皇居参观](/blogs/travel/Japan-Tour-Plan/#-皇居参观)
+- 4.30 开始可以预定京都国宾馆参观
+- 4.30 可以预定 [皇居参观](/blogs/travel/Japan-Tour-Plan/#-皇居参观)
 - 5.9 8:00 pm chicago time 可以预约下个月的 [三鹰之森吉卜力美术馆](/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆)
 - 5.18/5.19/5.20 每晚 chicago time 7:30 pm 预约 [机库参观](/blogs/travel/Japan-Tour-Plan/#-jal--ana-机库参观)
 - 5.18-5.20 可以预约 Shibuya Sky /晴空塔/麻布台 Hills 之类的票
