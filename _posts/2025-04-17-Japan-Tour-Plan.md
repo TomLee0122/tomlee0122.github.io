@@ -5,7 +5,7 @@ excerpt: |
   <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #C0C0C0">Eastern Gate of Asia. <img src='/assets/images/Travel/Japan Tour Plan/Flag_of_Japan.png' alt='' style='max-width: 6%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'></span>
   </div>
   <div>
-  <img src='/assets/images/Travel/Japan Tour Plan/Ise-Shrine_Naiku-Ujibashi-Torii.jpg' alt='' style='max-width: 35%; height: auto;'>
+  <img src='/assets/images/Travel/Japan Tour Plan/Ise-Shrine_Naiku-Ujibashi-Torii.jpg' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>
 tags:
@@ -25,6 +25,11 @@ toc: true
 permalink: /blogs/travel/Japan-Tour-Plan/
 ---
 
+<!-- 引入 jQuery -->
+<script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>
+
+<!-- 再引入你的脚本 -->
+<script src="{{ '/assets/js/my_script_1.js' | relative_url }}"></script>
 
 
 
@@ -758,4 +763,3 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 - 京阪本线：即使是特急也只需要买乘车券/IC卡（特急车有付费特殊车厢 Premium Car ，需额外买票）；
 - 近铁的线路如果是普通 / 急行只需刷卡入场或买乘车券，特急需要进站后在红色特急券机器额外买特急券（带指定席）；
 - JR 奈良等普通 JR 车只需买乘车券/IC卡；
-
