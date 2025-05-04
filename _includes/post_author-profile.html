@@ -4,7 +4,9 @@
 
 {% assign author = site.data.authors[one_author]  %}
 
-<div itemscope itemtype="https://schema.org/Person" class="h-card">
+{% assign z_ind = authors.size | minus: forloop.index | plus: 1 %}
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card" style="position: relative; z-index: {{ z_ind }}">
 
   {% if author.avatar %}
     <div class="author__avatar">
