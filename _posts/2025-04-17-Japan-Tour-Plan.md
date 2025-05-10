@@ -31,17 +31,22 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <!-- 再引入你的脚本 -->
 <script src="{{ '/assets/js/my_script_1.js' | relative_url }}"></script>
 
+<!-- 将下面两个按钮并排放置 -->
 
 
-# <span style="color:rgb(254, 17, 0);">！！预约日程！！</span>
 
-<!-- 用按钮来包裹这个链接 -->
 
-<div style="text-align: left; margin-left: 2em">
+
+ 
+<div style="display: flex; justify-content: space-around; margin: 1em 2em;">
+  <a href="https://github.com/TomLee0122/tomlee0122.github.io" class="btn btn--inverse"
+  style="flex: 1; margin: 0 1em; text-align: center; padding: 20px 60px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(93, 93, 97, 0.52);">本网页 Github 仓库</a>
   <a href="https://nuwildcat-my.sharepoint.com/:f:/r/personal/glu0739_ads_northwestern_edu/Documents/File/25JapanVisa/ticket?csf=1&web=1&e=FBORQy" class="btn btn--inverse"
-  style="display: block; width: 100%; max-width: 300px; margin: 0 auto; text-align: center;  padding: 20px 60px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">预约票据 onedrive 存档</a>
+  style="flex: 1; margin: 0 1em; text-align: center; padding: 20px 60px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">预约票据 onedrive 存档</a>
 </div>
 
+
+# <span style="color:rgb(223, 46, 33);">预约日程</span>
 
 - ✅**已预定** 6/20, 2:45 pm, #:231 带 护照&申请表 \ 4.18 号起可以预定 [众议院参观](/blogs/travel/Japan-Tour-Plan/#参观众议院)（i.e.提前两个月）
 - ✅**已预定** 6/26, 11:35 am, #:L06261145q00T 出示预约邮件 \ 4.30 开始可以预定 [京都御苑-京都国宾馆](/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆) 参观
