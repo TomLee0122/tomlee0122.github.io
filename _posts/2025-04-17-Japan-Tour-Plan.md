@@ -35,13 +35,18 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 # <span style="color:rgb(254, 17, 0);">！！预约日程！！</span>
 
+<!-- 用按钮来包裹这个链接 -->
 
+<div style="text-align: left; margin-left: 2em">
+  <a href="https://nuwildcat-my.sharepoint.com/:f:/r/personal/glu0739_ads_northwestern_edu/Documents/File/25JapanVisa/ticket?csf=1&web=1&e=FBORQy" class="btn btn--inverse"
+  style="display: block; width: 100%; max-width: 300px; margin: 0 auto; text-align: center;  padding: 20px 60px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">预约票据 onedrive 存档</a>
+</div>
 
 
 - ✅**已预定** 6/20, 2:45 pm, #:231 带 护照&申请表 \ 4.18 号起可以预定 [众议院参观](/blogs/travel/Japan-Tour-Plan/#参观众议院)（i.e.提前两个月）
-- ✅**已预定** 6/25, 11:35 am, #:L06261145q00T 出示预约邮件 \ 4.30 开始可以预定 [京都御苑-京都国宾馆](/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆) 参观
+- ✅**已预定** 6/26, 11:35 am, #:L06261145q00T 出示预约邮件 \ 4.30 开始可以预定 [京都御苑-京都国宾馆](/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆) 参观
 - ✅**已预定** 6/20, 9:50 am, #:506130880 带 护照 + 出示预约邮件 \ 4.30 可以预定 [皇居参观](/blogs/travel/Japan-Tour-Plan/#皇居参观)
-- 5.9 8:00 pm chicago time 可以预约下个月的 [三鹰之森吉卜力美术馆](/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆)
+- ✅**已预定** 6/20, 12:00 pm5.9 8:00 pm chicago time 可以预约下个月的 [三鹰之森吉卜力美术馆](/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆)
 - 5.17-ANA, 5.18-JAL  每晚 chicago time 7:30 pm 预约 [机库参观](/blogs/travel/Japan-Tour-Plan/#jal--ana-机库参观)
 - 5.18-5.20 可以预约 Shibuya Sky /晴空塔/麻布台 Hills 之类的票
 <!-- - 5.20 左右可以开始预约 [富士洄游](/blogs/travel/Japan-Tour-Plan/#富士洄游)。（不约应该问题也不大，可以坐其它种类的铁路） -->
@@ -102,15 +107,17 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   <tr>
     <td rowspan="2">6月20日<br>（五/金）</td>
     <td><b>上午</b>：
-        <a href="TTTTBBBBDDDD" class="custom-link-2">新宿</a>、
-        <a href="TTTTBBBBDDDD" class="custom-link-2">明治神宫</a>、
-        <a href="TTTTBBBBDDDD" class="custom-link-2">代代木公园</a></td>
+        <a href="TTTTBBBBDDDD" class="custom-link-2">东京车站</a>、<span style="background-color:rgba(236, 15, 15, 0.26);">
+        <a href="/blogs/travel/Japan-Tour-Plan/#皇居参观" class="custom-link-2">皇居</a></span></td>
+        
     <td rowspan="2"><br></td>
   </tr>
   <tr><td><b>下午</b>：<span style="background-color:rgba(236, 15, 15, 0.26);">
-        <a href="/blogs/travel/Japan-Tour-Plan/#皇居参观" class="custom-link-2">皇居</a></span>、
-        <a href="TTTTBBBBDDDD" class="custom-link-2">东京车站</a>、<span style="background-color:rgba(236, 15, 15, 0.26);">
-        <a href="/blogs/travel/Japan-Tour-Plan/#参观众议院" class="custom-link-2">众议院参观</a></span></td>
+      <a href="/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆" class="custom-link-2">三鹰之森吉卜力美术馆</a></span>、<span style="background-color:rgba(236, 15, 15, 0.26);">
+      <a href="/blogs/travel/Japan-Tour-Plan/#参观众议院" class="custom-link-2">众议院参观</a></span>、
+      <a href="TTTTBBBBDDDD" class="custom-link-2">新宿</a>、
+      <a href="TTTTBBBBDDDD" class="custom-link-2">明治神宫</a>、
+      <a href="TTTTBBBBDDDD" class="custom-link-2">代代木公园</a>，</td>
   <!-- <tr><td><b>晚上</b>：</td> -->
   <!-- <td rowspan="3"></td> -->
   </tr>
@@ -120,8 +127,8 @@ permalink: /blogs/travel/Japan-Tour-Plan/
     <td rowspan="4"><b>富士山</b></td>
     <td rowspan="2">6月21日<br>（六/土）</td>
     <td><b>上午</b>：
-    <a href="TTTTBBBBDDDD" class="custom-link-2">三鹰之森吉卜力美术馆</a>
-    <a href="/blogs/travel/Japan-Tour-Plan/#%E4%B8%9C%E4%BA%AC-%E5%AF%8C%E5%A3%AB%E5%B1%B1" class="custom-link-2">前往河口湖</a></td>
+      
+      <a href="/blogs/travel/Japan-Tour-Plan/#%E4%B8%9C%E4%BA%AC-%E5%AF%8C%E5%A3%AB%E5%B1%B1" class="custom-link-2">前往河口湖</a></td>
     <td rowspan="2">富士山地区(1)</td>
     <td rowspan="2"><br></td>
   </tr>
@@ -525,7 +532,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 #### 三鹰之森吉卜力美术馆
 
-提前至上一个月的当地时间 10 日 10:00am 开始放票，通过 [罗森订票平台](https://www.lawson.co.jp/ghibli_museum/english.html#top) 预定，
+提前至上一个月的当地时间 10 日 10:00am 开始放票，通过（给外国人版本的） [罗森订票平台](https://l-tike.com/st1/ghibli-en/Tt/Ttg010agreement/index) 预定，
 
 
 
