@@ -52,10 +52,10 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 - ✅**已预定** 6/26, 11:35 am, #:L06261145q00T 出示预约邮件 \ 4.30 开始可以预定 [京都御苑-京都国宾馆](/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆) 参观
 - ✅**已预定** 6/20, 9:50 am, #:506130880 带 护照 + 出示预约邮件 \ 4.30 可以预定 [皇居参观](/blogs/travel/Japan-Tour-Plan/#皇居参观)
 - ✅**已预定** 6/20, 12:00 pm5.9 8:00 pm chicago time 可以预约下个月的 [三鹰之森吉卜力美术馆](/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆)
-- 5.17-ANA, 5.18-JAL  每晚 chicago time 7:30 pm 预约 [机库参观](/blogs/travel/Japan-Tour-Plan/#jal--ana-机库参观)
+- ✅**已预定** 6/19, 9:30 am, 带护照 \ 5.18-JAL, 5.19-ANA, 每晚 chicago time 7:30 pm 预约 [机库参观](/blogs/travel/Japan-Tour-Plan/#jal--ana-机库参观)
 - 5.18-5.20 可以预约 Shibuya Sky /晴空塔/麻布台 Hills 之类的票
 <!-- - 5.20 左右可以开始预约 [富士洄游](/blogs/travel/Japan-Tour-Plan/#富士洄游)。（不约应该问题也不大，可以坐其它种类的铁路） -->
-- 5.20 左右可以开始预约 富士山 - 三岛 - 京都 的 [Sekitori 巴士](/blogs/travel/Japan-Tour-Plan/#sekitori-巴士) 和 [新干线](/blogs/travel/Japan-Tour-Plan/#新干线).
+- 5.23 左右可以开始预约 富士山 - 三岛 - 京都 的 [Sekitori 巴士](/blogs/travel/Japan-Tour-Plan/#sekitori-巴士) 和 [新干线](/blogs/travel/Japan-Tour-Plan/#新干线).
 - 提前个若干天预定 富士山租车/热门饭馆/热门景点。
   - 例子：岚山小火车，~~琉璃光院（六月不开门）~~，大阪城公园天守阁，二条城本丸，京都御苑，京都仙洞御所。
 
@@ -528,12 +528,12 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 #### JAL / ANA 机库参观
 
-- **JAL Sky Museum**：提前一个月的 *同一天* 当地时间 9:30am 放票，通过 [JAL 官网](https://www.jal.com/ja/kengaku/en/) 预订。
+- **JAL Sky Museum**：提前一个月同一天的当地时间 9:30am 放票，通过 [JAL 官网](https://www.jal.com/ja/kengaku/en/) 预订。
 
-- **ANA Blue Hanger Tour**：同样是提前一个月的 *前一天* 当地时间 9:30am 放票 蹲点在 [ANA 官网](https://www.anahd.co.jp/group/tour/ana-blue-hangar/reservation/) 预定。
+- **ANA Blue Hanger Tour**：提前 30 天当地时间 9:30am 放票 蹲点在 [ANA 官网](https://www.anahd.co.jp/group/tour/ana-blue-hangar/reservation/) 预定。
 
 
-（非常抢手，需要蹲点。例如：计划 6 月 19 日参观，就需要在 5 月 17 日芝加哥时间 7:30pm 蹲点 ANA, 5 月 18 日芝加哥时间 7:30pm 蹲点 JAL）
+（非常抢手，需要蹲点。例如：计划 6 月 19 日参观，就需要在 5 月 19 日芝加哥时间 7:30pm 蹲点 ANA, 5 月 18 日芝加哥时间 7:30pm 蹲点 JAL）
 
 #### 三鹰之森吉卜力美术馆
 
