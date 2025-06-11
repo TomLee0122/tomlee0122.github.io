@@ -42,7 +42,7 @@ permalink: /blogs/travel/chicago-river-tour/
   <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.jpg" alt="" style="max-width: 90%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1.5em;">芝加哥天际线，摄于威利斯大厦 (Willis Tower)。</figcaption>
+  <figcaption style="margin-top: 1.5em;">芝加哥天际线，摄于韦莱集团大厦 (Willis Tower)。</figcaption>
 </div>
 
 # <span><span style="color: #8E403A;"> 芝加哥河 </span>
@@ -472,3 +472,14 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 </blockquote>
 
 ### <span style="color: gray;"> 韦莱集团大厦 (Willis Tower) </span> <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_logo.png" alt="" style="max-width: 12%; height: auto;">
+
+韦莱集团大厦坐落在芝加哥河南支的东侧河岸，位于 233 S Wacker Dr, Chicago, IL 60606. 韦莱集团大厦一座建筑便占据一整个街区，其四周被富兰克林大街 (Franklin Street)、杰克森大道 (Jackson Boulevard)、瓦克大道 (Wacker Drive) 和亚当大街 (Adams Street) 包围。它建于1973年。建成时，由于它是西尔斯百货公司 (Sears, Roebuck and Co.) 的总部，得名西尔斯大厦 (Sears Tower). 2009年，西尔斯百货公司将总部迁出芝加哥，大厦的命名权交给了韦莱集团，从此大厦更名为韦莱集团大厦 (Willis Tower).
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-13 185904.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-13 185904.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">韦莱集团大厦，摄于2024年10月13日与Leo的芝加哥河之旅。</figcaption>
+</div>
+
+韦莱集团大厦全高1451英尺（约442.3米），包含地上108层与地下3层。1973年建成之时，它是全世界最高的建筑，并且保持了这一纪录<b>长达25年</b>，直至1998年被吉隆坡的吉隆坡双子塔 (Petronas Twin Towers) 超越。
