@@ -607,11 +607,12 @@ $15 成人；<br>
 
 <b>时间</b>：3月24日周一15:00 p.m.至3月27日周四12:00 p.m.
 
-<b>地点</b>：5436 Dorbrandt St, Anchorage, AK 99518, USA.<br>
+<b>地点</b>：<br>
+<!-- 5436 Dorbrandt St, Anchorage, AK 99518, USA. -->
 位于安克雷奇机场西边，市区南边。距机场驾车约7分钟，距市区驾车约15分钟。<br>
 <!-- 预定码：HM3ZDRQ3RY。 -->
 
-<div class="map-desktop" style="text-align: center;">
+<!-- <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8153.617402285912!2d-149.91213187851199!3d61.16905614064214!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c897f3280fd361%3A0x43c93aea00066d07!2s5436%20Dorbrandt%20St%2C%20Anchorage%2C%20AK%2099518!5e0!3m2!1szh-CN!2sus!4v1742104317324!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -625,17 +626,18 @@ $15 成人；<br>
       <div class="map-card-address">5436 Dorbrandt St, Anchorage, AK 99518</div>
     </div>
   </a>
-</div>
+</div> -->
 
 ## 费尔班克斯
 
 <b>时间</b>：3月27日周四15:00 p.m.至3月30日周日10:00 a.m.
 
-<b>地点</b>：620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA<br>
+<b>地点</b>：<br>
+<!-- 620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA -->
 位于费尔班克斯西北郊，距机场驾车约15分钟。<br>
 <!-- 预定码：HMK95FPAFT。 -->
 
-<div class="map-desktop" style="text-align: center;">
+<!-- <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5641.06299669955!2d-147.80555140590104!3d64.88663136375632!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5132449177287135%3A0xbffbbde79e696125!2s620%20Eton%20Blvd%2C%20Fairbanks%2C%20AK%2099709!5e0!3m2!1szh-CN!2sus!4v1742408511391!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -649,7 +651,7 @@ $15 成人；<br>
       <div class="map-card-address">620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709</div>
     </div>
   </a>
-</div>
+</div> -->
 
 ## 坎特维尔 (Cantwell)
 
