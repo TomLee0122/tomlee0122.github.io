@@ -168,7 +168,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   <tr>
     <td rowspan="3">6月24日<br>（二/火）</td>
     <td><b>上午</b>：
-        <a href="/blogs/travel/Japan-Tour-Plan/#岚山" class="custom-link-2">岚山</a>、
+        <a href="/blogs/travel/Japan-Tour-Plan/#嵯峨岚山" class="custom-link-2">岚山</a>、
         <a href="/blogs/travel/Japan-Tour-Plan/#天龙寺" class="custom-link-2">天龙寺</a>、
         <a href="/blogs/travel/Japan-Tour-Plan/#渡月桥" class="custom-link-2">渡月桥</a></td>
     <td rowspan="3"><br></td>
@@ -507,6 +507,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 #### 东京车站
 
+美丽的车站建筑，适合拍照；曾经在关东大地震后部分重建。
 [信息](https://zh.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%AB%99)
 
 
@@ -611,6 +612,8 @@ TBD
 
 <b>开放时间</b>：6:00 am - 6:00 pm<br>
 
+[官网](https://www.heianjingu.or.jp/)
+
 
 #### 八坂神社
 
@@ -628,43 +631,101 @@ TBD
 
 #### 二条城
 
+德川家康府。[官网](https://nijo-jocastle.city.kyoto.lg.jp/),[介绍](https://nijo-jocastle.city.kyoto.lg.jp/introduction/).
+
+<b>开放时间</b>：8:45 am - 5:00 pm （4:00 pm 停止入场）<br>
+<b>门票</b>：入城料 ¥800，二の丸御殿 ¥1300，本丸御殿 ¥1000。参观本丸最好提前预约。
+
 #### 晴明神社
+
+供奉阴阳师安倍晴明的神社。 [官网](https://www.seimeijinja.jp/)，[导览图](https://www.seimeijinja.jp/guide/).\\
+
+<b>开放时间</b>：9:00 am - 5:00 pm<br>
 
 #### 北野天满宫
 
+供奉学问之神菅原道真，相当于日本的文庙，适合在此求学业御守り。 [官网](https://kitanotenmangu.or.jp/)，[导览图](https://kitanotenmangu.or.jp/guidance/).
+
+<b>开放时间</b>：7:00 am - 5:00 pm<br>
+
 #### 金阁寺
 
+足利义满的别墅，后改为禅寺。聪明的一休中将军的居所。 [官网](https://www.shokoku-ji.jp/kinkakuji/about/)，[导览图](https://www.shokoku-ji.jp/kinkakuji/guide/).
+
+<b>开放时间</b>：9:00 am - 5:00 pm<br>
+<b>门票</b>：¥500<br>
 
 
 ### 东北区域
 
 #### 三千院
 
+漂亮的庭院。[导览](http://www.sanzenin.or.jp/guide/index.html)
+
+<b>开放时间</b>：9:00 am - 5:00 pm<br>
+<b>门票</b>：¥700<br>
+
 #### 寂光院
 
+漂亮的庭院，就在三千院对面可以顺便一去。[导览](https://www.jakkoin.jp/annai/)
+
+<b>开放时间</b>：9:00 am - 5:00 pm<br>
+<b>门票</b>：¥600<br>
+
 #### 贵船神社
+
+环境很好的神社，有特色水占卜（至每天17:00）
+
+<b>开放时间</b>：6:00 am - 8:00 pm<br>
+
+[导览](https://kifunejinja.jp/info/#anchor-2)，其本院很小，可以往深处走到奥宫。
 
 
 
 ### 西部区域
 
-#### 岚山
+#### 嵯峨岚山
 
-#### 竹林小径
+主要指代那一块区域，个别景点在下面单列，本节只列出一些零散景点。
+
+- 周恩来纪念诗碑
+- 嵯峨鸟居本：一块保留了传统街道风貌的区域。
+- 竹林小径
 
 #### 渡月桥
 
+著名的木桥，桥本身很好看。
+
 #### 天龙寺
 
-#### 嵯峨鸟居本
+<b>开放时间</b>：8:30 am - 5:00 pm<br>
+<b>门票</b>：¥500<br>
+
+[导览](https://www.tenryuji.com/cn/precincts/)
+
+
 
 ### 南部区域
 
 #### 伏见稻荷大社
 
+伏见稻荷社的本社，供奉稻荷大神，适宜求商业和爱情的御守り。内有知名千本鸟居，可以多往上爬爬找没有人的地方。
+
 #### 东寺
 
+内有知名的五重塔。
+
+<b>开放时间</b>：8:00 am - 5:00 pm<br>
+
+[导览](https://toji.or.jp/guide/)
+
+
 #### 京都铁道博物馆
+
+<b>开放时间</b>：10:00 am - 5:00 pm，周三休馆<br>。
+<b>门票</b>：成人 ¥1500，大学生 ¥1300.
+
+
 
 
 
@@ -675,13 +736,35 @@ TBD
 
 #### 唐招提寺
 
+初中都学过，无需多言。
+
+<b>开放时间</b>：8:30 am - 5:00 pm<br>
+<b>门票</b>：¥1000，另有鉴真坐像的国宝展 ¥1000<br>
+
+[导览](https://www.toshodaiji.jp/english/visit/index.html)；<br>
+
 #### 东大寺
+
+巨型木结构建筑，有漂亮的破风。
+
+<b>开放时间</b>：7:30 am - 5:30 pm<br>
+<b>门票</b>：¥800<br>
+
+[导览](https://www.todaiji.or.jp/information/keidai/l)；<br>
 
 #### 奈良公园
 
+可以喂小鹿。
+
 #### 若草山
 
+可以在上面看奈良市区的全景。需要注意的是不能下山太晚误了公交。
+
 #### 春日大社
+
+春日社的总本社，可以顺便一去。
+
+[导览](https://www.kasugataisha.or.jp/images/pdf/keidai_mapA3.pdf)；<br>
 
 
 
