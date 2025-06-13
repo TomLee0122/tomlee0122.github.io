@@ -7,7 +7,7 @@ excerpt: |
   <div>
   <img src='/assets/images/Travel/Japan Tour Plan/Ise-Shrine_Naiku-Ujibashi-Torii.jpg' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
-  </div>
+  </div>  
 tags:
   - Travel
 # primary_tag: Travel
@@ -19,8 +19,8 @@ authors:
   - yikunli
 related: false
 read_time: false
-last_modified_at: 2025-04-17
-toc: true
+last_modified_at: 2025-06-12
+toc: false
 # toc_sticky: true
 permalink: /blogs/travel/Japan-Tour-Plan/
 ---
@@ -32,18 +32,40 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <script src="{{ '/assets/js/my_script_1.js' | relative_url }}"></script>
 
 <!-- 将下面两个按钮并排放置 -->
-
-
-
-
-
  
 <div style="display: flex; justify-content: space-around; margin: 1em 2em;">
   <a href="https://github.com/TomLee0122/tomlee0122.github.io" class="btn btn--inverse"
   style="flex: 1; margin: 0 1em; text-align: center; padding: 20px 60px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(93, 93, 97, 0.52);">本网页 Github 仓库</a>
   <a href="https://nuwildcat-my.sharepoint.com/:f:/r/personal/glu0739_ads_northwestern_edu/Documents/File/25JapanVisa/ticket?csf=1&web=1&e=FBORQy" class="btn btn--inverse"
-  style="flex: 1; margin: 0 1em; text-align: center; padding: 20px 60px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">预约票据 onedrive 存档</a>
+  style="flex: 1; margin: 0 1em; text-align: center; padding: 20px 60px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">预约票据 OneDrive 存档</a>
 </div>
+<div style="display: flex; justify-content: space-around; margin: 1em 2em;">
+  <a href="https://maps.app.goo.gl/bWnRWETbUYmEQKz79" class="btn btn--inverse"
+  style="flex: 1; margin: 0 1em; text-align: center; padding: 20px 60px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(217, 48, 37, 0.52);">景点 Google Map Links</a>
+  <a href="https://maps.app.goo.gl/fwS1rL8FCg2ZmqZj6" class="btn btn--inverse"
+  style="flex: 1; margin: 0 1em; text-align: center; padding: 20px 60px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(31, 142, 62, 0.52);">饭馆 Google Map Links</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # <span style="color:rgb(223, 46, 33);">预约日程</span>
@@ -58,6 +80,24 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 - 5.23 左右可以开始预约 富士山 - 三岛 - 京都 的 [Sekitori 巴士和新干线](/blogs/travel/Japan-Tour-Plan/#富士山-京都).
 - 提前个若干天预定 富士山租车/热门饭馆/热门景点。
   - 例子：岚山小火车，~~琉璃光院（六月不开门）~~，大阪城公园天守阁，二条城本丸，京都御苑，京都仙洞御所。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # <span style="color: #8E403A;">日程安排</span>
@@ -229,13 +269,44 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </table>
 </div>
 
-## 说明
+## <span style="color: #71D7FF;">说明</span>
 
 
 
 - 存在部分项目由于有预约时间 / 目的地特点制约，<span style="background-color:rgba(236, 15, 15, 0.26);">必须</span>  或 <span style="background-color:rgba(37, 15, 236, 0.27);">比较建议</span> 在该时段参访。
 - 基本的排班逻辑：基本认为每天上午活动时间 3 hr（特殊早起除外），下午 4 hr，除少数博物馆性质目的地外按照每个景点 1 hr + 通勤时间计算，笼统来说上午 2 个点，下午 3 个点（具体数字依相对位置关系浮动，也存在特别远的目的地单列）；晚上至多 1 个随便逛逛性质的景点。
 - 目前总体来说我觉得目前日程比较紧张，另外有些预约还未完成，日程可能会有变化；可以等到固定预约日程稳定之后 / 到实地选择扔掉一些目的地。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -318,9 +389,31 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # <span style="color: #8E403A;">主要旅行景点</span>
 
-## 东京都
+## <span style="color: #71D7FF;">东京都</span>
 
 
 <div class="map-desktop" style="text-align: center;">
@@ -329,7 +422,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </div>
 
 
-### <span style="color: #71D7FF;">东北区域</span>
+### 东北区域
 
 
 
@@ -495,7 +588,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 
 
-### <span style="color: #71D7FF;">中部区域</span>
+### 中部区域
 
 #### 皇居
 
@@ -568,7 +661,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 提前至上一个月的当地时间 10 日 10:00am 开始放票，通过（给外国人版本的） [罗森订票平台](https://l-tike.com/st1/ghibli-en/Tt/Ttg010agreement/index) 预定。
 
 
-## 富士山
+## <span style="color: #71D7FF;">富士山</span>
 
 TBD
 
@@ -577,7 +670,7 @@ TBD
 
 
 
-## 京都府
+## <span style="color: #71D7FF;">京都府</span>
 
 ### 中部区域
 
@@ -732,7 +825,7 @@ TBD
 
 
 
-## 奈良县
+## <span style="color: #71D7FF;">奈良县</span>
 
 #### 唐招提寺
 
@@ -768,7 +861,7 @@ TBD
 
 
 
-## 大阪府
+## <span style="color: #71D7FF;">大阪府</span>
 
 由于临时机票调整，大阪区域的游览被基本砍掉，预计只会有半天用以参观大阪城
 
@@ -785,116 +878,9 @@ TBD
 
 
 
+# <span style="color: #8E403A;">Appendix</span>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Appendix
-
-## 日本铁路交通票券综述
+## <span style="color: #71D7FF;">日本铁路交通票券综述</span>
 
 日本铁道与大多数国家不同，是有多个公司分别运营，主要包括 JR （其中 JR 还按照地域划分为 JR 东日本、JR 西日本等）、一些城铁、私铁等。它们可能会共用一些车站实现线路之间的乘换，所以会出现需要在同一车站内先出 A 公司铁路的闸机再进 B 公司铁路的闸机的情况。为了减轻买票的压力，各铁路公司承认一些铁路通票，广为认知的西瓜卡 Suica (JR 东日本发行) 和 ICOCA (JR 西日本发行) 就是一些例子，虽然是由其中一个公司发行，但在其他公司的线路上也可以使用。
 
@@ -947,7 +933,7 @@ TBD
 
 
 
-## 其他注意事项
+### 其他注意事项
 
 - **如果乘车时出现问题或疑问，先去人工柜台/闸机找工作人员**
 - 乘坐超大件行李乘车可能需要付大件行李费用；
@@ -960,7 +946,7 @@ TBD
 - 如果采取买纸质乘车券的方式，在出站时乘车券会直接被吞掉。如果想留念的话应去人工闸口盖章销票；
 - 新干线的自由席一般是前 2-3 节车厢；
 
-## 例子
+### 例子
 
 以 <a href="/blogs/travel/Japan-Tour-Plan/#京都-大阪-奈良-宇治-琵琶湖" class="custom-link-1">交通方式</a> 中提到的关西地区诸交通方式为例：
 
