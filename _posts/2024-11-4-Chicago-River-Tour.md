@@ -17,13 +17,13 @@ header:
 tags:
   - Travel
 layout: single
-classes: wide
+classes: wide custom-footer
 author_profile: true
 authors:
   - yikunli
 related: false
 read_time: false
-last_modified_at: 2025-04-09
+last_modified_at: 2025-06-14
 toc: true
 permalink: /blogs/travel/chicago-river-tour/
 ---
@@ -473,7 +473,9 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 ### <span style="color: gray;"> 韦莱集团大厦 (Willis Tower) </span> <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_logo.png" alt="" style="max-width: 12%; height: auto;">
 
-韦莱集团大厦坐落在芝加哥河南支的东侧河岸，位于 233 S Wacker Dr, Chicago, IL 60606. 韦莱集团大厦一座建筑便占据一整个街区，其四周被富兰克林大街 (Franklin Street)、杰克森大道 (Jackson Boulevard)、瓦克大道 (Wacker Drive) 和亚当大街 (Adams Street) 包围。它建于1973年。建成时，由于它是西尔斯百货公司 (Sears, Roebuck and Co.) 的总部，得名西尔斯大厦 (Sears Tower). 2009年，西尔斯百货公司将总部迁出芝加哥，大厦的命名权交给了韦莱集团，从此大厦更名为韦莱集团大厦 (Willis Tower).
+#### <span style="color: gray;"> 简介 </span>
+
+韦莱集团大厦坐落在芝加哥河南支的东侧河岸，位于 233 S Wacker Dr, Chicago, IL 60606. 韦莱集团大厦一座建筑便占据一整个街区，其四周被富兰克林大街 (Franklin Street)、杰克森大道 (Jackson Boulevard)、瓦克大道 (Wacker Drive) 和亚当大街 (Adams Street) 包围。它建于1973年。建成时，由于它是西尔斯百货公司 (Sears, Roebuck and Co.) 的总部，得名西尔斯大厦 (Sears Tower). 1994年，西尔斯百货公司出售了这栋摩天大楼并将总部迁出芝加哥。2009年，大厦的命名权交给了韦莱集团，从此大厦更名为韦莱集团大厦 (Willis Tower).
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/2024-10-13 185904.jpg" target="_blank">
@@ -483,3 +485,57 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 </div>
 
 韦莱集团大厦全高1451英尺（约442.3米），包含地上108层与地下3层。1973年建成之时，它是全世界最高的建筑，并且保持了这一纪录<b>长达25年</b>，直至1998年被吉隆坡的吉隆坡双子塔 (Petronas Twin Towers) 超越。
+
+<div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5941.299612949914!2d-87.63848982328044!3d41.878880365364374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cbee269fbbb%3A0x10f6dce5eb88c7d!2z6Z-m6I6x6ZuG5Zui5aSn5Y6m!5e0!3m2!1szh-CN!2sus!4v1749880882625!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的韦莱集团大厦。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/hrAofC3xDSkRsGLL7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">韦莱集团大厦</div>
+      <div class="map-card-address">233 S Wacker Dr, Chicago, IL 60606</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: gray;"> 诞生历史 </span>
+
+20世纪中叶，正值西尔斯百货公司在美国零售业的巅峰时期，日益增长的业务与公司规模使得西尔斯百货的高层意识到原本位于（彼时）芝加哥西郊的总部大楼已经无法满足公司的需求。1966年，西尔斯的董事会决定开始规划一栋新的总部大楼。董事会聘请了著名的建筑公司 <a href="https://www.som.com/" class="custom-link-3">Skidmore, Owings & Merrill (SOM)</a> 来负责设计这座新大楼。根据对公司的估算，董事会计划新的大楼至少需要有39万平方米的办公面积，大楼剩余的办公面积将出租给其他需要的租户。起初，董事会提出每一层楼的面积需要达到10万平方英尺（约9300平方米），然后按照公司需求决定大楼的层数。然而，SOM 的建筑师们认为过大的每层面积会导致大楼多余空间难以出租。为了使大楼具有良好的出租收益，SOM 提出了在低楼层每层面积55000平方英尺（约5100平方米），并在高楼层逐渐减少层面积的设计方案。经过讨论，董事会最终接受了这个方案，但与此同时，董事会过于乐观的对西尔斯公司的发展估计使他们意识到在上述设计方案下，新的总部大楼会出乎意料地高。1970年7月27日，SOM 宣布了一座令人震惊的高1450英尺（约442米）的约110层摩天大楼的设计方案，这使得这座大楼一旦建成，将成为世界上最高的建筑物（按照屋顶到地面的高度计算）。1970年8月，西尔斯大厦正式开工。
+
+#### <span style="color: gray;"> 混合管状结构 (Bundled tube structure) </span>
+
+一件每一栋摩天大楼都需要考虑的非常重要的事情是如何使得如此高的建筑物能够支撑起它庞大的重量以及在横向负载（包括极端天气与地震）下保持稳定。传统的解决方案包括在高层安装谐振阻尼器（<a href="/blogs/travel/chicago-river-tour/#-%E6%B2%B3%E5%8C%97%E8%B7%AF150%E8%99%9F%E5%A4%A7%E5%8E%A6-" class="custom-link-3">河北路150號大厦</a>）和在高层采用镂空设计（芝加哥瑞吉酒店 (The Residences at The St. Regis Chicago)）。然而，这两个方案都有各自的缺点。前者需要占用大量的内部建筑空间从而会影响经济性，而后者则会影响建筑物的美观。为了<em style="color: gray;"><del>“我全都要”</del></em>二者兼得，SOM 的建筑师创新性地提出了管状结构 (Tube Structure) 与混合管状结构 (Bundled Tube Structure) 的设计方案。管状结构的做法是在建筑物的外围边缘部分密集地修建一系列的承重管以作为负责建筑物稳定性的主要结构，这些主承重管之间有一些巧妙的结构连接并且相互固定。同时，在建筑物的内部也配有一些辅助承重管，这些辅助承重管与主承重管之间有梁连接，它们的作用是将建筑物的重量均匀地传递到位于建筑外围的主承重管上。采用了混合管状结构的建筑物则由多个采用了上述的管状结构的单元组合而成，这些单元彼此间不完全相同。一般有一至两个高度最高的单元，它们代表了这个建筑物的高度。它们的下方周围分布着一些高度较低的单元，这些较低的单元一方面是建筑的一部分，另一方面则起到了巩固高单元的作用，从而提升了建筑物的整体稳定性。建筑师会综合考虑当地天气、地基等条件以决定具体的单元数量与排布。韦莱集团大厦采用了9个单元的混合管状结构设计。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/Willis_Tower_tube_structure.png" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_tube_structure.png" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">韦莱集团大厦的混合管状结构设计。Credit: <a href="https://en.wikipedia.org/wiki/Tube_(structure)" class="custom-link-3">https://en.wikipedia.org/wiki/Tube_(structure)</a>.</figcaption>
+</div>
+
+管状结构与混合管状结构自1970年被提出以来，已经成为了摩天大楼的标准结构之一，同时也被许多后来的高层建筑采用。更多例子可见<a href="https://en.wikipedia.org/wiki/Tube_(structure)#Concrete" class="custom-link-3">https://en.wikipedia.org/wiki/Tube_(structure)#Concrete</a>.
+
+#### <span style="color: gray;"> 天空甲板 (Skydeck) </span>
+
+<a href="https://theskydeck.com/" class="custom-link-3">Skydeck</a> 是位于韦莱集团大厦内部的观景台，位于大厦的第103层。Skydeck 是美国境内最高的室内观景台。在此，你可以从东西南北一览芝加哥的城市风貌。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
+  </a>
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
+  </a>
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
+  </a>
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">摄于Skydeck. 四张照片分别对应东、南、西、北四个方向。</figcaption>
+</div>
