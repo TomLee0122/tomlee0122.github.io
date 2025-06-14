@@ -1,5 +1,15 @@
 /* Custom CSS for my blog */
 
+// color
+
+$my_custom_color_1: #7F82BB;
+
+// _my-style.scss
+.my-custom-color_1 {
+  color: $my_custom_color_1;
+}
+
+
 /* 链接相关样式 */
 
 .custom-link-1 {

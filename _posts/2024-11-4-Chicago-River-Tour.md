@@ -101,7 +101,7 @@ permalink: /blogs/travel/chicago-river-tour/
 
 以下介绍的这些建筑，大致上根据一艘从密西根大道桥 (DuSable Bridge) 东侧码头出发的游船的航线，以及它们在航线上出现的先后顺序排列。
 
-### <span style="color: gray;"> 箭牌大厦 (The Wrigley Building) <img src="/assets/images/Travel/Chicago River Tour/Mars Brand Logos Web Confectionery Doublemint Large_0_0_0_0.png" alt="" style="max-width: 6%; height: auto;}">
+### <span class="my-custom-color_1"> 箭牌大厦 (The Wrigley Building) <img src="/assets/images/Travel/Chicago River Tour/Mars Brand Logos Web Confectionery Doublemint Large_0_0_0_0.png" alt="" style="max-width: 6%; height: auto;}"> </span>
 
 箭牌大厦坐落于芝加哥北密西根大道 (North Michigan Avenue) 南部400-410号，密西根大道桥的西北角，同时也位于芝加哥著名的“<a href="https://www.google.com/search?q=The+Magnificent+Mile&oq=The+Magnificent+Mile&gs_lcrp=EgRlZGdlKgkIABBFGDkYgAQyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABge0gEHMTI3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8" class="custom-link-3">华丽一英里 (The Magnificent Mile)</a>”与芝加哥河交界处。箭牌集团的创始人William Wrigley Jr.于1910年前后决定在芝加哥修建这座大厦作为箭牌集团的总部。大厦于1920年正式开始修建，包含南塔与北塔两个部分。南塔于1921年完工，北塔于1924年完工完工。这座建筑的灵感来源于西班牙的塞维利亚主教座堂 (Seville Cathedral) 的钟楼与法国文艺复兴时期 (Renaissance) 的建筑风格。每座塔的六个面都由非常特殊的明亮白色陶瓦覆盖。芝加哥于1893年的世界博览会中获得了“白城 (White City)”的称号，据称 William Wrigley Jr. 在考虑这座建筑的外观时，受到了“白城”的启发。
 
@@ -138,9 +138,9 @@ permalink: /blogs/travel/chicago-river-tour/
 <blockquote>
   <p style="font-size:0.8em">
   <b>你知道吗？</b>
+  </p>
   <p style="font-size:0.8em">
   &bull; 箭牌大厦是芝加哥第一座使用空调的大厦。
-  </p>
   </p>
   <p style="font-size:0.8em">
   &bull; 箭牌大厦在完工时，密西根大道还远没有今日繁华。当时箭牌大厦旁的连接芝加哥河两岸的钢铁桥都还没有建成。这使得人们认为，华丽一英里的诞生就是从箭牌大厦开始的。
@@ -150,7 +150,7 @@ permalink: /blogs/travel/chicago-river-tour/
   </p>
 </blockquote>
 
-### <span style="color: gray;"> 马利纳城 (Marina City) </span>
+### <span class="my-custom-color_1"> 马利纳城 (Marina City) </span>
 
 马利纳城位于 300 N State St, 60654, 坐落于芝加哥河的北岸。它有着酷似玉米棒的独特外形，使得它能够被一眼辨认出来。然而，马利纳城的独特之处还远不止它的外形。马利纳城由两座外观与内部结构都几乎一模一样的“城”组成，它们于1959年由建筑师 Bertrand Goldberg 设计，并最终在1969年建造完成。Bertrand Goldberg 在设计这座建筑时，基于了一个在当时看来非常前卫的想法：城中之城 (City within a city)。即这座建筑并不单一地用作住宅或者写字楼，而是能够完整地配套一座城市所有的最基本的设施，拥有一座城市的基本功能。这个想法也在后来马利纳城的建造中得到了实现。马利纳城的任何一座“城”的最下方19层是螺旋形的停车场，用于给“城”内的住户提供停车位。20-60层则是住宅区，包括了住户的房间、超市与药店、餐馆、酒吧、游泳池、健身房等等。61层是一个开放式的全景观景台。“城”的地下则是一座大型船坞，用于停靠住户或访客的游艇。
 
@@ -198,7 +198,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
   </p>
 </blockquote>
 
-### <span style="color: gray;"> 芝加哥商品市场 (Merchandise Mart, or The Mart) </span>
+### <span class="my-custom-color_1"> 芝加哥商品市场 (Merchandise Mart, or The Mart) </span>
 
 芝加哥商品市场位于 222 W Merchandise Mart Plaza, 60654, 同时也恰好在芝加哥河的“Y”型分岔口处。芝加哥商品市场是芝加哥的规模巨大的贸易综合体，整个建筑包括了各式各样的零售商铺、仓库、购物广场等与商业活动相关的设施。
 
@@ -242,16 +242,16 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <blockquote>
   <p style="font-size:0.8em">
   <b>你知道吗？</b>
+  </p>
   <p style="font-size:0.8em">
   &bull; 芝加哥商品市场曾经很长一段时间由肯尼迪家族 (Kennedy family) 所有，直至1998年被出售给房地产公司 Vornado Realty Trust。
-  </p>
   </p>
   <p style="font-size:0.8em">
   &bull; 芝加哥商品市场的原址是芝加哥的一个小型贸易点与芝加哥西北铁路公司的威尔斯街站 (Wells Street Station). 该站在1911年芝加哥西北铁路乘客中心 (Chicago and North Western Passenger Terminal，现为 Richard B. Ogilvie Transportation Center) 建成后被关闭。然而，留下的铁路轨道为芝加哥商品市场的建造提供了便利条件。
   </p>
 </blockquote>
 
-### <span style="color: gray;"> 可移动的桥 (Movable Bridges) </span>
+### <span class="my-custom-color_1"> 可移动的桥 (Movable Bridges) </span>
 
 在介绍一座城市的建筑时，桥梁 (Bridges) 一般不会作为主角登场。然而，在芝加哥，这一点并不适用。由于芝加哥河的存在，横跨芝加哥河两岸的桥梁，在芝加哥的历史上留下了浓墨重彩的一笔，也在这座城市的演变过程中逐渐成为了这座城市的符号之一。
 
@@ -374,16 +374,16 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <blockquote>
   <p style="font-size:0.8em">
   <b>你知道吗？</b>
+  </p>
   <p style="font-size:0.8em">
   &bull; 芝加哥河上的可移动桥大多数都会定期“抬起”，如果你想亲眼目睹这一过程，可以访问<a href="https://chicagoloopbridges.com/schedule.html" class="custom-link-3">https://chicagoloopbridges.com/schedule.html</a> 查看日期与时间。
-  </p>
   </p>
   <p style="font-size:0.8em">
   &bull; 发明了 Scherzer 式旋转升降桥的 William D. Scherzer 同时负责设计了西北大学 (Northwestern University) 的天文台建筑 (Dearborn Observatory)。
   </p>
 </blockquote>
 
-### <span style="color: gray;"> 河北路150號大厦 </span>
+### <span class="my-custom-color_1"> 河北路150號大厦 </span>
 
 河北路150號大厦位于 150 N Riverside Plaza，它建于2017年，坐落在芝加哥河南支的西侧河岸。与芝加哥商品市场一样，它也位于芝加哥河的“Y”型分叉口处。河北路150號大厦高229米，是芝加哥的一座现代化摩天大楼。
 
@@ -427,7 +427,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
   </p>
 </blockquote>
 
-### <span style="color: gray;"> 芝加哥歌剧院 (Lyric Opera of Chicago) </span>
+### <span class="my-custom-color_1"> 芝加哥歌剧院 (Lyric Opera of Chicago) </span>
 
 芝加哥歌剧院位于 20 N Wacker Drive, Chicago, IL 60606. 它建于1929年，坐落在芝加哥河南支的东侧河岸，至今已有近100年的历史。在它最初建成的时候，它是芝加哥市民歌剧公司 (Chicago Civic Opera). 然而，芝加哥市民歌剧公司在美国大萧条时期破产，公司几经破产与重组，在1954年重组并且重新命名为 Lyric Opera of Chicago. 自那之后，芝加哥歌剧院一直是 Lyric Opera of Chicago 的总部所在地。
 
@@ -462,16 +462,24 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <blockquote>
   <p style="font-size:0.8em">
   <b>你知道吗？</b>
+  </p>
   <p style="font-size:0.8em">
   &bull; 芝加哥歌剧院的外表像是一把巨大的椅子，它面朝东方，背对西方。这与 Samuel Insull 有关。Samuel Insull 在来到芝加哥之前，在纽约与托马斯·爱迪生 (Thomas Edison) 同事。由于对于当时公司收购事宜的不满，他在公司被收购完成后不久辞去了在纽约的职务。当时恰巧 Comonwealth Edison 公司的前任总裁刚刚退休，公司又在为即将在芝加哥举办的1893年哥伦比亚世博会而忙碌。在这种背景下，Samuel Insull 被邀请来到 Commonwealth Edison 公司担任总裁，而 Samuel Insull 也欣然接受了这一职务。Samuel Insull 在与 Graham, Anderson, Probst & White 商讨芝加哥歌剧院的设计时，要求将它的“椅背”朝向西方，以此来暗示他在纽约的不愉快经历以及他的不满（纽约在芝加哥的西边）。因为如此，芝加哥歌剧院也被称为“Insull的王位” (Insull's Throne).
-  </p>
   </p>
   <p style="font-size:0.8em">
   &bull; 如果你在坐船时仔细观察芝加哥歌剧院背面的文字，你会发现它的拼写似乎是错误的 (Civic Opera Bvilding). 这其实与历史上的英文字母表中的字母 "U" 和 "V" 有关。最早的拉丁字母表只有23个字母，而非今天英语字母表的26个，其中只包含字母 "V" 而不包含字母 "U". 这是由于早期时候，"U" 和 "V" 被认为是同一个字母的两个变体 (allographs)，它们的发音是完全相同的。直到17世纪初印刷技术的规范化，字母 "U" 才被印刷师 Lazare Zetzner 正式引入到字母表中。在设计芝加哥歌剧院背面的文字时，采用了较为古典的 "Building" 的拼写方式，即 "Bvilding".
   </p>
 </blockquote>
 
-### <span style="color: gray;"> 韦莱集团大厦 (Willis Tower) </span> <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_logo.png" alt="" style="max-width: 12%; height: auto;">
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.jpg" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.jpg" alt="" style="max-width: 90%; height: auto;}">
+  </a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">芝加哥歌剧院的背面，"BVILDING" 一词清晰可见。</figcaption>
+</div>
+
+
+### <span class="my-custom-color_1"> 韦莱集团大厦 (Willis Tower) </span> <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_logo.png" alt="" style="max-width: 12%; height: auto;">
 
 #### <span style="color: gray;"> 简介 </span>
 
@@ -539,3 +547,20 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">摄于Skydeck. 四张照片分别对应东、南、西、北四个方向。</figcaption>
 </div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull; 传言在西尔斯大厦的设计过程初期的讨论中，SOM 的建筑师为了测试大厦的结构稳定性，使用了9根雪茄 (cigars) 来模拟大厦的9个单元。
+  </p>
+  <p style="font-size:0.8em">
+  &bull; 建筑物高度的计算方法，历史上曾颇有争议。1998年吉隆坡双子塔建成时，它的建造者宣称它超越了西尔斯大厦成为了世界上最高的建筑物。这一说法引起了西尔斯大厦的建造者乃至芝加哥人的反对与强烈不满。当时为了明确计算方法从而解决争议，人们提出了四种不同的高度计算方法。在这四种计算方法中，吉隆坡双子塔仅是在计算从地面到最高的建筑物元素的意义下最高的建筑物。
+  </p>
+  <p style="font-size:0.8em">
+  &bull; 美国主要航空公司之一的美国联合航空 (United Airlines, 又称美联航) 的总部就位于韦莱集团大厦。同时，美联航也是目前韦莱集团大厦的最大租户，其占据了韦莱集团大厦的20层楼。
+  </p>
+</blockquote>
+
+### <span class="my-custom-color_1"> 芝加哥瑞吉酒店 (St. Regis Chicago) </span>
