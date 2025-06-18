@@ -227,7 +227,7 @@ $12 青少年（3-15岁）；<br>
 <b>预计游览时间</b>：1天及以上。
 
 地址：Seward, AK 99664；<br>
-电话：+1 +19074220500；<br>
+电话：+1 9074220500；<br>
 网站：<a href="https://www.nps.gov/kefj/index.htm" class="custom-link-1">基奈峡湾国家公园</a>。
 
 <b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>：冬季期间，基奈峡湾国家公园的绝大部分道路与游客中心都会关闭，步行进入基奈湾峡国家公园需要穿越约13公里的无人区域。
