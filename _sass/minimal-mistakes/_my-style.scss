@@ -13,18 +13,18 @@ $my_custom_color_1: #7F82BB;
 /* 链接相关样式 */
 
 .custom-link-1 {
-    --main-color: #3FA4FF;
-    --color-1: orange;
-    --color-2: #8E403A;
-    --color-3: #FFD700;
-    --color-4: #FF6347;
-    --color-5: green;
-    --color-6: #95ceff;
-    color: var(--main-color);
+  --main-color: #3FA4FF;
+  --color-1: orange;
+  --color-2: #8E403A;
+  --color-3: #FFD700;
+  --color-4: #FF6347;
+  --color-5: green;
+  --color-6: #95ceff;
+  color: var(--main-color);
 }
 
 .custom-link-1:visited {
-    color: var(--color-6);
+  color: var(--color-6);
 }
 
 // .custom-link-1:hover {
@@ -32,22 +32,22 @@ $my_custom_color_1: #7F82BB;
 // }
 
 .custom-link-1:active {
-    color: var(--color-1);
+  color: var(--color-1);
 }
 
 .custom-link-2 {
-    --main-color: black;
-    --color-1: orange;
-    --color-2: #8E403A;
-    --color-3: #FFD700;
-    --color-4: #FF6347;
-    --color-5: green;
-    --color-6: #95ceff;
-    color: var(--main-color);
+  --main-color: black;
+  --color-1: orange;
+  --color-2: #8E403A;
+  --color-3: #FFD700;
+  --color-4: #FF6347;
+  --color-5: green;
+  --color-6: #95ceff;
+  color: var(--main-color);
 }
 
 .custom-link-2:visited {
-    color: black;
+  color: black;
 }
 
 // .custom-link-1:hover {
@@ -55,24 +55,24 @@ $my_custom_color_1: #7F82BB;
 // }
 
 .custom-link-2:active {
-    color: black;
+  color: black;
 }
 
 .page__content a.custom-link-3 {
-    color: #007acc;
-    text-decoration: none;
-    border-bottom: 1px dashed #007acc;
+  color: #007acc;
+  text-decoration: none;
+  border-bottom: 1px dashed #007acc;
 }
 
 .page__content a.custom-link-3:visited {
-    color: #007acc;
-    border-bottom-color: #007acc;
+  color: #007acc;
+  border-bottom-color: #007acc;
 }
 
 .page__content a.custom-link-3:hover {
-    color: #e60073;
-    border-bottom-color: #e60073;
-    text-decoration: none;
+  color: #e60073;
+  border-bottom-color: #e60073;
+  text-decoration: none;
 }
 
 // /* 设置每个节点的宽度 */
@@ -89,20 +89,20 @@ $my_custom_color_1: #7F82BB;
 
 /* 表格相关样式 */
 .my_table_1 {
-    width: 100%;
-    margin: 20px auto;
-    table-layout: auto;
-    /* 确保表格宽度固定 */
-    border: 1px solid #000000;
-    /* 设置边框 */
-    border-collapse: collapse;
-    /* 确保表格边框不会重叠 */
-    border-radius: 12px;
-    /* 设置圆角 */
-    overflow: hidden;
-    /* 防止内容超出圆角边框 */
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-    /* 添加阴影效果 */
+  width: 100%;
+  margin: 20px auto;
+  table-layout: auto;
+  /* 确保表格宽度固定 */
+  border: 1px solid #000000;
+  /* 设置边框 */
+  border-collapse: collapse;
+  /* 确保表格边框不会重叠 */
+  border-radius: 12px;
+  /* 设置圆角 */
+  overflow: hidden;
+  /* 防止内容超出圆角边框 */
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  /* 添加阴影效果 */
 }
 
 //   .my_table_1 thead, .my_table_1 tbody, .my_table_1 tr {
@@ -111,153 +111,176 @@ $my_custom_color_1: #7F82BB;
 
 .my_table_1 th,
 td {
-    padding: 10px;
-    border: 1px solid #ccc;
-    text-align: center;
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
 }
 
 
 .my_table_1 th {
-    background-color: #f2f2f2;
-    /* 表头背景色 */
+  background-color: #f2f2f2;
+  /* 表头背景色 */
 }
 
 .my_table_1 tbody tr:nth-child(even) {
-    background-color: #f9f9f9;
-    /* 每隔一行添加背景色 */
+  background-color: #f9f9f9;
+  /* 每隔一行添加背景色 */
 }
 
 .my_table_1 tbody tr:hover {
-    background-color: #f1f1f1;
-    /* 鼠标悬停时改变背景色 */
+  background-color: #f1f1f1;
+  /* 鼠标悬停时改变背景色 */
 }
 
 /* hover-switch 相关样式 */
 
 .hover-switch {
+  display: inline;
+  /* 确保元素保持在同一行 */
+  position: relative;
+
+  span.a,
+  span.b {
     display: inline;
-    /* 确保元素保持在同一行 */
+    /* 确保在同一行显示 */
     position: relative;
+    left: 0;
+    top: 0;
+    transition: opacity 0.4s ease;
+  }
 
-    span.a,
-    span.b {
-        display: inline;
-        /* 确保在同一行显示 */
-        position: relative;
-        left: 0;
-        top: 0;
-        transition: opacity 0.4s ease;
-    }
+  span.b {
+    opacity: 0;
+  }
 
-    span.b {
-        opacity: 0;
-    }
+  &:hover span.a {
+    opacity: 0;
+  }
 
-    &:hover span.a {
-        opacity: 0;
-    }
-
-    &:hover span.b {
-        opacity: 1;
-    }
+  &:hover span.b {
+    opacity: 1;
+  }
 }
 
 /* lightgallery 相关样式 */
 
 /* 图像容器使用 Flexbox 来排列 */
 #lightgallery {
-    display: flex;
-    /* 使用 flexbox 使图像水平排列 */
-    flex-wrap: wrap;
-    /* 允许换行 */
-    gap: 20px;
-    /* 图像之间的间距 */
+  display: flex;
+  /* 使用 flexbox 使图像水平排列 */
+  flex-wrap: wrap;
+  /* 允许换行 */
+  gap: 20px;
+  /* 图像之间的间距 */
 }
 
 /* 确保每个图像并排显示 */
 .gallery-item {
-    display: inline-block;
-    margin: 0px;
-    max-width: 30%;
-    /* 限制每个图像占据容器的最大宽度 */
+  display: inline-block;
+  margin: 0px;
+  max-width: 30%;
+  /* 限制每个图像占据容器的最大宽度 */
 }
 
 /* 控制图像的大小 */
 .gallery-item img {
-    width: 100%;
-    /* 图像填充容器宽度 */
-    height: auto;
-    /* 保持图片比例 */
+  width: 100%;
+  /* 图像填充容器宽度 */
+  height: auto;
+  /* 保持图片比例 */
 }
 
 /* 默认：桌面端显示地图，隐藏链接 */
 .map-desktop {
-    display: block;
-  }
-  .map-mobile {
+  display: block;
+}
+
+.map-mobile {
+  display: none;
+}
+
+/* 在屏幕宽度小于等于850px时（即手机） */
+@media screen and (max-width: 850px) {
+  .map-desktop {
     display: none;
   }
-  
-  /* 在屏幕宽度小于等于850px时（即手机） */
-  @media screen and (max-width: 850px) {
-    .map-desktop {
-      display: none;
-    }
-    .map-mobile {
-      display: block;
-      font-size: 1.1em;
-      padding: 10px;
-      background-color: #f9f9f9;
-      border-left: 4px solid #007acc;
-    }
-  }
-  
-  .map-card {
-    display: none;  /* 默认隐藏，移动端才显示 */
-    margin: 1em 0;
-  }
-  
-  @media screen and (max-width: 850px) {
-    .map-card {
-      display: block;
-    }
-  }
-  
-  .map-card-link {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    border: 1px solid #ccc;
-    border-radius: 12px;
+
+  .map-mobile {
+    display: block;
+    font-size: 1.1em;
     padding: 10px;
     background-color: #f9f9f9;
-    transition: box-shadow 0.2s ease;
+    border-left: 4px solid #007acc;
   }
-  
-  .map-card-link:hover {
-    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.map-card {
+  display: none;
+  /* 默认隐藏，移动端才显示 */
+  margin: 1em 0;
+}
+
+@media screen and (max-width: 850px) {
+  .map-card {
+    display: block;
   }
-  
-  .map-card-thumbnail img {
-    width: 80px;
-    height: 80px;
-    object-fit: cover;
-    border-radius: 8px;
-    margin-right: 10px;
-  }
-  
-  .map-card-info {
-    flex-grow: 1;
-  }
-  
-  .map-card-title {
-    font-size: 1.1em;
-    font-weight: bold;
-    color: #333;
-  }
-  
-  .map-card-address {
-    font-size: 0.9em;
-    color: #666;
-  }
-  
+}
+
+.map-card-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 10px;
+  background-color: #f9f9f9;
+  transition: box-shadow 0.2s ease;
+}
+
+.map-card-link:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.map-card-thumbnail img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.map-card-info {
+  flex-grow: 1;
+}
+
+.map-card-title {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #333;
+}
+
+.map-card-address {
+  font-size: 0.9em;
+  color: #666;
+}
+
+// The style of the back-to-top button
+#back-to-top {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  z-index: 1000;
+  display: none; /* 初始隐藏 */
+  background-color: $my_custom_color_1;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: opacity 0.3s ease;
+}
+#back-to-top:hover {
+  opacity: 0.8;
+}

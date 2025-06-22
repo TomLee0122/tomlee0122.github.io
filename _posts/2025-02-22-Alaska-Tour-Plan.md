@@ -24,6 +24,9 @@ toc: true
 permalink: /blogs/travel/Alaska-Tour-Plan/
 ---
 
+<script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
+
+
 # <span style="color: #8E403A;">主要旅行景点</span>
 
 ## 安克雷奇市区与周边
@@ -904,3 +907,5 @@ $15 成人；<br>
     });
   });
 </script>
+
+<button id="back-to-top" title="Back to top">↑</button>
