@@ -25,11 +25,9 @@ toc: false
 permalink: /blogs/travel/Japan-Tour-Plan/
 ---
 
-<!-- 引入 jQuery -->
 <script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>
-
-<!-- 再引入你的脚本 -->
 <script src="{{ '/assets/js/my_script_1.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
 
 <!-- 将下面两个按钮并排放置 -->
  
@@ -856,3 +854,5 @@ TBD
 - 京阪本线：即使是特急也只需要买乘车券/IC卡（特急车有付费特殊车厢 Premium Car ，需额外买票）；
 - 近铁的线路如果是普通 / 急行只需刷卡入场或买乘车券，特急需要进站后在红色特急券机器额外买特急券（带指定席）；
 - JR 奈良等普通 JR 车只需买乘车券/IC卡；
+
+<button id="back-to-top" title="Back to top">↑</button>
