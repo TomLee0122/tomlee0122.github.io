@@ -109,6 +109,20 @@ $my_custom_color_1: #7F82BB;
 //     display: contents; /* 让表头和内容的元素继承 grid 布局 */
 //   }
 
+body.dark-mode .my_table_1 {
+  background-color: #121212;
+  color: #f1f1f1;
+  border: 1px solid white;
+
+  th,
+  td {
+    background-color: #121212;
+    /* 深色模式下表头背景色 */
+    color: #f1f1f1;
+    /* 深色模式下表头文字颜色 */
+  }
+}
+
 .my_table_1 th,
 td {
   padding: 10px;
@@ -269,8 +283,9 @@ td {
   position: fixed;
   bottom: 10px;
   right: 10px;
-  z-index: 1000;
-  display: none; /* 初始隐藏 */
+  z-index: 50;
+  display: none;
+  /* 初始隐藏 */
   background-color: $my_custom_color_1;
   color: white;
   border: none;
@@ -281,6 +296,162 @@ td {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
   transition: opacity 0.3s ease;
 }
+
 #back-to-top:hover {
   opacity: 0.8;
+}
+
+// Dark mode styles
+/* 默认浅色模式 */
+body {
+  background-color: #ffffff;
+  color: #000000;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* 黑夜模式 */
+body.dark-mode {
+  background-color: #121212;
+  color: #f1f1f1;
+}
+
+body.dark-mode a {
+  color: gray;
+}
+
+/* 按钮样式可自定义 */
+#dark-mode-toggle {
+  position: relative;
+  // bottom: 20px;
+  // right: 20px;
+  background: #F4A460;
+  border: none;
+  padding: 6px 8px;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 50;
+}
+
+body.dark-mode #dark-mode-toggle {
+  background: #87CEEB;
+  color: #fff;
+}
+
+body.dark-mode #site-nav {
+  background-color: #121212; // 黑夜背景色
+  color: #f1f1f1;
+
+  a {
+    color: #f1f1f1;
+  }
+
+  .site-title,
+  .site-subtitle {
+    color: #f1f1f1;
+  }
+
+  .greedy-nav__toggle,
+  .search__toggle {
+    background: transparent;
+    color: #f1f1f1;
+  }
+
+  #dark-mode-toggle {
+    background: #87CEEB;
+    color: #fff;
+  }
+}
+
+/* 默认浅色模式：你可以保持原样或做小调整 */
+// .author__urls.social-icons {
+//   background-color: transparent;
+//   color: #333;
+
+//   a {
+//     color: #333;
+//     text-decoration: none;
+
+//     &:hover {
+//       color: #555;
+//     }
+//   }
+
+//   i {
+//     color: #333;
+//   }
+// }
+
+/* 黑夜模式 */
+body.dark-mode .author__urls.social-icons {
+  background-color: transparent;
+  /* 保持透明或可改为深色背景 */
+  color: #ddd;
+
+  a {
+    color: #ccc;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  i {
+    color: #f1f1f1;
+  }
+
+  .p-locality {
+    color: #f1f1f1;
+  }
+}
+
+/* 默认浅色模式样式：可保留不变 */
+.btn--inverse {
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid #000000;
+  transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+}
+
+/* 黑夜模式下的按钮样式 */
+body.dark-mode .btn--inverse {
+  background-color: #121212; // 暗灰色背景
+  color: #f1f1f1; // 浅色字体
+  border: 1px solid #f1f1f1; // 浅色边框
+}
+
+body.dark-mode .toc__menu {
+  background-color: #121212; // 深色背景，可根据整体风格微调
+}
+
+body.dark-mode .toc__menu a {
+  color: #cccccc; // 链接默认颜色
+  border-bottom: 1px solid #333333; // 深灰分隔线
+
+  &:hover {
+    color: #ffffff; // hover 时更亮
+  }
+}
+
+/* 黑夜模式下的样式 */
+body.dark-mode #footer {
+  background-color: #121212; // 深色背景
+  color: #f1f1ff; // 浅色字体
+}
+
+body.dark-mode #footer a {
+  color: #f1f1f1;
+}
+
+body.dark-mode #footer a:hover {
+  color: #fff;
+}
+
+
+#site-nav,
+.author__urls.social-icons,
+.btn--inverse,
+.toc__menu,
+#footer,
+#dark-mode-toggle {
+  transition: background-color 0.3s ease, color 0.3s ease;
 }
