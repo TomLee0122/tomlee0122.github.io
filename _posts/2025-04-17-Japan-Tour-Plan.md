@@ -16,10 +16,10 @@ classes: wide
 author_profile: true
 authors: 
   - tuorui
-  - yikunli
+  - yikun
 related: false
 read_time: false
-last_modified_at: 2025-06-18
+last_modified_at: 2025-06-27
 toc: false
 # toc_sticky: true
 permalink: /blogs/travel/Japan-Tour-Plan/
@@ -28,8 +28,6 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/my_script_1.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
-
-<!-- 将下面两个按钮并排放置 -->
  
 <div style="width: 100%; text-align: center; margin-bottom: 1em;">
   <a href="https://github.com/TomLee0122/tomlee0122.github.io" class="btn btn--inverse"
@@ -189,9 +187,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ## <span style="color: gray;">说明</span>
 
-
-
-- 由于部分项目有预约时间/目的地特点制约，<span style="background-color:rgba(236, 15, 15, 0.26);">必须</span>或<span style="background-color:rgba(37, 15, 236, 0.27);">比较建议</span>在某些时段参访。
+- 由于部分项目有预约时间/目的地制约，<span style="background-color:rgba(236, 15, 15, 0.26);">必须</span>或<span style="background-color:rgba(37, 15, 236, 0.27);">比较建议</span>在某些时段参访。
 - 基本的排班逻辑：基本认为每天上午活动时间 3 hours（特殊早起除外），下午 4 hours, 除少数博物馆性质目的地外按照每个景点 1 hour + 通勤时间计算，笼统来说上午2个景点，下午3个景点（具体数字依相对位置关系浮动，也存在特别远的目的地单列）；晚上至多1个随便逛逛性质的景点。
 - 目前总体来说我觉得目前日程比较紧张，另外有些预约还未完成，日程可能会有变化；可以等到固定预约日程稳定之后/到实地选择扔掉一些目的地。
 

@@ -20,7 +20,7 @@ layout: single
 classes: wide custom-footer
 author_profile: true
 authors:
-  - yikunli
+  - yikun
 related: false
 read_time: false
 last_modified_at: 2025-06-14
