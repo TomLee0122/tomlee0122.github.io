@@ -628,3 +628,21 @@ body,
 body.homepage .archive {
   padding-right: 0;
 }
+
+// The styles of the homepage photo
+
+.profile-wrapper {
+  max-width: 100%;
+  margin: 0 auto;
+  font-size: 1.1em;
+  line-height: 1.5;
+  // padding: 1em;
+}
+
+.profile-pic {
+  float: right;                // 或 left
+  margin: 0 0 0 0.5em;         // 与文字间的间距（上右下左）
+  width: 180px;                // 你可以自定义大小
+  border-radius: 8px;          // 圆角，可选
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);  // 可选阴影
+}
