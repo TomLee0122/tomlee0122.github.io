@@ -11,6 +11,7 @@ $--color-3: #FFD700;
 $--color-4: #FF6347;
 $--color-5: green;
 $--color-6: #95ceff;
+$--color-7: #e0669f;
 // ----------------------------------------
 
 // Self-defined styles of the link
@@ -197,6 +198,18 @@ body.dark-mode .my_table_1 {
 }
 // ----------------------------------------
 
+// The styles of the hidden content 
+.reveal-on-hover {
+  background-color: #000;       // 默认背景黑色
+  color: transparent;           // 文字透明
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: #fff;                // 悬停时变成白字（适配黑背景）
+  }
+}
+// ----------------------------------------
+
 // Styles of the table used in the Wikipedia
 .wikitable {
   --color-base: #202122;
@@ -358,6 +371,28 @@ body.dark-mode .my_table_1 {
 }
 // ----------------------------------------
 
+#image-preview-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.7);
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  cursor: grab;
+}
+
+#image-preview-overlay img {
+  max-width: 80vw;
+  max-height: 80vh;
+  transition: transform 0.3s ease;
+  user-select: none;
+}
+
+
 // Style of the map kit
 
 .map-desktop {
@@ -411,8 +446,9 @@ body.dark-mode .my_table_1 {
 }
 
 .map-card-thumbnail img {
-  width: 80px;
-  height: 80px;
+  max-width: 40px;
+  height: auto;
+  text-align: center;
   object-fit: cover;
   border-radius: 8px;
   margin-right: 10px;
@@ -542,10 +578,10 @@ body.dark-mode #site-nav {
 body.dark-mode .author__urls.social-icons {
   background-color: transparent;
   /* 保持透明或可改为深色背景 */
-  color: #ddd;
+  color: #f1f1f1;
 
   a {
-    color: #ccc;
+    color: #f1f1f1;
 
     &:hover {
       color: #fff;
@@ -564,8 +600,8 @@ body.dark-mode .author__urls.social-icons {
 /* 默认浅色模式样式：可保留不变 */
 .btn--inverse {
   background-color: #fff;
-  color: #000000;
-  border: 1px solid #000000;
+  color: #121212;
+  border: 1px solid #121212;
   transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
@@ -581,7 +617,7 @@ body.dark-mode .toc__menu {
 }
 
 body.dark-mode .toc__menu a {
-  color: #cccccc; // 链接默认颜色
+  color: #a3a3a3; // 链接默认颜色
   border-bottom: 1px solid #333333; // 深灰分隔线
 
   &:hover {
@@ -608,8 +644,33 @@ body.dark-mode .wikitable {
   color: #f1f1f1;
 }
 
+body.dark-mode .map-card {
+  background-color: #121212;
+  color: #f1f1f1;
+  a {
+    background-color: #121212;
+  }
+}
+
+body.dark-mode .map-card-title{
+  color: #f1f1f1;
+}
+
+body.dark-mode .map-card-address{
+  color: #f1f1f1;
+}
+
 body.dark-mode th {
   border: 1px solid #fff;
+}
+
+body.dark-mode .reveal-on-hover {
+  background-color: #fff;
+  color: transparent;
+
+  &:hover {
+    color: #121212; // 更柔和的白色文字
+  }
 }
 
 body,
@@ -619,6 +680,10 @@ body,
 .toc__menu,
 #footer,
 .wikitable,
+.map-card,
+.map-card-title,
+.map-card-address,
+.reveal-on-hover,
 #dark-mode-toggle {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -646,3 +711,11 @@ body.homepage .archive {
   border-radius: 8px;          // 圆角，可选
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);  // 可选阴影
 }
+// ----------------------------------------
+
+// The styles of the titles in different orders
+.page__content h2{
+  color: $my_custom_color_1;
+}
+// ----------------------------------------
+
