@@ -358,6 +358,28 @@ body.dark-mode .my_table_1 {
 }
 // ----------------------------------------
 
+#image-preview-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.7);
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  cursor: grab;
+}
+
+#image-preview-overlay img {
+  max-width: 80vw;
+  max-height: 80vh;
+  transition: transform 0.3s ease;
+  user-select: none;
+}
+
+
 // Style of the map kit
 
 .map-desktop {
@@ -411,8 +433,9 @@ body.dark-mode .my_table_1 {
 }
 
 .map-card-thumbnail img {
-  width: 80px;
-  height: 80px;
+  max-width: 40px;
+  height: auto;
+  text-align: center;
   object-fit: cover;
   border-radius: 8px;
   margin-right: 10px;
@@ -564,8 +587,8 @@ body.dark-mode .author__urls.social-icons {
 /* 默认浅色模式样式：可保留不变 */
 .btn--inverse {
   background-color: #fff;
-  color: #000000;
-  border: 1px solid #000000;
+  color: #121212;
+  border: 1px solid #121212;
   transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
@@ -608,6 +631,22 @@ body.dark-mode .wikitable {
   color: #f1f1f1;
 }
 
+body.dark-mode .map-card {
+  background-color: #121212;
+  color: #f1f1f1;
+  a {
+    background-color: #121212;
+  }
+}
+
+body.dark-mode .map-card-title{
+  color: #f1f1f1;
+}
+
+body.dark-mode .map-card-address{
+  color: #f1f1f1;
+}
+
 body.dark-mode th {
   border: 1px solid #fff;
 }
@@ -619,6 +658,9 @@ body,
 .toc__menu,
 #footer,
 .wikitable,
+.map-card,
+.map-card-title,
+.map-card-address,
 #dark-mode-toggle {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -646,3 +688,10 @@ body.homepage .archive {
   border-radius: 8px;          // 圆角，可选
   box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);  // 可选阴影
 }
+// ----------------------------------------
+
+// The styles of the titles in different orders
+.page__content h2{
+  color: $my_custom_color_1;
+}
+// ----------------------------------------

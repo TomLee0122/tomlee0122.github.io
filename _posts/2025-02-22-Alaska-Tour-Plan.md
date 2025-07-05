@@ -20,7 +20,6 @@ related: false
 read_time: false
 last_modified_at: 2025-04-06
 toc: true
-# toc_sticky: true
 permalink: /blogs/travel/Alaska-Tour-Plan/
 ---
 
@@ -62,7 +61,7 @@ $12 儿童 (6-12岁)*<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/oMq1dtRYiDxGqPtC6" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">安克雷奇历史艺术博物馆</div>
@@ -102,7 +101,7 @@ $12 青少年（3-15岁）；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/p35FiSPtfWdExURHA" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">安克雷奇动物园</div>
@@ -146,7 +145,7 @@ $12 青少年（3-15岁）；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/aUgu5nAbmZ5DVQpe8" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">安克雷奇植物园</div>
@@ -176,7 +175,7 @@ $12 青少年（3-15岁）；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/F6UKxRTLuAQiEdR37" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">地震公园</div>
@@ -210,7 +209,7 @@ $12 青少年（3-15岁）；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/5QH58sStyad4AXWM7" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">平顶山</div>
@@ -242,7 +241,7 @@ $12 青少年（3-15岁）；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/2SVCxdwx267nqtv89" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">基奈峡湾国家公园</div>
@@ -297,7 +296,7 @@ $14 团体票（8人及以上）<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/sQ17Vq4vjDyfEbov7" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">北方极地博物馆</div>
@@ -331,7 +330,7 @@ $14 团体票（8人及以上）<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/RVmvkTernABRMxVi9" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">莫里斯汤普森文化中心</div>
@@ -365,7 +364,7 @@ Where it's Christmas Every Day! 来自北极的浓郁圣诞风情。圣诞老人
 <div class="map-card">
   <a href="https://maps.app.goo.gl/DKd6sPXC46Eq6ory9" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">圣诞老人之家</div>
@@ -404,7 +403,7 @@ $8 团体票（10人及以上）。
 <div class="map-card">
   <a href="https://maps.app.goo.gl/6kxyzhMKYKPuHtNh9" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">费尔班克斯冰雕博物馆</div>
@@ -438,7 +437,7 @@ $110 儿童（3-11岁）；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/uWz3sELgz6HsVdo78" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">驯鹿农场</div>
@@ -463,7 +462,7 @@ $110 儿童（3-11岁）；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/Upf7GDpAXwyTGenN9" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">道顿公路</div>
@@ -509,7 +508,7 @@ $60 阿拉斯加居民的亲朋好友（参观时需由本地居民陪同）。
 <div class="map-card">
   <a href="https://maps.app.goo.gl/yPiku4MJ1mHLXfyj7" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">马塔努斯卡冰川</div>
@@ -547,7 +546,7 @@ $15 成人；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/hNV9CiFhLodtVFaEA" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">迪纳利国家公园和保留区</div>
@@ -593,7 +592,7 @@ $15 成人；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/L8LHmMopuVMUdgVD9" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">蓝冰洞</div>
@@ -622,7 +621,7 @@ $15 成人；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/oFAWHk22wRYWdwAz9" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">安克雷奇居所</div>
@@ -647,7 +646,7 @@ $15 成人；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/pPdEKSk4iEk1qwGPA" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">费尔班克斯居所</div>
@@ -671,7 +670,7 @@ $15 成人；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/p4oZSEWo56wBNM2d7" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">坎特维尔居所</div>
@@ -812,7 +811,7 @@ $15 成人；<br>
 </table>
 </div>
 
-# <span style="color: #8E403A;">附录I：主要行动路线</span>
+# <span style="color: #8E403A;">附录 I：主要行动路线</span>
 
 ## 安克雷奇 &rarr; 马卡努斯塔冰川 &rarr; 费尔班克斯
 
@@ -827,7 +826,7 @@ $15 成人；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/StqX9rZKADJUagib6" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">安克雷奇 &rarr; 马卡努斯塔冰川 &rarr; 费尔班克斯</div>
@@ -849,7 +848,7 @@ $15 成人；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/Ckhtc1bi7Cn9x2vb8" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">费尔班克斯 &rarr; 道顿公路（北极圈标志） &rarr; 费尔班克斯</div>
@@ -871,7 +870,7 @@ $15 成人；<br>
 <div class="map-card">
   <a href="https://maps.app.goo.gl/H3GJEUrpD74B3q3H7" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">费尔班克斯 &rarr; 坎特维尔、迪纳利国家公园与保留区 &rarr; 安克雷奇</div>
@@ -880,7 +879,7 @@ $15 成人；<br>
   </a>
 </div>
 
-# <span style="color: #8E403A;"> 附录II </span>
+# <span style="color: #8E403A;"> 附录 II </span>
 
 <!-- 引入 CSS -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/dist/css/lightgallery.min.css">
@@ -899,13 +898,13 @@ $15 成人；<br>
 </div>
 
 <!-- 引入 JS -->
-<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/dist/js/lightgallery.min.js"></script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/dist/js/lightgallery.min.js"></script>
 <script>
   document.addEventListener('DOMContentLoaded', function () {
     lightGallery(document.getElementById('lightgallery'), {
       selector: 'a'
     });
   });
-</script>
+</script> -->
 
 <button id="back-to-top" title="Back to top">↑</button>

@@ -20,398 +20,136 @@ authors:
 related: false
 read_time: false
 last_modified_at: 2025-06-27
-toc: false
-# toc_sticky: true
+toc: true
 permalink: /blogs/travel/Japan-Tour-Plan/
 ---
 
 <script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/my_script_1.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
- 
-<div style="width: 100%; text-align: center; margin-bottom: 1em;">
-  <a href="https://github.com/TomLee0122/tomlee0122.github.io" class="btn btn--inverse"
-  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(93, 93, 97, 0.52);">源码仓库</a>
-  <a href="https://nuwildcat-my.sharepoint.com/:f:/r/personal/glu0739_ads_northwestern_edu/Documents/File/25JapanVisa/ticket?csf=1&web=1&e=FBORQy" class="btn btn--inverse"
-  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">票据存档</a>
-</div>
-<div style="width: 100%; text-align: center; margin-bottom: 2em;">
-  <a href="https://maps.app.goo.gl/bWnRWETbUYmEQKz79" class="btn btn--inverse"
-  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(217, 48, 37, 0.52);">景点列表</a>
-  <a href="https://maps.app.goo.gl/fwS1rL8FCg2ZmqZj6" class="btn btn--inverse"
-  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(31, 142, 62, 0.52);">饭馆列表</a>
-</div>
-
-
-# <span style="color: #8E403A;">预约日程</span>
-
-- ✅<b>已预定</b>6月20日，2:45 p.m. 预约号：231，带护照与申请表。4月18日起可以预定<a href="/blogs/travel/Japan-Tour-Plan/#参观众议院" class="custom-link-3">众议院参观</a>（即提前两个月）。
-- ✅<b>已预定</b>6月26日，11:35 a.m. 预约号：L06261145q00T，出示预约邮件。4月30日开始可以预定<a href="/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆" class="custom-link-3">京都御苑-京都国宾馆</a>参观。
-- ✅<b>已预定</b>6月20日，9:50 a.m. 预约号：506130880，带护照并出示预约邮件。4月30日可以预定<a href="/blogs/travel/Japan-Tour-Plan/#皇居参观" class="custom-link-3">皇居参观</a>。
-- ✅<b>已预定</b>6月20日，12:00 p.m. 提前去 Lawson 换票或直接电子票入场。5月9日 8:00 p.m. Chicago time 可以预约下个月的<a href="/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆" class="custom-link-3">三鹰之森吉卜力美术馆</a>。
-- ✅<b>已预定</b>6月19日，9:30 a.m. 带护照。5月18日 (JAL), 5月19日 (ANA), 每晚 Chicago time 7:30 p.m. 预约<a href="/blogs/travel/Japan-Tour-Plan/#jal--ana-机库参观" class="custom-link-3">机库参观</a>。
-- 5月18日至5月20日可以预约 Shibuya Sky/晴空塔/麻布台 Hills 之类的票。
-<!-- - 5.20 左右可以开始预约 [富士洄游](/blogs/travel/Japan-Tour-Plan/#富士洄游)。（不约应该问题也不大，可以坐其它种类的铁路） -->
-- 5月23日左右可以开始预约富士山-三岛-京都的 <a href="/blogs/travel/Japan-Tour-Plan/#富士山-京都" class="custom-link-3">Sekitori 巴士和新干线</a>。
-- ✅<b>已预定</b>6月21日 12:00 p.m. 至6月22日 12:00 p.m. 富士山租车。带美国驾照与国际驾照。
-- 提前若干天预定热门饭馆/热门景点。
-  - 例子：岚山小火车，<del>琉璃光院（六月不开门）</del>，大阪城公园天守阁，二条城本丸，京都御苑，京都仙洞御所。
-
-
-# <span style="color: #8E403A;">日程安排</span>
-
-
-<div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
-<table class="my_table_1" border="1">
-  <col style="width: 15%;">
-  <col style="width: 13%;">
-  <col style="width: 35%;">
-  <col style="width: 20%;">
-  <col style="width: 17%;">
-  <tr>
-    <th>地点</th>
-    <th>日期</th>
-    <th>行程</th>
-    <th>住宿（泊数）</th>
-    <th>备注</th>
-  </tr>
-
-  <!-- 东京：6月18–20 -->
-  <tr>
-    <td rowspan="8"><b>东京</b><br>
-    <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
-        <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt=""></a>
-    </td>
-    <td rowspan="3">6月18日<br>（三/水）</td>
-    <td><b>上午</b>：从香港飞往东京</td>
-    <td rowspan="8">东京(3)</td>
-    <td rowspan="3"><br></td>
-  </tr>
-  <tr><td><b>下午</b>：抵达东京，<a href="/blogs/travel/Japan-Tour-Plan/#增上寺" class="custom-link-3">增上寺</a></td></tr>
-  <tr><td><b>晚上</b>：<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#东京塔" class="custom-link-3">东京塔</a></span> </td></tr>
-
-  <tr>
-    <td rowspan="3">6月19日<br>（四/木）</td>
-    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#浅草寺" class="custom-link-3">浅草寺</a>（早起）、<a href="/blogs/travel/Japan-Tour-Plan/#国立西洋美術館" class="custom-link-3">国立西洋美术馆</a></td>
-    <td rowspan="3"><br></td>
-  </tr>
-  <tr><td><b>下午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#東京国立博物館" class="custom-link-3">东京国立博物馆</a>、<a href="/blogs/travel/Japan-Tour-Plan/#上野公園" class="custom-link-3">上野公园</a>、<a href="/blogs/travel/Japan-Tour-Plan/#秋叶原" class="custom-link-3">秋叶原</a></td></tr>
-  <tr><td><b>晚上</b>：<a href="/blogs/travel/Japan-Tour-Plan/#东京天空树" class="custom-link-3">晴空塔</a></td>
-  </tr>
-
-  <tr>
-    <td rowspan="2">6月20日<br>（五/金）</td>
-    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#东京车站" class="custom-link-3">东京车站</a>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#皇居参观" class="custom-link-3">皇居</a></span></td>
-    <td rowspan="2"><br></td>
-  </tr>
-  <tr><td><b>下午</b>：<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆" class="custom-link-3">三鹰之森吉卜力美术馆</a></span>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#参观众议院" class="custom-link-3">众议院参观</a></span>、<a href="/blogs/travel/Japan-Tour-Plan/#新宿" class="custom-link-3">新宿</a>、<a href="/blogs/travel/Japan-Tour-Plan/#明治神宫" class="custom-link-3">明治神宫</a>、<a href="/blogs/travel/Japan-Tour-Plan/#代代木公园" class="custom-link-3">代代木公园</a>，</td>
-  <!-- <tr><td><b>晚上</b>：</td> -->
-  <!-- <td rowspan="3"></td> -->
-  </tr>
-
-  <!-- 富士山 -->
-  <tr>
-    <td rowspan="4"><b>富士山</b></td>
-    <td rowspan="2">6月21日<br>（六/土）</td>
-    <td><b>上午</b>：前往<a href="/blogs/travel/Japan-Tour-Plan/#%E4%B8%9C%E4%BA%AC-%E5%AF%8C%E5%A3%AB%E5%B1%B1" class="custom-link-3">河口湖</a></td>
-    <td rowspan="2">富士山地区(1)</td>
-    <td rowspan="2"><br></td>
-  </tr>
-  <tr><td><b>下午</b>：取车，自驾游<a href="TTTTBBBBDDDD" class="custom-link-3">河口湖</a>-<a href="TTTTBBBBDDDD" class="custom-link-3">山中湖</a></td>
-  </tr>
-  <tr>
-    <td rowspan="2">6月22日<br>（日/日）</td>
-    <td><b>上午</b>：自驾游<a href="TTTTBBBBDDDD" class="custom-link-3">河口湖</a>-<a href="TTTTBBBBDDDD" class="custom-link-3">山中湖</a></td>
-    <td rowspan="10">京都(4)</td><td rowspan="2"><br></td>
-  </tr>
-  <tr><td><b>下午</b>：还车，<a href="/blogs/travel/Japan-Tour-Plan/#%E5%AF%8C%E5%A3%AB%E5%B1%B1-%E4%BA%AC%E9%83%BD" class="custom-link-3">前往京都</a></td></tr>
-
-  <!-- 京都 -->
-  <tr>
-    <td rowspan="5"><b>京都</b><br>
-    <a href="/assets\images\Travel\Japan Tour Plan\kyoto_brief.jpg">
-        <img src="/assets\images\Travel\Japan Tour Plan\kyoto_brief.jpg" alt=""></a></td>
-    <td rowspan="2">6月23日<br>（一/月）</td>
-    <td><b>白天</b>：<a href="/blogs/travel/Japan-Tour-Plan/#清水寺" class="custom-link-3">清水寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#三十三间堂" class="custom-link-3">三十三间堂</a>、<a href="/blogs/travel/Japan-Tour-Plan/#南禅寺" class="custom-link-3">南禅寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#禅林寺 - 永观堂" class="custom-link-3">永观堂</a>、<a href="/blogs/travel/Japan-Tour-Plan/#平安神宫" class="custom-link-3">平安神宫</a></td>
-    <!-- <td rowspan="8">京都</td> -->
-    <td rowspan="2"><br></td>
-  </tr>
-  <!-- <tr><td><b>下午</b>：</td></tr> -->
-  <tr><td><b>晚上</b>：<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#伏见稻荷大社" class="custom-link-3">伏见稻荷大社</a></span></td></tr>
-  <tr>
-    <td rowspan="3">6月24日<br>（二/火）</td>
-    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#嵯峨岚山" class="custom-link-3">岚山</a>、<a href="/blogs/travel/Japan-Tour-Plan/#天龙寺" class="custom-link-3">天龙寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#渡月桥" class="custom-link-3">渡月桥</a></td>
-    <td rowspan="3"><br></td>
-  </tr>
-  <tr><td><b>下午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#三千院" class="custom-link-3">三千院</a>、<a href="/blogs/travel/Japan-Tour-Plan/#寂光院" class="custom-link-3">寂光院</a></td></tr>
-  <tr><td><b>晚上</b>：<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#贵船神社" class="custom-link-3">贵船神社</a></span></td></tr>
-
-  <!-- 奈良 -->
-  <tr>
-    <td rowspan="3"><b>奈良</b></td>
-    <td rowspan="3">6月25日<br>（三/水）</td>
-    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#唐招提寺" class="custom-link-3">唐招提寺</a></td>
-    <!-- <td rowspan="3">京都</td> -->
-    <td rowspan="3"></td>
-  </tr>
-  <tr><td><b>下午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#东大寺" class="custom-link-3">东大寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#奈良公园" class="custom-link-3">奈良公园</a>、<a href="/blogs/travel/Japan-Tour-Plan/#若草山" class="custom-link-3">若草山</a></td></tr>
-  <tr><td><b>晚上</b>：返回京都、<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#八坂神社" class="custom-link-3">八坂神社</a></span></td></tr>
-
-  <!-- 京都 → 大阪 -->
-  <tr>
-    <td rowspan="3"><b>京都</b></td>
-    <td rowspan="3">6月26日<br>（四/木）</td>
-    <td><b>白天</b>：<a href="/blogs/travel/Japan-Tour-Plan/#金阁寺" class="custom-link-3">金阁寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#北野天满宫" class="custom-link-3">北野天满宫</a>、<a href="/blogs/travel/Japan-Tour-Plan/#晴明神社" class="custom-link-3">晴明神社</a>、<a href="/blogs/travel/Japan-Tour-Plan/#二条城" class="custom-link-3">二条城</a>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆" class="custom-link-3">京都御苑-京都迎宾馆</a></span></td>
-    <td rowspan="3">大阪(1)</td>
-    <td rowspan="3"></td>
-  </tr>
-  <tr><td><b>傍晚</b>：<a href="/blogs/travel/Japan-Tour-Plan/#%E4%BA%AC%E9%83%BD-%E5%A4%A7%E9%98%AA-%E5%A5%88%E8%89%AF-%E5%AE%87%E6%B2%BB-%E7%90%B5%E7%90%B6%E6%B9%96" class="custom-link-3">前往大阪</a></td></tr>
-  <tr><td><b>晚上</b>：<a href="TTTTBBBBDDDD" class="custom-link-3">通天阁</a>、<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="TTTTBBBBDDDD" class="custom-link-3">道顿堀</a></span></td></tr>
-
-  <!-- 大阪 -->
-  <tr>
-    <td rowspan="2"><b>大阪</b></td>
-    <td rowspan="2">6月27日<br>（五/金）</td>
-    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#大阪城" class="custom-link-3">大阪城</a></td>
-    <td rowspan="2">/</td>
-    <td rowspan="2"></td>
-  </tr>
-  <!-- <tr><td><b>下午</b>：
-        <a href="TTTTBBBBDDDD" class="custom-link-3">四天王寺</a>、
-        <a href="TTTTBBBBDDDD" class="custom-link-3">通天阁</a>、
-        <a href="TTTTBBBBDDDD" class="custom-link-3">难波八阪神社</a></td></tr> -->
-  <tr><td><b>下午</b>：前往关西国际机场返回香港</td></tr>
-
-</table>
-</div>
-
-## <span style="color: gray;">说明</span>
-
-- 由于部分项目有预约时间/目的地制约，<span style="background-color:rgba(236, 15, 15, 0.26);">必须</span>或<span style="background-color:rgba(37, 15, 236, 0.27);">比较建议</span>在某些时段参访。
-- 基本的排班逻辑：基本认为每天上午活动时间 3 hours（特殊早起除外），下午 4 hours, 除少数博物馆性质目的地外按照每个景点 1 hour + 通勤时间计算，笼统来说上午2个景点，下午3个景点（具体数字依相对位置关系浮动，也存在特别远的目的地单列）；晚上至多1个随便逛逛性质的景点。
-- 目前总体来说我觉得目前日程比较紧张，另外有些预约还未完成，日程可能会有变化；可以等到固定预约日程稳定之后/到实地选择扔掉一些目的地。
-
-
-# <span style="color: #8E403A;">交通方式</span>
-
-主要通过铁道进行（除铁道交通较少的京都外）。关于日本铁道票券规则的综述见<a href="/blogs/travel/Japan-Tour-Plan/#%E6%97%A5%E6%9C%AC%E9%93%81%E8%B7%AF%E4%BA%A4%E9%80%9A%E7%A5%A8%E5%88%B8%E7%BB%BC%E8%BF%B0" class="custom-link-3">附录</a>。下面是一些常用的城际火车的指引。
-
-## <span style="color: #7F82BB;">东京-富士山</span>
-
-这一程有多种交通方式，下面介绍常见的几种：
-
-### 直达车
-
-- JR 中央线特急<a href="https://www.fujikyu-railway.jp/fujikaiyuu/" class="custom-link-3">富士洄游</a>：新宿站-河口湖站。每天早晨 7:30/8:30/9:30/10:30 a.m. 从新宿站发车。历时2小时，花费 ¥4000. 最好提前通过 <a href="https://smart-ex.jp/top.php" class="custom-link-3">JR</a> 预定。<br>
-- JR 中央线特快：JR 东京站-河口湖站。历时3小时，花费 ¥2600.
-
-### 转乘车
-
-由于富士山是一个热门目的地，所以转乘一般不比直达车慢多少。其中一个关键的转乘点是大月站 (Otsuki). 基本的路线就是通过各种方式到达大月站（约一个半钟），然后转乘富士急行线 (Fujikyu) 到达河口湖站（一个多种）。需要注意的是富士急行线的车次较少（约30 min），所以需要等车不要摸鱼误点。
-
-### 巴士
-
-有很多公司提供服务，最便宜且（名义上）比较快的，但是要小心晚点和高峰期拥堵问题。
-
-
-
-
-
-
-## <span style="color: #7F82BB;">富士山-京都</span>
-
-先乘坐 <a href="https://sekitori.jp/" class="custom-link-3">Sekitori</a> 巴士从河口湖到三岛站，然后转乘新干线前往京都。4小时左右到。
-
-主要参考<a href="https://www.xiaohongshu.com/explore/6639958a000000001e01c6b6?xsec_token=ABQ_s1aOeXVCxwLUhLTOMJJDofyEthOS8IkVtkuNXoMQs=&xsec_source=pc_search&source=web_explore_feed" class="custom-link-3">小红书帖子</a>。
-
-### Sekitori 巴士
-
-<b>路线</b>：河口湖站-三岛站。<br>
-<b>时刻表</b>：在 9:30am - 7:00pm 之间，平均每半小时一班。<br>
-<b>票价</b>：TBD<br>
-<b>车程</b>：约 1.5 小时。<br>
-<b>预定方式</b>：提前一个月通过 <a href="https://sekitori.jp/" class="custom-link-3">Sekitori</a> 预定。
-
-### 新干线
-
-<b>路线</b>：三岛站-京都站；可能需要在名古屋中转。br>
-<b>时刻表</b>：平均每半小时一班。<br>
-<b>票价</b>：TBD<br>
-<b>车程</b>：约 2 小时。<br>
-<b>预定方式</b>：提前一个月通过 <a href="https://smart-ex.jp/top.php" class="custom-link-3">JR</a> 预定，也可以三岛站现场买，据称余票较为充裕。
-
-
-
-## <span style="color: #7F82BB;">京都-大阪-奈良-宇治-琵琶湖</span>
-
-在此区域的交通基本无需特别预定。较特殊的路线包括：
-
-- 京都-大阪：方式很多，基本分为以下几种：
-
-  <!-- | 方式 | 车次 | 速度(15/30/50 min) | 价格(¥500-1500) |
-  | --- | --- | --- | --- |
-  | JR 新干线 | 多 | 快 | 贵 |
-  | JR 关西机场特急 Haruka | 少 | 中 | 贵（提前网上买，作为外国人有优惠） |
-  | JR 东海道、山阳本线（京都本线）：新快速/Thunderbird | 中 | 中 | 中 |
-  | 阪急京都线 | 多 | 慢 | 低 |
-  | 京阪本线（急行/特急） | 多 | 慢 | 低 | -->
-
-<div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
-<table class="my_table_1" border="1">
-  <col style="width: 35%;">
-  <col style="width: 15%;">
-  <col style="width: 20%;">
-  <col style="width: 30%;">
-  <tr>
-    <th>方式</th>
-    <th>车次</th>
-    <th>速度(15/30/50 min)</th>
-    <th>价格(¥500-1500)</th>
-  </tr>
-
-  <tr>
-    <td><b>JR 新干线</b></td>
-    <td>多</td>
-    <td>快</td>
-    <td>贵</td>
-  </tr>
-
-  <tr>
-    <td><b>JR 关西机场特急 Haruka</b></td>
-    <td>少</td>
-    <td>中</td>
-    <td>贵（提前网上买，作为外国人有优惠）</td>
-  </tr>
-  <tr>
-    <td><b>JR 东海道、山阳本线（京都本线）：<br>新快速/Thunderbird</b></td>
-    <td>中</td>
-    <td>中</td>
-    <td>中</td>
-  </tr>
-
-  <tr>
-    <td><b>阪急京都线</b></td>
-    <td>多</td>
-    <td>慢</td>
-    <td>低</td>
-  </tr>
-
-  <tr>
-    <td><b>京阪本线（急行/特急）</b></td>
-    <td>多</td>
-    <td>慢</td>
-    <td>低</td>
-  </tr>
-
-</table>
-</div>
-  
-- 京都-奈良：一般坐近铁京都线和近铁奈良线，耗时约45分钟，花费 ¥800.
-- 大阪-关西机场：JR 关空快速，耗时约70分钟，花费 ¥1200 或 JR 关空特急 Haruka，耗时约45分钟，花费 ¥2500 或南海电铁（难波出发）特急，耗时约40分钟，花费 ¥1500；急行耗时约45分钟，花费 ¥1000.
-- 大阪-奈良：一般坐近铁难波线和近铁奈良线，耗时约30分钟，花费 ¥700.
-- 京都-宇治：JR, 耗时约20分钟，花费 ¥300.
-- 京都-志贺：JR, 耗时约30分钟，花费 ¥400.
-- 京都-彦根：JR, 耗时约1小时，花费 ¥1000.
 
 # <span style="color: #8E403A;">主要旅行景点</span>
 
-## <span style="color: #7F82BB;">东京都</span>
+## 东京都
 
-
-<div class="map-desktop" style="text-align: center;">
+<div style="text-align: center;">
   <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
   <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt=""></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">东京日程与景区地图。Credit: Vincent.</figcaption>
 </div>
-
 
 ### 东北区域
 
 
-#### 東京国立博物館
+#### 东京国立博物馆
 
+东京国立博物馆位于东京市中心东北方向，是日本最大、藏品数量最多的博物馆。
 
 <b>开放时间</b>：<br>
-周一：闭馆；<br>
+周一：闭馆（若周一为节假日，则周一开馆，并在当周周二闭馆）；<br>
 周二、周三、周四、周日：9:30 a.m.-5:00 p.m.；<br>
 周五、周六：9:30 a.m.-8:00 p.m.
 
-<b>注</b>：关于节假日的开馆日程详见<a href="https://www.tnm.jp/modules/r_free_page/index.php?id=113" class="custom-link-3">东京国立博物馆-参观指南</a>。
-
+<b>注</b>：最后入场时间为闭馆前30分钟。关于节假日的开馆日程详见<a href="https://www.tnm.jp/modules/r_free_page/index.php?id=113" class="custom-link-3">东京国立博物馆官网</a>。
 
 <b>门票</b>：<br>
-¥1000 成人 <br>
-¥500 大学生 <br>
-¥0 青少年 (<17岁)、老年人 (>79岁)、中小学生<br>
-¥0 残疾人士及其陪同者<br>
+¥1000 成人； <br>
+¥500 大学生； <br>
+免费 青少年（18岁及以下）、老年人（70岁及以上）或残疾人士及一名陪同者。
 
-
-
-<b>导览</b>：<a href="https://www.tnm.jp/pdf/guide/TokyoNationalMuseumMapandGuide_zh_cn.pdf" class="custom-link-3">中文导览图</a>，<br><a href="https://www.tnm.jp/pdf/guide/TokyoNationalMuseumMapandGuide_en.pdf" class="custom-link-3">英文导览图</a>，<a href="https://www.tnm.jp/modules/r_free_page/index.php?id=2069" class="custom-link-3">App</a>
+<b>导览</b>：<a href="https://www.tnm.jp/modules/r_free_page/index.php?id=114" class="custom-link-3">景区地图</a><a href="https://www.tnm.jp/pdf/guide/TokyoNationalMuseumMapandGuide_zh_cn.pdf" class="custom-link-3">中文导览图</a>，<a href="https://www.tnm.jp/pdf/guide/TokyoNationalMuseumMapandGuide_en.pdf" class="custom-link-3">英文导览图</a>，<a href="https://www.tnm.jp/modules/r_free_page/index.php?id=2069" class="custom-link-3">App.</a>
 
 <b>预计游览时间</b>：2小时。
 
 地址：13-9 Uenokoen, Taito City, Tokyo 110-8712日本；<br>
-电话：+81 5055418600；<br>
+电话：+81 50-5541-8600；<br>
 网站：<a href="https://www.tnm.jp/" class="custom-link-3">东京国立博物馆</a>。
 
-<!-- <div class="map-desktop" style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25917.536443985195!2d139.7652571970477!3d35.709194893850935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e8314d77d11%3A0x232fd618bd4977dd!2z5Lic5Lqs5Zu956uL5Y2a54mp6aaG!5e0!3m2!1szh-CN!2sus!4v1744935784446!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.3001919158232!2d139.77394657664894!3d35.71883507257512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e8314d77d11%3A0x232fd618bd4977dd!2z5Lic5Lqs5Zu956uL5Y2a54mp6aaG!5e0!3m2!1szh-CN!2s!4v1751514878666!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的东京国立博物馆。</figcaption>
 </div>
 
 <div class="map-card">
-  <a href="https://maps.app.goo.gl/8oGaiRxm59hMfK118" target="_blank" class="map-card-link">
+  <a href="https://maps.app.goo.gl/jp8j8Kv8ZMoxD3ds6" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">东京国立博物馆</div>
       <div class="map-card-address">13-9 Uenokoen, Taito City, Tokyo 110-8712日本</div>
     </div>
   </a>
-</div> -->
+</div>
 
 
-#### 国立西洋美術館
+#### 国立西洋美术馆
+
+最先提出建设国立西洋美术馆计划的是日本川崎造船所（现在的川崎重工业）的社长、企业家松方幸次郎（1865年－1950年）。他于1916年开始在伦敦、巴黎等地购买和收集各种欧洲的艺术品，并在随后将这些艺术品运输回国内，以期望在日本建设一座能够展示西方艺术的博物馆。然而，事情进展并不顺利，川崎造船所在1927年陷入了经营危机，松方也在次年辞去了社长职务。很多已经抵达日本的艺术品被拍卖用作还债，仍然存留在伦敦仓库中的作品则又在1939年的一次火灾中被烧毁。在历经种种变故后，国立西洋美术馆终于在1959年4月开馆。不幸的是，松方在1950年6月已离开人世，彼时的国立西洋美术馆仍未建成，松方并没有看到它开馆的一天。有关更多国立西洋美术馆的历史，可参阅<a href="https://www.nmwa.go.jp/qrcode/matsukata/2023_1/index_zh.html" class="custom-link-3">国立西洋美术馆与松方收藏品</a>。
+
+
+
+<div style="text-align: center;">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg" alt="" style="max-width: 90%; height: auto;">
+  <figcaption style="margin-top: 1em;">国立西洋美术馆的正门。</figcaption>
+</div>
+
 
 <b>开放时间</b>：<br>
-周一：闭馆；<br>
-周二、周三、周四、周日：9:30 a.m.-5:00 p.m.；<br>
+周一：闭馆（若周一为节假日，则周一开馆，并在当周周二闭馆）；<br>
+周二、周三、周四、周日：9:30 a.m.-5:30 p.m.；<br>
 周五、周六：9:30 a.m.-8:00 p.m.<br>
 
 <b>门票</b>：<br> 
-¥500 成人 <br>
-¥250 大学生 <br>
-¥0 青少年 (<17岁)、老年人 (>79岁)、中小学生<br>
-¥0 残疾人士及其陪同者<br>
+¥500 成人； <br>
+¥250 大学生； <br>
+免费 青少年（18岁及以下）、老年人（65岁及以上）或残疾人士及一名陪同者。
 
-<b>导览</b>：<a href="https://www.nmwa.go.jp/zh/visit/floorplans.html" class="custom-link-3">导览图</a>
+<b>导览</b>：<a href="https://www.nmwa.go.jp/jp/visit/floorplans.html" class="custom-link-3">馆内地图</a>。
 
 
 <b>预计游览时间</b>：2小时。
 
 地址：7-7 Uenokoen, Taito City, Tokyo 110-0007日本；<br>
-电话：+81 5055418600；<br>
-网站：<a href="https://www.tnm.jp/" class="custom-link-3">国立西洋美术馆</a>。
+电话：+81 50-5541-8600；<br>
+网站：<a href="https://www.nmwa.go.jp/jp/" class="custom-link-3">国立西洋美术馆</a>。
 
-<!-- <div class="map-desktop" style="text-align: center;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25917.536443985195!2d139.7652571970477!3d35.709194893850935!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e9cfa41cc7f%3A0xbb23dcd494e13c8b!2z5Zu956uL6KW_5rSL576O5pyv6aaG!5e0!3m2!1szh-CN!2sus!4v1744937464050!5m2!1szh-CN!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.440368317011!2d139.77323887664878!3d35.71538687257634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e9cfa41cc7f%3A0xbb23dcd494e13c8b!2z5Zu956uL6KW_5rSL576O5pyv6aaG!5e0!3m2!1szh-CN!2s!4v1751645725838!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的国立西洋美术馆。</figcaption>
 </div>
 
 <div class="map-card">
-  <a href="https://maps.app.goo.gl/8oGaiRxm59hMfK118" target="_blank" class="map-card-link">
+  <a href="https://maps.app.goo.gl/UgcBDBZNxWHSBBSd6" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">东京国立博物馆</div>
-      <div class="map-card-address">13-9 Uenokoen, Taito City, Tokyo 110-8712日本</div>
+      <div class="map-card-title">国立西洋美术馆</div>
+      <div class="map-card-address">7-7 Uenokoen, Taito City, Tokyo 110-0007日本</div>
     </div>
   </a>
-</div> -->
+</div>
 
-<!-- 上野公園 -->
+<b>部分藏品展示</b>：
 
-#### 上野公園
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" alt="Image 3">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">从左至右分别为：《圣安东尼的诱惑》、《意大利风景》、《圣特罗佩港》。</figcaption>
+
+#### 上野公园
+
+上野公园全称是上野恩赐公园，位于东京都上野区，于1876年开园，是日本真正意义上的第一座公园。
 
 <b>开放时间</b>：全天开放。
 
@@ -419,7 +157,6 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <b>预计游览时间</b>：1小时。
 
-<!-- 浅草寺 -->
 
 #### 浅草寺
 
@@ -723,7 +460,7 @@ TBD
 
 ## <span style="color: #7F82BB;">奈良县</span>
 
-#### 唐招提寺
+### 唐招提寺
 
 初中都学过，无需多言。
 
@@ -733,7 +470,7 @@ TBD
 
 <a href="https://www.toshodaiji.jp/english/visit/index.html" class="custom-link-3">导览</a>
 
-#### 东大寺
+### 东大寺
 
 巨型木结构建筑，有漂亮的破风。
 
@@ -743,15 +480,15 @@ TBD
 
 <a href="https://www.todaiji.or.jp/information/keidai/l" class="custom-link-3">导览</a>
 
-#### 奈良公园
+### 奈良公园
 
 可以喂小鹿。
 
-#### 若草山
+### 若草山
 
 可以在上面看奈良市区的全景。需要注意的是不能下山太晚误了公交。
 
-#### 春日大社
+### 春日大社
 
 春日社的总本社，可以顺便一去。
 
@@ -761,7 +498,7 @@ TBD
 
 由于临时机票调整，大阪区域的游览被基本砍掉，预计只会有半天用以参观大阪城
 
-#### 大阪城
+### 大阪城
 
 <b>开放时间</b>：9:00 a.m.-6:00 p.m.
 
@@ -770,8 +507,126 @@ TBD
 <b>导览</b>：<a href="https://www.osakacastle.net/pdf/leaflet/kantaiji_2025.pdf" class="custom-link-3">参观指南</a>
 
 
+# <span style="color: #8E403A;">附录 I: 交通</span>
 
-# <span style="color: #8E403A;">附录</span>
+主要通过铁道进行（除铁道交通较少的京都外）。关于日本铁道票券规则的综述见<a href="/blogs/travel/Japan-Tour-Plan/#%E6%97%A5%E6%9C%AC%E9%93%81%E8%B7%AF%E4%BA%A4%E9%80%9A%E7%A5%A8%E5%88%B8%E7%BB%BC%E8%BF%B0" class="custom-link-3">附录</a>。下面是一些常用的城际火车的指引。
+
+## <span style="color: #7F82BB;">东京-富士山</span>
+
+这一程有多种交通方式，下面介绍常见的几种：
+
+### 直达车
+
+- JR 中央线特急<a href="https://www.fujikyu-railway.jp/fujikaiyuu/" class="custom-link-3">富士洄游</a>：新宿站-河口湖站。每天早晨 7:30/8:30/9:30/10:30 a.m. 从新宿站发车。历时2小时，花费 ¥4000. 最好提前通过 <a href="https://smart-ex.jp/top.php" class="custom-link-3">JR</a> 预定。<br>
+- JR 中央线特快：JR 东京站-河口湖站。历时3小时，花费 ¥2600.
+
+### 转乘车
+
+由于富士山是一个热门目的地，所以转乘一般不比直达车慢多少。其中一个关键的转乘点是大月站 (Otsuki). 基本的路线就是通过各种方式到达大月站（约一个半钟），然后转乘富士急行线 (Fujikyu) 到达河口湖站（一个多种）。需要注意的是富士急行线的车次较少（约30 min），所以需要等车不要摸鱼误点。
+
+### 巴士
+
+有很多公司提供服务，最便宜且（名义上）比较快的，但是要小心晚点和高峰期拥堵问题。
+
+
+
+
+
+
+## <span style="color: #7F82BB;">富士山-京都</span>
+
+先乘坐 <a href="https://sekitori.jp/" class="custom-link-3">Sekitori</a> 巴士从河口湖到三岛站，然后转乘新干线前往京都。4小时左右到。
+
+主要参考<a href="https://www.xiaohongshu.com/explore/6639958a000000001e01c6b6?xsec_token=ABQ_s1aOeXVCxwLUhLTOMJJDofyEthOS8IkVtkuNXoMQs=&xsec_source=pc_search&source=web_explore_feed" class="custom-link-3">小红书帖子</a>。
+
+### Sekitori 巴士
+
+<b>路线</b>：河口湖站-三岛站。<br>
+<b>时刻表</b>：在 9:30am - 7:00pm 之间，平均每半小时一班。<br>
+<b>票价</b>：TBD<br>
+<b>车程</b>：约 1.5 小时。<br>
+<b>预定方式</b>：提前一个月通过 <a href="https://sekitori.jp/" class="custom-link-3">Sekitori</a> 预定。
+
+### 新干线
+
+<b>路线</b>：三岛站-京都站；可能需要在名古屋中转。br>
+<b>时刻表</b>：平均每半小时一班。<br>
+<b>票价</b>：TBD<br>
+<b>车程</b>：约 2 小时。<br>
+<b>预定方式</b>：提前一个月通过 <a href="https://smart-ex.jp/top.php" class="custom-link-3">JR</a> 预定，也可以三岛站现场买，据称余票较为充裕。
+
+
+
+## <span style="color: #7F82BB;">京都-大阪-奈良-宇治-琵琶湖</span>
+
+在此区域的交通基本无需特别预定。较特殊的路线包括：
+
+- 京都-大阪：方式很多，基本分为以下几种：
+
+  <!-- | 方式 | 车次 | 速度(15/30/50 min) | 价格(¥500-1500) |
+  | --- | --- | --- | --- |
+  | JR 新干线 | 多 | 快 | 贵 |
+  | JR 关西机场特急 Haruka | 少 | 中 | 贵（提前网上买，作为外国人有优惠） |
+  | JR 东海道、山阳本线（京都本线）：新快速/Thunderbird | 中 | 中 | 中 |
+  | 阪急京都线 | 多 | 慢 | 低 |
+  | 京阪本线（急行/特急） | 多 | 慢 | 低 | -->
+
+<div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
+<table class="my_table_1" border="1">
+  <col style="width: 35%;">
+  <col style="width: 15%;">
+  <col style="width: 20%;">
+  <col style="width: 30%;">
+  <tr>
+    <th>方式</th>
+    <th>车次</th>
+    <th>速度(15/30/50 min)</th>
+    <th>价格(¥500-1500)</th>
+  </tr>
+
+  <tr>
+    <td><b>JR 新干线</b></td>
+    <td>多</td>
+    <td>快</td>
+    <td>贵</td>
+  </tr>
+
+  <tr>
+    <td><b>JR 关西机场特急 Haruka</b></td>
+    <td>少</td>
+    <td>中</td>
+    <td>贵（提前网上买，作为外国人有优惠）</td>
+  </tr>
+  <tr>
+    <td><b>JR 东海道、山阳本线（京都本线）：<br>新快速/Thunderbird</b></td>
+    <td>中</td>
+    <td>中</td>
+    <td>中</td>
+  </tr>
+
+  <tr>
+    <td><b>阪急京都线</b></td>
+    <td>多</td>
+    <td>慢</td>
+    <td>低</td>
+  </tr>
+
+  <tr>
+    <td><b>京阪本线（急行/特急）</b></td>
+    <td>多</td>
+    <td>慢</td>
+    <td>低</td>
+  </tr>
+
+</table>
+</div>
+  
+- 京都-奈良：一般坐近铁京都线和近铁奈良线，耗时约45分钟，花费 ¥800.
+- 大阪-关西机场：JR 关空快速，耗时约70分钟，花费 ¥1200 或 JR 关空特急 Haruka，耗时约45分钟，花费 ¥2500 或南海电铁（难波出发）特急，耗时约40分钟，花费 ¥1500；急行耗时约45分钟，花费 ¥1000.
+- 大阪-奈良：一般坐近铁难波线和近铁奈良线，耗时约30分钟，花费 ¥700.
+- 京都-宇治：JR, 耗时约20分钟，花费 ¥300.
+- 京都-志贺：JR, 耗时约30分钟，花费 ¥400.
+- 京都-彦根：JR, 耗时约1小时，花费 ¥1000.
 
 ## <span style="color: #7F82BB;">日本铁路交通票券综述</span>
 
@@ -851,4 +706,250 @@ TBD
 - 近铁的线路如果是普通 / 急行只需刷卡入场或买乘车券，特急需要进站后在红色特急券机器额外买特急券（带指定席）；
 - JR 奈良等普通 JR 车只需买乘车券/IC卡；
 
+# <span style="color: #8E403A;">附录 II: 预约日程</span>
+
+- ✅<b>已预定</b>6月20日，2:45 p.m. 预约号：231，带护照与申请表。4月18日起可以预定<a href="/blogs/travel/Japan-Tour-Plan/#参观众议院" class="custom-link-3">众议院参观</a>（即提前两个月）。
+- ✅<b>已预定</b>6月26日，11:35 a.m. 预约号：L06261145q00T，出示预约邮件。4月30日开始可以预定<a href="/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆" class="custom-link-3">京都御苑-京都国宾馆</a>参观。
+- ✅<b>已预定</b>6月20日，9:50 a.m. 预约号：506130880，带护照并出示预约邮件。4月30日可以预定<a href="/blogs/travel/Japan-Tour-Plan/#皇居参观" class="custom-link-3">皇居参观</a>。
+- ✅<b>已预定</b>6月20日，12:00 p.m. 提前去 Lawson 换票或直接电子票入场。5月9日 8:00 p.m. Chicago time 可以预约下个月的<a href="/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆" class="custom-link-3">三鹰之森吉卜力美术馆</a>。
+- ✅<b>已预定</b>6月19日，9:30 a.m. 带护照。5月18日 (JAL), 5月19日 (ANA), 每晚 Chicago time 7:30 p.m. 预约<a href="/blogs/travel/Japan-Tour-Plan/#jal--ana-机库参观" class="custom-link-3">机库参观</a>。
+- 5月18日至5月20日可以预约 Shibuya Sky/晴空塔/麻布台 Hills 之类的票。
+<!-- - 5.20 左右可以开始预约 [富士洄游](/blogs/travel/Japan-Tour-Plan/#富士洄游)。（不约应该问题也不大，可以坐其它种类的铁路） -->
+- 5月23日左右可以开始预约富士山-三岛-京都的 <a href="/blogs/travel/Japan-Tour-Plan/#富士山-京都" class="custom-link-3">Sekitori 巴士和新干线</a>。
+- ✅<b>已预定</b>6月21日 12:00 p.m. 至6月22日 12:00 p.m. 富士山租车。带美国驾照与国际驾照。
+- 提前若干天预定热门饭馆/热门景点。
+  - 例子：岚山小火车，<del>琉璃光院（六月不开门）</del>，大阪城公园天守阁，二条城本丸，京都御苑，京都仙洞御所。
+
+<div style="width: 100%; text-align: center; margin-bottom: 1em;">
+  <a href="https://github.com/TomLee0122/tomlee0122.github.io" class="btn btn--inverse"
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(93, 93, 97, 0.52);">源码仓库</a>
+  <a href="https://nuwildcat-my.sharepoint.com/:f:/r/personal/glu0739_ads_northwestern_edu/Documents/File/25JapanVisa/ticket?csf=1&web=1&e=FBORQy" class="btn btn--inverse"
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">票据存档</a>
+</div>
+<div style="width: 100%; text-align: center; margin-bottom: 2em;">
+  <a href="https://maps.app.goo.gl/bWnRWETbUYmEQKz79" class="btn btn--inverse"
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(217, 48, 37, 0.52);">景点列表</a>
+  <a href="https://maps.app.goo.gl/fwS1rL8FCg2ZmqZj6" class="btn btn--inverse"
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(31, 142, 62, 0.52);">饭馆列表</a>
+</div>
+
+# <span style="color: #8E403A;"> 附录 III: 旅行日程（原定）</span>
+<div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
+<table class="my_table_1" border="1">
+  <col style="width: 15%;">
+  <col style="width: 13%;">
+  <col style="width: 35%;">
+  <col style="width: 20%;">
+  <col style="width: 17%;">
+  <tr>
+    <th>地点</th>
+    <th>日期</th>
+    <th>行程</th>
+    <th>住宿（泊数）</th>
+    <th>备注</th>
+  </tr>
+
+  <!-- 东京：6月18–20 -->
+  <tr>
+    <td rowspan="8"><b>东京</b><br>
+    <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
+        <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt=""></a>
+    </td>
+    <td rowspan="3">6月18日<br>（三/水）</td>
+    <td><b>上午</b>：从香港飞往东京</td>
+    <td rowspan="8">东京(3)</td>
+    <td rowspan="3"><br></td>
+  </tr>
+  <tr><td><b>下午</b>：抵达东京，<a href="/blogs/travel/Japan-Tour-Plan/#增上寺" class="custom-link-3">增上寺</a></td></tr>
+  <tr><td><b>晚上</b>：<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#东京塔" class="custom-link-3">东京塔</a></span> </td></tr>
+
+  <tr>
+    <td rowspan="3">6月19日<br>（四/木）</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#浅草寺" class="custom-link-3">浅草寺</a>（早起）、<a href="/blogs/travel/Japan-Tour-Plan/#国立西洋美術館" class="custom-link-3">国立西洋美术馆</a></td>
+    <td rowspan="3"><br></td>
+  </tr>
+  <tr><td><b>下午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#東京国立博物館" class="custom-link-3">东京国立博物馆</a>、<a href="/blogs/travel/Japan-Tour-Plan/#上野公園" class="custom-link-3">上野公园</a>、<a href="/blogs/travel/Japan-Tour-Plan/#秋叶原" class="custom-link-3">秋叶原</a></td></tr>
+  <tr><td><b>晚上</b>：<a href="/blogs/travel/Japan-Tour-Plan/#东京天空树" class="custom-link-3">晴空塔</a></td>
+  </tr>
+
+  <tr>
+    <td rowspan="2">6月20日<br>（五/金）</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#东京车站" class="custom-link-3">东京车站</a>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#皇居参观" class="custom-link-3">皇居</a></span></td>
+    <td rowspan="2"><br></td>
+  </tr>
+  <tr><td><b>下午</b>：<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆" class="custom-link-3">三鹰之森吉卜力美术馆</a></span>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#参观众议院" class="custom-link-3">众议院参观</a></span>、<a href="/blogs/travel/Japan-Tour-Plan/#新宿" class="custom-link-3">新宿</a>、<a href="/blogs/travel/Japan-Tour-Plan/#明治神宫" class="custom-link-3">明治神宫</a>、<a href="/blogs/travel/Japan-Tour-Plan/#代代木公园" class="custom-link-3">代代木公园</a>，</td>
+  <!-- <tr><td><b>晚上</b>：</td> -->
+  <!-- <td rowspan="3"></td> -->
+  </tr>
+
+  <!-- 富士山 -->
+  <tr>
+    <td rowspan="4"><b>富士山</b></td>
+    <td rowspan="2">6月21日<br>（六/土）</td>
+    <td><b>上午</b>：前往<a href="/blogs/travel/Japan-Tour-Plan/#%E4%B8%9C%E4%BA%AC-%E5%AF%8C%E5%A3%AB%E5%B1%B1" class="custom-link-3">河口湖</a></td>
+    <td rowspan="2">富士山地区(1)</td>
+    <td rowspan="2"><br></td>
+  </tr>
+  <tr><td><b>下午</b>：取车，自驾游<a href="TTTTBBBBDDDD" class="custom-link-3">河口湖</a>-<a href="TTTTBBBBDDDD" class="custom-link-3">山中湖</a></td>
+  </tr>
+  <tr>
+    <td rowspan="2">6月22日<br>（日/日）</td>
+    <td><b>上午</b>：自驾游<a href="TTTTBBBBDDDD" class="custom-link-3">河口湖</a>-<a href="TTTTBBBBDDDD" class="custom-link-3">山中湖</a></td>
+    <td rowspan="10">京都(4)</td><td rowspan="2"><br></td>
+  </tr>
+  <tr><td><b>下午</b>：还车，<a href="/blogs/travel/Japan-Tour-Plan/#%E5%AF%8C%E5%A3%AB%E5%B1%B1-%E4%BA%AC%E9%83%BD" class="custom-link-3">前往京都</a></td></tr>
+
+  <!-- 京都 -->
+  <tr>
+    <td rowspan="5"><b>京都</b><br>
+    <a href="/assets\images\Travel\Japan Tour Plan\kyoto_brief.jpg">
+        <img src="/assets\images\Travel\Japan Tour Plan\kyoto_brief.jpg" alt=""></a></td>
+    <td rowspan="2">6月23日<br>（一/月）</td>
+    <td><b>白天</b>：<a href="/blogs/travel/Japan-Tour-Plan/#清水寺" class="custom-link-3">清水寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#三十三间堂" class="custom-link-3">三十三间堂</a>、<a href="/blogs/travel/Japan-Tour-Plan/#南禅寺" class="custom-link-3">南禅寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#禅林寺 - 永观堂" class="custom-link-3">永观堂</a>、<a href="/blogs/travel/Japan-Tour-Plan/#平安神宫" class="custom-link-3">平安神宫</a></td>
+    <!-- <td rowspan="8">京都</td> -->
+    <td rowspan="2"><br></td>
+  </tr>
+  <!-- <tr><td><b>下午</b>：</td></tr> -->
+  <tr><td><b>晚上</b>：<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#伏见稻荷大社" class="custom-link-3">伏见稻荷大社</a></span></td></tr>
+  <tr>
+    <td rowspan="3">6月24日<br>（二/火）</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#嵯峨岚山" class="custom-link-3">岚山</a>、<a href="/blogs/travel/Japan-Tour-Plan/#天龙寺" class="custom-link-3">天龙寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#渡月桥" class="custom-link-3">渡月桥</a></td>
+    <td rowspan="3"><br></td>
+  </tr>
+  <tr><td><b>下午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#三千院" class="custom-link-3">三千院</a>、<a href="/blogs/travel/Japan-Tour-Plan/#寂光院" class="custom-link-3">寂光院</a></td></tr>
+  <tr><td><b>晚上</b>：<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#贵船神社" class="custom-link-3">贵船神社</a></span></td></tr>
+
+  <!-- 奈良 -->
+  <tr>
+    <td rowspan="3"><b>奈良</b></td>
+    <td rowspan="3">6月25日<br>（三/水）</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#唐招提寺" class="custom-link-3">唐招提寺</a></td>
+    <!-- <td rowspan="3">京都</td> -->
+    <td rowspan="3"></td>
+  </tr>
+  <tr><td><b>下午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#东大寺" class="custom-link-3">东大寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#奈良公园" class="custom-link-3">奈良公园</a>、<a href="/blogs/travel/Japan-Tour-Plan/#若草山" class="custom-link-3">若草山</a></td></tr>
+  <tr><td><b>晚上</b>：返回京都、<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#八坂神社" class="custom-link-3">八坂神社</a></span></td></tr>
+
+  <!-- 京都 → 大阪 -->
+  <tr>
+    <td rowspan="3"><b>京都</b></td>
+    <td rowspan="3">6月26日<br>（四/木）</td>
+    <td><b>白天</b>：<a href="/blogs/travel/Japan-Tour-Plan/#金阁寺" class="custom-link-3">金阁寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#北野天满宫" class="custom-link-3">北野天满宫</a>、<a href="/blogs/travel/Japan-Tour-Plan/#晴明神社" class="custom-link-3">晴明神社</a>、<a href="/blogs/travel/Japan-Tour-Plan/#二条城" class="custom-link-3">二条城</a>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆" class="custom-link-3">京都御苑-京都迎宾馆</a></span></td>
+    <td rowspan="3">大阪(1)</td>
+    <td rowspan="3"></td>
+  </tr>
+  <tr><td><b>傍晚</b>：<a href="/blogs/travel/Japan-Tour-Plan/#%E4%BA%AC%E9%83%BD-%E5%A4%A7%E9%98%AA-%E5%A5%88%E8%89%AF-%E5%AE%87%E6%B2%BB-%E7%90%B5%E7%90%B6%E6%B9%96" class="custom-link-3">前往大阪</a></td></tr>
+  <tr><td><b>晚上</b>：<a href="TTTTBBBBDDDD" class="custom-link-3">通天阁</a>、<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="TTTTBBBBDDDD" class="custom-link-3">道顿堀</a></span></td></tr>
+
+  <!-- 大阪 -->
+  <tr>
+    <td rowspan="2"><b>大阪</b></td>
+    <td rowspan="2">6月27日<br>（五/金）</td>
+    <td><b>上午</b>：<a href="/blogs/travel/Japan-Tour-Plan/#大阪城" class="custom-link-3">大阪城</a></td>
+    <td rowspan="2">/</td>
+    <td rowspan="2"></td>
+  </tr>
+  <!-- <tr><td><b>下午</b>：
+        <a href="TTTTBBBBDDDD" class="custom-link-3">四天王寺</a>、
+        <a href="TTTTBBBBDDDD" class="custom-link-3">通天阁</a>、
+        <a href="TTTTBBBBDDDD" class="custom-link-3">难波八阪神社</a></td></tr> -->
+  <tr><td><b>下午</b>：前往关西国际机场返回香港</td></tr>
+</table>
+</div>
+
+## <span style="color: gray;">说明</span>
+
+- 由于部分项目有预约时间/目的地制约，<span style="background-color:rgba(236, 15, 15, 0.26);">必须</span>或<span style="background-color:rgba(37, 15, 236, 0.27);">比较建议</span>在某些时段参访。
+- 基本的排班逻辑：基本认为每天上午活动时间 3 hours（特殊早起除外），下午 4 hours, 除少数博物馆性质目的地外按照每个景点 1 hour + 通勤时间计算，笼统来说上午2个景点，下午3个景点（具体数字依相对位置关系浮动，也存在特别远的目的地单列）；晚上至多1个随便逛逛性质的景点。
+- 目前总体来说我觉得目前日程比较紧张，另外有些预约还未完成，日程可能会有变化；可以等到固定预约日程稳定之后/到实地选择扔掉一些目的地。
+
+
 <button id="back-to-top" title="Back to top">↑</button>
+
+<!-- <script>
+document.addEventListener("click", function(e) {
+  const flower = document.createElement("span");
+  flower.innerText = "🌸";
+  flower.style.position = "absolute";
+  flower.style.left = e.pageX + "px";
+  flower.style.top = e.pageY + "px";
+  flower.style.fontSize = "24px";
+  flower.style.pointerEvents = "none";
+  flower.style.opacity = 1;
+  flower.style.transition = "transform 1s ease-out, opacity 1.2s ease-out";
+
+  document.body.appendChild(flower);
+
+  setTimeout(() => {
+    flower.style.transform = "translateY(100px) scale(1.5)";
+    flower.style.opacity = 0;
+  }, 10);
+
+  setTimeout(() => {
+    flower.remove();
+  }, 1200);
+});
+</script> -->
+
+<!-- <div id="image-preview-overlay">
+  <img id="preview-img" src="" alt="">
+</div>
+
+<script>
+const overlay = document.getElementById("image-preview-overlay");
+const previewImg = document.getElementById("preview-img");
+
+let isDragging = false;
+let startX = 0, startY = 0;
+let currentX = 0, currentY = 0;
+let scale = 1;
+
+// 图片点击放大
+document.querySelectorAll(".gallery-item img").forEach(img => {
+  img.addEventListener("click", e => {
+    previewImg.src = img.src;
+    overlay.style.display = "flex";
+    scale = 1;
+    previewImg.style.transform = "translate(0px, 0px) scale(1)";
+    currentX = currentY = 0;
+  });
+});
+
+// Alt+点击缩小或关闭
+previewImg.addEventListener("click", e => {
+  if (e.altKey) {
+    scale = Math.max(0.5, scale - 0.2);
+    previewImg.style.transform = `translate(${currentX}px, ${currentY}px) scale(${scale})`;
+  } else {
+    scale += 0.2;
+    previewImg.style.transform = `translate(${currentX}px, ${currentY}px) scale(${scale})`;
+  }
+});
+
+// 点击空白关闭预览
+overlay.addEventListener("click", e => {
+  if (e.target === overlay) {
+    overlay.style.display = "none";
+  }
+});
+
+// 拖动图片功能
+previewImg.addEventListener("mousedown", e => {
+  isDragging = true;
+  startX = e.clientX - currentX;
+  startY = e.clientY - currentY;
+  overlay.style.cursor = "grabbing";
+});
+
+document.addEventListener("mousemove", e => {
+  if (!isDragging) return;
+  currentX = e.clientX - startX;
+  currentY = e.clientY - startY;
+  previewImg.style.transform = `translate(${currentX}px, ${currentY}px) scale(${scale})`;
+});
+
+document.addEventListener("mouseup", () => {
+  isDragging = false;
+  overlay.style.cursor = "grab";
+});
+</script> -->
