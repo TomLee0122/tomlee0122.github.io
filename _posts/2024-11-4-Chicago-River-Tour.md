@@ -61,7 +61,7 @@ permalink: /blogs/travel/chicago-river-tour/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/mmTn51sRMyiDVLHRA" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">芝加哥河全貌</div>
@@ -126,7 +126,7 @@ permalink: /blogs/travel/chicago-river-tour/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/nzrDSDAaWw3w31jC6" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">箭牌大厦</div>
@@ -175,7 +175,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <div class="map-card">
   <a href="https://maps.app.goo.gl/kAwHFbBrSgD7K54H6" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">马利纳城</div>
@@ -232,7 +232,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <div class="map-card">
   <a href="https://maps.app.goo.gl/iJiMmqPG27qKA1LJ8" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">芝加哥商品市场</div>
@@ -364,7 +364,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <div class="map-card">
   <a href="https://maps.app.goo.gl/dwhmZKPSk2kM4mJ48" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">McCormick Bridgehouse & Chicago River Museum</div>
@@ -408,7 +408,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <div class="map-card">
   <a href="https://maps.app.goo.gl/Znjrx7RvkeexE6Ap9" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">河北路150號大厦</div>
@@ -452,7 +452,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <div class="map-card">
   <a href="https://maps.app.goo.gl/ZeWpm2U1DzNrCWHu7" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">芝加哥歌剧院</div>
@@ -504,7 +504,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <div class="map-card">
   <a href="https://maps.app.goo.gl/hrAofC3xDSkRsGLL7" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail" style="max-width: 40%; height: auto;">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">韦莱集团大厦</div>
