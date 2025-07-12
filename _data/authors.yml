@@ -31,6 +31,7 @@ tuorui:
   bio: "En voyage dans l'espace de Hilbert."
   location: "Evanston, IL"
   avatar: "/assets/images/Noe.jpg"
+  home: "https://v1ncent19.github.io/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
