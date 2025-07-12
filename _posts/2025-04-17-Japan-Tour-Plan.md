@@ -183,10 +183,10 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 浅草寺全称为金龙山浅草寺，位于东京都台东区，是东京都内历史最悠久的寺院。雷门与内部的五重塔都是旅游打卡圣地。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3563.JPG.jpeg" class="gallery-item" style="max-width:45%;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3563.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
     <img src="/assets/images/Travel/Japan Tour Plan/IMG_3563.JPG.jpeg" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3565.JPG.jpeg" class="gallery-item" style="max-width:45%;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3565.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
     <img src="/assets/images/Travel/Japan Tour Plan/IMG_3565.JPG.jpeg" alt="Image 2">
   </a>
 </div>
@@ -221,7 +221,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>门票</b>：详见下图。<br>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-04-17-20-02-53.png" target="_blank">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-04-17-20-02-53.png">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-04-17-20-02-53.png" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
   </a>
 </div>
@@ -262,7 +262,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<span style="color: #e0669f;"><b>圣地巡礼</b></span>：
+<span style="color: #e0669f;"><b>圣地巡礼案内</b></span>：
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.png">
@@ -324,32 +324,189 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-#### 众议院
+#### <span style="color: orange">国会议事堂</span>
 
-<b>开放时间/导览</b>：可以提前两个月通过邮件方式预约 <a href="https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm" class="custom-link-3">众议院参观英文导览</a>；（仅有当天下午三点场次为英文，其它日文场大体是一小时一次）。
+日本的政治制度为君主立宪制，国会是国家的立法机关与最高权力机构，由众议院与参议院组成。国会议事堂位于东京都千代田区，是日本国会的所在地。
 
-#### 东京车站
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">位于东京都千代田区的国会议事堂。</figcaption>
+</div>
 
-美丽的车站建筑，适合拍照。在关东大地震后部分重建。
-<a href="https://zh.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%AB%99" class="custom-link-3">信息</a>。
+众议院与参议院均位于国会议事堂内部，但二者对于国会议事堂的管理范围并不对称，众议院拥有更大的管理范围。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">国会议事堂内部的众议院。</figcaption>
+</div>
+
+
+<b>开放时间与导览</b>：可以提前两个月通过邮件方式预约<a href="https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm" class="custom-link-3">众议院参观英文导览</a>；（仅有当天下午三点场次为英文，其它日文场大体是一小时一次）。
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：1.5小时。
+
+地址：1 Chome-7-1 Nagatachō, Chiyoda City, Tokyo 100-0014日本；<br>
+电话：+81 3-3581-5111；<br>
+网站：<a href="https://www.sangiin.go.jp/" class="custom-link-3">日本参议院</a>与<a href="https://www.shugiin.go.jp/" class="custom-link-3">日本众议院</a>。
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.04524249877!2d139.74228307664742!3d35.675887972588946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b89b2e1b089%3A0x48c7d4fa5e528690!2z5Zu95Lya6K6u5LqL5aCC!5e0!3m2!1szh-CN!2s!4v1752141430887!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的国会议事堂。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/8sCae7Y2LchvBP9N7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">国会议事堂</div>
+      <div class="map-card-address">1 Chome-7-1 Nagatachō, Chiyoda City, Tokyo 100-0014日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">东京车站</span>
+
+东京车站位于日本东京都千代田区丸之内一丁目，为东日本旅客铁道（JR东日本）、东海旅客铁道（JR东海）、东京地铁的铁路车站。开业于1914年，是日本多条铁路干线的端点站，也是东京主要交通枢纽之一，拥有东京都市中央车站的地位，被誉为“表玄关”。更多信息可参阅<a href="https://zh.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%AB%99" class="custom-link-3">维基百科</a>。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">东京车站。</figcaption>
+</div>
+
+<b>开放时间</b>：全天开放。
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：15分钟。
+
+地址：1 Chome-9 Marunouchi, Chiyoda City, Tokyo 100-0005日本；<br>
+电话：+81 3-3211-0001；<br>
+网站：<a href="https://www.tokyostationcity.com/tc/" class="custom-link-3">东京车站</a>。
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8254555927247!2d139.76449087664756!3d35.681299572587314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x277c49ba34ed38!2z5Lic5Lqs56uZ!5e0!3m2!1szh-CN!2s!4v1752143038490!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的东京车站。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/8sCae7Y2LchvBP9N7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">东京车站</div>
+      <div class="map-card-address">1 Chome-9 Marunouchi, Chiyoda City, Tokyo 100-0005日本</div>
+    </div>
+  </a>
+</div>
 
 
 ### 西部区域
 
 
-#### 明治神宫
+#### <span style="color: orange">明治神宫</span>
 
+明治神宫位于东京都涩谷区，是为了纪念明治天皇（即施行明治维新的天皇）与昭宪皇太后而建的神社。
 
-<b>导览&参拜指南</b>：<a href="https://www.meijijingu.or.jp/sanpai/2.php" class="custom-link-3">官方网站</a>。
+<b>开放时间</b>：全天开放。
 
+<b>门票</b>：免费。
 
-#### 新宿
+<b>预计游览时间</b>：30分钟。
 
-请汤米补充一下巡礼案内。
+地址：1-1 Yoyogikamizonocho, Shibuya, Tokyo 151-8557日本；<br>
+电话：+81 3-3379-5511；<br>
+网站与参拜指南：<a href="https://www.meijijingu.or.jp/" class="custom-link-3">明治神宫</a>。
 
-#### 明治神宫
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.024546820186!2d139.6967509766473!3d35.67639757258882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cb79a4c26e5%3A0x8fca893849103f73!2z5piO5rK756We5a6r!5e0!3m2!1szh-CN!2s!4v1752253329868!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的明治神宫。</figcaption>
+</div>
 
-<a href="https://www.meijijingu.or.jp/sanpai/" class="custom-link-3">参拝案内</a>。
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/2HoAxQHESBpLzvb46" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">明治神宫</div>
+      <div class="map-card-address">1-1 Yoyogikamizonocho, Shibuya, Tokyo 151-8557日本</div>
+    </div>
+  </a>
+</div>
+
+<span style="color: #e0669f;"><b>圣地巡礼案内</b>（待完成）</span>：
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png">
+  <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">女神异闻录5：皇家版中的明治神宫。</figcaption>
+</div>
+
+#### <span style="color: orange">新宿</span>
+
+新宿 (Shinjuku), 即新宿区，是东京都的一个特别区，位于东京都中心以西，是东京都最为繁华的区之一。新宿区以新宿站为中心，在周围纵横数个街区内聚集了大量的购物中心、酒吧、棋牌室等娱乐场所，<span class="reveal-on-hover">作为新宿的特色，它还拥有东京最大的红灯区，</span>著名的歌舞伎町一番街就位于新宿。新宿与涩谷 (Shibuya), 池袋 (Ikebukuro) 并称为东京的三大副都心。
+
+<div style="text-align: center;">    
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">新宿的歌舞伎町一番街。</figcaption>
+</div>
+
+<b>开放时间</b>：全天开放。<span class="reveal-on-hover">（当然是夜晚开放了！）</span>
+
+<b>门票</b>：免费。<span class="reveal-on-hover">（免不免费取决于个人爱好！）</span>
+
+<b>预计游览时间</b>：30分钟。<span class="reveal-on-hover">（游览时间由游览项目决定！）</span>
+
+地址：〒160-0021 东京都新宿区<br>
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.246847669134!2d139.70057457664808!3d35.69554267258274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd84e865c35%3A0x33418e00dfeefac!2z5pel5pys44CSMTYwLTAwMjEg5Lic5Lqs6YO95paw5a6_5Yy65q2M6Iie5LyO55S6!5e0!3m2!1szh-CN!2s!4v1752335113818!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的新宿。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/EcsZzn3aJvGNF6r58" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">新宿</div>
+      <div class="map-card-address">Shinjuku, Tokyo 160-0021日本</div>
+    </div>
+  </a>
+</div>
+
+<span style="color: #e0669f;"><b>圣地巡礼案内</b></span>：
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png">
+  <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">女神异闻录5：皇家版中的新宿商业街。</figcaption>
+</div>
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">新宿街角一景。</figcaption>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;新宿的发展，离不开它脚下相对坚实的土地。1923年的关东大地震使得彼时东京的商业中心银座、浅草收到了很大打击，而所在地表相对稳定的新宿则受影响较小，这使得新宿在关东大地震之后发展迅速。<br>
+  </p>
+</blockquote>
 
 #### 代代木公园
 
