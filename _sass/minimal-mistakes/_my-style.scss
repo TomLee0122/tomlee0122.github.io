@@ -531,7 +531,7 @@ body.dark-mode #dark-mode-toggle {
 }
 
 body.dark-mode #site-nav {
-  background-color: #121212; // 黑夜背景色
+  background-color: transparent; // 黑夜背景色
   color: #f1f1f1;
 
   a {
@@ -627,7 +627,7 @@ body.dark-mode .toc__menu a {
 
 /* 黑夜模式下的样式 */
 body.dark-mode #footer {
-  background-color: #121212; // 深色背景
+  background-color: #0e0e0e; // 深色背景
   color: #f1f1ff; // 浅色字体
 
   a {
@@ -684,6 +684,9 @@ body,
 .map-card-title,
 .map-card-address,
 .reveal-on-hover,
+.masthead,
+.page__footer::before,
+.sidebar.sticky,
 #dark-mode-toggle {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
@@ -699,7 +702,7 @@ body.homepage .archive {
 .profile-wrapper {
   max-width: 100%;
   margin: 0 auto;
-  font-size: 1.1em;
+  // font-size: 1.1em;
   line-height: 1.5;
   // padding: 1em;
 }

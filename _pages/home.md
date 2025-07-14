@@ -11,7 +11,7 @@ classes: homepage
 <div class="profile-wrapper">
   <img src="/assets/images/selfie.jpg" alt="My Photo" class="profile-pic">
 <p>
-Hello, this is Yikun, welcome to my website! I am a third-year Ph.D. candidate in statistics and data science at <a href="https://statistics.northwestern.edu/" class="custom-link-3">the Department of the Statistics and Data Science</a>, <a href="https://www.northwestern.edu/" class="custom-link-3">Northwestern University</a>. I am very fortunately supervised by <a href="https://mateyneykov.com/" class="custom-link-3">Prof. Matey Neykov</a>. Currently, we are working on the minimax bound for the testing problem under the (general) Gaussian sequence model.
+Hello, this is Yikun, welcome to my website! I am a third-year Ph.D. candidate in statistics and data science at <a href="https://statistics.northwestern.edu/" class="custom-link-3">the Department of Statistics and Data Science</a>, <a href="https://www.northwestern.edu/" class="custom-link-3">Northwestern University</a>. I am very fortunately supervised by <a href="https://mateyneykov.com/" class="custom-link-3">Prof. Matey Neykov</a>. Currently, we are working on the minimax bound for the mean testing problem under the (general) Gaussian sequence model.
 </p>
 
 <p>

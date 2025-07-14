@@ -17,7 +17,7 @@ header:
 tags:
   - Travel
 layout: single
-classes: wide custom-footer
+classes: wide custom-footer-chicago
 author_profile: true
 authors:
   - yikun
