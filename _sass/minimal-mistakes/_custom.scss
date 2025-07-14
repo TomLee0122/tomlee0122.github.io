@@ -22,23 +22,87 @@
 //     background: transparent !important;
 // }
 
-.custom-footer .page__footer {
+
+// Background image for the homepage masthead
+.masthead {
+  background-image: url('/assets/images/Textures/background_textures.jpg');  // 替换为你的图片路径
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  // color: #fff;  // 可选：确保文字在图像上清晰可见
+}
+
+body.dark-mode .masthead {
+  background-image: url('/assets/images/Textures/background_textures_dark.jpg');
+}
+
+.page__footer {
   position: relative;
-  color: white;
-  min-height: 300px;
-  padding: 2em 1em;
+  // min-height: 110px;
+  // padding: 0 1em 0em;
   z-index: 0;
   overflow: hidden;
 }
 
-.custom-footer .page__footer::before {
+.page__footer::before {
   content: "";
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  background-image: url('/assets/images/Travel/Chicago River Tour/2024-10-16 205341_revised.jpg'); // 替换为你的路径
+  background-image: url('/assets/images/Textures/background_textures_2.jpg'); // 替换为你的路径
+  background-size: cover;
+  // background-position: center;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+.custom-footer-chicago .page__footer {
+  color: white;
+  // min-height: 300px;
+  padding: 4em;
+}
+
+.custom-footer-chicago .page__footer::before {
+  content: "";
+  background-image: url('/assets/images/Travel/Chicago River Tour/2024-10-16 205341_revised.jpg') !important; // 替换为你的路径
+  opacity: 0.65;  // 控制透明度，0 是完全透明，1 是完全不透明
+}
+
+body.dark-mode .page__footer::before {
+  background-image: url('/assets/images/Textures/background_textures_2_dark.jpg');
+}
+
+.sidebar.sticky .h-card {
+  position: relative;
+  background-image: url('/assets/images/Textures/h_card_background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  opacity: 0.65;  // 控制透明度，0 是完全透明，1 是完全不透明
-  z-index: -1;
+  padding: 1em;
+  // color: #fff;
+  border-radius: 8px;
+}
+
+/* 添加遮罩层来淡化背景图 */
+.sidebar.sticky .h-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: rgba(255, 255, 255, 0.7); // 越接近1越白越淡
+  z-index: 1;
+  pointer-events: none;
+  border-radius: 8px;
+}
+
+/* 提升内容层级，让文字不被遮罩影响 */
+.sidebar.sticky .h-card > * {
+  position: relative;
+  z-index: 2;
+}
+
+body.dark-mode .sidebar.sticky .h-card {
+  background-image: url('/assets/images/Textures/h_card_background_dark.jpg');
+}
+
+body.dark-mode .sidebar.sticky .h-card::after {
+  background-color: rgba(0, 0, 0, 0.3);
 }

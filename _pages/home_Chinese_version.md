@@ -11,7 +11,7 @@ classes: homepage
 <div class="profile-wrapper">
   <img src="/assets/images/selfie.jpg" alt="My Photo" class="profile-pic">
 <p>
-你好，我是李翊昆（Lǐ Yì Kūn），欢迎来到我的个人网站！我目前是<a href="https://statistics.northwestern.edu/" class="custom-link-3">西北大学统计与数据科学系</a>的三年级博士生，导师是<a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov教授</a>。目前我们正在研究（广义的） Gaussian sequence 模型下的检验问题的最优极小极大界。
+你好，我是李翊昆（Lǐ Yì Kūn），欢迎来到我的个人网站！我目前是<a href="https://statistics.northwestern.edu/" class="custom-link-3">西北大学统计与数据科学系</a>的三年级博士生，导师是<a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov教授</a>。目前我们正在研究（广义的） Gaussian sequence 模型下的均值检验问题的最优极小极大界。
 <!-- Hello, this is Yikun, welcome to my website! I am a third-year Ph.D. candidate in statistics and data science at <a href="https://statistics.northwestern.edu/" class="custom-link-3">the Department of the Statistics and Data Science</a>, <a href="https://www.northwestern.edu/" class="custom-link-3">Northwestern University</a>. I am very fortunately supervised by <a href="https://mateyneykov.com/" class="custom-link-3">Prof. Matey Neykov</a>. Currently, we are working on the minimax bound for the testing problem under the (general) Gaussian sequence model. -->
 </p>
 

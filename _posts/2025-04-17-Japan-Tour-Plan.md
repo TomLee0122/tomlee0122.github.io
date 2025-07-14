@@ -73,7 +73,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/jp8j8Kv8ZMoxD3ds6" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">东京国立博物馆</div>
@@ -122,7 +122,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/UgcBDBZNxWHSBBSd6" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">国立西洋美术馆</div>
@@ -169,7 +169,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/QYkESVkhj5ZwLDL49" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">上野公园</div>
@@ -180,7 +180,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 #### <span style="color: orange">浅草寺</span>
 
-浅草寺全称为金龙山浅草寺，位于东京都台东区，是东京都内历史最悠久的寺院。雷门与内部的五重塔都是旅游打卡圣地。
+浅草寺全称为金龙山浅草寺，位于东京都台东区，山号为金龙山。浅草寺是东京都内历史最悠久的寺院。雷门与内部的五重塔都是旅游打卡圣地。
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_3563.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
@@ -188,6 +188,12 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_3565.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
     <img src="/assets/images/Travel/Japan Tour Plan/IMG_3565.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.jpg" alt="Image 3">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 211821.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 211821.jpg" alt="Image 4">
   </a>
 </div>
 
@@ -239,7 +245,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_3624.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3624.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3624.JPG.jpeg" alt="" style="max-width: 70%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">秋叶原的街景。</figcaption>
 </div>
 
@@ -253,7 +259,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/R9x1MYS6jtPcVLTz8" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">秋叶原</div>
@@ -296,7 +302,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">皇居景观。<b>左上</b>：富士見櫓。富士見櫓是皇居中的防御性设施之一。由于它从众多角度看上去都相同，因此又被称为“八面前塔”。在明雷基大火后，它取代了废弃的天守阁，成为江户城的象征。<b>右上</b>：長和殿。長和殿是皇居内部最重要的宫殿之，它是天皇接待接待贵宾以及平日办公的场所。<b>左下</b>：正门铁桥（二重桥）。<b>右下</b>：松塔。</figcaption>
 
 
-<b>开放时间与导览</b>：<br>
+<b>开放时间与预约信息</b>：<br>
 皇居的参观提前至上一个月一号开始，通过<a href="https://sankan.kunaicho.go.jp/multilingual/lang/cn/information.html" class="custom-link-3">宫内厅官网</a>预约，有9:30 a.m. 和12:30 p.m. 两个时段可选。也可以选择不预约直接去现场排队登记参观（名额有限）。有关参观皇居的具体事宜与细节，请参阅<a href="https://sankan.kunaicho.go.jp/multilingual/lang/cn/information.html" class="custom-link-3">宫内厅官网</a>。
 
 <b>门票</b>：免费。
@@ -315,7 +321,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/YNVwVxUjAkqhUod4A" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">皇居</div>
@@ -343,7 +349,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </div>
 
 
-<b>开放时间与导览</b>：可以提前两个月通过邮件方式预约<a href="https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm" class="custom-link-3">众议院参观英文导览</a>；（仅有当天下午三点场次为英文，其它日文场大体是一小时一次）。
+<b>开放时间与预约信息</b>：可以提前两个月通过邮件方式预约<a href="https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm" class="custom-link-3">众议院参观英文导览</a>；（仅有当天下午三点场次为英文，其它日文场大体是一小时一次）。
 
 <b>门票</b>：免费。
 
@@ -361,7 +367,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/8sCae7Y2LchvBP9N7" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">国会议事堂</div>
@@ -398,7 +404,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/8sCae7Y2LchvBP9N7" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">东京车站</div>
@@ -433,7 +439,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/2HoAxQHESBpLzvb46" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">明治神宫</div>
@@ -456,7 +462,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <div style="text-align: center;">    
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg" alt="" style="max-width: 70%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">新宿的歌舞伎町一番街。</figcaption>
 </div>
 
@@ -476,7 +482,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div class="map-card">
   <a href="https://maps.app.goo.gl/EcsZzn3aJvGNF6r58" target="_blank" class="map-card-link">
     <div class="map-card-thumbnail">
-      <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
       <div class="map-card-title">新宿</div>
@@ -508,42 +514,304 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </p>
 </blockquote>
 
-#### 代代木公园
+#### <span style="color: orange">代代木公园</span>
 
-请汤米补充一下巡礼案内。
+代代木公园位于东京都涩谷区，坐落在涩谷站北偏西的方位，是一座环境优美的大型城市公园。春天时，可在代代木公园赏樱花，平日也可以在代代木公园发现东京市井的各种活动与风情。
 
-#### 四轩茶屋
+<b>开放时间</b>：全天开放。
 
+<b>门票</b>：免费。
 
-请汤米补充一下巡礼案内。
+<b>预计游览时间</b>：30分钟。
+
+地址：2 Chome-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052日本；<br>
+电话：+81 3-3469-6081；<br>
+网站：<a href="https://www.tokyo-park.or.jp/park/format/index039.html" class="custom-link-3">代代木公园</a>。
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.2817097854436!2d139.6923906766472!3d35.670064872590835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cb479620a33%3A0x34bcc78ce7f8bf3e!2z5Luj5Luj5pyo5YWs5Zut!5e0!3m2!1szh-CN!2s!4v1752416802286!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的代代木公园。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/Ybzah8j5Lu96B2iG6" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">代代木公园</div>
+      <div class="map-card-address">2 Chome-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">三轩茶屋</span>
+
+一个位于东京都世田谷区的看起来非常平常的区域，但同时又是人气非常高的住宅区。<span class="reveal-on-hover">（同时也是雨宫莲打工的卢布朗咖啡店所在地，也是“四轩茶屋”的现实原型。</span><span class="reveal-on-hover">可惜这次没有来得及去！！）</span>
+
+地址：〒154-0024 东京都世田谷区
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6484.899875553955!2d139.66283964789346!3d35.641284690400646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f49927231ef9%3A0xcc2931a04ac73fe6!2z5pel5pys44CSMTU0LTAwMjQg5Lic5Lqs6YO95LiW55Sw6LC35Yy65LiJ6L2p6Iy25bGL!5e0!3m2!1szh-CN!2s!4v1752418086506!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的三轩茶屋。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/2QHwGUoqTCcFEewG9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">三轩茶屋</div>
+      <div class="map-card-address">Setagaya City, Tokyo 154-0024日本</div>
+    </div>
+  </a>
+</div>
 
 
 
 ### 南部区域
 
-#### 东京塔
+#### <span style="color: orange">东京塔</span>
 
-通过<a href="https://en.tokyotower.co.jp/fee/" class="custom-link-3">官网</a>预约登塔门票。当然更好的参观方式是登附近的高楼远观，例如麻布台 Hills.
+东京塔（又称东京铁塔，日本电波塔），是东京都的一座电波塔，主要用于发射电视与广播信号。东京塔建于1958年，高332.9米，是日本第二高的建筑物，仅次于<a href="/blogs/travel/Japan-Tour-Plan/#东京晴空塔天空树" class="custom-link-3">东京晴空塔</a>。东京塔以其简洁优美的外形，每年吸引了众多游客参观。<span class="reveal-on-hover">（同时也是众多日本电视剧、动漫、游戏的取景地！）</span>
 
-#### 增上寺
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.jpg" alt="Image 2">
+  </a>
+</div>
 
-东京塔门口的寺庙，可以顺便一去。
-<a href="https://www.zojoji.or.jp/keidai/" class="custom-link-3">地图</a>。
+<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">东京塔。</figcaption>
 
+<b>开放时间</b>：9:00 a.m.-11:00 p.m.（最后入场时间为10:30 p.m.）
+
+<b>门票</b>：<br>
+¥1500 成人；<br>
+¥1200 高中学生；<br>
+¥900 小学与初中学生；<br>
+¥600 幼儿（4岁以上）；<br>
+免费 4岁及以下婴幼儿。
+
+<b>预计游览时间</b>：1小时。
+
+地址：4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011日本；<br>
+电话：+81 3-3433-5111；<br>
+网站：<a href="https://cn.tokyotower.co.jp/" class="custom-link-3">东京塔</a>。
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7479757770852!2d139.74285797664683!3d35.65858047259467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbd9009ec09%3A0x481a93f0d2a409dd!2z5Lic5Lqs6ZOB5aGU!5e0!3m2!1szh-CN!2s!4v1752419833639!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的东京塔。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/z1BtzYrJRSbMdN5s7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">东京塔</div>
+      <div class="map-card-address">4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011日本</div>
+    </div>
+  </a>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;东京塔是以巴黎的艾菲尔铁塔为原型建造的。<br>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;东京塔的外观是明亮的橙白相间的颜色。它每五年会被重新粉刷一次，每次粉刷需要一年时间。<br>
+  </p>
+</blockquote>
+
+#### <span style="color: orange">增上寺</span>
+
+增上寺位于东京都港区，临近东京塔，是一座净土宗寺院，山号为三缘山。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">传统与现代：增上寺与其后的东京塔。</figcaption>
+</div>
+
+<b>开放时间</b>：9:00 a.m.-5:00 p.m.
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：30分钟。
+
+地址：4 Chome-7-35 Shibakoen, Minato City, Tokyo 105-0011日本；<br>
+电话：+81 3-3432-1431；<br>
+网站：<a href="https://www.zojoji.or.jp/" class="custom-link-3">增上寺</a>。
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7926897702123!2d139.74571787664684!3d35.657478972594916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbe91676c0b%3A0x88a4a86ddb1dbd24!2z5aKe5LiK5a-6!5e0!3m2!1szh-CN!2s!4v1752666666548!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的增上寺。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/SrmvTkYAVRPvugb76" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">增上寺</div>
+      <div class="map-card-address">4 Chome-7-35 Shibakoen, Minato City, Tokyo 105-0011日本</div>
+    </div>
+  </a>
+</div>
 
 ### 其他区域
 
 
-#### JAL/ANA 机库参观
+#### <span style="color: orange">日本航空与全日空航空机库</span>
 
-- <b>JAL Sky Museum</b>：提前一个月同一天的当地时间 9:30 a.m. 放票。通过<a href="https://www.jal.com/ja/kengaku/en/" class="custom-link-3">JAL 官网</a>预订。
+参观位于东京羽田空港的日本航空 (JAL) 和全日空 (ANA) 的机库，实地探索机库的组成、作用，了解飞机的维护和保养过程，近距离感受代表了人类现代航空工业技术的天空机器！
 
-- <b>ANA Blue Hanger Tour</b>：提前30天当地时间 9:30 a.m. 放票。蹲点在<a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/reservation/" class="custom-link-3">ANA 官网</a>预定。（非常抢手，需要蹲点。例如：计划6月19日参观，就需要在5月19日芝加哥时间 7:30 p.m. 蹲点 ANA, 5月18日芝加哥时间 7:30 p.m. 蹲点 JAL）
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3570.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3570.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3585.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3585.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3590.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3590.JPG.jpeg" alt="Image 3">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3593.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3593.JPG.jpeg" alt="Image 4">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3595.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3595.JPG.jpeg" alt="Image 5">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3601.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3601.JPG.jpeg" alt="Image 6">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3603.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3603.JPG.jpeg" alt="Image 7">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3606.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3606.JPG.jpeg" alt="Image 8">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3610.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3610.JPG.jpeg" alt="Image 9">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">日本航空机库之旅。</figcaption>
+
+<div style="margin-bottom: 0.5em;"><b>开放时间与预约信息</b>：</div>
+
+<b>日本航空机库 (JAL Sky Museum)</b>: <br>
+周一、二、四、六、日（节假日不开放）：<br>
+9:30 a.m.-11:20 a.m.；<br>
+10:45 a.m.-12:35 p.m.；<br>
+2:45 p.m.-4:35 p.m.
+
+<b>预约信息</b>：提前一个月同一天的东京时间 9:30 a.m. 放出名额（若前一个月无此日期，则向后推迟一天）。<b>只接受<a href="https://www.jal.com/ja/kengaku/en/" class="custom-link-3">日本航空官网</a>预订</b>。
+
+<b>门票</b>：免费。
+
+地址：JALメインテナンスセンタ, 1, 3 Chome-5-1 Hanedakuko, Ota City, Tokyo 144-0041日本；<br>
+电话：+81 3-5460-3755；<br>
+网站：<a href="https://www.jal.co.jp/kengaku/" class="custom-link-3">日本航空官网</a>。
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.493231819025!2d139.78404829013283!3d35.541519002068206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601865c4fe3606d1%3A0x113bcf8ac76912ec!2sJAL%20Sky%20Museum!5e0!3m2!1szh-CN!2s!4v1752668669629!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的日本航空机库。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/J8zNUWcRrvZ5UC5k9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">日本航空机库</div>
+      <div class="map-card-address">JALメインテナンスセンタ, 1, 3 Chome-5-1 Hanedakuko, Ota City, Tokyo 144-0041日本</div>
+    </div>
+  </a>
+</div>
+
+<div style="margin-bottom: 0.5em;"><b>全日空航空机库 (ANA Blue Hanger)</b>：</div>
+
+周二至周六（节假日不开放）：<br>
+9:30 a.m.-10:45 a.m.；<br>
+10：45 a.m.-12:00 p.m.；<br>
+1:00 p.m.-2:15 p.m.；<br>
+2:15 p.m.-3:30 p.m.；<br>
+3:30 p.m.-4:45 p.m.
+
+<b>ANA Blue Hanger Tour</b>：同样<b>只接受网上预订</b>。提前30天的东京时间 9:30 a.m. 在<a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/reservation/" class="custom-link-3">全日空航空官网</a>放出名额，预约时间详见<a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/assets/pdf/schedule_2502.pdf" class="custom-link-3">表格</a>。请提前至少10分钟到达约定的集合地点。
+
+<b>门票</b>：免费。
+
+地址：Component Maintenance Building, 3 Chome-5-5 Hanedakuko, Ota City, Tokyo 144-0041日本；<br>
+电话：+81 3-6700-2222；<br>
+网站：<a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/" class="custom-link-3">全日空航空官网</a>。
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.648287094472!2d139.79091277664264!3d35.537688272634114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018641346eb558f%3A0xfc2324997c40613f!2sANA%20Aircraft%20Hangar!5e0!3m2!1szh-CN!2s!4v1752668535570!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的全日空航空机库。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/YnATACjY5Hjq5Fzr5" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">全日空航空机库。</div>
+      <div class="map-card-address">Component Maintenance Building, 3 Chome-5-5 Hanedakuko, Ota City, Tokyo 144-0041日本</div>
+    </div>
+  </a>
+</div>
 
 #### 三鹰之森吉卜力美术馆
 
-提前至上一个月的当地时间10日 10:00 a.m. 开始放票，通过（给外国人版本的）<a href="https://l-tike.com/st1/ghibli-en/Tt/Ttg010agreement/index" class="custom-link-3">罗森订票平台</a>预定。
+三鹰之森吉卜力美术馆位于东京都三鹰市，是由著名动画制作工作室吉卜力工作室的创始人宫崎骏所创办的动画美术馆与博物馆，其中包含了大量宫崎骏动画元素。<span class="reveal-on-hover">绝对是能让宫崎骏动画的粉丝怦然心动的美术馆！！</span>
 
+<b>开放时间与预约信息</b>：<br>
+每周除周二外：10:00 a.m.-6:00 p.m.<br>
+周二：闭馆<br>
+
+<b>参观日期上一个月10日的东京时间 10:00 a.m. 开始放票</b>，通过（给外国人版本的）<a href="https://l-tike.com/st1/ghibli-en/Tt/Ttg010agreement/index" class="custom-link-3">罗森订票平台</a>预定。
+
+<b>门票</b>：<br>
+成人 ¥1000<br>
+中学生与高中生 ¥700<br>
+小学生 ¥400<br>
+幼儿（4岁以上） ¥100<br>
+婴幼儿（4岁以下）免费
+
+<b>预计游览时间</b>：2小时。
+
+地址：1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013日本；<br>
+网站：<a href="https://www.ghibli-museum.jp/" class="custom-link-3">三鹰之森吉卜力美术馆</a>。
+
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.2185968597164!2d139.567856776648!3d35.69623797258247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ee34e5038c2d%3A0x4de155903f849205!2z5LiJ6bmw5LmL5qOu5ZCJ5Y2c5Yqb576O5pyv6aaG!5e0!3m2!1szh-CN!2s!4v1752769921672!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的三鹰之森吉卜力美术馆。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/eExLDwS6VNPnjZXS9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">三鹰之森吉卜力美术馆</div>
+      <div class="map-card-address">1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013日本</div>
+    </div>
+  </a>
+</div>
 
 ## <span style="color: #7F82BB;">富士山</span>
 
