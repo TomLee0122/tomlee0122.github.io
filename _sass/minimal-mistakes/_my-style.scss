@@ -722,3 +722,87 @@ body.homepage .archive {
 }
 // ----------------------------------------
 
+// Styles of the class "hero"
+
+.my_hero {
+  height: 100vh; /* 设置高度为视口高度 */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  color: white; /* 如果需要白字 */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  transition: height 0.3s ease;
+  overflow: hidden;
+}
+
+.my_hero__image-wrapper {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.my_hero__image {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: opacity 0.3s ease;
+}
+
+.image-light {
+  opacity: 1;
+}
+
+.image-dark {
+  opacity: 0;
+}
+
+body.dark-mode .image-light {
+  opacity: 0;
+}
+
+body.dark-mode .image-dark {
+  opacity: 1;
+}
+
+.my_hero__content {
+  z-index: 2;
+}
+
+.my_hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.3); /* 黑色遮罩层 */
+  z-index: 1;
+}
+
+
+.my_hero__title {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.my_hero__subtitle {
+  font-size: 1.5rem;
+}
+
+// ----------------------------------------
+
+// Transition effect for the sidebar
+.sidebar.sticky {
+  .h-card {
+    transition: opacity 0.3s ease-in-out;
+    opacity: 0.75;
+  }
+
+  .h-card:hover {
+    opacity: 1;
+  }
+}

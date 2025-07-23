@@ -1,0 +1,19 @@
+{% if page.my_wide_image %}
+
+<header class="my_hero">
+    <div class="my_hero__image-wrapper">
+        <div class="my_hero__image image-light" style="background-image: url('{{ page.my_wide_image.src }}')"></div>
+        <div class="my_hero__image image-dark" style="background-image: url('{{ page.my_wide_image.src_dark }}')"></div>
+    </div>
+
+    <div class="my_hero__content">
+        {% if page.my_wide_image.title %}
+        <h1 class="my_hero__title">{{ page.my_wide_image.title }}</h1>
+        {% endif %}
+        {% if page.my_wide_image.subtitle %}
+        <p class="my_hero__subtitle">{{ page.my_wide_image.subtitle }}</p>
+        {% endif %}
+    </div>
+</header>
+
+{% endif %}

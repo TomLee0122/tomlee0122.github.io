@@ -10,6 +10,11 @@ excerpt: |
   </div>  
 tags:
   - Travel
+my_wide_image: 
+  src: '/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg'
+  src_dark: '/assets/images/Travel/Japan Tour Plan/2025-06-19 211821.jpg'
+  title: '日本'
+  subtitle: '兼具历史与未来感的国度'
 # primary_tag: Travel
 layout: single
 classes: wide
@@ -27,6 +32,32 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/my_script_1.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
+
+<!-- <script>
+  function updateHeroBackground() {
+  const hero = document.querySelector('.my_hero');
+  if (!hero) return;
+
+  const lightImg = hero.getAttribute('data-bg-light');
+  const darkImg = hero.getAttribute('data-bg-dark');
+
+  const isDarkMode = document.body.classList.contains('dark-mode');
+
+  const bg = isDarkMode ? darkImg : lightImg;
+  if (bg) {
+    hero.style.backgroundImage = `url('${bg}')`;
+  }
+}
+
+// 页面加载时设定背景
+window.addEventListener('load', updateHeroBackground);
+
+// 当点击黑夜模式按钮时（你已有按钮 id 为 #dark-mode-toggle）
+document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
+  // 假设你的切换逻辑是在这个按钮事件中完成 .dark-mode 的添加/移除
+  setTimeout(updateHeroBackground, 50); // 等样式切换完再应用背景
+});
+</script> -->
 
 # <span style="color: #8E403A;">主要旅行景点</span>
 
@@ -815,7 +846,11 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ## <span style="color: #7F82BB;">富士山</span>
 
-TBD
+<div style="margin-top: 1em; margin-bottom: 1em; color: gray;">
+  <em >攀登富士山一次的人是智者，再攀登一次的人则是愚者。——日本谚语</em>
+</div>
+
+闻名世界的富士山 (ふじさん, the Mount Fuji) 位于东京西南方向约80公里处，横跨静冈县与山梨县，主峰海拔3776米，是日本的最高峰。富士山是日本的象征之一，自古就在日本人民心中拥有崇高的地位，出现在大量日本古代的文献、诗歌、绘画等作品中。富士山与浅间神社于2013年被列入世界文化遗产。
 
 
 ## 京都府
