@@ -13,6 +13,9 @@
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
     <script src="{{ '/assets/js/my_script_3.js' | relative_url }}"></script>
+    {% if page.my_wide_image %}
+      <script src="{{ '/assets/js/my_script_4.js' | relative_url }}"></script>
+    {% endif %}
 
     <div class="initial-content">
       {{ content }}
