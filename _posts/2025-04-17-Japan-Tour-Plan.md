@@ -11,7 +11,7 @@ excerpt: |
 tags:
   - Travel
 my_wide_image: 
-  src: '/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg'
+  src: '/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg'
   src_dark: '/assets/images/Travel/Japan Tour Plan/2025-06-19 211821.jpg'
   title: '日本'
   subtitle: '兼具历史与未来感的国度'
@@ -26,38 +26,11 @@ related: false
 read_time: false
 last_modified_at: 2025-06-27
 toc: true
+toc_label: '目录 (Table of Contents)'
 permalink: /blogs/travel/Japan-Tour-Plan/
 ---
 
 <script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/my_script_1.js' | relative_url }}"></script>
-<script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
-
-<!-- <script>
-  function updateHeroBackground() {
-  const hero = document.querySelector('.my_hero');
-  if (!hero) return;
-
-  const lightImg = hero.getAttribute('data-bg-light');
-  const darkImg = hero.getAttribute('data-bg-dark');
-
-  const isDarkMode = document.body.classList.contains('dark-mode');
-
-  const bg = isDarkMode ? darkImg : lightImg;
-  if (bg) {
-    hero.style.backgroundImage = `url('${bg}')`;
-  }
-}
-
-// 页面加载时设定背景
-window.addEventListener('load', updateHeroBackground);
-
-// 当点击黑夜模式按钮时（你已有按钮 id 为 #dark-mode-toggle）
-document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
-  // 假设你的切换逻辑是在这个按钮事件中完成 .dark-mode 的添加/移除
-  setTimeout(updateHeroBackground, 50); // 等样式切换完再应用背景
-});
-</script> -->
 
 # <span style="color: #8E403A;">主要旅行景点</span>
 
@@ -65,7 +38,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 
 <div style="text-align: center;">
   <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
-  <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt=""></a>
+  <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">东京日程与景区地图。Credit: Vincent.</figcaption>
 </div>
 
@@ -96,6 +69,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 50-5541-8600；<br>
 网站：<a href="https://www.tnm.jp/" class="custom-link-3">东京国立博物馆</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.3001919158232!2d139.77394657664894!3d35.71883507257512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e8314d77d11%3A0x232fd618bd4977dd!2z5Lic5Lqs5Zu956uL5Y2a54mp6aaG!5e0!3m2!1szh-CN!2s!4v1751514878666!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的东京国立博物馆。</figcaption>
@@ -121,7 +95,8 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 
 
 <div style="text-align: center;">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg" alt="" style="max-width: 90%; height: auto;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em;">国立西洋美术馆的正门。</figcaption>
 </div>
 
@@ -145,6 +120,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 50-5541-8600；<br>
 网站：<a href="https://www.nmwa.go.jp/jp/" class="custom-link-3">国立西洋美术馆</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.440368317011!2d139.77323887664878!3d35.71538687257634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e9cfa41cc7f%3A0xbb23dcd494e13c8b!2z5Zu956uL6KW_5rSL576O5pyv6aaG!5e0!3m2!1szh-CN!2s!4v1751645725838!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的国立西洋美术馆。</figcaption>
@@ -192,6 +168,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-3828-5644；<br>
 网站：<a href="https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno" class="custom-link-3">上野恩赐公园</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.4660266209703!2d139.77085627664866!3d35.714755672576544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e9b45906ac3%3A0xb1cb3623124e645a!2z5LiK6YeO5oGp6LWQ5YWs5Zut!5e0!3m2!1szh-CN!2s!4v1751734437383!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的上野公园。</figcaption>
@@ -282,6 +259,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 
 <b>开放时间</b>：全天开放。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.0680993208657!2d139.76973092664824!3d35.699941772581184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c1d829dd5cd%3A0x772f5995da208987!2zQWtpaGFiYXJhIEVsZWN0cmljIFRvd24sIOS4nOS6rOmDveaXpeacrA!5e0!3m2!1szh-CN!2s!4v1751811323749!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的秋叶原。</figcaption>
@@ -344,6 +322,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-3213-1111；<br>
 网站：<a href="https://sankan.kunaicho.go.jp/" class="custom-link-3">宫内厅</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5244.265198259066!2d139.75107505812076!3d35.68489960592537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c0d02d8064d%3A0xd11a5f0b379e6db7!2z5rGf5oi35Z-O!5e0!3m2!1szh-CN!2s!4v1751887174954!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的皇居。</figcaption>
@@ -390,6 +369,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-3581-5111；<br>
 网站：<a href="https://www.sangiin.go.jp/" class="custom-link-3">日本参议院</a>与<a href="https://www.shugiin.go.jp/" class="custom-link-3">日本众议院</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.04524249877!2d139.74228307664742!3d35.675887972588946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b89b2e1b089%3A0x48c7d4fa5e528690!2z5Zu95Lya6K6u5LqL5aCC!5e0!3m2!1szh-CN!2s!4v1752141430887!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的国会议事堂。</figcaption>
@@ -427,6 +407,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-3211-0001；<br>
 网站：<a href="https://www.tokyostationcity.com/tc/" class="custom-link-3">东京车站</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8254555927247!2d139.76449087664756!3d35.681299572587314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x277c49ba34ed38!2z5Lic5Lqs56uZ!5e0!3m2!1szh-CN!2s!4v1752143038490!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的东京车站。</figcaption>
@@ -462,6 +443,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-3379-5511；<br>
 网站与参拜指南：<a href="https://www.meijijingu.or.jp/" class="custom-link-3">明治神宫</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.024546820186!2d139.6967509766473!3d35.67639757258882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cb79a4c26e5%3A0x8fca893849103f73!2z5piO5rK756We5a6r!5e0!3m2!1szh-CN!2s!4v1752253329868!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的明治神宫。</figcaption>
@@ -505,6 +487,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 
 地址：〒160-0021 东京都新宿区<br>
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.246847669134!2d139.70057457664808!3d35.69554267258274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd84e865c35%3A0x33418e00dfeefac!2z5pel5pys44CSMTYwLTAwMjEg5Lic5Lqs6YO95paw5a6_5Yy65q2M6Iie5LyO55S6!5e0!3m2!1szh-CN!2s!4v1752335113818!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的新宿。</figcaption>
@@ -559,6 +542,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-3469-6081；<br>
 网站：<a href="https://www.tokyo-park.or.jp/park/format/index039.html" class="custom-link-3">代代木公园</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.2817097854436!2d139.6923906766472!3d35.670064872590835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cb479620a33%3A0x34bcc78ce7f8bf3e!2z5Luj5Luj5pyo5YWs5Zut!5e0!3m2!1szh-CN!2s!4v1752416802286!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的代代木公园。</figcaption>
@@ -582,6 +566,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 
 地址：〒154-0024 东京都世田谷区
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6484.899875553955!2d139.66283964789346!3d35.641284690400646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f49927231ef9%3A0xcc2931a04ac73fe6!2z5pel5pys44CSMTU0LTAwMjQg5Lic5Lqs6YO95LiW55Sw6LC35Yy65LiJ6L2p6Iy25bGL!5e0!3m2!1szh-CN!2s!4v1752418086506!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的三轩茶屋。</figcaption>
@@ -633,6 +618,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-3433-5111；<br>
 网站：<a href="https://cn.tokyotower.co.jp/" class="custom-link-3">东京塔</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7479757770852!2d139.74285797664683!3d35.65858047259467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbd9009ec09%3A0x481a93f0d2a409dd!2z5Lic5Lqs6ZOB5aGU!5e0!3m2!1szh-CN!2s!4v1752419833639!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的东京塔。</figcaption>
@@ -682,6 +668,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-3432-1431；<br>
 网站：<a href="https://www.zojoji.or.jp/" class="custom-link-3">增上寺</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7926897702123!2d139.74571787664684!3d35.657478972594916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbe91676c0b%3A0x88a4a86ddb1dbd24!2z5aKe5LiK5a-6!5e0!3m2!1szh-CN!2s!4v1752666666548!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的增上寺。</figcaption>
@@ -754,6 +741,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-5460-3755；<br>
 网站：<a href="https://www.jal.co.jp/kengaku/" class="custom-link-3">日本航空官网</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.493231819025!2d139.78404829013283!3d35.541519002068206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601865c4fe3606d1%3A0x113bcf8ac76912ec!2sJAL%20Sky%20Museum!5e0!3m2!1szh-CN!2s!4v1752668669629!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的日本航空机库。</figcaption>
@@ -788,6 +776,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 电话：+81 3-6700-2222；<br>
 网站：<a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/" class="custom-link-3">全日空航空官网</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.648287094472!2d139.79091277664264!3d35.537688272634114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018641346eb558f%3A0xfc2324997c40613f!2sANA%20Aircraft%20Hangar!5e0!3m2!1szh-CN!2s!4v1752668535570!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的全日空航空机库。</figcaption>
@@ -827,6 +816,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 地址：1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013日本；<br>
 网站：<a href="https://www.ghibli-museum.jp/" class="custom-link-3">三鹰之森吉卜力美术馆</a>。
 
+<b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.2185968597164!2d139.567856776648!3d35.69623797258247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ee34e5038c2d%3A0x4de155903f849205!2z5LiJ6bmw5LmL5qOu5ZCJ5Y2c5Yqb576O5pyv6aaG!5e0!3m2!1szh-CN!2s!4v1752769921672!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的三鹰之森吉卜力美术馆。</figcaption>
@@ -851,6 +841,216 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 </div>
 
 闻名世界的富士山 (ふじさん, the Mount Fuji) 位于东京西南方向约80公里处，横跨静冈县与山梨县，主峰海拔3776米，是日本的最高峰。富士山是日本的象征之一，自古就在日本人民心中拥有崇高的地位，出现在大量日本古代的文献、诗歌、绘画等作品中。富士山与浅间神社于2013年被列入世界文化遗产。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">封面图之一：富士山与浅间神社同框。据 (ptr) 称是谈起日本时大多数人脑海中第一个浮现出的画面。</figcaption>
+</div>
+
+“合目”是日语中的一个单位，一合目表示从山脚到山顶高度的十分之一。富士山拥有路况良好的上山公路，可从山脚乘车（或自驾）到达富士山五合目，一路上有众多标志与观景台可打卡。富士山五合目是富士山景区最大的休息、补充营地，有着许多食品店与纪念品商店，同时还拥有富士邮便局与富士山小御岳神社！<span class="info_span" style="">对于不要求到达富士山顶的游客而言，富士山五合目非常适合作为富士山景区的最终目的地。</span>
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.jpg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.jpg" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">从富士山五合目拍摄的天空与富士山。<em >所见宛如天境。</em></figcaption>
+
+富士山同时是观赏日出与日落的好去处，对于喜欢挑战的登山者，富士山顶也是值得发起挑战的地点！登顶富士山的路线大致有四条：须走路线、富士宫路线、御殿场路线和吉田路线。所有路线都从富士山的五合目开始。（并不一定是上述提到的富士山五合目！富士山的五合目可以有很多个。）下述有关路线的内容摘选自<a href="https://www.japan-travel.cn/spot/1308/" class="custom-link-3">日本国家旅游局</a>。
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle" style="width: 70%;"
+        aria-expanded="false"
+        aria-controls="fuji-route-1">
+  <span style="font-family: 'ChineseFont';"><b>须走路线</b></span>
+</button>
+</div>
+
+
+<div id="fuji-route-1" class="collapse-panel" hidden>
+
+<p>多样化的地形、较少的登山客人潮，再加上有趣的下山路线，让这里成为攻顶富士山的绝佳路线。从海拔高度约2000米处开始，须走路线以林木覆盖的绵延路径和优美风景为特色。沿途有许多设施，且整条路线皆面朝东方，因此是欣赏日出的绝佳选择。</p>
+
+<p style=""><b>路线一览</b>：<br>
+&bull; 从海拔1970米的须走口五合目出发；<br>
+&bull; <b>登山</b>：约5-7个小时，而且前半段路程都有林荫遮蔽；<br>
+&bull; <b>下山</b>：约2-4个小时，从七合目开始可以享受愉快的绵延山路；<br>
+&bull; 登山与下山的路线<b>不同</b>。</p>
+
+<p style=""><b>路线概要</b>：<br>
+须走是较少人选择的登山路线，但也是同样值得尝试的路线。攀登过程的前半段（直到近七合目的地方）会穿过森林区域，有大量林荫可以遮挡太阳。这条路线以其绵延的火山沙路径，以及下山路线的碎石而闻名，因此可以迅速地滑走下山。请小心，这条路线在通过八合目的地方，会和最受欢迎的吉田路线合并，因此在大约日出的时间，会造成前进速度缓慢和山顶人流堵塞。幸好，一旦您的高度高于林木线，在须走路线的各处都能欣赏到日出。</p>
+
+<p style=""><b>设施</b>：<br>
+在登山过程中，须走路线的沿途设有许多山庄。多数站点都设有山庄与洗手间（一次 200-300 日元使用费），并贩卖食物与饮品。沿途都有机会购买登山杖，而且可以在每家山庄给登山杖盖章。从八合目到山顶是登山过程中最长的一段路，若中途不做休息，行走也要超过 100 分钟，因此请务必到御来光馆休息一下，因为这里是抵达山顶前的最后一处山庄。</p>
+
+<p style=""><b>开始登山</b>：<br>
+搭乘巴士到达富士山东侧的须走口五合目。从御殿场站出发的巴士，多数时间都是从早上7点35分到下午5点35分，往返车费为2100日元。在五合目，您可以找到两家商店、一座游客信息服务中心以及洗手间。请注意，现场并未提供置物柜，因此请仅携带登山所需要的物品。</p>
+
+<p style=""><b>到达登山口</b>：<br>
+在登山旺季时，最方便的交通方式就是从御殿场站搭乘巴士。另外，您也可以自驾到达须走多功能广场 (Subashiri Multipurpose Square)，然后搭乘接驳巴士到五合目登山口。</p>
+
+<p style=""><b>攀登过程</b>：<br>
+从五合目到山顶的攀登过程，预计至少要5.5个小时。登山的前半段，是会通过森林地形的迷人健行路线。而最长的一段路程是在八合目到山顶之间，约需100分钟。须走路线也是从这里开始和吉田路线合并，人流更多，前行缓慢。登山时请考虑到这一点，特别是在周末与假日时，因为有大批行走在狭窄山路上的登山客，所以最后的这一段路会花费更多的时间。<br>
+从山顶往下走时，在接近八合目的地方请务必更加小心。道路有分岔处，因此容易不小心走错方向，往下走到吉田路线，可能会带您走到与出发时不一样的五合目。在七合目，您会遇到这条路线上的砂走（砂子滑走步道）路线。请务必使用护腿或绑腿，享受大步滑着火山沉积物直冲下山的自由感受。</p>
+
+<p style=""><b>住宿地点</b>：<br>
+对于想登山观日出，且先到山庄过夜的登山客，强烈建议上山前预约房间。<br>
+御来光馆是八合目与九合目之间的中间站，海拔高度约为3450米。设有基本的睡觉设施：提供毯子与枕头，并且是和其他登山客一起睡大通铺。价格为11000日元起。</p>
+</div>
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle" style="width: 70%;"
+        aria-expanded="false"
+        aria-controls="fuji-route-2">
+  <span style="font-family: 'ChineseFont';"><b>富士宫路线</b></span>
+</button>
+</div>
+
+<div id="fuji-route-2" class="collapse-panel" hidden>
+<p>相较于其他三条步道的五合目出发点，富士宫路线五合目出发点的位置更高，因此登山距离最短。在登山旺季会有拥挤人潮，但热门程度略逊于吉田路线。</p>
+
+<p><b>路线一览</b>：<br>
+&bull; 从富士宫口五合目开始，海拔高度约为2400米；<br>
+&bull; 上山路线：4.3公里。约需5-7个小时。有相当数量的设施<br>
+&bull; 下山路线：4.3公里。依天气状况与人潮，约需3个小时<br>
+&bull; 可轻松到达宝永山，这是富士山的副峰之一，是在上一次火山喷发时形成（18世纪初）的。</p>
+
+<p><b>路线概要</b>：<br>
+富士宫是第二热门的路线，因为这是唯一能从西日本轻松攻顶的登山口。拥有较具挑战性的坡度，以及多处的岩石路段，因此登山距离较短。由于是热门的登山路线，因此在登上山顶的沿途，会有多处山庄与设施可供使用。在登山季某些时候，在八合目也随时会有全天候24小时值班的医生，因此您可以安心登山。</p>
+
+<p><b>开始登山</b>：<br>
+富士宫路线从富士宫口五合目开始。您可以在这里的其中一家商店做最后补给、使用洗手间，让自己为前方的登山路程做好准备。前往旅客服务中心，取得地图以及实用的登山信息。</p>
+
+<p><b>到达登山口</b>：<br>
+从静冈的许多地点及主要火车站，都能搭乘巴士与接驳车到富士宫口五合目。<br>
+搭乘连接东京与京都的新干线到三岛站，从早上7点40分到下午4点，大约每两个小时就会有一班固定路线巴士，车程约为2个小时，往返车费为3200日元。不需要提前预约。<br>
+同样搭乘新干线到新富士站，每个小时会有一班前往登山口的巴士，并且会停靠在富士站与富士宫站。巴士的服务时间是从早上10点开始（若从富士宫站则为早上8点10分），车程约为2.5个小时，往返车费为3200日元。这条路线的巴士不用提前预约。<br>
+若是想自驾前往的游客，在登山旺季（七月到九月），前往五合目登山口的所有道路皆禁止私人车辆进入。若要开车到富士宫口五合目，您应该将车子停在水冢停车场，然后搭乘接驳车或出租车到五合目；接驳车为每60分钟一班（从早上6点到下午5点），往返车费为2000日元。单程的出租车资约为4750日元。</p>
+
+<p><b>攀登过程</b>：<br>
+从五合目到山顶的攀登过程，预计至少需要5个小时。到六合目之前是一小段的绵延山路，您将会在六合目找到几处山庄（云海庄与宝永山庄）。对于不想一路直登富士山山顶的人，可以在这里找到通往宝永山的较短登山路线。宝永山是在上一次大型火山喷发时形成的，当天气晴朗时，从山顶处还能欣赏到一览无遗的全景，可一路眺望到太平洋，甚至是东京。如同御殿场路线，从宝永山山顶下山时，会遇到一小段砂走（sunabashiri，即砂子滑走步道）路线。<br>
+假设您想继续前往富士山的山顶，就再继续往上爬约1小时，就能到达新七合目。您将能在这里找到御来光山庄，看见植被极少的荒芜景观。从新七合目到旧七合目，约需50分钟。请注意，随着您继续前进，地面开始呈红色调。到了这里，请留意四周，因为步道会变窄，而且在旺季时也会变得更加拥挤。<br>
+再前进40分钟，将会到达池田馆。请趁机休息一下，若您有任何健康方面的问题，请随时前往这里的健康中心，有医生全天候24小时值班协助。<br>
+在短暂休息后，再继续往上走30分钟会抵达九合目，这里设有万年雪山庄。在日出前的时段，这一段路会特别拥挤，而且也会变得更陡峭。强烈建议您在这里配戴安全帽。在步道以外的地方，您也可以看到积雪区。<br>
+再继续往前进30分钟后，就能抵达九合目与山顶之间的中间站，以及胸突山庄。这是抵达山顶前的最后一个山庄，所以请稍事休息，以做最后冲刺，登上富士山顶。到了这里，您只差221米就能抵达山顶。</p>
+
+<p><b>住宿地点</b>：<br>
+御来光山庄位于七合目，海拔高度约为2780米。这个山庄提供单间与上下铺客房，平日的房价约为每晚6000日元。从这里到达山顶约只需3个小时，但您甚至可以在这个小屋观赏到日出。<br>
+若您想在休息之前更接近山顶，何不一路直接攻顶呢？顶上富士馆位于十合目，是位于山顶的最后终点站。旁边就是富士山本宫浅间大社奥宫的邮筒（方便寄明信片），而且再前进8分钟，就能抵达富士山的最高点。提供基本的日式床垫组，房价为5500日元（不含餐）以及7500日元（含两餐）。您可以通过电话、传真或电子邮件预约。</p>
+</div>
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle" style="width: 70%;"
+        aria-expanded="false"
+        aria-controls="fuji-route-3">
+  <span style="font-family: 'ChineseFont';"><b>御殿场路线</b></span>
+</button>
+</div>
+
+<div id="fuji-route-3" class="collapse-panel" hidden>
+
+<p>在富士山的四条登山路线中，御殿场路线坡度最缓，登山客人数也最少，因此也最不拥挤。<br>
+从御殿场口五合目开始登山，其海拔高度约为1400米。在路线的一开始，只有少数的设施可供使用，因此请确保您携带各种必备物品，或在五合目购买齐全。沿途可欣赏绝佳景色，不过请适当补充水分以及做好防晒措施。</p>
+
+<p><b>路线一览</b>：<br>
+&bull;为四条路线中，高度变化最明显的一条（1440米到3776米）；<br>
+&bull;登山：约需8-9个小时，大约直到七合目与八合目才设有数个设施；<br>
+&bull;下山：约需4个小时，有一大段大砂走（即砂子滑走步道）路线，让您可以在短时间内滑砂下山。</p>
+
+<p><b>路线概要</b>：<br>
+登山人数约占最受欢迎的吉田路线的1/10，若希望不用人挤人地悠闲登山，御殿场路线即为最佳选择。沿着御殿场路线，往山上看去的景观大致上都相同，只有像灌木一样的零星植被，偶尔为基本上都是黑色火山沙的山坡增添些许色彩。由于地形开阔，因此请注意要补充水分和做好防晒，在这条登山路线上，防晒霜就是您的最佳伙伴。</p>
+
+<p><b>设施</b>：<br>
+在御殿场口五合目，您将会找到一家小商店、一个巴士站、洗手间，其他设施并不多。在所有的五合目登山口中，此地发展的最少，而且整条路线几乎都是如此。在出发到达 Waraji 馆之前的4小时，沿途都没有任何设施，请务必在出发时就做好万全准备。在这条路线上，主要是从七合目之后开始设置有限的设施。请准备零钱以使用洗手间，一次100-300日元。</p>
+
+<p><b>开始登山</b>：<br>
+从御殿场站搭乘巴士到达御殿场口五合目。单程车费为1130日元，往返车费则是1570日元，整段车程约为40分钟。前往富士山的巴士营运时间为早上7点35分到下午3点50分（约为每2个小时1班），而前往御殿场站的回程巴士营运时间则为上午9点15分到下午5点45分。不需要提前预约。</p>
+
+<p><b>攀登过程</b>：<br>
+从御殿场口五合目到富士山顶，有着相对轻松的爬坡，不过这条路线的距离明显比其他路线更长。从起点到七合目，大约需要4个小时，而且途中亦未设置任何设施。在一开始登山后，可以到五合目与六合目的 Jirobo 中间站稍事休息再继续前进，接着展开这条路线最辛苦的路段，也就是持续2个小时出头、几乎没有景色变化的之字形转向山路。您需要爬到3000米的海拔高度，才能看见第一家山庄。通过 Waraji 馆，并且继续前往八合目，您将会发现砂子地面逐渐转变为红色，若您停下脚步往山下俯看，就能欣赏山中湖的美景。<br>
+从八合目之后，建议您戴上安全帽，因为这条道路会变得更为陡峭，岩石路也会变多，而通往山顶的山路本身蜿蜒曲折。<br>
+您可以在出发前，向很多公司如Yamarent，租借安全帽与其他登山装备。<br>
+下山时，有一部分路线和登山路线重叠，最后会分岔来到大砂走坡，或大家所谓的"大型砂子滑走步道"。顾名思义，您可以在这里加快速度，而且有一大段路能相对轻松地下山。在这段路上，由于会有大量细小尘土，因此请务必要使用护腿或绑腿，出于同样原因，您或许也会想戴上口罩或护目镜。雾气会迅速飘来，因此请小心别距离路标太远，以免迷路。</p>
+
+<p><b>住宿地点</b>：<br>
+这条路线只有几家山庄可供住宿，而且各山庄都未设置英文网站，也没有订房选项。若要订房，请咨询游客中心，寻求订房协助。</p>
+</div>
+
+<div style="text-align: center; margin-bottom: 1em;">
+<button class="collapse-toggle" style="width: 70%;"
+        aria-expanded="false"
+        aria-controls="fuji-route-4">
+  <span style="font-family: 'ChineseFont';"><b>吉田路线</b></span>
+</button>
+</div>
+
+<div id="fuji-route-4" class="collapse-panel" hidden>
+
+<p>由于可轻松登山，并且提供大量设施，让吉田路线成为最热门的攀登富士山路线。<br>
+登山是从富士山五合目开始。通过各合目一路往上攀登，若您有购买登山杖，还可以在沿途的不同山庄为登山杖烙印。登山时可以欣赏沿途的景色。</p>
+
+<p><b>路线一览</b>：<br>
+&bull;从海拔 2,300 米高的富士山五合目开始；<br>
+&bull;上山路线：6.8 公里。约需 5-7 小时。提供许多设施<br>
+&bull;下山路线：（距离正在确认中）。约为 3-5 个小时。八合目以下没有山庄/仅提供有限的设施<br>
+&bull;上下山的路线不同。</p>
+
+<p><b>路线概要</b>：<br>
+吉田路线是目前四条路线中最热门的一条，登山客的人数是第二受欢迎的富士宫路线的三倍左右。从六合目到七合目，以坡度和缓的之字形山路为特色。经过七合目后，道路就会变得更加崎岖，从八合目之后，上、下山的路线就会和须走路线合并，这个路段会变得更加壅塞，特别是在日出前。</p>
+
+<p><b>设施</b>：<br>
+相对来说，吉田路线是最容易登上富士山的路线，沿途设置的设施也最多，各设施之间约相隔1小时到90分钟的距离。相关设施包括急救中心，以及在五合目、七合目与八合目的值班医生、贩卖机以及山庄。在六合目的安全指导中心，可用2000日元的押金（可退还）租借安全帽。所有山庄都设有洗手间（需支付一定的使用费），还有能为登山杖盖章的工作人员。抵达山顶后，您甚至还可以选择从山顶寄信。</p>
+
+<p><b>开始登山</b>：<br>
+吉田路线实际是从富士山山脚的北口本宫富士浅间神社开始的。过去是以这家神社作为从富士山北侧攀登的起点。现在，多数人都是选择从富士斯巴鲁线五合目出发，大大缩短了登山时间。</p>
+
+<p><b>到达登山口</b>：<br>
+要到达富士山五合目的主要登山口，可从东京搭乘快速巴士、从邻近车站搭乘当地巴士或自驾前往。<br>
+在登山季节期间，快速巴士会从东京新宿出发。须事前预约。<br>
+从富士山或河口湖站到五合目，从早上6点20开始，至少每个小时都会有一班车。这些巴士无需事先预约，往返车费为2300日元。<br>
+若租车，请将车子停放在富士北麓停车区（每辆车1000日元），然后搭乘接驳巴士到五合目（往返车费为2100日元）。接驳巴士的营运时间为早上5点30分到晚上7点，且每30分钟一班；在周五与周六，接驳巴士更会提早发车。</p>
+
+<p><b>攀登过程</b>：<br>
+从五合目到山顶的攀登过程，预计至少要6个小时。从七合目到八合目的山路最长，需要超过100分钟才能走完，而且海拔高度会从2700米增至3100米。大约在这一段，地形也会从平坦的之字形山路，变成较陡峭的岩石路。从八合目到山顶的这段路程，由于吉田路线和须走路线合并到一起，因此是最为拥挤且前进速度最慢的一段。若您想到山顶观赏日出，请预留充裕的时间。<br>
+由于与其他攀登富士山的路线相比，这是最容易的路线，因此，在上下山过程中，请尽情地欣赏沿途风景，从一开始就以自在的步调攀登，并请每个小时休息一次。请留意路标，特别是在下山时。须走路线与吉田路线在八合目之前会共享同条路径，之后就会岔开，若不注意，很容易就会不小心走入错误的下山路线。选择吉田路线时，请顺着黄色的指引路标前进。</p>
+
+<p><b>住宿地点</b>：<br>
+对于想登山观日出且先到山庄过夜的登山客，建议上山前先预约房间。御来光馆是八合目与九合目之间的中间站，海拔高度约为3450米。配有基本住宿设施：提供毯子与枕头，而且是和其他的登山客一起睡在大通铺，价格为11000日元起。<br>
+太子馆位于八合目，海拔高度为3100米，距离山顶约2.5个小时。太子馆为每位登山客提供山庄的优质睡袋与指定空间。每晚的住宿价格是从10000日元起，并且包含两餐。<br>
+鎌岩馆位于七合目，海拔高度为2790米。距离吉田五合目，仅有一两个小时的路程。平日的住宿价格从7300日元起，包含一餐。双层床宿舍、私人房间或单人间均提供睡袋与床垫。</p>
+</div>
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13015.197565360477!2d138.71706367403974!3d35.360624563076406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6019629a42fdc899%3A0xa6a1fcc916f3a4df!2sMount%20Fuji!5e0!3m2!1sen!2s!4v1753872264241!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的富士山。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/myDySTzYZpiHhhnZ7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">富士山</div>
+      <div class="map-card-address">Kitayama, Fujinomiya, Shizuoka 418-0112日本</div>
+    </div>
+  </a>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;富士山其实是一座活火山，其上一次喷发时间是1707年。为了应对潜在的风险，日本政府制定了详尽的灾难防范计划：其在富士山周边多地设置了火山与地震活动监测点，并制定了可以快速疏散富士山周边居民的方案。<br>
+  </p>
+</blockquote>
 
 
 ## 京都府
@@ -1531,6 +1731,21 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 - 由于部分项目有预约时间/目的地制约，<span style="background-color:rgba(236, 15, 15, 0.26);">必须</span>或<span style="background-color:rgba(37, 15, 236, 0.27);">比较建议</span>在某些时段参访。
 - 基本的排班逻辑：基本认为每天上午活动时间 3 hours（特殊早起除外），下午 4 hours, 除少数博物馆性质目的地外按照每个景点 1 hour + 通勤时间计算，笼统来说上午2个景点，下午3个景点（具体数字依相对位置关系浮动，也存在特别远的目的地单列）；晚上至多1个随便逛逛性质的景点。
 - 目前总体来说我觉得目前日程比较紧张，另外有些预约还未完成，日程可能会有变化；可以等到固定预约日程稳定之后/到实地选择扔掉一些目的地。
+
+# <span style="color: #8E403A;">附录 IV: 相关链接</span>
+
+<div style="width: 100%; text-align: center; margin-bottom: 1em;">
+  <a href="https://github.com/TomLee0122/tomlee0122.github.io" class="btn btn--inverse"
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(93, 93, 97, 0.52);">源码仓库</a>
+  <a href="https://nuwildcat-my.sharepoint.com/:f:/r/personal/glu0739_ads_northwestern_edu/Documents/File/25JapanVisa/ticket?csf=1&web=1&e=FBORQy" class="btn btn--inverse"
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">票据存档</a>
+</div>
+<div style="width: 100%; text-align: center; margin-bottom: 2em;">
+  <a href="https://maps.app.goo.gl/bWnRWETbUYmEQKz79" class="btn btn--inverse"
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(217, 48, 37, 0.52);">景点列表</a>
+  <a href="https://maps.app.goo.gl/fwS1rL8FCg2ZmqZj6" class="btn btn--inverse"
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(31, 142, 62, 0.52);">饭馆列表</a>
+</div>
 
 
 <button id="back-to-top" title="Back to top">↑</button>

@@ -1,19 +1,5 @@
 /* Custom CSS for my blog */
 
-// Pre-defined colors
-
-$my_custom_color_1: #7F82BB;
-
-$--main-color: #3FA4FF;
-$--color-1: orange;
-$--color-2: #8E403A;
-$--color-3: #FFD700;
-$--color-4: #FF6347;
-$--color-5: green;
-$--color-6: #95ceff;
-$--color-7: #e0669f;
-// ----------------------------------------
-
 // Self-defined styles of the link
 .my-custom-color_1 {
   color: $my_custom_color_1;
@@ -62,36 +48,36 @@ $--color-7: #e0669f;
 }
 
 .page__content a.custom-link-3 {
-  color: #007acc;
+  color: $--color-8;
   text-decoration: none;
-  border-bottom: 1px dashed #007acc;
+  border-bottom: 1px dashed $--color-8;
 }
 
 .page__content a.custom-link-3:visited {
-  color: #007acc;
-  border-bottom-color: #007acc;
+  color: $--color-8;
+  border-bottom-color: $--color-8;
 }
 
 .page__content a.custom-link-3:hover {
-  color: #e60073;
-  border-bottom-color: #e60073;
+  color: $--color-9;
+  border-bottom-color: $--color-9;
   text-decoration: none;
 }
 
 .layout--home a.custom-link-3 {
-  color: #007acc;
+  color: $--color-8;
   text-decoration: none;
-  border-bottom: 1px dashed #007acc;
+  border-bottom: 1px dashed $--color-8;
 }
 
 .layout--home a.custom-link-3:visited {
-  color: #007acc;
-  border-bottom-color: #007acc;
+  color: $--color-8;
+  border-bottom-color: $--color-8;
 }
 
 .layout--home a.custom-link-3:hover {
-  color: #e60073;
-  border-bottom-color: #e60073;
+  color: $--color-9;
+  border-bottom-color: $--color-9;
   text-decoration: none;
 }
 
@@ -132,15 +118,15 @@ $--color-7: #e0669f;
 //   }
 
 body.dark-mode .my_table_1 {
-  background-color: #121212;
-  color: #f1f1f1;
+  background-color: $my_dark;
+  color: $my_gray_white;
   border: 1px solid white;
 
   th,
   td {
-    background-color: #121212;
+    background-color: $my_dark;
     /* 深色模式下表头背景色 */
-    color: #f1f1f1;
+    color: $my_gray_white;
     /* 深色模式下表头文字颜色 */
   }
 }
@@ -163,7 +149,7 @@ body.dark-mode .my_table_1 {
 }
 
 .my_table_1 tbody tr:hover {
-  background-color: #f1f1f1;
+  background-color: $my_gray_white;
   /* 鼠标悬停时改变背景色 */
 }
 
@@ -399,9 +385,9 @@ body.dark-mode .my_table_1 {
   display: block;
 }
 
-.map-mobile {
-  display: none;
-}
+// .map-mobile {
+//   display: none;
+// }
 
 /* 在屏幕宽度小于等于850px时（即手机） */
 @media screen and (max-width: 850px) {
@@ -409,13 +395,13 @@ body.dark-mode .my_table_1 {
     display: none;
   }
 
-  .map-mobile {
-    display: block;
-    font-size: 1.1em;
-    padding: 10px;
-    background-color: #f9f9f9;
-    border-left: 4px solid #007acc;
-  }
+  // .map-mobile {
+  //   display: block;
+  //   font-size: 1.1em;
+  //   padding: 10px;
+  //   background-color: #f9f9f9;
+  //   border-left: 4px solid #007acc;
+  // }
 }
 
 .map-card {
@@ -504,8 +490,8 @@ body.dark-mode .my_table_1 {
 
 /* 黑夜模式 */
 body.dark-mode {
-  background-color: #121212;
-  color: #f1f1f1;
+  background-color: $my_dark;
+  color: $my_gray_white;
 }
 
 body.dark-mode a {
@@ -532,21 +518,21 @@ body.dark-mode #dark-mode-toggle {
 
 body.dark-mode #site-nav {
   background-color: transparent; // 黑夜背景色
-  color: #f1f1f1;
+  color: $my_gray_white;
 
   a {
-    color: #f1f1f1;
+    color: $my_gray_white;
   }
 
   .site-title,
   .site-subtitle {
-    color: #f1f1f1;
+    color: $my_gray_white;
   }
 
   .greedy-nav__toggle,
   .search__toggle {
     background: transparent;
-    color: #f1f1f1;
+    color: $my_gray_white;
   }
 
   #dark-mode-toggle {
@@ -578,10 +564,10 @@ body.dark-mode #site-nav {
 body.dark-mode .author__urls.social-icons {
   background-color: transparent;
   /* 保持透明或可改为深色背景 */
-  color: #f1f1f1;
+  color: $my_gray_white;
 
   a {
-    color: #f1f1f1;
+    color: $my_gray_white;
 
     &:hover {
       color: #fff;
@@ -589,35 +575,35 @@ body.dark-mode .author__urls.social-icons {
   }
 
   i {
-    color: #f1f1f1;
+    color: $my_gray_white;
   }
 
   .p-locality {
-    color: #f1f1f1;
+    color: $my_gray_white;
   }
 }
 
 /* 默认浅色模式样式：可保留不变 */
 .btn--inverse {
-  background-color: #fff;
-  color: #121212;
-  border: 1px solid #121212;
+  // background-color: #fff;
+  color: $my_dark;
+  border: 1px solid $my_dark;
   transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
 }
 
 /* 黑夜模式下的按钮样式 */
 body.dark-mode .btn--inverse {
-  background-color: #121212;
-  color: #f1f1f1; // 浅色字体
-  border: 1px solid #f1f1f1; // 浅色边框
+  background-color: $my_dark;
+  color: $my_gray_white; // 浅色字体
+  border: 1px solid $my_gray_white; // 浅色边框
 }
 
 body.dark-mode .toc__menu {
-  background-color: #121212; // 深色背景，可根据整体风格微调
+  background-color: $my_light_dark; // 深色背景，可根据整体风格微调
 }
 
 body.dark-mode .toc__menu a {
-  color: #a3a3a3; // 链接默认颜色
+  color: $my_gray_white; // 链接默认颜色
   border-bottom: 1px solid #333333; // 深灰分隔线
 
   &:hover {
@@ -627,11 +613,11 @@ body.dark-mode .toc__menu a {
 
 /* 黑夜模式下的样式 */
 body.dark-mode #footer {
-  background-color: #0e0e0e; // 深色背景
+  background-color: $my_footer_dark; // 深色背景
   color: #f1f1ff; // 浅色字体
 
   a {
-    color: #f1f1f1;
+    color: $my_gray_white;
   }
 }
 
@@ -640,24 +626,24 @@ body.dark-mode #footer a:hover {
 }
 
 body.dark-mode .wikitable {
-  background-color: #121212;
-  color: #f1f1f1;
+  background-color: $my_dark;
+  color: $my_gray_white;
 }
 
 body.dark-mode .map-card {
-  background-color: #121212;
-  color: #f1f1f1;
+  background-color: $my_dark;
+  color: $my_gray_white;
   a {
-    background-color: #121212;
+    background-color: $my_dark;
   }
 }
 
 body.dark-mode .map-card-title{
-  color: #f1f1f1;
+  color: $my_gray_white;
 }
 
 body.dark-mode .map-card-address{
-  color: #f1f1f1;
+  color: $my_gray_white;
 }
 
 body.dark-mode th {
@@ -669,7 +655,7 @@ body.dark-mode .reveal-on-hover {
   color: transparent;
 
   &:hover {
-    color: #121212; // 更柔和的白色文字
+    color: $my_dark; // 更柔和的白色文字
   }
 }
 
@@ -793,6 +779,10 @@ body.dark-mode .image-dark {
   font-size: 1.5rem;
 }
 
+.my_hero_outside_wrapper {
+  margin-bottom: 2em;
+}
+
 // ----------------------------------------
 
 // Transition effect for the sidebar
@@ -806,3 +796,75 @@ body.dark-mode .image-dark {
     opacity: 1;
   }
 }
+
+// ----------------------------------------
+
+// Info-span
+
+.info_span {
+  background-color: $--color-6;
+  border: 2px solid;
+  border-color: gray;
+  border-radius: 8px;
+  padding: 0.2em 0.2em;
+  // font-size: 0.9em;
+}
+
+// ----------------------------------------
+
+// Styles of the class "collapse-panel"
+
+// .collapse-panel {
+//   overflow: hidden;
+//   height: 0;                 /* 初始用于动画 */
+//   transition: height 300ms ease;
+// }
+
+// /* 低动效用户尊重系统偏好 */
+// @media (prefers-reduced-motion: reduce) {
+//   .collapse-panel { transition: none; }
+// }
+
+.collapse-toggle {
+  width: 70%;
+  background-color: #c2ab9d;
+  border: 2px solid;
+  border-color: #969492;
+  border-radius: 8px;
+  &:hover, &[aria-expanded="true"] {
+    background-color: #c27342;
+  }
+  transition: background-color 0.3s ease;
+  &::before{
+    content: '▸';             /* 默认：收起，用右指向符号 */
+    margin-right: .4em;
+    display: inline-block;
+} 
+  &[aria-expanded="true"]::before{
+    content: '▾';           /* 展开：用下指向符号 */
+  }
+
+  &.toc-toggle{
+    width: auto;
+    background-color: transparent;
+    color: #fff;
+    border: none;
+  }
+
+}
+
+.collapse-panel {
+  overflow: hidden;
+  height: 0;
+  transition: height 300ms ease;
+}
+@media (prefers-reduced-motion: reduce) {
+  .collapse-panel { transition: none; }
+}
+
+/* 避免外部样式把 [hidden] 加其他过渡；确保它就是隐藏 */
+.collapse-panel[hidden] {
+  display: none;
+  height: 0 !important;
+}
+

@@ -12,7 +12,9 @@
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
     {% include_cached skip-links.html %}
     {% include_cached masthead.html %}
+    <script src="{{ '/assets/js/my_script_1.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/my_script_3.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/my_script_5.js' | relative_url }}"></script>
     {% if page.my_wide_image %}
       <script src="{{ '/assets/js/my_script_4.js' | relative_url }}"></script>
     {% endif %}
