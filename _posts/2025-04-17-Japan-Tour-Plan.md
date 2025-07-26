@@ -11,7 +11,7 @@ excerpt: |
 tags:
   - Travel
 my_wide_image: 
-  src: '/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg'
+  src: '/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg'
   src_dark: '/assets/images/Travel/Japan Tour Plan/2025-06-19 211821.jpg'
   title: '日本'
   subtitle: '兼具历史与未来感的国度'
@@ -65,7 +65,7 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 
 <div style="text-align: center;">
   <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
-  <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt=""></a>
+  <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">东京日程与景区地图。Credit: Vincent.</figcaption>
 </div>
 
@@ -121,7 +121,8 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 
 
 <div style="text-align: center;">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg" alt="" style="max-width: 90%; height: auto;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em;">国立西洋美术馆的正门。</figcaption>
 </div>
 
@@ -851,6 +852,22 @@ document.getElementById('dark-mode-toggle')?.addEventListener('click', () => {
 </div>
 
 闻名世界的富士山 (ふじさん, the Mount Fuji) 位于东京西南方向约80公里处，横跨静冈县与山梨县，主峰海拔3776米，是日本的最高峰。富士山是日本的象征之一，自古就在日本人民心中拥有崇高的地位，出现在大量日本古代的文献、诗歌、绘画等作品中。富士山与浅间神社于2013年被列入世界文化遗产。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">封面图之一：富士山与浅间神社同框。据 (ptr) 称是谈起日本时大多数人脑海中第一个浮现出的画面。</figcaption>
+</div>
+
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;富士山其实是一座活火山，其上一次喷发时间是1707年。为了应对潜在的风险，日本政府制定了详尽的灾难防范计划：其在富士山周边多地设置了火山与地震活动监测点，并制定了可以快速疏散富士山周边居民的方案。<br>
+  </p>
+</blockquote>
 
 
 ## 京都府
