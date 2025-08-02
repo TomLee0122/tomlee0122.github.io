@@ -44,6 +44,10 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </div>
 </div>
 
+<div class="short_introduction_wrapper" style="">
+  <b>东京，位于日本关东地区，是日本的首都。它是现代城市的典范：所有属于现代的城市感，都可以在东京找到。它是亚洲最为重要的城市之一，同时与伦敦、巴黎、纽约并称为四大世界级城市。东京及其周边地区拥有近4000万人口，年GDP产量约2万亿美元。若将东京单独按照一个国家计算，其GDP将位列世界第八。无限广阔，灯繁不息的东京是每一位初到日本的游客必然前往的目的地。</b>
+</div>
+
 <div style="text-align: center; margin-bottom: 1em;">
   <button class="collapse-toggle" style="width: 90%;"
         aria-expanded="false"
@@ -57,14 +61,14 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   <div style="text-align: center;">
     <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
     <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-    <figcaption style="margin-top: 1em; margin-bottom: 1em;">东京日程与景区地图。Credit: Vincent.</figcaption>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">东京日程与景区地图。Credit: Vincent.</figcaption>
   </div>
 </div>
 
 ### 东北区域
 
 
-#### <span style="color: orange">东京国立博物馆</span>
+#### <span style="color: orange">东京国立博物馆 (not visited)</span>
 
 东京国立博物馆位于东京市中心东北方向，是日本最大、藏品数量最多的博物馆。
 
@@ -91,7 +95,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.3001919158232!2d139.77394657664894!3d35.71883507257512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e8314d77d11%3A0x232fd618bd4977dd!2z5Lic5Lqs5Zu956uL5Y2a54mp6aaG!5e0!3m2!1szh-CN!2s!4v1751514878666!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的东京国立博物馆。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的东京国立博物馆。</figcaption>
 </div>
 
 <div class="map-card">
@@ -111,19 +115,30 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 最先提出建设国立西洋美术馆计划的是日本川崎造船所（现在的川崎重工业）的社长、企业家松方幸次郎（1865年－1950年）。他于1916年开始在伦敦、巴黎等地购买和收集各种欧洲的艺术品，并在随后将这些艺术品运输回国内，以期望在日本建设一座能够展示西方艺术的博物馆。然而，事情进展并不顺利，川崎造船所在1927年陷入了经营危机，松方也在次年辞去了社长职务。很多已经抵达日本的艺术品被拍卖用作还债，仍然存留在伦敦仓库中的作品则又在1939年的一次火灾中被烧毁。在历经种种变故后，国立西洋美术馆终于在1959年4月开馆。不幸的是，松方在1950年6月已离开人世，彼时的国立西洋美术馆仍未建成，松方并没有看到它开馆的一天。有关更多国立西洋美术馆的历史，可参阅<a href="https://www.nmwa.go.jp/qrcode/matsukata/2023_1/index_zh.html" class="custom-link-3">国立西洋美术馆与松方收藏品</a>。
 
-
-
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em;">国立西洋美术馆的正门。</figcaption>
 </div>
 
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" alt="Image 3">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">馆中的部分藏品。从左至右分别为：《圣安东尼的诱惑》、《意大利风景》、《圣特罗佩港》。</figcaption>
 
 <b>开放时间</b>：<br>
 周一：闭馆（若周一为节假日，则周一开馆，并在当周周二闭馆）；<br>
 周二、周三、周四、周日：9:30 a.m.-5:30 p.m.；<br>
-周五、周六：9:30 a.m.-8:00 p.m.<br>
+周五、周六：9:30 a.m.-8:00 p.m.
 
 <b>门票</b>：<br> 
 ¥500 成人； <br>
@@ -142,7 +157,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.440368317011!2d139.77323887664878!3d35.71538687257634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e9cfa41cc7f%3A0xbb23dcd494e13c8b!2z5Zu956uL6KW_5rSL576O5pyv6aaG!5e0!3m2!1szh-CN!2s!4v1751645725838!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的国立西洋美术馆。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的国立西洋美术馆。</figcaption>
 </div>
 
 <div class="map-card">
@@ -157,23 +172,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<b>部分藏品展示</b>：
-
-<div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" alt="Image 1">
-  </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" alt="Image 2">
-  </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" alt="Image 3">
-  </a>
-</div>
-
-<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">从左至右分别为：《圣安东尼的诱惑》、《意大利风景》、《圣特罗佩港》。</figcaption>
-
-#### <span style="color: orange">上野公园</span>
+#### <span style="color: orange">上野公园 (not visited)</span>
 
 上野公园全称是上野恩赐公园，位于东京都上野区，于1876年开园，是日本真正意义上的第一座公园。之所以称之为“恩赐”，是因为上野公园本来归属于日本皇室，1924年大正天皇将公园下赐（恩赐）给东京市管理，后有此名。
 
@@ -190,7 +189,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.4660266209703!2d139.77085627664866!3d35.714755672576544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188e9b45906ac3%3A0xb1cb3623124e645a!2z5LiK6YeO5oGp6LWQ5YWs5Zut!5e0!3m2!1szh-CN!2s!4v1751734437383!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的上野公园。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的上野公园。</figcaption>
 </div>
 
 <div class="map-card">
@@ -224,7 +223,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">浅草寺的雷门与五重塔。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">浅草寺的雷门与五重塔。</figcaption>
 
 <b>开放时间（正殿）</b>：<br>
 3月至10月：6:30 a.m.-5:00 p.m.；<br>
@@ -241,8 +240,26 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 电话：+81 3-3842-0181；<br>
 网站：<a href="https://www.senso-ji.jp/" class="custom-link-3">浅草寺</a>。
 
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.4656445181486!2d139.79407501255918!3d35.71476507246211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ec1a4463df1%3A0x6c0d289a8292810d!2zU2Vuc8WNLWpp!5e0!3m2!1sen!2s!4v1754241297244!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的浅草寺。</figcaption>
+</div>
 
-#### <span style="color: orange">东京晴空塔（天空树）</span>
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/UC94hWMV7DfSxppy9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">浅草寺</div>
+      <div class="map-card-address">2 Chome-3-1 Asakusa, Taito City, Tokyo 111-0032日本</div>
+    </div>
+  </a>
+</div>
+
+
+#### <span style="color: orange">东京晴空塔（天空树） (not visited)</span>
 
 <b>开放时间</b>：<br>
 周一-周五：10:00 a.m.-10:00 p.m.；<br>
@@ -265,6 +282,24 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 电话：+81 570-550-634；<br>
 网站：<a href="https://www.tokyo-skytree.jp/" class="custom-link-3">东京晴空塔</a>。
 
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.6567877856546!2d139.80583485696576!3d35.710062602088655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188ed0d12f9adf%3A0x7d1d4fb31f43f72a!2sTokyo%20Skytree!5e0!3m2!1sen!2s!4v1754241425588!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的东京晴空塔。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/XUPAcMT578ER65zK7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">东京晴空塔</div>
+      <div class="map-card-address">1 Chome-1-2 Oshiage, Sumida City, Tokyo 131-0045日本</div>
+    </div>
+  </a>
+</div>
+
 
 #### <span style="color: orange">秋叶原</span>
 
@@ -273,7 +308,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_3624.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_3624.JPG.jpeg" alt="" style="max-width: 70%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">秋叶原的街景。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">秋叶原的街景。</figcaption>
 </div>
 
 <b>开放时间</b>：全天开放。
@@ -281,7 +316,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.0680993208657!2d139.76973092664824!3d35.699941772581184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c1d829dd5cd%3A0x772f5995da208987!2zQWtpaGFiYXJhIEVsZWN0cmljIFRvd24sIOS4nOS6rOmDveaXpeacrA!5e0!3m2!1szh-CN!2s!4v1751811323749!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的秋叶原。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的秋叶原。</figcaption>
 </div>
 
 <div class="map-card">
@@ -296,14 +331,21 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<span style="color: #e0669f;"><b>圣地巡礼案内</b></span>：
-
-<div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.png">
-  <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.png" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">女神异闻录5：皇家版中的秋叶原。</figcaption>
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle real_or_virtual" style="width: 90%;"
+        aria-expanded="false"
+        aria-controls="real_or_virtual_Akihabara">
+  <span style="font-family: 'ChineseFont';"><b>圣地巡礼案内</b></span>
+</button>
 </div>
 
+<div id="real_or_virtual_Akihabara" class="collapse-panel" hidden>
+  <div style="text-align: center;">
+    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.png">
+    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.png" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em;">女神异闻录5：皇家版中的秋叶原。</figcaption>
+  </div>
+</div>
 
 ### 中部区域
 
@@ -327,7 +369,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">皇居景观。<b>左上</b>：富士見櫓。富士見櫓是皇居中的防御性设施之一。由于它从众多角度看上去都相同，因此又被称为“八面前塔”。在明雷基大火后，它取代了废弃的天守阁，成为江户城的象征。<b>右上</b>：長和殿。長和殿是皇居内部最重要的宫殿之，它是天皇接待接待贵宾以及平日办公的场所。<b>左下</b>：正门铁桥（二重桥）。<b>右下</b>：松塔。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">皇居景观。<b>左上</b>：富士見櫓。富士見櫓是皇居中的防御性设施之一。由于它从众多角度看上去都相同，因此又被称为“八面前塔”。在明雷基大火后，它取代了废弃的天守阁，成为江户城的象征。<b>右上</b>：長和殿。長和殿是皇居内部最重要的宫殿之，它是天皇接待接待贵宾以及平日办公的场所。<b>左下</b>：正门铁桥（二重桥）。<b>右下</b>：松塔。</figcaption>
 
 
 <b>开放时间与预约信息</b>：<br>
@@ -344,7 +386,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5244.265198259066!2d139.75107505812076!3d35.68489960592537!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188c0d02d8064d%3A0xd11a5f0b379e6db7!2z5rGf5oi35Z-O!5e0!3m2!1szh-CN!2s!4v1751887174954!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的皇居。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的皇居。</figcaption>
 </div>
 
 <div class="map-card">
@@ -366,7 +408,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">位于东京都千代田区的国会议事堂。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">位于东京都千代田区的国会议事堂。</figcaption>
 </div>
 
 众议院与参议院均位于国会议事堂内部，但二者对于国会议事堂的管理范围并不对称，众议院拥有更大的管理范围。
@@ -374,7 +416,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">国会议事堂内部的众议院。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">国会议事堂内部的众议院。</figcaption>
 </div>
 
 
@@ -391,7 +433,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.04524249877!2d139.74228307664742!3d35.675887972588946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b89b2e1b089%3A0x48c7d4fa5e528690!2z5Zu95Lya6K6u5LqL5aCC!5e0!3m2!1szh-CN!2s!4v1752141430887!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的国会议事堂。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的国会议事堂。</figcaption>
 </div>
 
 <div class="map-card">
@@ -413,7 +455,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">东京车站。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">东京车站。</figcaption>
 </div>
 
 <b>开放时间</b>：全天开放。
@@ -429,7 +471,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.8254555927247!2d139.76449087664756!3d35.681299572587314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bfbd89f700b%3A0x277c49ba34ed38!2z5Lic5Lqs56uZ!5e0!3m2!1szh-CN!2s!4v1752143038490!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的东京车站。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的东京车站。</figcaption>
 </div>
 
 <div class="map-card">
@@ -448,7 +490,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 ### 西部区域
 
 
-#### <span style="color: orange">明治神宫</span>
+#### <span style="color: orange">明治神宫 (not visited)</span>
 
 明治神宫位于东京都涩谷区，是为了纪念明治天皇（即施行明治维新的天皇）与昭宪皇太后而建的神社。
 
@@ -465,7 +507,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.024546820186!2d139.6967509766473!3d35.67639757258882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cb79a4c26e5%3A0x8fca893849103f73!2z5piO5rK756We5a6r!5e0!3m2!1szh-CN!2s!4v1752253329868!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的明治神宫。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的明治神宫。</figcaption>
 </div>
 
 <div class="map-card">
@@ -480,12 +522,20 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<span style="color: #e0669f;"><b>圣地巡礼案内</b>（待完成）</span>：
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle real_or_virtual" style="width: 90%;"
+        aria-expanded="false"
+        aria-controls="real_or_virtual_Meiji_Shrine">
+  <span style="font-family: 'ChineseFont';"><b>圣地巡礼案内（待完成）</b></span>
+</button>
+</div>
 
-<div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png">
-  <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">女神异闻录5：皇家版中的明治神宫。</figcaption>
+<div id="real_or_virtual_Meiji_Shrine" class="collapse-panel" hidden>
+  <div style="text-align: center;">
+    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png">
+    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em;">女神异闻录5：皇家版中的明治神宫。</figcaption>
+  </div>
 </div>
 
 #### <span style="color: orange">新宿</span>
@@ -495,7 +545,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div style="text-align: center;">    
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg" alt="" style="max-width: 70%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">新宿的歌舞伎町一番街。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">新宿的歌舞伎町一番街。</figcaption>
 </div>
 
 <b>开放时间</b>：全天开放。<span class="reveal-on-hover">（当然是夜晚开放了！）</span>
@@ -509,7 +559,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.246847669134!2d139.70057457664808!3d35.69554267258274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd84e865c35%3A0x33418e00dfeefac!2z5pel5pys44CSMTYwLTAwMjEg5Lic5Lqs6YO95paw5a6_5Yy65q2M6Iie5LyO55S6!5e0!3m2!1szh-CN!2s!4v1752335113818!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的新宿。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的新宿。</figcaption>
 </div>
 
 <div class="map-card">
@@ -524,18 +574,25 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<span style="color: #e0669f;"><b>圣地巡礼案内</b></span>：
-
-<div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png">
-  <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">女神异闻录5：皇家版中的新宿商业街。</figcaption>
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle real_or_virtual" style="width: 90%;"
+        aria-expanded="false"
+        aria-controls="real_or_virtual_Shinjuku">
+  <span style="font-family: 'ChineseFont';"><b>圣地巡礼案内</b></span>
+</button>
 </div>
 
-<div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">新宿街角一景。</figcaption>
+<div id="real_or_virtual_Shinjuku" class="collapse-panel" hidden>
+  <div style="text-align: center;">
+    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png">
+    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">女神异闻录5：皇家版中的新宿商业街。</figcaption>
+  </div>
+  <div style="text-align: center;">
+    <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em;">新宿街角一景。</figcaption>
+  </div>
 </div>
 
 <blockquote>
@@ -547,7 +604,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </p>
 </blockquote>
 
-#### <span style="color: orange">代代木公园</span>
+#### <span style="color: orange">代代木公园 (not visited)</span>
 
 代代木公园位于东京都涩谷区，坐落在涩谷站北偏西的方位，是一座环境优美的大型城市公园。春天时，可在代代木公园赏樱花，平日也可以在代代木公园发现东京市井的各种活动与风情。
 
@@ -564,7 +621,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.2817097854436!2d139.6923906766472!3d35.670064872590835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cb479620a33%3A0x34bcc78ce7f8bf3e!2z5Luj5Luj5pyo5YWs5Zut!5e0!3m2!1szh-CN!2s!4v1752416802286!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的代代木公园。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的代代木公园。</figcaption>
 </div>
 
 <div class="map-card">
@@ -579,7 +636,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-#### <span style="color: orange">三轩茶屋</span>
+#### <span style="color: orange">三轩茶屋 (not visited)</span>
 
 一个位于东京都世田谷区的看起来非常平常的区域，但同时又是人气非常高的住宅区。<span class="reveal-on-hover">（同时也是雨宫莲打工的卢布朗咖啡店所在地，也是“四轩茶屋”的现实原型。</span><span class="reveal-on-hover">可惜这次没有来得及去！！）</span>
 
@@ -588,7 +645,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6484.899875553955!2d139.66283964789346!3d35.641284690400646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f49927231ef9%3A0xcc2931a04ac73fe6!2z5pel5pys44CSMTU0LTAwMjQg5Lic5Lqs6YO95LiW55Sw6LC35Yy65LiJ6L2p6Iy25bGL!5e0!3m2!1szh-CN!2s!4v1752418086506!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的三轩茶屋。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的三轩茶屋。</figcaption>
 </div>
 
 <div class="map-card">
@@ -620,7 +677,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">东京塔。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">东京塔。</figcaption>
 
 <b>开放时间</b>：9:00 a.m.-11:00 p.m.（最后入场时间为10:30 p.m.）
 
@@ -640,7 +697,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7479757770852!2d139.74285797664683!3d35.65858047259467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbd9009ec09%3A0x481a93f0d2a409dd!2z5Lic5Lqs6ZOB5aGU!5e0!3m2!1szh-CN!2s!4v1752419833639!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的东京塔。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的东京塔。</figcaption>
 </div>
 
 <div class="map-card">
@@ -674,7 +731,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">传统与现代：增上寺与其后的东京塔。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">传统与现代：增上寺与其后的东京塔。</figcaption>
 </div>
 
 <b>开放时间</b>：9:00 a.m.-5:00 p.m.
@@ -690,7 +747,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7926897702123!2d139.74571787664684!3d35.657478972594916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbe91676c0b%3A0x88a4a86ddb1dbd24!2z5aKe5LiK5a-6!5e0!3m2!1szh-CN!2s!4v1752666666548!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的增上寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的增上寺。</figcaption>
 </div>
 
 <div class="map-card">
@@ -742,7 +799,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">日本航空机库之旅。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">日本航空机库之旅。</figcaption>
 
 <div style="margin-bottom: 0.5em;"><b>开放时间与预约信息</b>：</div>
 
@@ -763,7 +820,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.493231819025!2d139.78404829013283!3d35.541519002068206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601865c4fe3606d1%3A0x113bcf8ac76912ec!2sJAL%20Sky%20Museum!5e0!3m2!1szh-CN!2s!4v1752668669629!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的日本航空机库。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的日本航空机库。</figcaption>
 </div>
 
 <div class="map-card">
@@ -798,7 +855,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.648287094472!2d139.79091277664264!3d35.537688272634114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018641346eb558f%3A0xfc2324997c40613f!2sANA%20Aircraft%20Hangar!5e0!3m2!1szh-CN!2s!4v1752668535570!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的全日空航空机库。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的全日空航空机库。</figcaption>
 </div>
 
 <div class="map-card">
@@ -813,7 +870,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-#### 三鹰之森吉卜力美术馆
+#### <span style="color: orange">三鹰之森吉卜力美术馆</span>
 
 三鹰之森吉卜力美术馆位于东京都三鹰市，是由著名动画制作工作室吉卜力工作室的创始人宫崎骏所创办的动画美术馆与博物馆，其中包含了大量宫崎骏动画元素。<span class="reveal-on-hover">绝对是能让宫崎骏动画的粉丝怦然心动的美术馆！！</span>
 
@@ -838,7 +895,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.2185968597164!2d139.567856776648!3d35.69623797258247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ee34e5038c2d%3A0x4de155903f849205!2z5LiJ6bmw5LmL5qOu5ZCJ5Y2c5Yqb576O5pyv6aaG!5e0!3m2!1szh-CN!2s!4v1752769921672!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的三鹰之森吉卜力美术馆。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的三鹰之森吉卜力美术馆。</figcaption>
 </div>
 
 <div class="map-card">
@@ -853,7 +910,21 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-## <span style="color: #7F82BB;">富士山</span>
+## <span style="color: #7F82BB;">富士山地区</span>
+
+<div class="my_section_hero" style="">
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3969_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3954_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_content" style="">
+    富士山 The Mount Fuji
+  </div>
+</div>
+
+<div class="short_introduction_wrapper" style="">
+  <b>富士山，位于日本中部的静冈县、山梨县，距离东京约80公里。“<em>谁能凭爱意要富士山私有。</em>”走在富士山前，你知道她永远是浪漫的，携樱花飘过一春又一春；你知道她永远是真诚的，将自己完整地展现在每一个欣赏它她的人面前；你也知道，她永远是善良的，静静地就在那里，纵然听着山脚下来去的人们对她的是非议论，将自己的祝福送到她喜欢的城市、村庄中。</b>
+</div>
+
+### <span style="color: orange">富士山</span>
 
 <div style="margin-top: 1em; margin-bottom: 1em; color: gray;">
   <em >攀登富士山一次的人是智者，再攀登一次的人则是愚者。——日本谚语</em>
@@ -864,7 +935,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">封面图之一：富士山与浅间神社同框。据 (ptr) 称是谈起日本时大多数人脑海中第一个浮现出的画面。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">封面图之一：富士山与浅间神社同框。据 (ptr) 称是谈起日本时大多数人脑海中第一个浮现出的画面。</figcaption>
 </div>
 
 “合目”是日语中的一个单位，一合目表示从山脚到山顶高度的十分之一。富士山拥有路况良好的上山公路，可从山脚乘车（或自驾）到达富士山五合目，一路上有众多标志与观景台可打卡。富士山五合目是富士山景区最大的休息、补充营地，有着许多食品店与纪念品商店，同时还拥有富士邮便局与富士山小御岳神社！<span class="info_span" style="">对于不要求到达富士山顶的游客而言，富士山五合目非常适合作为富士山景区的最终目的地。</span>
@@ -878,9 +949,9 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">从富士山五合目拍摄的天空与富士山。<em >所见宛如天境。</em></figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">从富士山五合目拍摄的天空与富士山。<em >所见宛如天境。</em></figcaption>
 
-富士山同时是观赏日出与日落的好去处，对于喜欢挑战的登山者，富士山顶也是值得发起挑战的地点！登顶富士山的路线大致有四条：须走路线、富士宫路线、御殿场路线和吉田路线。所有路线都从富士山的五合目开始。（并不一定是上述提到的富士山五合目！富士山的五合目可以有很多个。）下述有关路线的内容摘选自<a href="https://www.japan-travel.cn/spot/1308/" class="custom-link-3">日本国家旅游局</a>。
+富士山同时是观赏日出与日落的好去处，对于喜欢挑战的登山者，富士山顶也是值得发起挑战的地点。登顶富士山的路线大致有四条：须走路线、富士宫路线、御殿场路线和吉田路线。所有路线都从富士山的五合目开始。（并不一定是上述提到的富士山五合目！富士山的五合目可以有很多个。）下述有关路线的内容摘选自<a href="https://www.japan-travel.cn/spot/1308/" class="custom-link-3">日本国家旅游局</a>。
 
 <div style="text-align: center; margin-bottom: 1em;">
   <button class="collapse-toggle" style=""
@@ -1047,7 +1118,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <b>地图位置</b>：
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13015.197565360477!2d138.71706367403974!3d35.360624563076406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6019629a42fdc899%3A0xa6a1fcc916f3a4df!2sMount%20Fuji!5e0!3m2!1sen!2s!4v1753872264241!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的富士山。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的富士山。</figcaption>
 </div>
 
 <div class="map-card">
@@ -1061,6 +1132,49 @@ permalink: /blogs/travel/Japan-Tour-Plan/
     </div>
   </a>
 </div>
+
+### <span style="color: orange">富士五湖</span>
+
+富士五湖是位于富士山靠近山梨县一侧的五个由富士山喷发而行程的湖泊，包括河口湖、山中湖、西湖、精进湖和本栖湖。其中山中湖附近有许多度假酒店与餐馆，可作为游玩富士山地区时的落脚点。（另一可能的行程规划则是居住在东京，白天乘坐巴士前往富士山地区游玩。）
+
+富士五湖同时是极佳的、恰到好处的欣赏富士山的地点，非常适合作为富士山之旅的“前菜”。富士五湖附近有修建良好的公路，对于拥有国际驾照 (international driving permit, IDP) 的游客而言，自驾富士五湖无疑是绝佳的选择。（富士山五合目也可自驾到达。）<span class="reveal-on-hover">（对不起, ptr!）</span>
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3940.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3940.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3954.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3954.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.jpg" alt="Image 3">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3969.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3969.JPG.jpeg" alt="Image 4">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">山中湖附近景观。</figcaption>
+
+<b>地图位置（以山中湖为例）</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52022.584524549064!2d138.8287975802826!3d35.41983427485513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6019656f7e289dd5%3A0xee8e28a0ba717347!2sYamanakako%2C%20Minamitsuru%20District%2C%20Yamanashi%2C%20Japan!5e0!3m2!1sen!2s!4v1754158261533!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的山中湖。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/S3R2TjDgFzLANr6s7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">山中湖</div>
+      <div class="map-card-address">Minamitsuru District, Yamanashi, Yamanashi 401-0304日本</div>
+    </div>
+  </a>
+</div>
+
+<span class="warning_span" style=""><span style="color: red"><b>注</b></span>：国际驾照仅由日内瓦公约框架内的国家颁发。中国既不在日内瓦公约框架内，其驾照也不被日本认可。因此仅持有中国驾照的游客无法在日本租车。</span>
 
 <blockquote>
   <p style="font-size:0.8em">
@@ -1080,102 +1194,663 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ## 京都府
 
+<div class="short_introduction_wrapper" style="">
+  <b>京都，日本的古城。自794年桓武天皇迁都到平安京（即今京都）至1868年明治天皇迁都到东京，京都始终是日本的首都。千年古都历史，使京都见证了日本诸多影响颇深的政治变革与经济兴衰。如今，二字皆名都城的京都虽不再是日本的首都，却拥有极为丰富、保存完好的历史古建筑，将古日本的气息难能可贵地带到了现代来。</b>
+</div>
+
+<div class="my_section_hero" style="">
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4315_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4581_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_content" style="">
+    京都 Kyoto
+  </div>
+</div>
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle" style="width: 90%;"
+        aria-expanded="false"
+        aria-controls="kyoto_route">
+  <span style="font-family: 'ChineseFont';"><b>景点分布地图</b></span>
+</button>
+</div>
+
+
+<div id="kyoto_route" class="collapse-panel" hidden>
+  <div style="text-align: center;">
+    <a href="/assets/images/Travel/Japan Tour Plan/kyoto_brief.jpg">
+    <img src="/assets/images/Travel/Japan Tour Plan/kyoto_brief.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">京都日程与景区地图。Credit: Vincent.</figcaption>
+  </div>
+</div>
+
 ### 中部区域
 
-#### 清水寺
+#### <span style="color: orange;">清水寺</span>
 
-<b>开放时间</b>：6:00 a.m.-18:00 p.m.<br>
+清水寺位于京都市东山区，建于公元778年，是京都最古老的寺院。它山号为音羽山，主要供奉千手观音。清水寺是京都最为有名的景点之一，它的本堂（即正殿）是每个前往清水寺的游客必然打卡的地点。
 
-<b>导览</b>：<a href="https://www.kiyomizudera.or.jp/news/open-hour.php" class="custom-link-3">参拝案内</a>
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">清水寺的本堂。</figcaption>
+</div>
 
-#### 三十三间堂
+从清水寺本堂旁的小路下去，有清水寺后山的山泉水可以喝。请遵守使用寺院中泉水的礼仪！
 
-<b>开放时间</b>：8:30 a.m.-5:00 p.m.<br>
-<b>门票</b>：¥600<br>
+另外，晚上的清水寺本堂与附近的树林会有丰富的灯光照明，与白天是完全不同的一番风景，非常值得一去！
 
-<b>导览</b>：<a href="https://www.sanjusangendo.jp/visit/" class="custom-link-3">参拝案内</a>
+<b>开放时间</b>：6:00 a.m.-6:00 p.m. （节假日可能会有所调整，请以官网的时间表为准。）
 
-#### 南禅寺
+<b>门票</b>：¥500。
 
-<b>开放时间</b>：8:40 a.m.-5:00 p.m.<br>
+<b>导览</b>：<a href="https://www.kiyomizudera.or.jp/map.php" class="custom-link-3">景区地图</a>、<a href="https://www.kiyomizudera.or.jp/access.php#worship" class="custom-link-3">开放时间与交通信息</a>。
 
-<b>导览</b>：<a href="https://nanzenji.or.jp/about_rinzaishu/visit" class="custom-link-3">参拝案内</a>
+<b>预计预览时间</b>：1小时。
+
+地址：1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862日本；<br>
+电话：+81 75-551-1234；<br>
+网站：<a href="https://www.kiyomizudera.or.jp/" class="custom-link-3">清水寺</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.4808590851726!2d135.78208071255537!3d34.994666172703305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108d385dcfb07%3A0x62af658650c434ba!2sKiyomizu-dera!5e0!3m2!1sen!2s!4v1754407421557!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的清水寺。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/tAz1KwzppXXDf5fs9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">清水寺</div>
+      <div class="map-card-address">1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange;">三十三间堂</span>
+
+三十三间堂位于京都市东山区，建于1164年，是天台宗妙法院的境外佛堂。“间”是日本的长度单位，一间约合1.8米。江户年代以前三十三间堂约59.4米长，故得名。三十三间堂的本堂中展出了大量保存完好的木制雕刻千手观音像，是难得一见的珍品。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4147.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4147.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">雨中，三十三间堂外庭院景色。<span class="warning_span" style="">三十三间堂内部禁止拍照摄影</span>。</figcaption>
+</div>
+
+<b>开放时间</b>：8:30 a.m.-5:00 p.m.
+
+<b>门票</b>：¥600。<br>
+
+<b>导览</b>：<a href="https://www.sanjusangendo.jp/precincts/" class="custom-link-3">三十三间堂庭院地图与景点介绍</a>。
+
+<b>预计预览时间</b>：1小时。
+
+地址：657 Sanjusangendo Mawaricho, Higashiyama Ward, Kyoto, 605-0941日本；<br>
+电话：+81 75-561-0467；<br>
+网站：<a href="https://www.sanjusangendo.jp/" class="custom-link-3">三十三间堂</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.7516698360705!2d135.76913231255503!3d34.98788447270555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108ca8f9b80b3%3A0xaa2b01ebdb651688!2sSanj%C5%ABsangend%C5%8D%20Temple!5e0!3m2!1sen!2s!4v1754408152609!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的三十三间堂。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/aiZ2Ekoynu9AkZW27" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">三十三间堂</div>
+      <div class="map-card-address">657 Sanjusangendo Mawaricho, Higashiyama Ward, Kyoto, 605-0941日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange;">南禅寺</span>
+
+南禅寺位于京都市东山区，建于1291年，侍奉释迦如来，山号为瑞龙山。三门是南禅寺的正门，雄伟且富有日本、中国的古代建筑的气息，其房梁上的固定结构也值得观察一番。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4159.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4159.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">南禅寺的三门。</figcaption>
+</div>
+
+南禅寺院内的琵琶湖疏水水路阁遗迹也颇有意思。它最初由田边朔郎设计用于给周边众多的日本庭院供水，并在1888年建造完成。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4165.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4165.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">琵琶湖疏水水路阁遗迹。</figcaption>
+</div>
+
+<b>开放时间</b>：8:40 a.m.-5:00 p.m.
+
+<b>门票</b>：免费。
+
+<b>导览</b>：<a href="https://nanzenji.or.jp/about_rinzaishu" class="custom-link-3">南禅寺历史介绍</a>、<a href="https://nanzenji.or.jp/equipment" class="custom-link-3">寺院内经典列表与地图</a>。
+
+<b>预计预览时间</b>：1小时。
+
+地址：86 Nanzenji Fukuchicho, Sakyo Ward, Kyoto, 606-8435日本；<br>
+电话：+81 75-771-0365；<br>
+网站：<a href="https://nanzenji.or.jp/" class="custom-link-3">南禅寺</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.8118881128767!2d135.79190381255577!3d35.011413772697665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600109217397fbfd%3A0x38b339a4c7e7004d!2sNanzen-ji!5e0!3m2!1sen!2s!4v1754504328683!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的南禅寺。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/AEVKm8zcWM6o5pMZ8" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">南禅寺</div>
+      <div class="map-card-address">86 Nanzenji Fukuchicho, Sakyo Ward, Kyoto, 606-8435日本</div>
+    </div>
+  </a>
+</div>
 
 
-#### 禅林寺-永观堂
+#### <span style="color: orange;">禅林寺（永观堂）</span>
 
-<b>开放时间</b>：9:00 a.m.-4:00 p.m.<br>
-<b>门票</b>：¥600<br>
-<b>导览</b>：<a href="https://www.eikando.or.jp/haikan.html" class="custom-link-3">参拝案内</a>；<a href="https://www.eikando.or.jp/keidaizu.pdf" class="custom-link-3">地图</a>
+禅林寺又称永观堂、无量寿院，它位于京都市左京区，与南禅寺相距不远。禅林寺的具体的建造时间不详，但最早的有关它的历史记载可追溯到853年。禅林寺侍奉阿弥陀如来，山号为圣众来迎山。
 
+禅林寺最为美丽的季节是秋季，届时禅林寺内枫叶飘飘，使人恍如隔世。禅林寺内有可以进入的日式建筑，在内部可以仔细地揣摩它置身其中的日本庭园。建筑还通往南禅寺的本堂，可以欣赏幽静庄严的僧人修习之所与精美的佛像。
 
-#### 平安神宫
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4190.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4190.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">在建筑内拍摄的南禅寺内的庭院。</figcaption>
+</div>
 
-<b>开放时间</b>：6:00 a.m.-6:00 p.m.<br>
+<b>开放时间</b>：9:00 a.m.-4:00 p.m
 
-<a href="https://www.heianjingu.or.jp/" class="custom-link-3">官网</a>
+<b>门票</b>：¥600。
 
+<b>导览</b>：<a href="https://www.eikando.or.jp/nenpyou.html" class="custom-link-3">南禅寺历史年表</a>、<a href="https://www.eikando.or.jp/keidaizu.pdf" class="custom-link-3">南禅寺地图</a>、<a href="https://www.eikando.or.jp/haikan.html" class="custom-link-3">参拜案内</a>。
 
-#### 八坂神社
+<div class="" style="padding-left: 5%; padding-right: 5%; margin-bottom: 1.3em;">
+  <object
+  data="https://www.eikando.or.jp/keidaizu.pdf"
+  type="application/pdf"
+  height="200px"
+  style="border: none;"
+>
+  <p>
+    Your browser does not support build-in PDF viewer. <a href="https://www.eikando.or.jp/keidaizu.pdf" class="custom-link-3">View the PDF here</a>.
+  </p>
+</object>
+</div>
 
-全天开门，可以在晚上去看漂亮的灯笼。
+<b>预计预览时间</b>：1小时。
+
+地址：48 Eikandocho, Sakyo Ward, Kyoto, 606-8445日本；<br>
+电话：+81 75-761-0007；<br>
+网站：<a href="https://www.eikando.or.jp/" class="custom-link-3">禅林寺</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.6744252151934!2d135.79157851255573!3d35.014854272696375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60010918b2b38d17%3A0x1c9705a093b0ad54!2sEikand%C5%8D%20Temple!5e0!3m2!1sen!2s!4v1754506227013!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的禅林寺。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/eVs4Jq1rjByPCeZK7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">禅林寺</div>
+      <div class="map-card-address">48 Eikandocho, Sakyo Ward, Kyoto, 606-8445日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">平安神宫 (not visited)</span>
+
+平安神宫是位于京都市左京区的神宫。“平安”，即平安京，是京都的旧称。它于1895年庆祝平安京建立1100周年时建成，是平安京大内里正厅朝堂院的八分之五比例的复制品。
+
+<b>开放时间</b>：6:00 a.m.-5:00 p.m.
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：30分钟。
+
+地址：97 Okazaki Nishitennocho, Sakyo Ward, Kyoto, 606-8341日本；<br>
+电话：+81 75-761-0221；<br>
+网站：<a href="https://www.heianjingu.or.jp/" class="custom-link-3">平安神宫</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.629354157871!2d135.7798460125557!3d35.01598227269595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108e5187cc88d%3A0x75bed992d897454f!2sHeian%20Jingu%20Shrine!5e0!3m2!1sen!2s!4v1754589374143!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的平安神宫。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/4aihFpCUbGHRe8sa8" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">平安神宫</div>
+      <div class="map-card-address">97 Okazaki Nishitennocho, Sakyo Ward, Kyoto, 606-8341日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">八坂神社 (not visited)</span>
+
+八坂神社是位于京都市东山区的神社，建于656年。总本社的祇园祭是日本最大的祭典之一。八坂神社夜晚有漂亮的灯笼可以观赏。
+
+<b>开放时间</b>：全天开放。
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：30分钟。
+
+地址：625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073日本；<br>
+电话：+81 75-561-6155；<br>
+网站：<a href="https://www.yasaka-jinja.or.jp/" class="custom-link-3">八坂神社</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3495.9384310754117!2d135.7759138611646!3d35.00390686112349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60010879a010eca9%3A0xc77ac89d5a241ae9!2sYasaka%20Shrine!5e0!3m2!1sen!2s!4v1754589610364!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的京都八坂神社。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/CfY57nFVCXSq7sr3A" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">京都八坂神社</div>
+      <div class="map-card-address">625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073日本</div>
+    </div>
+  </a>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;八坂神社是“全国连锁的”，在日本全国约有3000多间。位于京都的是它的总本社（即“总店”）。<br>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;祇园祭始于瘟疫时期民众的平安祈愿，后来逐渐发展成为今日的盛大祭典。
+  </p>
+</blockquote>
 
 
 
 ### 北部区域
 
-#### 京都御苑-京都迎宾馆
+#### <span style="color: orange">京都御苑-京都迎宾馆</span>
 
-京都的国宾馆，可以<a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">预约导览参观</a>，每周二/四有英文场。
+京都的国宾馆，位于京都市上京区京都御苑内部。京都迎宾馆建于2005年，用于接待外国元首等重要访客，在不接待重要来宾时也开放给公众参观。
 
-#### 二条城
+京都迎宾馆内部装饰是十分典型的日本和室风格。大到挂画、地板、屋顶，小到花纹、灯光角度、桌椅排布，京都迎宾馆可以称为无微不至地精心装饰了每一个细节。迎宾馆内有多个房间，它们的用途在访客来临时不尽相同，但都以“XX之间”命名。
 
-德川家康府。<a href="https://nijo-jocastle.city.kyoto.lg.jp/" class="custom-link-3">官网</a>，<a href="https://nijo-jocastle.city.kyoto.lg.jp/introduction/" class="custom-link-3">介绍</a>。
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4560.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4560.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4581.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4581.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4580.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4580.JPG.jpeg" alt="Image 3">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4559.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4559.JPG.jpeg" alt="Image 4">
+  </a>
+</div>
 
-<b>开放时间</b>：8:45 a.m.-5:00 p.m. (4:00 p.m. 停止入场)
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左上</b>：夕映之间。夕映之间是访客来访时落脚休息的地方，其左右两面墙上各绘有一幅山与夕阳同框之景，两座山是京都市东西边真实存在的两座山。<b>右上</b>：藤之间。藤之间是宾客来访时召开会议的场所。“藤”即紫藤，与房间内的画相呼应（即图片中的画）。<b>左下</b>：藤之间的侧面墙。墙上有由传统手艺人亲手刻画的“截金”。<b>右下</b>：迎宾馆内的走廊，各种物品摆放考究。</figcaption>
 
-<b>门票</b>：入城料 ¥800，二の丸御殿 ¥1300，本丸御殿 ¥1000。参观本丸最好提前预约。
+除室内的各种精美装饰，迎宾馆也拥有相当丰富的日式庭院景观。
 
-#### 晴明神社
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4583.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4583.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4585.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4585.JPG.jpeg" alt="Image 2">
+  </a>
+</div>
 
-供奉阴阳师安倍晴明的神社。<a href="https://www.seimeijinja.jp/" class="custom-link-3">官网</a>，<a href="https://www.seimeijinja.jp/guide/" class="custom-link-3">导览图</a>。
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">迎宾馆内的日本庭园。庭院内的池塘、石头、树木、鱼都由专人打理。</figcaption>
+
+京都迎宾馆在历史上曾接待了众多国家元首等政府高官，具体历史可参见<a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">京都迎宾馆官网</a>。
+
+<b>开放时间</b>：<span class="info_span" style="">需要提前在<a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">京都迎宾馆官网</a>预约，每周二与周四有英文场，其余场次为日文场</span>。
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：1.5小时。
+
+地址：23 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881日本；<br>
+电话：+81 75-223-2301；<br>
+网站：<a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">京都迎宾馆</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.2697992094318!2d135.76288801255603!3d35.02497977269289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600109142639b8df%3A0x2bb6a17e05508b21!2sKyoto%20State%20Guest%20House!5e0!3m2!1sen!2s!4v1754672380969!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的京都迎宾馆。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/PChVQuwrHAdMiEbB9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">京都迎宾馆</div>
+      <div class="map-card-address">23 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">二条城</span>
+
+二条城建于1603年，位于京都市中京区。二条城是江户幕府初代德川家康在京都落脚、住宿以及拜见天皇的地方。1867年，著名的“大政奉还”仪式在二条城举行，标志着日本长达682年的幕府时代结束。广义上，二条城代指每一任幕府将军在京都的住所，因此其位置上在历史上发生过多次变化。
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4348.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4348.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4350.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4350.JPG.jpeg" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：二条城的“唐门”，据称是仿照唐代时的大门的结构建造的。<b>右</b>：二条城的“二之丸御殿”外景。<span class="warning_span" style="">二之丸御殿内部禁止拍照摄影</span>。</figcaption>
+
+<b>开放时间</b>：8:45 a.m.-5:00 p.m. （4:00 p.m.停止入城。）
+
+<b>门票 （入城券）</b>：<br>
+成人 ¥800；<br>
+高中生与初中生 ¥400；<br>
+小学生 ¥300。
+
+<b>（入城券与二之丸御殿券）</b>：<br>
+成人 ¥1300；<br>
+高中生与初中生 ¥400；<br>
+小学生 ¥300。
+
+<b>注</b>：若年龄未到小学生，则免费。参观二之丸御殿最好提前预约，现场票量有限。
+
+<b>预计游览时间</b>：1.5小时。
+
+地址：541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301日本；
+电话：+81 75-841-0096；<br>
+网站：<a href="https://nijo-jocastle.city.kyoto.lg.jp/" class="custom-link-3">元离宫二条城官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.7068722629842!2d135.74354952957026!3d35.014042196021265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600107d40a2b9b0b%3A0x106b8759906a2f2f!2sNij%C5%8D%20Castle!5e0!3m2!1sen!2s!4v1754759290023!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的二条城。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/E7XMFzifom2FykNE9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">元离宫二条城</div>
+      <div class="map-card-address">541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">晴明神社 (not visited)</span>
+
+晴明神社是位于京都市上京区，供奉阴阳师安倍晴明的神社。
+
+<b>开放时间</b>：9:00 a.m.-4:30 p.m.
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：30分钟。
+
+地址：806 Seimeicho, Kamigyo Ward, Kyoto, 602-8222日本；<br>
+电话：+81 75-441-6460；<br>
+网站：<a href="https://www.seimeijinja.jp/" class="custom-link-3">晴明神社官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.1585059593817!2d135.74859991268823!3d35.02776436547812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600107df798f7951%3A0xf28aea911a6811d0!2sSeimei%20Shrine!5e0!3m2!1sen!2s!4v1754760474467!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的晴明神社。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/kSCpds5PYwUfdQ5x6" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">晴明神社</div>
+      <div class="map-card-address">806 Seimeicho, Kamigyo Ward, Kyoto, 602-8222日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">北野天满宫</span>
+
+北野天满宫是位于京都市上京区的神社。它供奉学问之神菅原道真，相当于日本的文庙，适合在此求学业御守り。<span class="reveal-on-hover">你会许什么愿呢？</span>
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4337.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4337.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4343.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4343.JPG.jpeg" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：北野天满宫的主殿；<b>右</b>：北野天满宫的大门。</figcaption>
+
+<b>开放时间</b>：7:00 a.m.-8:00 p.m.
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：30分钟。
+
+地址：Bakurocho, Kamigyo Ward, Kyoto, 602-8386日本；<br>
+电话：+81 75-461-0005；<br>
+网站：<a href="https://kitanotenmangu.or.jp/" class="custom-link-3">北野天满宫官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.022061143062!2d135.73024642957301!3d35.031177995079325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600107ed7bf0e06d%3A0x5b26fec16c2eee1a!2sKitano%20Tenmangu%20Shrine!5e0!3m2!1sen!2s!4v1754842182882!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的北野天满宫。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/jXHedqrnDZP3rLK36" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">北野天满宫</div>
+      <div class="map-card-address">Bakurocho, Kamigyo Ward, Kyoto, 602-8386日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">金阁寺（鹿苑寺）</span>
+
+金阁寺（又称鹿苑寺）位于京都市北区。它是足利义满的别墅，后改为禅寺。金阁寺的最主要建筑物是舍利殿，其外层在20世纪80年代使用金漆与金箔重新装饰，使用了约1.6吨纯黄金，现价值约1.7亿美元。如此高价值的的物体赫然出现在眼前，很难不让人感叹！
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4315.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4315.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">金阁寺的舍利殿。</figcaption>
+</div>
 
 <b>开放时间</b>：9:00 a.m.-5:00 p.m.
 
-#### 北野天满宫
+<b>门票</b>：¥500（持有残疾证等行动不便人士，可以在参观当天出示相关证件，或在参观前使用邮件申请参观费用减免。具体细节可参阅<a href="https://www.shokoku-ji.jp/kinkakuji/faq/" class="custom-link-3">相关说明</a>。）
 
-供奉学问之神菅原道真，相当于日本的文庙，适合在此求学业御守り。<a href="https://kitanotenmangu.or.jp/" class="custom-link-3">官网</a>，<a href="https://kitanotenmangu.or.jp/guidance/" class="custom-link-3">导览图</a>。
+<b>预计浏览时间</b>：1小时。
 
-<b>开放时间</b>：7:00 a.m.-5:00 p.m.
+地址：1 Kinkakujicho, Kita Ward, Kyoto, 603-8361日本；<br>
+电话：+81 75-461-0013；<br>
+网站：<a href="https://www.shokoku-ji.jp/kinkakuji/" class="custom-link-3">金阁寺官网</a>。
 
-#### 金阁寺
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3266.694399992132!2d135.72666281268883!3d35.039374364849955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001a820c0eb46bd%3A0xee4272b1c22645f!2sKinkaku-ji!5e0!3m2!1sen!2s!4v1754845869173!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的金阁寺。</figcaption>
+</div>
 
-足利义满的别墅，后改为禅寺。聪明的一休中将军的居所。<a href="https://www.shokoku-ji.jp/kinkakuji/about/" class="custom-link-3">官网</a>，<a href="https://www.shokoku-ji.jp/kinkakuji/guide/" class="custom-link-3">导览图</a>。
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/819gp3mqFrvK6TNs6" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">鹿苑金阁寺</div>
+      <div class="map-card-address">1 Kinkakujicho, Kita Ward, Kyoto, 603-8361日本</div>
+    </div>
+  </a>
+</div>
 
-<b>开放时间</b>：9:00 a.m. - 5:00 p.m.
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;金阁寺是聪明的一休中将军的居所。<br>
+  </p>
+</blockquote>
 
-<b>门票</b>：¥500
+#### <span style="color: orange">银阁寺（慈照寺）</span>
 
+银阁寺（本名慈照寺）位于京都市左京区，创立者为室町幕府将军足利义政，山号为东山。由于寺内的观音殿被称为“银阁”，因此得名，与金阁寺（鹿苑寺）遥相呼应。相较于金阁寺的辉煌，银阁寺则以它朴素而优雅的建筑与庭院闻名。
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4244.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4244.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4239.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4239.JPG.jpeg" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：银阁寺。<b>右</b>：于银阁寺后山拍摄的银阁寺全貌。</figcaption>
+
+<b>开放时间</b>：8:30 a.m.-5:00 p.m. <span class="warning_span" style="">（观音殿内部不对外开放。）</span>
+
+<b>门票</b>：¥500 （中小学生与行动不便人士可携带证件或提前邮递申请以获得减免。）
+
+<b>预计游览时间</b>：30分钟。
+
+地址：Kyoto, Sakyo Ward, 606-8402日本；<br>
+电话：+81 75-771-5725；<br>
+网站：<a href="https://www.shokoku-ji.jp/ginkakuji/" class="custom-link-3">银阁寺官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.188033518328!2d135.79332952957245!3d35.02702559530773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600109050b426fe1%3A0x258aca1ce888abc9!2sHigashiyama%20Jisho-ji!5e0!3m2!1sen!2s!4v1754845204919!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的银阁寺。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/thxqfDr1KJyEvKv49" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">慈照银阁寺</div>
+      <div class="map-card-address">Kyoto, Sakyo Ward, 606-8402日本</div>
+    </div>
+  </a>
+</div>
 
 ### 东北区域
 
-#### 三千院
+#### <span style="color: orange">三千院 (not visited)</span>
 
-漂亮的庭院。<a href="http://www.sanzenin.or.jp/guide/index.html" class="custom-link-3">导览</a>
-
-<b>开放时间</b>：9:00 a.m.-5:00 p.m.
-
-<b>门票</b>：¥700
-
-#### 寂光院
-
-漂亮的庭院，就在三千院对面可以顺便一去。<a href="https://www.jakkoin.jp/annai/" class="custom-link-3">导览</a>
+三千院位于京都市左京区，建于8世纪，侍奉药师如来，山号为鱼山，拥有美丽典雅的庭院。
 
 <b>开放时间</b>：9:00 a.m.-5:00 p.m.
 
-<b>门票</b>：¥600
+<b>门票</b>：<br>
+成人 ¥700（30名及以上团体¥600）；<br>
+中小学生 ¥400；<br>
+小学生 ¥150。
 
-#### 贵船神社
+<b>预计游览时间</b>：1小时。
+
+地址：540 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242日本；<br>
+电话：+81 75-744-2531；<br>
+网站：<a href="http://www.sanzenin.or.jp/" class="custom-link-3">三千院官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3263.4785192309564!2d135.83182551269053!3d35.119730360498494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001a0d6590baa13%3A0x532a08b9f00f2f34!2sSanzen-in%20Temple!5e0!3m2!1sen!2s!4v1754931944382!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的三千院。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/cfpdUtn6czHemEQn9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">三千院</div>
+      <div class="map-card-address">540 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">寂光院 (not visited)</span>
+
+寂光院是位于京都市左京区的寺院，侍奉地藏菩萨，山号为清香山。同样拥有美丽典雅的庭院，且其位置恰在三千院对面，可以顺便一去。
+
+<b>开放时间</b>：9:00 a.m.-5:00 p.m.
+
+<b>门票</b>：<br>
+成人 ¥600；<br>
+中学生 ¥350；<br>
+小学生 ¥100。<br>
+其他例外情况请参见<a href="https://www.jakkoin.jp/haikan/" class="custom-link-3">官网说明</a>。
+
+<b>预计游览时间</b>：1小时。
+
+地址：676 Oharakusaocho, Sakyo Ward, Kyoto, 601-1248日本；<br>
+电话：+81 75-744-3341；<br>
+网站：<a href="https://www.jakkoin.jp/" class="custom-link-3">寂光院官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3263.303288465459!2d135.81616872958853!3d35.124104289964855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001a6d1d12f79d5%3A0xe7ccd5037dd114a2!2sJakk%C5%8D-in%20Temple!5e0!3m2!1sen!2s!4v1754932792585!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的寂光院。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/TnEP3VbNctRuZkYg9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">寂光院</div>
+      <div class="map-card-address">676 Oharakusaocho, Sakyo Ward, Kyoto, 601-1248日本</div>
+    </div>
+  </a>
+</div>
+
+#### <span style="color: orange">贵船神社</span>
 
 环境很好的神社，有特色水占卜（至每天17:00）。
 
@@ -1188,7 +1863,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ### 西部区域
 
-#### 嵯峨岚山
+#### <span style="color: orange">嵯峨岚山</span>
 
 主要指代那一块区域，个别景点在下面单列，本节只列出一些零散景点。
 
@@ -1196,11 +1871,11 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 - 嵯峨鸟居本：一块保留了传统街道风貌的区域。
 - 竹林小径
 
-#### 渡月桥
+#### <span style="color: orange">渡月桥</span>
 
 著名的木桥，桥本身很好看。
 
-#### 天龙寺
+#### <span style="color: orange">天龙寺</span>
 
 <b>开放时间</b>：8:30 a.m.-5:00 p.m.
 
@@ -1212,11 +1887,11 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ### 南部区域
 
-#### 伏见稻荷大社
+#### <span style="color: orange">伏见稻荷大社</span>
 
 伏见稻荷社的本社，供奉稻荷大神，适宜求商业和爱情的御守り。内有知名千本鸟居，可以多往上爬爬找没有人的地方。
 
-#### 东寺
+#### <span style="color: orange">东寺</span>
 
 内有知名的五重塔。
 
@@ -1225,7 +1900,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <a href="https://toji.or.jp/guide/" class="custom-link-3">导览</a>
 
 
-#### 京都铁道博物馆
+#### <span style="color: orange">京都铁道博物馆 (not visited)</span>
 
 <b>开放时间</b>：10:00 a.m.-5:00 p.m., 周三休馆。
 
@@ -1234,7 +1909,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ## 奈良县
 
-### 唐招提寺
+### <span style="color: orange">唐招提寺</span>
 
 初中都学过，无需多言。
 
@@ -1244,7 +1919,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <a href="https://www.toshodaiji.jp/english/visit/index.html" class="custom-link-3">导览</a>
 
-### 东大寺
+### <span style="color: orange">东大寺</span>
 
 巨型木结构建筑，有漂亮的破风。
 
@@ -1254,15 +1929,15 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <a href="https://www.todaiji.or.jp/information/keidai/l" class="custom-link-3">导览</a>
 
-### 奈良公园
+### <span style="color: orange">奈良公园</span>
 
 可以喂小鹿。
 
-### 若草山
+### <span style="color: orange">若草山 (not visited)</span>
 
 可以在上面看奈良市区的全景。需要注意的是不能下山太晚误了公交。
 
-### 春日大社
+### <span style="color: orange">春日大社 (not visited)</span>
 
 春日社的总本社，可以顺便一去。
 
@@ -1272,7 +1947,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 由于临时机票调整，大阪区域的游览被基本砍掉，预计只会有半天用以参观大阪城
 
-### 大阪城
+### <span style="color: orange">大阪城</span>
 
 <b>开放时间</b>：9:00 a.m.-6:00 p.m.
 
@@ -1774,91 +2449,3 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 
 <button id="back-to-top" title="Back to top">↑</button>
-
-<!-- <script>
-document.addEventListener("click", function(e) {
-  const flower = document.createElement("span");
-  flower.innerText = "🌸";
-  flower.style.position = "absolute";
-  flower.style.left = e.pageX + "px";
-  flower.style.top = e.pageY + "px";
-  flower.style.fontSize = "24px";
-  flower.style.pointerEvents = "none";
-  flower.style.opacity = 1;
-  flower.style.transition = "transform 1s ease-out, opacity 1.2s ease-out";
-
-  document.body.appendChild(flower);
-
-  setTimeout(() => {
-    flower.style.transform = "translateY(100px) scale(1.5)";
-    flower.style.opacity = 0;
-  }, 10);
-
-  setTimeout(() => {
-    flower.remove();
-  }, 1200);
-});
-</script> -->
-
-<!-- <div id="image-preview-overlay">
-  <img id="preview-img" src="" alt="">
-</div>
-
-<script>
-const overlay = document.getElementById("image-preview-overlay");
-const previewImg = document.getElementById("preview-img");
-
-let isDragging = false;
-let startX = 0, startY = 0;
-let currentX = 0, currentY = 0;
-let scale = 1;
-
-// 图片点击放大
-document.querySelectorAll(".gallery-item img").forEach(img => {
-  img.addEventListener("click", e => {
-    previewImg.src = img.src;
-    overlay.style.display = "flex";
-    scale = 1;
-    previewImg.style.transform = "translate(0px, 0px) scale(1)";
-    currentX = currentY = 0;
-  });
-});
-
-// Alt+点击缩小或关闭
-previewImg.addEventListener("click", e => {
-  if (e.altKey) {
-    scale = Math.max(0.5, scale - 0.2);
-    previewImg.style.transform = `translate(${currentX}px, ${currentY}px) scale(${scale})`;
-  } else {
-    scale += 0.2;
-    previewImg.style.transform = `translate(${currentX}px, ${currentY}px) scale(${scale})`;
-  }
-});
-
-// 点击空白关闭预览
-overlay.addEventListener("click", e => {
-  if (e.target === overlay) {
-    overlay.style.display = "none";
-  }
-});
-
-// 拖动图片功能
-previewImg.addEventListener("mousedown", e => {
-  isDragging = true;
-  startX = e.clientX - currentX;
-  startY = e.clientY - currentY;
-  overlay.style.cursor = "grabbing";
-});
-
-document.addEventListener("mousemove", e => {
-  if (!isDragging) return;
-  currentX = e.clientX - startX;
-  currentY = e.clientY - startY;
-  previewImg.style.transform = `translate(${currentX}px, ${currentY}px) scale(${scale})`;
-});
-
-document.addEventListener("mouseup", () => {
-  isDragging = false;
-  overlay.style.cursor = "grab";
-});
-</script> -->
