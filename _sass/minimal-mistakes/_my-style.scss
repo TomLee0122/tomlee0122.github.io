@@ -120,7 +120,7 @@
 body.dark-mode .my_table_1 {
   background-color: $my_dark;
   color: $my_gray_white;
-  border: 1px solid white;
+  border: 1px solid $my_white;
 
   th,
   td {
@@ -191,7 +191,7 @@ body.dark-mode .my_table_1 {
   transition: color 0.3s ease;
 
   &:hover {
-    color: #fff;                // 悬停时变成白字（适配黑背景）
+    color: $my_white;                // 悬停时变成白字（适配黑背景）
   }
 }
 // ----------------------------------------
@@ -205,8 +205,8 @@ body.dark-mode .my_table_1 {
   --color-subtle: #54595d;
   --color-placeholder: #72777d;
   --color-disabled: #72777d;
-  --color-inverted: #fff;
-  --color-inverted-fixed: #fff;
+  --color-inverted: $my_white;
+  --color-inverted-fixed: $my_white;
   --color-progressive: #36c;
   --color-progressive--hover: #4b77d6;
   --color-progressive--active: #233566;
@@ -232,10 +232,10 @@ body.dark-mode .my_table_1 {
   --box-shadow-color-progressive-selected--hover: #4b77d6;
   --box-shadow-color-progressive-selected--active: #233566;
   --box-shadow-color-destructive--focus: #36c;
-  --box-shadow-color-inverted: #fff;
+  --box-shadow-color-inverted: $my_white;
   --box-shadow-color-transparent: transparent;
-  --background-color-base: #fff;
-  --background-color-base-fixed: #fff;
+  --background-color-base: $my_white;
+  --background-color-base-fixed: $my_white;
   --background-color-neutral: #eaecf0;
   --background-color-neutral-subtle: #f8f9fa;
   --background-color-interactive: #eaecf0;
@@ -281,7 +281,7 @@ body.dark-mode .my_table_1 {
   --border-color-muted: #dadde3;
   --border-color-interactive: #72777d;
   --border-color-disabled: #c8ccd1;
-  --border-color-inverted: #fff;
+  --border-color-inverted: $my_white;
   --border-color-progressive: #36c;
   --border-color-progressive--hover: #4b77d6;
   --border-color-progressive--active: #233566;
@@ -465,7 +465,7 @@ body.dark-mode .my_table_1 {
   display: none;
   /* 初始隐藏 */
   background-color: $my_custom_color_1;
-  color: white;
+  color: $my_white;
   border: none;
   padding: 10px 15px;
   border-radius: 5px;
@@ -483,7 +483,7 @@ body.dark-mode .my_table_1 {
 // Style of the dark mode
 /* 默认浅色模式 */
 // body {
-//   background-color: #ffffff;
+//   background-color: $my_whitefff;
 //   color: #000000;
 //   transition: background-color 0.3s, color 0.3s;
 // }
@@ -513,7 +513,7 @@ body.dark-mode a {
 
 body.dark-mode #dark-mode-toggle {
   background: #87CEEB;
-  color: #fff;
+  color: $my_white;
 }
 
 body.dark-mode #site-nav {
@@ -537,7 +537,7 @@ body.dark-mode #site-nav {
 
   #dark-mode-toggle {
     background: #87CEEB;
-    color: #fff;
+    color: $my_white;
   }
 }
 
@@ -570,7 +570,7 @@ body.dark-mode .author__urls.social-icons {
     color: $my_gray_white;
 
     &:hover {
-      color: #fff;
+      color: $my_white;
     }
   }
 
@@ -585,7 +585,7 @@ body.dark-mode .author__urls.social-icons {
 
 /* 默认浅色模式样式：可保留不变 */
 .btn--inverse {
-  // background-color: #fff;
+  // background-color: $my_white;
   color: $my_dark;
   border: 1px solid $my_dark;
   transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
@@ -607,7 +607,7 @@ body.dark-mode .toc__menu a {
   border-bottom: 1px solid #333333; // 深灰分隔线
 
   &:hover {
-    color: #fff; // hover 时更亮
+    color: $my_white; // hover 时更亮
   }
 }
 
@@ -622,7 +622,7 @@ body.dark-mode #footer {
 }
 
 body.dark-mode #footer a:hover {
-  color: #fff;
+  color: $my_white;
 }
 
 body.dark-mode .wikitable {
@@ -647,11 +647,11 @@ body.dark-mode .map-card-address{
 }
 
 body.dark-mode th {
-  border: 1px solid #fff;
+  border: 1px solid $my_white;
 }
 
 body.dark-mode .reveal-on-hover {
-  background-color: #fff;
+  background-color: $my_white;
   color: transparent;
 
   &:hover {
@@ -708,15 +708,12 @@ body.homepage .archive {
 }
 // ----------------------------------------
 
-// Styles of the class "hero"
+// Styles of the "hero" class
 
 .my_hero {
   height: 100vh; /* 设置高度为视口高度 */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
   position: relative;
-  color: white; /* 如果需要白字 */
+  color: $my_white; /* 如果需要白字 */
   text-align: center;
   display: flex;
   justify-content: center;
@@ -785,6 +782,47 @@ body.dark-mode .image-dark {
 
 // ----------------------------------------
 
+// Styles of the "section_hero" class
+
+.my_section_hero {
+  height: 10vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  color: $my_white;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  transition: height 0.3s ease;
+  overflow: hidden;
+  margin-bottom: 1.5em;
+  &::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.15); /* 黑色遮罩层 */
+    z-index: 1;
+  }
+  & .my_section_hero_content {
+    z-index: 2;
+    font-size: 1.5rem;
+  }
+}
+
+.my_section_hero_image {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: opacity 0.3s ease;
+}
+
+// ----------------------------------------
+
 // Transition effect for the sidebar
 .sidebar.sticky {
   .h-card {
@@ -847,7 +885,7 @@ body.dark-mode .image-dark {
   &.toc-toggle{
     width: auto;
     background-color: transparent;
-    color: #fff;
+    color: $my_white;
     border: none;
   }
 

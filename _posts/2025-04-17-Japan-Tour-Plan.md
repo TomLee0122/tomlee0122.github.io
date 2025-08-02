@@ -36,10 +36,29 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ## 东京都
 
-<div style="text-align: center;">
-  <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
-  <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">东京日程与景区地图。Credit: Vincent.</figcaption>
+<div class="my_section_hero" style="">
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/2025-06-20 091817_revised.jpg')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/2025-06-19 215835.jpg')"></div>
+  <div class="my_section_hero_content" style="">
+    东京 Tokyo
+  </div>
+</div>
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle" style="width: 90%;"
+        aria-expanded="false"
+        aria-controls="tokyo_route">
+  <span style="font-family: 'ChineseFont';"><b>景点分布地图</b></span>
+</button>
+</div>
+
+
+<div id="tokyo_route" class="collapse-panel" hidden>
+  <div style="text-align: center;">
+    <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
+    <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1em;">东京日程与景区地图。Credit: Vincent.</figcaption>
+  </div>
 </div>
 
 ### 东北区域
@@ -864,7 +883,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 富士山同时是观赏日出与日落的好去处，对于喜欢挑战的登山者，富士山顶也是值得发起挑战的地点！登顶富士山的路线大致有四条：须走路线、富士宫路线、御殿场路线和吉田路线。所有路线都从富士山的五合目开始。（并不一定是上述提到的富士山五合目！富士山的五合目可以有很多个。）下述有关路线的内容摘选自<a href="https://www.japan-travel.cn/spot/1308/" class="custom-link-3">日本国家旅游局</a>。
 
 <div style="text-align: center; margin-bottom: 1em;">
-  <button class="collapse-toggle" style="width: 70%;"
+  <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="fuji-route-1">
   <span style="font-family: 'ChineseFont';"><b>须走路线</b></span>
@@ -904,7 +923,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </div>
 
 <div style="text-align: center; margin-bottom: 1em;">
-  <button class="collapse-toggle" style="width: 70%;"
+  <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="fuji-route-2">
   <span style="font-family: 'ChineseFont';"><b>富士宫路线</b></span>
@@ -945,7 +964,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </div>
 
 <div style="text-align: center; margin-bottom: 1em;">
-  <button class="collapse-toggle" style="width: 70%;"
+  <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="fuji-route-3">
   <span style="font-family: 'ChineseFont';"><b>御殿场路线</b></span>
@@ -982,7 +1001,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </div>
 
 <div style="text-align: center; margin-bottom: 1em;">
-<button class="collapse-toggle" style="width: 70%;"
+<button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="fuji-route-4">
   <span style="font-family: 'ChineseFont';"><b>吉田路线</b></span>
@@ -1048,7 +1067,13 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   <b>你知道吗？</b>
   </p>
   <p style="font-size:0.8em">
-  &bull;富士山其实是一座活火山，其上一次喷发时间是1707年。为了应对潜在的风险，日本政府制定了详尽的灾难防范计划：其在富士山周边多地设置了火山与地震活动监测点，并制定了可以快速疏散富士山周边居民的方案。<br>
+  &bull;富士山其实是一座活火山，其上一次喷发时间是1707年。为了应对潜在的风险，日本政府制定了详尽的灾难防范计划：其在富士山周边多地设置了火山与地震活动监测点，并制定了可以快速疏散富士山周边居民的方案。
+  </p>
+  <p style="font-size:0.8em">
+  &bull;富士山属私人所有，其所有者是富士山本宫浅间大社。
+  </p>
+  <p style="font-size:0.8em">
+  &bull;有关富士山名称的来源，一直众说纷纭。有说法称其源于“富饶”与“具有地位的人”之意（与中文中“富”与“士”）的含义吻合；也有说法称富士山仅仅使用了“富士”两字的读音，与其字面意没有关系；还有其他说法，包括称其来源于“不死”二字的音变、意为“永不停息”等等。
   </p>
 </blockquote>
 
