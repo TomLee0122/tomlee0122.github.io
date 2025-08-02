@@ -131,7 +131,8 @@ body.dark-mode .my_table_1 {
   }
 }
 
-.my_table_1 th, td {
+.my_table_1 th,
+td {
   padding: 10px;
   border: 1px solid #ccc;
   text-align: center;
@@ -182,18 +183,29 @@ body.dark-mode .my_table_1 {
     opacity: 1;
   }
 }
+
 // ----------------------------------------
 
 // The styles of the hidden content 
 .reveal-on-hover {
-  background-color: #000;       // 默认背景黑色
-  color: transparent;           // 文字透明
+  background-color: #000; // 默认背景黑色
+  color: transparent; // 文字透明
   transition: color 0.3s ease;
 
   &:hover {
-    color: $my_white;                // 悬停时变成白字（适配黑背景）
+    color: $my_white; // 悬停时变成白字（适配黑背景）
   }
 }
+
+body.dark-mode .reveal-on-hover {
+  background-color: $my_white;
+  color: transparent;
+
+  &:hover {
+    color: $my_dark; // 更柔和的白色文字
+  }
+}
+
 // ----------------------------------------
 
 // Styles of the table used in the Wikipedia
@@ -326,26 +338,38 @@ body.dark-mode .my_table_1 {
   // border-collapse: collapse;
   text-align: center;
 }
+
+body.dark-mode .wikitable {
+  background-color: $my_dark;
+  color: $my_gray_white;
+}
+
 // ----------------------------------------
 
 // Style of the lightgallery
 
 /* 图像容器使用 Flexbox 来排列 */
 #lightgallery {
+  padding-left: 2.5%;
+  padding-right: 2.5%;
   display: flex;
   /* 使用 flexbox 使图像水平排列 */
   flex-wrap: wrap;
   /* 允许换行 */
-  gap: 20px;
+  // gap: 20px;
   /* 图像之间的间距 */
 }
 
 /* 确保每个图像并排显示 */
 .gallery-item {
   display: inline-block;
-  margin: 0px;
+  margin: 1%;
   max-width: 30%;
+
   /* 限制每个图像占据容器的最大宽度 */
+  @media (max-width: 450px) {
+    margin: 5px 1%;
+  }
 }
 
 /* 控制图像的大小 */
@@ -355,39 +379,14 @@ body.dark-mode .my_table_1 {
   height: auto;
   /* 保持图片比例 */
 }
+
 // ----------------------------------------
-
-#image-preview-overlay {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
-  background: rgba(0,0,0,0.7);
-  justify-content: center;
-  align-items: center;
-  z-index: 9999;
-  cursor: grab;
-}
-
-#image-preview-overlay img {
-  max-width: 80vw;
-  max-height: 80vh;
-  transition: transform 0.3s ease;
-  user-select: none;
-}
-
 
 // Style of the map kit
 
 .map-desktop {
   display: block;
 }
-
-// .map-mobile {
-//   display: none;
-// }
 
 /* 在屏幕宽度小于等于850px时（即手机） */
 @media screen and (max-width: 850px) {
@@ -413,6 +412,15 @@ body.dark-mode .my_table_1 {
 @media screen and (max-width: 850px) {
   .map-card {
     display: block;
+  }
+}
+
+body.dark-mode .map-card {
+  background-color: $my_dark;
+  color: $my_gray_white;
+
+  a {
+    background-color: $my_dark;
   }
 }
 
@@ -450,10 +458,19 @@ body.dark-mode .my_table_1 {
   color: #333;
 }
 
+body.dark-mode .map-card-title {
+  color: $my_gray_white;
+}
+
 .map-card-address {
   font-size: 0.9em;
   color: #666;
 }
+
+body.dark-mode .map-card-address {
+  color: $my_gray_white;
+}
+
 // ----------------------------------------
 
 // The style of the back-to-top button
@@ -478,6 +495,7 @@ body.dark-mode .my_table_1 {
 #back-to-top:hover {
   opacity: 0.8;
 }
+
 // ----------------------------------------
 
 // Style of the dark mode
@@ -560,7 +578,8 @@ body.dark-mode #site-nav {
 //   }
 // }
 
-/* 黑夜模式 */
+// Styles of the dark mode, the styles of the dark mode of the classes defined in this file should be found under the initial definitions of the classes
+
 body.dark-mode .author__urls.social-icons {
   background-color: transparent;
   /* 保持透明或可改为深色背景 */
@@ -625,38 +644,20 @@ body.dark-mode #footer a:hover {
   color: $my_white;
 }
 
-body.dark-mode .wikitable {
-  background-color: $my_dark;
-  color: $my_gray_white;
-}
-
-body.dark-mode .map-card {
-  background-color: $my_dark;
-  color: $my_gray_white;
-  a {
-    background-color: $my_dark;
-  }
-}
-
-body.dark-mode .map-card-title{
-  color: $my_gray_white;
-}
-
-body.dark-mode .map-card-address{
-  color: $my_gray_white;
-}
-
 body.dark-mode th {
   border: 1px solid $my_white;
 }
 
-body.dark-mode .reveal-on-hover {
-  background-color: $my_white;
-  color: transparent;
-
-  &:hover {
-    color: $my_dark; // 更柔和的白色文字
+body.dark-mode .greedy-nav__toggle {
+  &:before {
+    @supports (pointer-events: none) {
+      background-color: $my_light_dark;
+    }
   }
+}
+
+body.dark-mode .greedy-nav .hidden-links {
+  background-color: $my_dark;
 }
 
 body,
@@ -673,9 +674,11 @@ body,
 .masthead,
 .page__footer::before,
 .sidebar.sticky,
-#dark-mode-toggle {
+#dark-mode-toggle,
+.short_introduction_wrapper {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
+
 // ----------------------------------------
 
 // Adjusted styles for the homepage
@@ -694,26 +697,30 @@ body.homepage .archive {
 }
 
 .profile-pic {
-  float: right;                // 或 left
-  margin: 0 0 0 0.5em;         // 与文字间的间距（上右下左）
-  width: 180px;                // 你可以自定义大小
-  border-radius: 8px;          // 圆角，可选
-  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);  // 可选阴影
+  float: right; // 或 left
+  margin: 0 0 0 0.5em; // 与文字间的间距（上右下左）
+  width: 180px; // 你可以自定义大小
+  border-radius: 8px; // 圆角，可选
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.2); // 可选阴影
 }
+
 // ----------------------------------------
 
 // The styles of the titles in different orders
-.page__content h2{
+.page__content h2 {
   color: $my_custom_color_1;
 }
+
 // ----------------------------------------
 
 // Styles of the "hero" class
 
 .my_hero {
-  height: 100vh; /* 设置高度为视口高度 */
+  height: 100vh;
+  /* 设置高度为视口高度 */
   position: relative;
-  color: $my_white; /* 如果需要白字 */
+  color: $my_white;
+  /* 如果需要白字 */
   text-align: center;
   display: flex;
   justify-content: center;
@@ -762,7 +769,8 @@ body.dark-mode .image-dark {
   content: "";
   position: absolute;
   inset: 0;
-  background-color: rgba(0, 0, 0, 0.3); /* 黑色遮罩层 */
+  background-color: rgba(0, 0, 0, 0.3);
+  /* 黑色遮罩层 */
   z-index: 1;
 }
 
@@ -798,14 +806,17 @@ body.dark-mode .image-dark {
   padding: 2rem;
   transition: height 0.3s ease;
   overflow: hidden;
-  margin-bottom: 1.5em;
+  margin-bottom: $indent-var;
+
   &::after {
     content: "";
     position: absolute;
     inset: 0;
-    background-color: rgba(0, 0, 0, 0.15); /* 黑色遮罩层 */
+    background-color: rgba(0, 0, 0, 0.15);
+    /* 黑色遮罩层 */
     z-index: 1;
   }
+
   & .my_section_hero_content {
     z-index: 2;
     font-size: 1.5rem;
@@ -846,9 +857,30 @@ body.dark-mode .image-dark {
   border-radius: 8px;
   padding: 0.2em 0.2em;
   // font-size: 0.9em;
+  transition: color 0.3s ease;
 }
 
-// ----------------------------------------
+body.dark-mode .info_span {
+  color: $my_dark;
+}
+
+// ----------- ----------------------------
+
+// Warning-span
+
+.warning_span {
+  background-color: $--color-3;
+  border: 2px solid;
+  border-color: $--color-4;
+  border-radius: 8px;
+  padding: 0.2em 0.2em;
+  // font-size: 0.9em;
+  transition: color 0.3s ease;
+}
+
+body.dark-mode .warning_span {
+  color: $my_dark;
+}
 
 // Styles of the class "collapse-panel"
 
@@ -869,26 +901,42 @@ body.dark-mode .image-dark {
   border: 2px solid;
   border-color: #969492;
   border-radius: 8px;
-  &:hover, &[aria-expanded="true"] {
+
+  &:hover,
+  &[aria-expanded="true"] {
     background-color: #c27342;
   }
+
   transition: background-color 0.3s ease;
-  &::before{
-    content: '▸';             /* 默认：收起，用右指向符号 */
+
+  &::before {
+    content: '▸';
+    /* 默认：收起，用右指向符号 */
     margin-right: .4em;
     display: inline-block;
-} 
-  &[aria-expanded="true"]::before{
-    content: '▾';           /* 展开：用下指向符号 */
   }
 
-  &.toc-toggle{
+  &[aria-expanded="true"]::before {
+    content: '▾';
+    /* 展开：用下指向符号 */
+  }
+
+  &.toc-toggle {
     width: auto;
     background-color: transparent;
     color: $my_white;
     border: none;
   }
 
+  &.real_or_virtual {
+    color: $my_white;
+    background-color: #e0adc3;
+
+    &:hover,
+    &[aria-expanded="true"] {
+      background-color: #e0669f;
+    }
+  }
 }
 
 .collapse-panel {
@@ -896,8 +944,11 @@ body.dark-mode .image-dark {
   height: 0;
   transition: height 300ms ease;
 }
+
 @media (prefers-reduced-motion: reduce) {
-  .collapse-panel { transition: none; }
+  .collapse-panel {
+    transition: none;
+  }
 }
 
 /* 避免外部样式把 [hidden] 加其他过渡；确保它就是隐藏 */
@@ -906,3 +957,16 @@ body.dark-mode .image-dark {
   height: 0 !important;
 }
 
+.short_introduction_wrapper {
+  background-color: $my_gray_white;
+  border: 2px solid $my_gray;
+  border-radius: 8px;
+  margin-bottom: $indent-var;
+  padding: 0.5em;
+}
+
+body.dark-mode .short_introduction_wrapper {
+  color: $my_gray_white;
+  background-color: $my_light_dark;
+  border-color: $my_gray_white;
+}
