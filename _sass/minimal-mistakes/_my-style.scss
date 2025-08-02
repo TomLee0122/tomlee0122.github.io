@@ -846,9 +846,30 @@ body.dark-mode .image-dark {
   border-radius: 8px;
   padding: 0.2em 0.2em;
   // font-size: 0.9em;
+  transition: color 0.3s ease;
 }
 
-// ----------------------------------------
+body.dark-mode .info_span {
+  color: $my_dark;
+}
+
+// ----------- ----------------------------
+
+// Warning-span
+
+.warning_span {
+  background-color: $--color-3;
+  border: 2px solid;
+  border-color: $--color-4;
+  border-radius: 8px;
+  padding: 0.2em 0.2em;
+  // font-size: 0.9em;
+  transition: color 0.3s ease;
+}
+
+body.dark-mode .warning_span {
+  color: $my_dark;
+}
 
 // Styles of the class "collapse-panel"
 

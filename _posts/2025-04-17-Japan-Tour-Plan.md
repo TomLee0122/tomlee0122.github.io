@@ -111,14 +111,25 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 最先提出建设国立西洋美术馆计划的是日本川崎造船所（现在的川崎重工业）的社长、企业家松方幸次郎（1865年－1950年）。他于1916年开始在伦敦、巴黎等地购买和收集各种欧洲的艺术品，并在随后将这些艺术品运输回国内，以期望在日本建设一座能够展示西方艺术的博物馆。然而，事情进展并不顺利，川崎造船所在1927年陷入了经营危机，松方也在次年辞去了社长职务。很多已经抵达日本的艺术品被拍卖用作还债，仍然存留在伦敦仓库中的作品则又在1939年的一次火灾中被烧毁。在历经种种变故后，国立西洋美术馆终于在1959年4月开馆。不幸的是，松方在1950年6月已离开人世，彼时的国立西洋美术馆仍未建成，松方并没有看到它开馆的一天。有关更多国立西洋美术馆的历史，可参阅<a href="https://www.nmwa.go.jp/qrcode/matsukata/2023_1/index_zh.html" class="custom-link-3">国立西洋美术馆与松方收藏品</a>。
 
-
-
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em;">国立西洋美术馆的正门。</figcaption>
 </div>
 
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" alt="Image 3">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">馆中的部分藏品。从左至右分别为：《圣安东尼的诱惑》、《意大利风景》、《圣特罗佩港》。</figcaption>
 
 <b>开放时间</b>：<br>
 周一：闭馆（若周一为节假日，则周一开馆，并在当周周二闭馆）；<br>
@@ -156,22 +167,6 @@ permalink: /blogs/travel/Japan-Tour-Plan/
     </div>
   </a>
 </div>
-
-<b>部分藏品展示</b>：
-
-<div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" alt="Image 1">
-  </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" alt="Image 2">
-  </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" alt="Image 3">
-  </a>
-</div>
-
-<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">从左至右分别为：《圣安东尼的诱惑》、《意大利风景》、《圣特罗佩港》。</figcaption>
 
 #### <span style="color: orange">上野公园</span>
 
@@ -813,7 +808,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-#### 三鹰之森吉卜力美术馆
+#### <span style="color: orange">三鹰之森吉卜力美术馆</span>
 
 三鹰之森吉卜力美术馆位于东京都三鹰市，是由著名动画制作工作室吉卜力工作室的创始人宫崎骏所创办的动画美术馆与博物馆，其中包含了大量宫崎骏动画元素。<span class="reveal-on-hover">绝对是能让宫崎骏动画的粉丝怦然心动的美术馆！！</span>
 
@@ -853,7 +848,9 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-## <span style="color: #7F82BB;">富士山</span>
+## <span style="color: #7F82BB;">富士山地区</span>
+
+### <span style="color: orange">富士山</span>
 
 <div style="margin-top: 1em; margin-bottom: 1em; color: gray;">
   <em >攀登富士山一次的人是智者，再攀登一次的人则是愚者。——日本谚语</em>
@@ -1062,6 +1059,49 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
+### <span style="color: orange">富士五湖</span>
+
+富士五湖是位于富士山靠近山梨县一侧的五个由富士山喷发而行程的湖泊，包括河口湖、山中湖、西湖、精进湖和本栖湖。其中山中湖附近有许多度假酒店与餐馆，可作为游玩富士山地区时的落脚点。（另一可能的行程规划则是居住在东京，白天乘坐巴士前往富士山地区游玩。）
+
+富士五湖同时是极佳的、恰到好处的欣赏富士山的地点，非常适合作为富士山之旅的“前菜”。富士五湖附近有修建良好的公路，对于拥有国际驾照 (international driving permit, IDP) 的游客而言，自驾富士五湖无疑是绝佳的选择。（富士山五合目也可自驾到达。）<span class="reveal-on-hover">（对不起, ptr!）</span>
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3940.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3940.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3954.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3954.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.jpg" alt="Image 3">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3969.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3969.JPG.jpeg" alt="Image 4">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1em;">山中湖附近景观。</figcaption>
+
+<b>地图位置（以山中湖为例）</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52022.584524549064!2d138.8287975802826!3d35.41983427485513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6019656f7e289dd5%3A0xee8e28a0ba717347!2sYamanakako%2C%20Minamitsuru%20District%2C%20Yamanashi%2C%20Japan!5e0!3m2!1sen!2s!4v1754158261533!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">地图上的山中湖。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/S3R2TjDgFzLANr6s7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">山中湖</div>
+      <div class="map-card-address">Minamitsuru District, Yamanashi, Yamanashi 401-0304日本</div>
+    </div>
+  </a>
+</div>
+
+<span class="warning_span" style=""><span style="color: red"><b>注</b></span>：国际驾照仅由日内瓦公约框架内的国家颁发。中国既不在日内瓦公约框架内，其驾照也不被日本认可。因此持中国驾照的游客无法在日本租车。</span>
+
 <blockquote>
   <p style="font-size:0.8em">
   <b>你知道吗？</b>
@@ -1079,6 +1119,31 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 
 ## 京都府
+
+<div class="my_section_hero" style="">
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4315_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4581_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_content" style="">
+    京都 Kyoto
+  </div>
+</div>
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle" style="width: 90%;"
+        aria-expanded="false"
+        aria-controls="kyoto_route">
+  <span style="font-family: 'ChineseFont';"><b>景点分布地图</b></span>
+</button>
+</div>
+
+
+<div id="kyoto_route" class="collapse-panel" hidden>
+  <div style="text-align: center;">
+    <a href="/assets/images/Travel/Japan Tour Plan/kyoto_brief.jpg">
+    <img src="/assets/images/Travel/Japan Tour Plan/kyoto_brief.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1em;">京都日程与景区地图。Credit: Vincent.</figcaption>
+  </div>
+</div>
 
 ### 中部区域
 
