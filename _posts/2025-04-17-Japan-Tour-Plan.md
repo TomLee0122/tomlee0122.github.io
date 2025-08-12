@@ -1753,7 +1753,13 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <b>门票</b>：¥500 （中小学生与行动不便人士可携带证件或提前邮递申请以获得减免。）
 
-<b>预计游览时间</b>：30分钟。
+<b>景区地图</b>：
+<div style="text-align: center; margin-bottom: 1.3em;">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.jpg">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+</div>
+
+<b>预计游览时间</b>：1小时。
 
 地址：Kyoto, Sakyo Ward, 606-8402日本；<br>
 电话：+81 75-771-5725；<br>
@@ -1852,24 +1858,163 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 #### <span style="color: orange">贵船神社</span>
 
-环境很好的神社，有特色水占卜（至每天17:00）。
+位于京都市左京区北边的神社。贵船神社被京都北部的群山环绕，环境颇为幽静。走在山路两旁，不时有色彩鲜明的灯笼出现，给人柳暗花明之感。位于最高处的奥宫（贵船神社的主殿）更是被数棵参天大树隐匿其中。站在神社前，似能被神明点醒。这里还有特色的<span class="info_span" style="">水占卜</span>可供体验。
 
-<b>开放时间</b>：6:00 a.m. - 8:00 p.m.
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4383.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4383.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4388.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4388.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4398.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4398.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4395.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4395.JPG.jpeg" alt="Image 2">
+  </a>
+</div>
 
-其本院很小，可以往深处走到奥宫。
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">贵船神社景观。<b>左上</b>：贵船神社前的山路；<b>右上</b>：贵船神社的其中一间；<b>左下</b>：奥宫（即贵船神社的主殿）的正门；<b>右下</b>：奥宫。</figcaption>
 
-<a href="https://kifunejinja.jp/info/#anchor-2" class="custom-link-3">导览</a>
+<b>开放时间</b>：6:00 a.m.-8:00 p.m.
+
+<b>门票</b>：免费
+
+<b>预计游览时间</b>：1.5小时
+
+地址：180 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112日本；<br>
+电话：+81 75-741-2016；<br>
+网站：<a href="https://kifunejinja.jp/" class="custom-link-3">贵船神社官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3263.3837776744354!2d135.76032981269046!3d35.12209526037053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001a608f30a9109%3A0x1d021ae4b564548b!2sKifune%20Shrine!5e0!3m2!1sen!2s!4v1755019916880!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的贵船神社。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/jHT3vJD548Kb87h78" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">贵船神社</div>
+      <div class="map-card-address">180 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112日本</div>
+    </div>
+  </a>
+</div>
 
 
 ### 西部区域
 
 #### <span style="color: orange">嵯峨岚山</span>
 
-主要指代那一块区域，个别景点在下面单列，本节只列出一些零散景点。
+岚山是位于京都市西北部的一大块区域，拥有低矮的丘陵和茂密的竹林。岚山地区是观赏樱花与枫叶的好地点。整个岚山地区包含多个景点。
 
 - 周恩来纪念诗碑
 - 嵯峨鸟居本：一块保留了传统街道风貌的区域。
 - 竹林小径
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle" style=""
+        aria-expanded="false"
+        aria-controls="arashiyama_scenery_1">
+  <span style="font-family: 'ChineseFont';"><b>岚山竹林小径</b></span>
+</button>
+</div>
+
+<div id="arashiyama_scenery_1" class="collapse-panel" hidden>
+<p>岚山竹林小径位于天龙寺旁，距离地铁站约15分钟步行距离。竹林小径是岚山的必打卡景点之一，（在没有人时）曲径幽深，颇有美感。</p>
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4282.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4282.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">岚山竹林小径。</figcaption>
+</div>
+
+<p><b>开放时间</b>：全天开放。</p>
+
+<p><b>门票</b>：免费。</p>
+
+<p><b>预计游览时间</b>：30分钟。</p>
+
+<p>地址：Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394日本；<br>
+电话（？）：+81 75-343-0548；<br>
+网站：<a href="https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2683" class="custom-link-3">竹林小径介绍</a>。</p>
+
+<p><b>地图位置</b>：</p>
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.5957580801587!2d135.6687210126882!3d35.01682306606968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001abebbf5c8bad%3A0xfb9ffc7bbdd67cdd!2sArashiyama%20Bamboo%20Forest!5e0!3m2!1sen!2s!4v1755101147879!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的竹林小径。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/VkErgiFfPBG3ydV37" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">竹林小径</div>
+      <div class="map-card-address">Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394日本</div>
+    </div>
+  </a>
+</div>
+
+</div>
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle" style=""
+        aria-expanded="false"
+        aria-controls="arashiyama_scenery_2">
+  <span style="font-family: 'ChineseFont';"><b>天龙寺</b></span>
+</button>
+</div>
+
+<div id="arashiyama_scenery_2" class="collapse-panel" hidden>
+<p>天龙寺位于地铁岚山站西北边步行约10分钟处。天龙寺建于1339年，其等级位列京都市五大禅寺之首。其内有诸堂参拜区、法堂云龙图等观光景点。天龙寺曾经规模庞大，由一系列建筑组成。然而部分建筑在历史中已被毁坏，现存建筑只是天龙寺建成时的一小部分。</p>
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">天龙寺外景。</figcaption>
+</div>
+
+<p><b>开放时间</b>：8:30 a.m.-5:00 p.m.</p>
+
+<p><b>门票（庭院）</b>：<br>
+成人 ¥500；<br>
+中小学生 ¥300；<br>
+未及小学生年龄儿童 免费。</p>
+
+<p><b>门票（诸堂参拜区）</b>：¥500。</p>
+
+<p><b>门票（法堂云龙图）</b>：¥500。</p>
+
+<p><b>预计游览时间</b>：1-2小时。</p>
+
+<p>地址：68 Saga Tenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385日本；<br>
+电话：+81 75-881-1235<br>
+网站：<a href="https://www.tenryuji.com/" class="custom-link-3">天龙寺官网</a>。</p>
+</div>
+
+<p><b>地图位置</b>：</p>
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.634948414915!2d135.67118511268836!3d35.01584226612272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001aa01b80f9e93%3A0xcd9c3edaff3348c0!2sTenryu-ji!5e0!3m2!1sen!2s!4v1755102768702!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的天龙寺。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/AGnKAzvqCLf8yQpW8" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">天龙寺</div>
+      <div class="map-card-address">68 Saga Tenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385日本</div>
+    </div>
+  </a>
+</div>
 
 #### <span style="color: orange">渡月桥</span>
 
