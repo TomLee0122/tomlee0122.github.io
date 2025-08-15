@@ -133,7 +133,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">馆中的部分藏品。从左至右分别为：《圣安东尼的诱惑》、《意大利风景》、《圣特罗佩港》。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">馆中的部分藏品。从左至右分别为：《圣安东尼的诱惑》、《意大利风景》、《圣特罗佩港》。</figcaption>
 
 <b>开放时间</b>：<br>
 周一：闭馆（若周一为节假日，则周一开馆，并在当周周二闭馆）；<br>
@@ -223,7 +223,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">浅草寺的雷门与五重塔。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">浅草寺的雷门与五重塔。</figcaption>
 
 <b>开放时间（正殿）</b>：<br>
 3月至10月：6:30 a.m.-5:00 p.m.；<br>
@@ -369,7 +369,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">皇居景观。<b>左上</b>：富士見櫓。富士見櫓是皇居中的防御性设施之一。由于它从众多角度看上去都相同，因此又被称为“八面前塔”。在明雷基大火后，它取代了废弃的天守阁，成为江户城的象征。<b>右上</b>：長和殿。長和殿是皇居内部最重要的宫殿之，它是天皇接待接待贵宾以及平日办公的场所。<b>左下</b>：正门铁桥（二重桥）。<b>右下</b>：松塔。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">皇居景观。<b>左上</b>：富士見櫓。富士見櫓是皇居中的防御性设施之一。由于它从众多角度看上去都相同，因此又被称为“八面前塔”。在明雷基大火后，它取代了废弃的天守阁，成为江户城的象征。<b>右上</b>：長和殿。長和殿是皇居内部最重要的宫殿之，它是天皇接待接待贵宾以及平日办公的场所。<b>左下</b>：正门铁桥（二重桥）。<b>右下</b>：松塔。</figcaption>
 
 
 <b>开放时间与预约信息</b>：<br>
@@ -677,7 +677,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">东京塔。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">东京塔。</figcaption>
 
 <b>开放时间</b>：9:00 a.m.-11:00 p.m.（最后入场时间为10:30 p.m.）
 
@@ -799,7 +799,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">日本航空机库之旅。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">日本航空机库之旅。</figcaption>
 
 <div style="margin-bottom: 0.5em;"><b>开放时间与预约信息</b>：</div>
 
@@ -949,7 +949,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">从富士山五合目拍摄的天空与富士山。<em >所见宛如天境。</em></figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">从富士山五合目拍摄的天空与富士山。<em >所见宛如天境。</em></figcaption>
 
 富士山同时是观赏日出与日落的好去处，对于喜欢挑战的登山者，富士山顶也是值得发起挑战的地点。登顶富士山的路线大致有四条：须走路线、富士宫路线、御殿场路线和吉田路线。所有路线都从富士山的五合目开始。（并不一定是上述提到的富士山五合目！富士山的五合目可以有很多个。）下述有关路线的内容摘选自<a href="https://www.japan-travel.cn/spot/1308/" class="custom-link-3">日本国家旅游局</a>。
 
@@ -1154,7 +1154,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1em;">山中湖附近景观。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">山中湖附近景观。</figcaption>
 
 <b>地图位置（以山中湖为例）</b>：
 <div class="map-desktop" style="text-align: center;">
@@ -1940,7 +1940,6 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <p><b>预计游览时间</b>：30分钟。</p>
 
 <p>地址：Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394日本；<br>
-电话（？）：+81 75-343-0548；<br>
 网站：<a href="https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2683" class="custom-link-3">竹林小径介绍</a>。</p>
 
 <p><b>地图位置</b>：</p>
@@ -1972,7 +1971,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </div>
 
 <div id="arashiyama_scenery_2" class="collapse-panel" hidden>
-<p>天龙寺位于地铁岚山站西北边步行约10分钟处。天龙寺建于1339年，其等级位列京都市五大禅寺之首。其内有诸堂参拜区、法堂云龙图等观光景点。天龙寺曾经规模庞大，由一系列建筑组成。然而部分建筑在历史中已被毁坏，现存建筑只是天龙寺建成时的一小部分。</p>
+<p>天龙寺位于地铁岚山站西北边步行约10分钟处。天龙寺建于1339年，其等级位列京都市五大禅寺之首。其内有诸堂参拜区、法堂云龙图等观光景点。天龙寺曾经规模庞大，由一系列建筑组成。然而部分建筑在历史中已被毁坏，现存建筑只是天龙寺建成时的一小部分。天龙寺的本堂可进入参观。</p>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg">
@@ -1996,7 +1995,6 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 <p>地址：68 Saga Tenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385日本；<br>
 电话：+81 75-881-1235<br>
 网站：<a href="https://www.tenryuji.com/" class="custom-link-3">天龙寺官网</a>。</p>
-</div>
 
 <p><b>地图位置</b>：</p>
 <div class="map-desktop" style="text-align: center;">
@@ -2016,25 +2014,118 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-#### <span style="color: orange">渡月桥</span>
+</div>
 
-著名的木桥，桥本身很好看。
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle" style=""
+        aria-expanded="false"
+        aria-controls="arashiyama_scenery_3">
+  <span style="font-family: 'ChineseFont';"><b>渡月桥</b></span>
+</button>
+</div>
 
-#### <span style="color: orange">天龙寺</span>
+<div id="arashiyama_scenery_3" class="collapse-panel" hidden>
 
-<b>开放时间</b>：8:30 a.m.-5:00 p.m.
+<p>渡月桥位于天龙寺东南方向约5分钟步行距离之处。它最初建于836年，后经多次维护重修。现在的渡月桥建于1934年。渡月桥全长仅155米，横跨岚山旁的桂川。渡月桥是岚山景区的标志性景点之一，在春秋季时同样是赏樱与赏红叶的绝佳观景点。</p>
 
-<b>门票</b>：¥500
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4308.JPG">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4308.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">岚山景区的渡月桥，桥下即是桂川。</figcaption>
+</div>
 
-<a href="https://www.tenryuji.com/cn/precincts/" class="custom-link-3">导览</a>
+<p>可以乘坐人力车游览渡月桥，亦可以租船在桥下的桂川中游玩。渡月桥附近还有周恩来纪念碑，值得一去。</p>
 
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4307.JPG">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4307.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">位于渡月桥附近的周恩来纪念碑。</figcaption>
+</div>
 
+<p><b>开放时间</b>：全天开放。</p>
+
+<p><b>门票</b>：免费。</p>
+
+<p><b>预计游览时间</b>：1小时。</p>
+
+<p>地址：1-5 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8384日本；<br>
+网站介绍：<a href="https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2682" class="custom-link-3">渡月桥介绍</a>。</p>
+
+<p><b>地图位置</b>：</p>
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4279.305903172885!2d135.67607014690032!3d35.011944800836176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001075300916977%3A0xec14f8e82496283d!2sTogetsuky%C5%8D%20Bridge!5e0!3m2!1sen!2s!4v1755274226109!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的渡月桥。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/TYXSB9fGm3sEJmJb9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">渡月桥</div>
+      <div class="map-card-address">1-5 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8384日本</div>
+    </div>
+  </a>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;渡月桥的名字来源于鎌仓时代的龟山天皇。龟山天皇曾在一次在今渡月桥附近举办的赏月聚会上描绘当时倒映在桂川中的月亮似在渡桥，因而得名。<br>
+  </p>
+</blockquote>
+
+</div>
 
 ### 南部区域
 
 #### <span style="color: orange">伏见稻荷大社</span>
 
-伏见稻荷社的本社，供奉稻荷大神，适宜求商业和爱情的御守り。内有知名千本鸟居，可以多往上爬爬找没有人的地方。
+伏见稻荷大社是位于京都市伏见区的神社，亦是伏见稻荷社的本社，供奉稻荷大神。适宜求商业和爱情的御守り。<span class="info_span" style="">内有著名的千本鸟居</span>。据传说称，稻荷大神在奈良时代的711年就已镇座于稻荷山，至今已有超过1300年历史。
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4525.JPG" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4525.JPG" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4529.JPG" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4529.JPG" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：伏见稻荷大社的正门；<b>右</b>：千本鸟居一景。</figcaption>
+
+伏见稻荷大社内的鸟居数不胜数，其从山下一直排列到山上。如果想拍摄一幅无人的千本鸟居，不妨多向山上爬爬。
+
+<b>开放时间</b>：全天开放。<span class="reveal-on-hover">（欲挑战胆量的，请在晚上尝试爬伏见稻荷大社后的山：）。）</span>
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：1-2小时。
+
+地址：68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882日本；<br>
+电话：+81 75-641-7331；<br>
+网站：<a href="https://inari.jp/" class="custom-link-3">伏见稻荷大社官网</a>、<a href="https://inari.jp/zh-cn/map/" class="custom-link-3">伏见稻荷大社地图</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3269.557637413282!2d135.77661267615903!3d34.967694472825954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60010f153d2e6d21%3A0x7b1aca1c753ae2e9!2sFushimi%20Inari%20Taisha!5e0!3m2!1sen!2s!4v1755275936655!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的伏见稻荷大社。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/bAyVwdohUs9txKTj9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">伏见稻荷大社</div>
+      <div class="map-card-address">68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882日本</div>
+    </div>
+  </a>
+</div>
 
 #### <span style="color: orange">东寺</span>
 
