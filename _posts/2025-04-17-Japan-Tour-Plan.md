@@ -1910,11 +1910,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 #### <span style="color: orange">嵯峨岚山</span>
 
-岚山是位于京都市西北部的一大块区域，拥有低矮的丘陵和茂密的竹林。岚山地区是观赏樱花与枫叶的好地点。整个岚山地区包含多个景点。
-
-- 周恩来纪念诗碑
-- 嵯峨鸟居本：一块保留了传统街道风貌的区域。
-- 竹林小径
+岚山是位于京都市西北部的一片区域，拥有低矮的丘陵和茂密的竹林。岚山地区是观赏樱花与枫叶的好地点。整个岚山地区包含多个景点。
 
 <div style="text-align: center; margin-bottom: 1em;">
   <button class="collapse-toggle" style=""
@@ -1971,7 +1967,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </div>
 
 <div id="arashiyama_scenery_2" class="collapse-panel" hidden>
-<p>天龙寺位于地铁岚山站西北边步行约10分钟处。天龙寺建于1339年，其等级位列京都市五大禅寺之首。其内有诸堂参拜区、法堂云龙图等观光景点。天龙寺曾经规模庞大，由一系列建筑组成。然而部分建筑在历史中已被毁坏，现存建筑只是天龙寺建成时的一小部分。天龙寺的本堂可进入参观。</p>
+<p>天龙寺位于地铁岚山站西北边步行约10分钟处。天龙寺建于1339年，其等级位列京都市五大禅寺之首。其内有诸堂参拜区、法堂云龙图等观光景点。天龙寺曾经规模庞大，由一系列建筑组成。然而部分建筑在历史中已被毁坏，现存建筑只是天龙寺建成时的一小部分。天龙寺的本堂可进入参观，零距离感受日本和室。</p>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg">
@@ -2129,19 +2125,107 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 #### <span style="color: orange">东寺</span>
 
-内有知名的五重塔。
+东寺位于京都市南区，又名教王护国寺，侍奉药师如来，山号为八幡山。东寺建于794年的平安时代，是桓武天皇迁都平安京后兴建的寺院。
+
+东寺内的主要建筑包括金堂（国宝）、讲堂（重要文化财）、五重塔（国宝），其中最著名的非其五重塔莫属，它是日本最高的木制塔，被视为京都的象征。
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4269.JPG" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4269.JPG" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4268.JPG" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4268.JPG" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：东寺的金堂；<b>右</b>：东寺的讲堂。</figcaption>
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4265.JPG" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4265.JPG" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4270.JPG" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4270.JPG" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：东寺的五重塔；<b>右</b>：五重塔与金堂的屋檐的合影。</figcaption>
+
+虽然东寺在历史中扮演了非常重要的角色，但在旅游业中似乎不及京都其他一些更加知名的景点流行。但这也恰是推荐前往东寺参观的原因！
 
 <b>开放时间</b>：8:00 a.m.-5:00 p.m.
 
-<a href="https://toji.or.jp/guide/" class="custom-link-3">导览</a>
+<b>门票</b>：¥800。
 
+<b>预计游览时间</b>：30分钟-1小时。
+
+地址：1 Kujocho, Minami Ward, Kyoto, 601-8473日本；<br>
+电话：+81 75-691-3325；<br>
+网站：<a href="https://toji.or.jp/" class="custom-link-3">东寺官网</a>、<a href="https://toji.or.jp/guide/" class="custom-link-3">东寺境内地图</a>、<a href="https://toji.or.jp/admission/" class="custom-link-3">东寺活动日程表</a>（东寺的五重塔一般不开放参观，但每年会有一些日期有特别参拜活动）。
+
+<b>地图位置</b>：<br>
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1158.8149267792567!2d135.7469944301372!3d34.98039683566092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001060485fbaa4d%3A0xd3ee2dd9b0177910!2sTo-ji%20Temple!5e0!3m2!1sen!2s!4v1755361504075!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的东寺。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/qDU8P9yUoC1Nv4TH9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">东寺</div>
+      <div class="map-card-address">1 Kujocho, Minami Ward, Kyoto, 601-8473日本</div>
+    </div>
+  </a>
+</div>
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;京都又称平安京，平安时代是京都作为都城的开端。然而，现今京都只有东寺是平安时代留存下来的建筑。<br>
+  </p>
+</blockquote>
 
 #### <span style="color: orange">京都铁道博物馆 (not visited)</span>
 
-<b>开放时间</b>：10:00 a.m.-5:00 p.m., 周三休馆。
+京都铁道博物馆位于京都市下京区，是日本最大的铁道博物馆。京都铁道博物馆拥有非常丰富的铁道、火车以及相关藏品，大到日本的不同铁轨，各种火车头与车厢，小到曾经列车上职员的服饰，京都铁道博物馆应有尽有，是火车迷的必去之地！馆内还有托马斯蒸汽小火车和模拟驾驶舱可以体验。
 
-<b>门票</b>：成人 ¥1500，大学生 ¥1300
+<b>开放时间</b>：10:00 a.m.-5:00 p.m., 周三休馆（开馆日4:30 p.m.后停止入馆）。
 
+<b>门票</b>：<br>
+¥1500 成人；<br>
+¥1300 大学生；<br>
+¥500 初中生与小学生；<br>
+¥200 婴儿（3岁以上）；<br>
+免费 婴儿（3岁以下）。<br>
+有关团队参观事宜可参阅<a href="https://www.kyotorailwaymuseum.jp/guide/" class="custom-link-3">京都铁道博物馆官网</a>。
+
+<b>预计游览时间</b>：2小时。
+
+地址：Kankijicho, Shimogyo Ward, Kyoto, 600-8835日本；<br>
+网站：<a href="https://www.kyotorailwaymuseum.jp/" class="custom-link-3">京都铁道博物馆官网</a>。
+
+<b>地图位置</b>：<br>
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.783049882159!2d135.73969827615966!3d34.987098572819335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001061746adc243%3A0x899ffa889ace79ed!2sKyoto%20Railway%20Museum!5e0!3m2!1sen!2s!4v1755362376393!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的京都铁道博物馆。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/weyWPeCaQpngV4PH9" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">京都铁道博物馆</div>
+      <div class="map-card-address">Kankijicho, Shimogyo Ward, Kyoto, 600-8835日本</div>
+    </div>
+  </a>
+</div>
 
 ## 奈良县
 
