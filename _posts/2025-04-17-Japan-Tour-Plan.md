@@ -2231,23 +2231,99 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ### <span style="color: orange">唐招提寺</span>
 
-初中都学过，无需多言。
+唐招提寺位于奈良市五条町，<span class="info_span" style="">是759年中国唐代高僧鉴真东渡日本期间亲自规划修建的寺院</span>。寺院整体采用了盛唐时期的建筑风格。
 
-<b>开放时间</b>：8:30 a.m.-5:00 p.m.
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4444.JPG">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4444.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">唐招提寺的金堂。</figcaption>
+</div>
 
-<b>门票</b>：¥1000，另有鉴真坐像的国宝展 ¥1000
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4448.JPG" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4448.JPG" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4450.JPG" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4450.JPG" alt="Image 2">
+  </a>
+</div>
 
-<a href="https://www.toshodaiji.jp/english/visit/index.html" class="custom-link-3">导览</a>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">唐招提寺内的庭院，是修生养性的好场所。</figcaption>
+
+<b>开放时间</b>：8:30 a.m.-4:30 p.m.
+
+<b>门票</b>：<br>
+¥1000 成人；<br>
+¥400 大学生与初高中生；<br>
+¥200 小学生；<br>
+团体（30人及以上）在上述票价的基础上再减免20%。
+
+<b>预计游览时间</b>：1小时。
+
+地址：13-46 Gojocho, Nara, 630-8032日本；<br>
+电话：+81 74-233-7900；<br>
+网站：<a href="https://www.toshodaiji.jp/" class="custom-link-3">唐招提寺官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.1738714514668!2d135.7822584761474!3d34.67556097292855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60013b040778f7e9%3A0x57c638784fa5da2e!2sToshodai-ji!5e0!3m2!1sen!2s!4v1755448948963!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的唐招提寺。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/EH4uXetDLK693hVs5" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">唐招提寺</div>
+      <div class="map-card-address">13-46 Gojocho, Nara, 630-8032日本</div>
+    </div>
+  </a>
+</div>
 
 ### <span style="color: orange">东大寺</span>
 
-巨型木结构建筑，有漂亮的破风。
+东大寺位于奈良市杂司町，由日本圣武天皇建于728年。东大寺正面宽度57米，深50米，是<span class="info_span" style="">世界上最大的木质建筑</span>。东大寺内的佛像也十分巨大，令人震撼而敬畏。
 
-<b>开放时间</b>：7:30 a.m.-5:30 p.m.
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4462.JPG">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4462.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">东大寺的正面，其建筑之庞大一目了然。</figcaption>
+</div>
 
-<b>门票</b>：¥800
+<b>开放时间</b>：<br>
+7:30 a.m.-5:30 p.m. （四月至十月）；<br>
+8:00 a.m.-5:00 p.m. （十一月至次年三月）。
 
-<a href="https://www.todaiji.or.jp/information/keidai/l" class="custom-link-3">导览</a>
+<b>门票</b>：<br>
+¥800 成人、大学生、高中生、初中生；<br>
+¥400 小学生。<br>
+有关团体票价的信息请参阅<a href="https://www.todaiji.or.jp/information/haikan/" class="custom-link-3">官网</a>。
+
+<b>预计游览时间</b>：1小时。
+
+地址：406-1 Zoshicho, Nara, 630-8587日本；<br>
+电话：+81 74-222-5511；<br>
+网站：<a href="https://www.todaiji.or.jp/" class="custom-link-3">东大寺官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.6419504817063!2d135.8372408761481!3d34.68898507292373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600139907a0876dd%3A0xf890ac3f9dd53c8f!2zVMWNZGFpLWpp!5e0!3m2!1sen!2s!4v1755449668780!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的东大寺。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/tiSteCXDhEULQ9fK7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">东大寺</div>
+      <div class="map-card-address">406-1 Zoshicho, Nara, 630-8587日本</div>
+    </div>
+  </a>
+</div>
 
 ### <span style="color: orange">奈良公园</span>
 
