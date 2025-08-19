@@ -2229,6 +2229,18 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ## 奈良县
 
+<div class="my_section_hero" style="">
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4444_revised.JPG')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4462_revised.JPG')"></div>
+  <div class="my_section_hero_content" style="">
+    奈良 Nara
+  </div>
+</div>
+
+<div class="short_introduction_wrapper" style="">
+  <b>位于日本本州岛中南部的奈良市，虽然少了些东京与大阪泛有的灯红酒绿，却多了些独属于奈良的古色古香。公元8世纪自元明天皇迁都奈良而开启的奈良时代，是日本历史上与中国交往最为友好、频繁的一段时期。在奈良，你不仅能看到属于那个时代的日本遗留下来的种种古迹与工艺，甚至还能在暗中一瞥中国盛唐时期的风采。</b>
+</div>
+
 ### <span style="color: orange">唐招提寺</span>
 
 唐招提寺位于奈良市五条町，<span class="info_span" style="">是759年中国唐代高僧鉴真东渡日本期间亲自规划修建的寺院</span>。寺院整体采用了盛唐时期的建筑风格。
@@ -2325,21 +2337,146 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull;与东大寺对应，奈良其实也有西大寺，但在旅游业中并不如东大寺出名。<br>
+  </p>
+</blockquote>
+
 ### <span style="color: orange">奈良公园</span>
 
-可以喂小鹿。
+奈良公园位于奈良市若草山麓。除了一般的公园拥有的景色外，奈良公园最大的特色是可以免费撸小鹿，有兴趣的话还可以在旁边的商铺买200日元一份的鹿饼投喂。此外，奈良公园位于奈良市近乎中心的区域，距离奈良的几个重要景点（如东大寺、春日大社、若草山等）距离不远，是很方便前往的公园。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4467.JPG.jpeg">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4467.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">奈良公园的可爱小鹿。</figcaption>
+</div>
+
+
+<b>开放时间</b>：全天开放。
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：30分钟。
+
+电话：+81 742-222-0375；<br>
+网站：<a href="https://www3.pref.nara.jp/park/" class="custom-link-3">奈良公园官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.7978389278496!2d135.84043171268104!3d34.6850513839373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60013996bd8c6061%3A0xf96cacf357447456!2sNara%20Park!5e0!3m2!1sen!2s!4v1755541239260!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的奈良公园。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/L4TQhUuaYdLAasx7A" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">奈良公园</div>
+    </div>
+  </a>
+</div>
+
 
 ### <span style="color: orange">若草山 (not visited)</span>
 
-可以在上面看奈良市区的全景。需要注意的是不能下山太晚误了公交。
+若草山是位于奈良市奈良公园东部的一座小山，有一片大草地，其上可以俯瞰奈良市区的全景。如果想拍摄以草地为背景的人像照，若草山是不错的选择。若草山每年还有特殊的烧山仪式，若恰巧遇上，不妨一去。
+
+<b>开放时间</b>：全天开放。
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：30分钟。
+
+地址：Zoshicho, Nara, 630-8211日本；<br>
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13122.222021870468!2d135.84411332376445!3d34.691166258202244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600139bbcae1062f%3A0x3ffe7797efcbb75e!2sMount%20Wakakusa!5e0!3m2!1sen!2s!4v1755541750215!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的若草山。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/vCL5i12DjRFgAnj3A" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">若草山</div>
+      <div class="map-card-address">Zoshicho, Nara, 630-8211日本</div>
+    </div>
+  </a>
+</div>
 
 ### <span style="color: orange">春日大社 (not visited)</span>
 
-春日社的总本社，可以顺便一去。
+春日大社位于奈良公园内，建于710年，是春日社的总本社。春日大社与一般其他神社不同之处在于它供奉了四位神明（一般的神社最多只供奉两位神明）。春日大社颜色艳丽，社内建筑多采用朱红色外漆，与周围的植被相映成趣，是摄影打卡的绝佳地点。
 
-<a href="https://www.kasugataisha.or.jp/images/pdf/keidai_mapA3.pdf" class="custom-link-3">导览</a>
+<b>开放时间</b>：7:00 a.m.-5:00 p.m.
+
+<b>门票</b>：<br>
+¥700 成人；<br>
+¥400 大学生与高中生；<br>
+¥300 初中生与小学生；<br>
+20人及以上的成人团体票价为¥600/人，学生无团体优惠票。
+
+<b>境内地图</b>：
+<div class="" style="padding-left: 5%; padding-right: 5%; margin-bottom: 1.3em;">
+  <object
+  data="https://www.kasugataisha.or.jp/images/pdf/keidai_mapA3.pdf"
+  type="application/pdf"
+  height="200px"
+  style="border: none;"
+>
+  <p>
+    Your browser does not support build-in PDF viewer. <a href="https://www.kasugataisha.or.jp/images/pdf/keidai_mapA3.pdf" class="custom-link-3">View the PDF here</a>.
+  </p>
+</object>
+</div>
+
+<b>预计游览时间</b>：1小时。
+
+地址：160 Kasuganocho, Nara, 630-8212日本；<br>
+电话：+81 74-222-7788；<br>
+网站：<a href="https://www.kasugataisha.or.jp/" class="custom-link-3">春日大社官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.9365910710712!2d135.845891612681!3d34.68154978412466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600139c06bb06ad5%3A0x4c97e78382e39596!2sKasugataisha%20Shrine!5e0!3m2!1sen!2s!4v1755618950369!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的春日大社。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/cptjV5qpPBz9XP9V7" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">春日大社</div>
+      <div class="map-card-address">160 Kasuganocho, Nara, 630-8212日本</div>
+    </div>
+  </a>
+</div>
 
 ## 大阪府
+
+<div class="my_section_hero" style="">
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4646_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4609_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_content" style="">
+    大阪 Osaka
+  </div>
+</div>
+
+<div class="short_introduction_wrapper" style="">
+  <b>关西的大阪，与东京一齐，被称为日本城市的代表。自奈良时代起，大阪就已是日本关西地方的最重要城市之一。身处大阪，或许你想品尝一下大阪烧，感受“天下的厨房”中的美食；或许你想置身心斋桥，短暂地漂浮在欲望之海之上；又或许你想站在天守阁上，似曾经的统治者一般眺望这片关西要地。</b>
+</div>
 
 由于临时机票调整，大阪区域的游览被基本砍掉，预计只会有半天用以参观大阪城
 
