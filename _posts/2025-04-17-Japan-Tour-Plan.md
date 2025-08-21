@@ -45,7 +45,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </div>
 
 <div class="short_introduction_wrapper" style="">
-  <b>东京，位于日本关东地区，是日本的首都。它是现代城市的典范：所有属于现代的城市感，都可以在东京找到。它是亚洲最为重要的城市之一，同时与伦敦、巴黎、纽约并称为四大世界级城市。东京及其周边地区拥有近4000万人口，年GDP产量约2万亿美元。若将东京单独按照一个国家计算，其GDP将位列世界第八。无限广阔，灯繁不息的东京是每一位初到日本的游客必然前往的目的地。</b>
+  <b>东京，位于日本关东地区，是日本的首都。它是现代城市的典范：所有属于现代的城市感，都可以在东京找到。它是亚洲最为重要的城市之一，同时与伦敦、巴黎、纽约并称为四大世界级城市。东京及其周边地区拥有近4000万人口，年GDP产量约2万亿美元。若将东京单独按照一个国家计算，其GDP将位列世界第八。无限广阔，灯繁不息的东京几乎是每一位初到日本的游客必然前往的目的地。</b>
 </div>
 
 <div style="text-align: center; margin-bottom: 1em;">
@@ -2478,16 +2478,72 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   <b>关西的大阪，与东京一齐，被称为日本城市的代表。自奈良时代起，大阪就已是日本关西地方的最重要城市之一。身处大阪，或许你想品尝一下大阪烧，感受“天下的厨房”中的美食；或许你想置身心斋桥，短暂地漂浮在欲望之海之上；又或许你想站在天守阁上，似曾经的统治者一般眺望这片关西要地。</b>
 </div>
 
-由于临时机票调整，大阪区域的游览被基本砍掉，预计只会有半天用以参观大阪城
+<span class="info_span" style="">由于临时机票调整，大阪区域的游览被基本砍掉，预计只会有半天用以参观大阪城。</span> 
 
 ### <span style="color: orange">大阪城</span>
 
-<b>开放时间</b>：9:00 a.m.-6:00 p.m.
+大阪城位于大阪市中央区，是日本的一大名城。它建于丰臣秀吉的桃山时代，是彼时丰臣秀吉的居所。后在被德川家族打败后成为了德川幕府的重要关西据点。
 
-<b>门票</b>：天守阁参观需要提前1至2天预定，成人 ¥1200，大学生 ¥600。通过<a href="https://www.osakacastle.net/guide/" class="custom-link-3">官网</a>预定即可。
+大阪城在历史上可谓命运坎坷。丰臣时代的大阪城在1615年德川家族攻打丰臣家族的战役（史称“冬之阵”）中被毁。后德川秀忠将军在1620年重建大阪城，重建过程中几乎损坏了所有之前丰臣家大阪城的遗迹，并将所有残骸埋没至地下数米深处，旨在使世人忘记曾经丰臣家的统治。然而新建的大阪城也好景不长，新大阪城天守阁在1665年因雷击导致的火灾中再次被毁。1868年，在旧幕府将军反抗维新政府的鸟羽伏见之战中，幕府战败，大阪城在此次失利中近乎全毁。如今所见的大阪城是1928年重建的。
 
-<b>导览</b>：<a href="https://www.osakacastle.net/pdf/leaflet/kantaiji_2025.pdf" class="custom-link-3">参观指南</a>
+如今的大阪城从本质上并不是真正的历史古迹，但它的结构与样貌都参照了丰臣与德川时代的大阪城原迹。如今的大阪城天守阁更像是一个讲述大阪城与天守阁的历史博物馆，内有非常丰富的有关历史资料。在天守阁的顶楼还可一览大阪市区的风采。
 
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4642.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4642.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4624.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4624.JPG.jpeg" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：现大阪城的样貌；<b>右</b>：大阪城天守阁内部讲述曾经发生的战事的模型。</figcaption>
+
+<b>开放时间</b>：9:00 a.m.-6:00 p.m. （5:30 p.m.停止入馆）
+
+<b>门票</b>：<span class="info_span" style="">天守阁参观需要提前1至2天通过<a href="https://www.osakacastle.net/guide/" class="custom-link-3">官网</a>预定</span>；<br>
+¥1200 成人；<br>
+¥600 大学生；<br>
+免费 中学生及以下。<br>
+团体票（15人及以上）九折优惠。
+
+<b>参观指南</b>：
+<div class="" style="padding-left: 5%; padding-right: 5%; margin-bottom: 1.3em;">
+  <object
+  data="https://www.osakacastle.net/pdf/leaflet/kantaiji_2025.pdf"
+  type="application/pdf"
+  height="200px"
+  style="border: none;"
+>
+  <p>
+    Your browser does not support build-in PDF viewer. <a href="https://www.osakacastle.net/pdf/leaflet/kantaiji_2025.pdf" class="custom-link-3">View the PDF here</a>.
+  </p>
+</object>
+</div>
+
+<b>预计游览时间</b>：1-2小时。
+
+地址：1-1 Osakajo, Chuo Ward, Osaka, 540-0002日本；<br>
+电话：+81 66-941-3044；<br>
+网站：<a href="https://www.osakacastle.net/" class="custom-link-3">大阪城官网</a>。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.710256622803!2d135.52327431268094!3d34.68726148381854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e0cd5c283afd%3A0xf01d07d5ca11e41!2sOsaka%20Castle!5e0!3m2!1sen!2s!4v1755794405271!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的大阪城。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/dGeNrpy4qAMTMVW98" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">大阪城</div>
+      <div class="map-card-address">1-1 Osakajo, Chuo Ward, Osaka, 540-0002日本</div>
+    </div>
+  </a>
+</div>
 
 # <span style="color: #8E403A;">附录 I: 交通</span>
 
@@ -2510,11 +2566,6 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 有很多公司提供服务，最便宜且（名义上）比较快的，但是要小心晚点和高峰期拥堵问题。
 
-
-
-
-
-
 ## <span style="color: #7F82BB;">富士山-京都</span>
 
 先乘坐 <a href="https://sekitori.jp/" class="custom-link-3">Sekitori</a> 巴士从河口湖到三岛站，然后转乘新干线前往京都。4小时左右到。
@@ -2531,7 +2582,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ### 新干线
 
-<b>路线</b>：三岛站-京都站；可能需要在名古屋中转。br>
+<b>路线</b>：三岛站-京都站；可能需要在名古屋中转。<br>
 <b>时刻表</b>：平均每半小时一班。<br>
 <b>票价</b>：TBD<br>
 <b>车程</b>：约 2 小时。<br>
