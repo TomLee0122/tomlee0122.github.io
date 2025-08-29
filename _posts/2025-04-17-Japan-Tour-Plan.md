@@ -489,6 +489,79 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 ### 西部区域
 
+#### <span style="color: orange;">涩谷</span>
+
+广义上说，涩谷 (Shibuya) 其实指东京的涩谷区，包含很大一片区域。但为人们熟知的涩谷则是狭义上的，以涩谷站为中心辐射的由若干个街道组成的区域。人头攒动的涩谷站与涩谷中央广场几乎是东京最繁华的商业区，在节假日（寒暑假、新年）时尤为凸出。涩谷的中央广场每天都伴随着红绿灯在上演着人潮交错之戏。
+
+
+涩谷同时还是品尝东京、乃至日本的各种美食的好地方。
+
+<b>开放时间</b>：全天开放。
+
+<b>门票</b>：免费。
+
+<b>预计游览时间</b>：不定！
+
+地址：Shibuya, Tokyo, Japan。
+
+<b>地图位置</b>：
+<div class="map-desktop" style="text-align: center;">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7699875254775!2d139.69906087661167!3d35.6580382312464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b563b00109f%3A0x337328def1e2ab26!2sShibuya%20Station!5e0!3m2!1sen!2sus!4v1756436702527!5m2!1sen!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的涩谷站。</figcaption>
+</div>
+
+<div class="map-card">
+  <a href="https://maps.app.goo.gl/ioYPwqh983sqYnzk8" target="_blank" class="map-card-link">
+    <div class="map-card-thumbnail">
+      <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
+    </div>
+    <div class="map-card-info">
+      <div class="map-card-title">涩谷站</div>
+      <div class="map-card-address">Shibuya, Tokyo, Japan</div>
+    </div>
+  </a>
+</div>
+
+<div style="text-align: center; margin-bottom: 1em;">
+  <button class="collapse-toggle real_or_virtual" style="width: 90%;"
+        aria-expanded="false"
+        aria-controls="real_or_virtual_Shibuya">
+  <span style="font-family: 'ChineseFont';"><b>圣地巡礼案内</b></span>
+</button>
+</div>
+
+<div id="real_or_virtual_Shibuya" class="collapse-panel" hidden>
+  <div style="text-align: center;">
+    <a href="">
+    <img src="" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">涩谷站前广场。</figcaption>
+  </div>
+  <div style="text-align: center;">
+    <a href="">
+    <img src="" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">女神异闻录5：皇家版中的涩谷站前广场。</figcaption>
+  </div>
+  <div style="text-align: center;">
+    <a href="">
+    <img src="" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">涩谷中央大街。</figcaption>
+  </div>
+  <div style="text-align: center;">
+    <a href="">
+    <img src="" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">女神异闻录5：皇家版中的涩谷中央大街。</figcaption>
+  </div>
+    <div style="text-align: center;">
+    <a href="">
+    <img src="" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">涩谷忠犬八公像。</figcaption>
+  </div>
+  <div style="text-align: center;">
+    <a href="">
+    <img src="" alt="" style="max-width: 90%; height: auto;"></a>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">女神异闻录5：皇家版中的涩谷忠犬八公像。</figcaption>
+  </div>
+</div>
 
 #### <span style="color: orange">明治神宫 (not visited)</span>
 

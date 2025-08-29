@@ -10,5 +10,5 @@
     "editor.suggest.matchOnWordStartOnly": true,
     "python.analysis.completeFunctionParens": true,
     "editor.smoothScrolling": true,
-    "editor.mouseWheelScrollSensitivity": 5
+    "editor.mouseWheelScrollSensitivity": 5,
 }
