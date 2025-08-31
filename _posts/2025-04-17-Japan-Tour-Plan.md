@@ -32,6 +32,10 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 <script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>
 
+# <span style="color: #8E403A;">前言</span>
+
+这篇 blog 记录了 ptr 与我在2025年6月18日至6月27日的日本之行。全文包含了我们在最初规划时的主要旅行景点与详细日程，以及旅游过程中的诸多见闻，还包含了我们准备的有关日本交通出行的信息、各景区门票的预订情况与周边餐饮信息。 Blog 中各景点的介绍综合了网络上的信息与旅行中的了解。 ptr 在旅行之前查询了诸多有关日程、景点、住宿等等的信息，为整段旅程的框架奠定了良好基础。即使如此，异国之旅难免时有计划之外之变。整段旅程能较为顺利地完成，实属荣幸，在此要感谢 ptr. 此次旅程虽长达10天9晚，但日本仍有丰富的景点、文化、美食只能等日后再来探索。谨以纪念。
+
 # <span style="color: #8E403A;">主要旅行景点</span>
 
 ## 东京都
@@ -223,7 +227,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">浅草寺的雷门与五重塔。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左上、左下</b>：浅草寺的雷门；<b>右上、右下</b>：寺内的五重塔。</figcaption>
 
 <b>开放时间（正殿）</b>：<br>
 3月至10月：6:30 a.m.-5:00 p.m.；<br>
@@ -420,7 +424,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 </div>
 
 
-<b>开放时间与预约信息</b>：可以提前两个月通过邮件方式预约<a href="https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm" class="custom-link-3">众议院参观英文导览</a>；（仅有当天下午三点场次为英文，其它日文场大体是一小时一次）。
+<b>开放时间与预约信息</b>：可以提前两个月通过邮件方式预约<a href="https://www.shugiin.go.jp/internet/itdb_english.nsf/html/statics/guide/tours.htm" class="custom-link-3">众议院参观英文导览</a>；（仅有当天下午三点场次为英文，其它日文场大约是一小时一次）。
 
 <b>门票</b>：免费。
 
@@ -711,7 +715,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
 
 #### <span style="color: orange">三轩茶屋 (not visited)</span>
 
-一个位于东京都世田谷区的看起来非常平常的区域，但同时又是人气非常高的住宅区。<span class="reveal-on-hover">（同时也是雨宫莲打工的卢布朗咖啡店所在地，也是“四轩茶屋”的现实原型。</span><span class="reveal-on-hover">可惜这次没有来得及去！！）</span>
+一个位于东京都世田谷区的看起来非常平常的区域，但同时又是人气非常高的住宅区。<span class="reveal-on-hover">（同时也是雨宫莲打工的卢布朗咖啡店所在地，“四轩茶屋”的现实原型。</span><span class="reveal-on-hover">可惜这次没有来得及去！！）</span>
 
 地址：〒154-0024 东京都世田谷区
 
@@ -2852,7 +2856,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
         <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt=""></a>
     </td>
     <td rowspan="2">6月18日<br>（三/水）</td>
-    <td><b>下午</b>：从香港国际机场起飞前往日本成田国际机场，航班号：</td>
+    <td><b>下午</b>：从香港国际机场起飞前往日本成田国际机场。航班号：HB322.</td>
     <td rowspan="9">东京 (3)</td>
     <td rowspan="2"><br></td>
   </tr>
@@ -2953,7 +2957,7 @@ permalink: /blogs/travel/Japan-Tour-Plan/
     <td rowspan="2">/</td>
     <td rowspan="2"></td>
   </tr>
-  <tr><td><b>下午</b>：前往关西国际机场返回香港国际机场，航班号：</td></tr>
+  <tr><td><b>下午</b>：前往关西国际机场返回香港国际机场。航班号：HB341.</td></tr>
 </table>
 </div>
 
