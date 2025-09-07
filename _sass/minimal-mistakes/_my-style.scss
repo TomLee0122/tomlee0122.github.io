@@ -9,39 +9,36 @@
 /* 链接相关样式 */
 
 .custom-link-1 {
-  color: var(--main-color);
+  color: $my_gray;
 }
 
 .custom-link-1:visited {
-  color: var(--color-6);
+    color: $my_gray;
 }
 
-// .custom-link-1:hover {
-//     color: green;
-// }
+body.dark-mode .custom-link-1{
+  color: $my_light_dark;
+}
+
+.custom-link-1:hover {
+    color: $my_light_dark;
+}
+
+body.dark-mode .custom-link-1:hover {
+    color: $my_gray;
+}
 
 .custom-link-1:active {
-  color: var(--color-1);
+  color: $my_light_dark;
 }
 
-// .custom-link-2 {
-//   --main-color: black;
-//   --color-1: orange;
-//   --color-2: #8E403A;
-//   --color-3: #FFD700;
-//   --color-4: #FF6347;
-//   --color-5: green;
-//   --color-6: #95ceff;
-//   color: var(--main-color);
-// }
+.custom-link-2 {
+  color: black;
+}
 
 .custom-link-2:visited {
   color: black;
 }
-
-// .custom-link-1:hover {
-//     color: green;
-// }
 
 .custom-link-2:active {
   color: black;
