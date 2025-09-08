@@ -489,7 +489,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/2024-10-13 185904.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-13 185904.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-13 185904.jpg" alt="" style="max-width: 70%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">韦莱集团大厦，摄于2024年10月13日与Leo的芝加哥河之旅。</figcaption>
 </div>
@@ -566,6 +566,35 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 </blockquote>
 
 ### <span class="my-custom-color_1"> 芝加哥瑞吉酒店 (St. Regis Chicago) </span>
+
+芝加哥瑞吉酒店位于芝加哥河干流东侧靠近密西根湖处。它建于2020年，高1198英尺（约合365米），共93层，是芝加哥第三高的建筑物，仅次于<a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E9%9F%A6%E8%8E%B1%E9%9B%86%E5%9B%A2%E5%A4%A7%E5%8E%A6-willis-tower--" class="custom-link-3">韦莱集团大厦</a>与特朗普大厦 (Trump International Hotel and Tower)，它同时是芝加哥21世纪以来建成的最高的建筑物。顾名思义，瑞吉酒店的主要作用是酒店住宿，它的内部主要由瑞吉集团运营。瑞吉酒店的前十层包含192个酒店房间，其余部分则是住宅区，共有393套非凡的湖景房。<span class="reveal-on-hover">猜猜一套湖景房要多少钱呢？</span>
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.jpg">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.jpg" alt="" style="max-width: 70%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">于游船上拍摄的芝加哥瑞吉酒店。</figcaption>
+</div>
+
+瑞吉酒店由三栋高度递增的建筑组成，它们的外表是颇有特色的海蓝色波纹，使人联想到起伏的海洋。为了保证大楼的稳定性，其内部采用了支撑核心筒结构 (buttressed core). 支撑核心筒结构由建筑物中央的主要承重柱与若干个附着在主承重柱上，并且连接地面的侧翼构成。这种结构与<a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E6%B7%B7%E5%90%88%E7%AE%A1%E7%8A%B6%E7%BB%93%E6%9E%84-bundled-tube-structure-" class="custom-link-3">混合管状结构</a>截然不同，但同样能有效地分担建筑物各个部位的重量。瑞吉酒店内的支撑筒结构有三个呈现 "Y" 形的等角对称侧翼。为了抵抗风阻，瑞吉酒店的主塔的第83层采用了镂空的设计，即不包含任何装修，不设窗户，也没有任何电梯停靠，目的是使风能直接通过以减小风压。这是在瑞吉酒店的设计过程中，设计团队在进行了酒店的风洞模型试验后决定的。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.jpg">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">在芝加哥河干流与密西根湖交汇处拍摄的芝加哥东部的城市天际线。图中最高的建筑物即是芝加哥瑞吉酒店。</figcaption>
+</div>
+
+
+<blockquote>
+  <p style="font-size:0.8em">
+  <b>你知道吗？</b>
+  </p>
+  <p style="font-size:0.8em">
+  &bull; 芝加哥瑞吉酒店的主设计师是著名的女建筑师 <a href="https://en.wikipedia.org/wiki/Jeanne_Gang" class="custom-link-3">Jeanne Gang</a>. 在芝加哥瑞吉酒店建成之日，它是世界上由女建筑师主要负责设计的最高建筑物。
+  </p>
+  <p style="font-size:0.8em">
+  &bull; 中国万达集团是负责开发芝加哥瑞吉酒店的主要公司之一，瑞吉酒店建成之时，它的官方名称是万达观光大厦 (Wanda Vista Tower). 由于种种外部因素，万达集团于2019年4月出售了其拥有的全部股份，在这之后芝加哥瑞吉酒店于2020年更名为现在的名称。
+  </p>
+</blockquote>
 
 <button id="back-to-top" title="Back to top">↑</button>
 
