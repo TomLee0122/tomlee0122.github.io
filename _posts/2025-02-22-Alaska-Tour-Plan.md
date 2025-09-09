@@ -11,6 +11,11 @@ excerpt: |
 tags:
   - Travel
 # primary_tag: Travel
+my_wide_image: 
+  src: '/assets/images/Travel/Alaska Tour Plan/IMG_3163.JPG.jpeg'
+  src_dark: '/assets/images/Travel/Alaska Tour Plan/2025-03-27 010746.jpg'
+  title: '阿拉斯加'
+  subtitle: '世界尽头'
 layout: single
 classes: wide
 author_profile: true
@@ -26,6 +31,16 @@ permalink: /blogs/travel/Alaska-Tour-Plan/
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
 
 
+# <span style="color: #8E403A;">前言</span>
+
+阿拉斯加位于美国本土以外，东与加拿大接壤，西与俄罗斯隔白令海峡相望，北临北冰洋，南濒太平洋。阿拉斯加是美国最大的州，其面积超过美国本土面积前五的州的总和。阿拉斯加拥有令人叹为观止的雪山、冰川、湖泊、河流、森林等自然风光与极为丰富的野生动植物资源。本篇 blog 最初用于准备于2025年3月24日至4月2日与 V1ncent, Steven, Tina, Chenghong 的阿拉斯加之旅的攻略，介绍了阿拉斯加的主要旅行景点与行程规划。10天9晚的旅途充满了来自北国的壮丽风光，也不乏挑战、惊险与归途中的心旷神怡。谨以纪念。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.jpg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">阿拉斯加地图。</figcaption>
+</div>
+
 # <span style="color: #8E403A;">主要旅行景点</span>
 
 ## 安克雷奇市区与周边
@@ -33,6 +48,23 @@ permalink: /blogs/travel/Alaska-Tour-Plan/
 ### &#9642; <span style="color: #71D7FF;">安克雷奇历史艺术博物馆 (Anchorage Museum)</span>
 
 安克雷奇博物馆建于1968年，位于安克雷奇市区。安克雷奇博物馆是阿拉斯加州最大的博物馆，讲述了阿拉斯加的历史、自然风光、生态、当地土著文化等。
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.jpg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.jpg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.jpg" alt="Image 3">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.jpg" alt="Image 4">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左上</b>：安克雷奇历史艺术博物馆的正门；<b>右上</b>：博物馆内的 "Alaska", 周边展示了代表阿拉斯加人文的象征物；<b>左下</b>：博物馆天花板上的飞机模型，旨在纪念二战中的阿拉斯加；<b>右下</b>：可爱的彩色熊<span class="reveal-on-hover">似乎暗示着这里曾经发生过什么？？？</span></figcaption>
 
 <b>开放时间</b>（10月至次年4月）：<br>
 周一：闭馆；<br>
@@ -70,7 +102,7 @@ $12 儿童 (6-12岁)*<br>
   </a>
 </div>
 
-### &#9642; <span style="color: #71D7FF;">安克雷奇动物园 (Alaska Zoo)</span>
+### &#9642; <span style="color: #71D7FF;">安克雷奇动物园 (Alaska Zoo) (not visited)</span>
 
 安克雷奇动物园建于1969年，位于安克雷奇市东南角。动物园内有众多阿拉斯加本土动物和生活在北极圈或亚北极圈的物种，同时也有一些非本土动物。
 
@@ -110,7 +142,7 @@ $12 青少年（3-15岁）；<br>
   </a>
 </div>
 
-### &#9642; <span style="color: #71D7FF;">安克雷奇植物园 (Alaska Botanical Garden)</span>
+### &#9642; <span style="color: #71D7FF;">安克雷奇植物园 (Alaska Botanical Garden) (not visited)</span>
 
 安克雷奇植物园位于安克雷奇市东部郊区。植物园内有超过1200种植物。在冬季，植物园会举办灯光秀活动，参观时段分为白天与夜晚两种。
 
@@ -158,6 +190,12 @@ $12 青少年（3-15岁）；<br>
 
 地震公园位于泰德·史蒂文斯安克雷奇国际机场北部，安克雷奇市西南角。地震公园旨在纪念于1964年3月27日发生的安克雷奇大地震（由于当天恰好是耶稣受难日，故又称耶稣受难日地震）。安克雷奇大地震的里氏震级为8.5，矩震级为9.2，是北美洲有记录以来最强烈的地震，也是自1900年系统的地震测量方法问世以来，全球第二强烈的地震。地震引发了海啸，造成了阿拉斯加地区共139人死亡与彼时3亿美元的损失。地震公园内有现存的地震遗迹。
 
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3362.JPG.jpeg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3362.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地震公园内一景，平静地似乎看不出曾经大地震的痕迹。</figcaption>
+</div>
+
 <b>开放时间</b>：全天开放。
 
 <b>门票</b>：免费。
@@ -188,6 +226,18 @@ $12 青少年（3-15岁）；<br>
 
 平顶山位于安克雷奇市的东南部郊区，是安克雷奇市的标志性景点之一。平顶山的山顶海拔高度约为1,070米，是安克雷奇市区最高的山峰。平顶山山顶视野开阔，可以俯瞰安克雷奇市区、库克入海口、阿拉斯加山脉等风景。
 
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.jpg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;"></figcaption>
+</div>
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.jpg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">平顶山景色。</figcaption>
+</div>
+
 <b>开放时间</b>：全天开放。
 
 <b>门票</b>：免费。
@@ -195,12 +245,12 @@ $12 青少年（3-15岁）；<br>
 <b>预计游览时间</b>：2小时及以上。
 
 地址：3101 Glen Alps Road Anchorage, AK 99516；<br>
-网站：无官方网站。相关信息可参阅<a href="https://www.alaska.org/detail/flattop-mountain" class="custom-link-1">alaska.org</a>与<a href="https://www.anchorage.net/outdoors/the-chugach-mountains/flattop-mountain/" class="custom-link-1">Visit Alaska</a>。
+网站：无官方网站。相关信息可参阅 <a href="https://www.alaska.org/detail/flattop-mountain" class="custom-link-1">alaska.org</a> 与 <a href="https://www.anchorage.net/outdoors/the-chugach-mountains/flattop-mountain/" class="custom-link-1">Visit Alaska</a>.
 
-<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>：平顶山地区范围广大，游玩路线多样，部分路线山势陡峭。通常建议自驾或乘坐往返于市区与平顶山的shuttle bus前往位于Glen Alps的停车场。之后有多个目的地可选：<br>
+<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br><span class="warning_span" style="">平顶山地区范围广大，游玩路线多样，部分路线山势陡峭。通常建议自驾或乘坐往返于市区与平顶山的shuttle bus前往位于Glen Alps的停车场。</span>之后有多个目的地可选：<br>
 1，从Glen Alps停车场出发，沿着Blueberry trail步行至尽头，此段路程约0.5公里，耗时约30分钟。<br>
 2，到达Blueberry Hill后，可继续前往平顶山山顶。<span style="color: red;">此段路程较为陡峭</span>，耗时约1小时。<br>
-3，若时间较为宽裕，可前往更远端的Williwaw Lakes或Wolverine Peak。<span style="color: red;">此段路程约9公里</span>，耗时约4个小时。若选择此路线，需作好充足准备。
+3，若时间较为宽裕，可前往更远端的Williwaw Lakes或Wolverine Peak。<span style="color: red;">此段路程约9公里</span>，耗时约4个小时。若选择此路线，请至少准备一天时间。
 
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23095.293787491!2d-149.67313111387966!3d61.12339613370837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c89a9f0e760871%3A0x41551d96dba29326!2sGlen%20Alps%20%2F%20Flattop%20Trailhead!5e0!3m2!1szh-CN!2sus!4v1740368291785!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -222,6 +272,31 @@ $12 青少年（3-15岁）；<br>
 
 山脉、冰川、海洋交汇之处，基奈峡湾国家公园位于安克雷奇以南约200公里的西沃德 (Seward)。基奈峡湾国家公园是阿拉斯加州最受欢迎的国家公园之一，也是美国国家公园系统中唯一一个以冰川为主题的国家公园。基奈峡湾国家公园内有众多冰川、海洋生物、鸟类等。
 
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.jpg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">停泊在西沃德港口的许多渔船。</figcaption>
+</div>
+
+乘坐游船从西沃德港口出发，沿着 Resurrection Bay 航行，前往基奈峡湾国家公园南部与北太平洋交界的海域。Resurrection Bay 的水面不像一般的大洋，罕见地平静而冷酷，与沿途前来助兴的海洋动物们形成鲜明对比。两岸的原始森林是国家公园的一部分，却在冬季的冰封中暂时隐去了它们的生机，只剩森林深处的漆黑与山顶的雪白。据导游说，夏季这里又是另一番景象，甚至能在峭壁上看到山羊。
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.jpg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.jpg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" alt="Image 3">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3014.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3014.JPG.jpeg" alt="Image 4">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1.3em;">Resurrection Bay上的风光。最后一张照片拍摄于 Resurrection Bay 与太平洋的交汇处。</figcaption>
+
 <b>开放时间</b>：全天开放。
 
 <b>门票</b>：免费。
@@ -232,7 +307,7 @@ $12 青少年（3-15岁）；<br>
 电话：+1 9074220500；<br>
 网站：<a href="https://www.nps.gov/kefj/index.htm" class="custom-link-1">基奈峡湾国家公园</a>。
 
-<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>：冬季期间，基奈峡湾国家公园的绝大部分道路与游客中心都会关闭，步行进入基奈湾峡国家公园需要穿越约13公里的无人区域。
+<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br><span class="warning_span" style="">冬季期间，基奈峡湾国家公园的绝大部分道路与游客中心都会关闭，步行进入基奈湾峡国家公园需要穿越约13公里的无人区域。</span>
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1em;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d513298.5828353113!2d-150.7192206509931!3d59.83132566621694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c79c630608aa09%3A0x12143ced272edc64!2sKenai%20Fjords%20National%20Park!5e0!3m2!1szh-CN!2sus!4v1742421725258!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -250,7 +325,7 @@ $12 青少年（3-15岁）；<br>
   </a>
 </div>
 
-<b>另选</b>：更为安全、便捷的游览基奈峡湾国家公园的方式是乘坐基奈峡湾国家公园的游船。基奈峡湾国家公园有两家游船公司 - <a href="https://www.alaskacollection.com/day-tours/kenai-fjords-tours/" class="custom-link-1">Kenai Fjords Tours</a> 与 <a href="https://majormarine.com/" class="custom-link-1">Major Marine Tours</a>。鉴于我们前往阿拉斯加的时间，彼时两家游船公司皆只有一条线路开放：<a href="https://www.alaskacollection.com/day-tours/kenai-fjords-tours/spring-resurrection-bay-tour/" class="custom-link-1">Spring Resurrection Bay Tour</a>与<a href="https://majormarine.com/tour/spring-wildlife-cruise/" class="custom-link-1">Spring Wildlife Cruise</a>。
+<b>另选</b>：更为安全、便捷的游览基奈峡湾国家公园的方式是乘坐基奈峡湾国家公园的游船（这也是我们最后采用的方案）。基奈峡湾国家公园有两家游船公司 - <a href="https://www.alaskacollection.com/day-tours/kenai-fjords-tours/" class="custom-link-1">Kenai Fjords Tours</a> 与 <a href="https://majormarine.com/" class="custom-link-1">Major Marine Tours</a>。鉴于我们前往阿拉斯加的时间，彼时两家游船公司皆只有一条线路开放：<a href="https://www.alaskacollection.com/day-tours/kenai-fjords-tours/spring-resurrection-bay-tour/" class="custom-link-1">Spring Resurrection Bay Tour</a>与<a href="https://majormarine.com/tour/spring-wildlife-cruise/" class="custom-link-1">Spring Wildlife Cruise</a>。
 
 <b>启程时间</b>：中午12点。
 
