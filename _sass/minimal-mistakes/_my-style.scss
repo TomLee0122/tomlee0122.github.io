@@ -151,36 +151,6 @@ td {
   /* 鼠标悬停时改变背景色 */
 }
 
-/* hover-switch 相关样式 */
-
-.hover-switch {
-  display: inline;
-  /* 确保元素保持在同一行 */
-  position: relative;
-
-  span.a,
-  span.b {
-    display: inline;
-    /* 确保在同一行显示 */
-    position: relative;
-    left: 0;
-    top: 0;
-    transition: opacity 0.4s ease;
-  }
-
-  span.b {
-    opacity: 0;
-  }
-
-  &:hover span.a {
-    opacity: 0;
-  }
-
-  &:hover span.b {
-    opacity: 1;
-  }
-}
-
 // ----------------------------------------
 
 // The styles of the hidden content 
@@ -849,6 +819,7 @@ body.dark-mode .image-dark {
 // Info-span
 
 .info_span {
+  font-family: ChineseFont;
   background-color: $--color-6;
   border: 2px solid;
   border-color: gray;
@@ -867,6 +838,7 @@ body.dark-mode .info_span {
 // Warning-span
 
 .warning_span {
+  font-family: ChineseFont;
   background-color: $--color-3;
   border: 2px solid;
   border-color: $--color-4;

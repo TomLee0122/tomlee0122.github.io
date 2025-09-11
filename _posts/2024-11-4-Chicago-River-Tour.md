@@ -23,7 +23,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2025-06-14
+last_modified_at: 2025-09-08
 toc: true
 permalink: /blogs/travel/chicago-river-tour/
 ---
