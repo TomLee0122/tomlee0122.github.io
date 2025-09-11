@@ -340,7 +340,13 @@ $12 青少年（3-15岁）；<br>
 
 ### &#9642; <span style="color: #71D7FF;">北方极地博物馆 (University of Alaska Museum of the North)</span>
 
-北方极地博物馆位于费尔班克斯市区西北角的阿拉斯加大学 (University of Alaska) 校园内。博物馆的主题是北极地区的历史、自然、当地文化等。
+北方极地博物馆位于费尔班克斯市区西北角的阿拉斯加大学 (University of Alaska) 校园内，其外表似一座冰屋。博物馆的主题是北极地区的历史、自然、当地文化等。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3182.JPG.jpeg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3182.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">北方极地博物馆的外表。其造型似一个冰屋。</figcaption>
+</div>
 
 <b>开放时间</b>：<br>
 <b>冬季时间（9月16日至5月14日）</b>：<br>
@@ -352,7 +358,6 @@ $12 青少年（3-15岁）；<br>
 <b>注</b>：入馆通道将于闭馆时间前30分钟关闭。开放时间可能会有所调整。
 
 <b>门票</b>：<br>
-
 $20 成人 （18-64岁）<br>
 $16 老人（65岁及以上）、阿拉斯加居民、现役军人、儿童（6至17岁）<br>
 $14 团体票（8人及以上）<br>
@@ -384,6 +389,14 @@ $14 团体票（8人及以上）<br>
 
 莫里斯汤普森文化中心位于费尔班克斯的市区北部，是一个集游客信息、文化展示和社区活动于一体的综合中心。
 
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3243.JPG.jpeg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3243.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">莫里斯汤普森文化中心内的飞机模型。</figcaption>
+</div>
+
+在莫里斯汤普森文化中心内可以免费领取费尔班克斯主题的明信片，还有相关的纪念章可供游客盖章留念。在此寄出的一张来自极地的明信片，说不定会成为一个惊喜！
+
 <b>开放时间</b>：<br>
 <b>1月2日-5月26日</b>：
 每日8:00 a.m.至5:00 p.m.<br>
@@ -393,6 +406,8 @@ $14 团体票（8人及以上）<br>
 每日8:00 a.m.至5:00 p.m.<br>
 
 <b>门票</b>：免费。
+
+<b>预计游览时间</b>：30分钟。
 
 地址：101 Dunkel Street Fairbanks, AK 99701；<br>
 电话：907-459-3700；<br>
@@ -415,7 +430,8 @@ $14 团体票（8人及以上）<br>
 </div>
 
 ### &#9642; <span style="color: #71D7FF;">圣诞老人之家 (Santa Clause House)</span>
-Where it's Christmas Every Day! 来自北极的浓郁圣诞风情。圣诞老人之家位于费尔班克斯市区东南角的北极 (North Pole)。这里更像是一个巨大的圣诞小镇与纪念品商店，有各种各样的圣诞装饰品、礼物、以及来自阿拉斯加的手工艺品。在这儿还可以寄出圣诞老人的明信片！
+
+Where it's Christmas Every Day! 来自北极的浓郁圣诞风情。圣诞老人之家位于费尔班克斯市区东南角的北极 (North Pole)。这里更像是一个巨大的圣诞小镇与纪念品商店，有各种各样的圣诞装饰品、礼物、以及来自阿拉斯加的手工艺品。在这儿甚至还可以寄出圣诞老人的明信片！
 
 <b>开放时间</b>：<br>
 除以下节假日外，周一至周日：10:00 a.m.至6:00 p.m.<br>
@@ -448,7 +464,7 @@ Where it's Christmas Every Day! 来自北极的浓郁圣诞风情。圣诞老人
   </a>
 </div>
 
-### &#9642; <span style="color: #71D7FF;">费尔班克斯冰雕博物馆 (Fairbanks Ice Museum)</span>
+### &#9642; <span style="color: #71D7FF;">费尔班克斯冰雕博物馆 (Fairbanks Ice Museum) (not visited)</span>
 
 费尔班克斯冰雕博物馆位于费尔班克斯市区中心。冰雕博物馆内有各种各样的冰雕作品。
 
@@ -489,7 +505,14 @@ $8 团体票（10人及以上）。
 
 ### &#9642; <span style="color: #71D7FF;">驯鹿农场 (Running Reindeer Ranch)</span>
 
-体验与驯鹿亲密接触的机会，了解这种神奇动物的生活习性。费尔班克斯拥有当地唯一一家能和驯鹿一起散步的农场，可以牵着小鹿合影，结束后还能买掉落的鹿角做成的礼物。
+驯鹿农场是一家 Family House, 它的主人们在与驯鹿朝夕相处的生活中已经度过了数十年。在此可以听驯鹿农场的农场主详细讲解这种神奇动物的生活习性、独特性格与一生的轨迹，甚至还可以体验与驯鹿亲密接触，牵着小鹿合影，旅程结束后还能买掉落的鹿角做成的礼物。<span class="reveal-on-hover">提供的巧克力奶也温暖宜人，是吗 ptr?</span>
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3186.JPG.jpeg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3186.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">驯鹿农场内。</figcaption>
+</div>
+
 
 <b>开放时间</b>：<br>
 每日有两个时段：10:30 a.m.与2:00 p.m.
@@ -526,9 +549,62 @@ $110 儿童（3-11岁）；<br>
 
 ### &#9642; <span style="color: #71D7FF;">道顿公路 (Dalton Highway)</span>
 
-通往北极的勇敢者之路！道顿公路全程666公里，始于费尔班克斯，止于北冰洋旁的戴德霍斯 (Deadhorse)。道顿公路于1974为了建设阿拉斯加输油管道而修建，全程为未铺装公路，是美国最偏远、最艰险的公路之一。道顿公路沿途风景壮丽，穿越了北极圈、阿拉斯加山脉、北极苔原等地。著名的北极圈标志碑位于道顿公路185公里处（位于coldfoot附近）。
+通往北极的勇敢者之路！道顿公路全程666公里，始于费尔班克斯，止于北冰洋旁的戴德霍斯 (Deadhorse)。道顿公路于1974为了建设阿拉斯加输油管道而修建，大部分路段为未铺装公路，是美国最偏远、最艰险的公路之一。道顿公路沿途风景壮丽，穿越了北极圈、阿拉斯加山脉、北极苔原等地，还经过了阿拉斯加的另一个国家公园：北极门国家公园与保护区 (Gates of the Arctic National Park and Preserve). 著名的北极圈标志碑位于北纬65度52分50秒，道顿公路185公里处（位于 coldfoot 附近）。
 
-<b>预计驾车时间（全程）</b>：11小时。
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3194.JPG.jpeg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3194.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">道顿公路的起点标志。</figcaption>
+</div>
+
+虽然阿拉斯加有着数不胜数、令人赞叹的美景，但道顿公路沿途的风光却是令我印象最深刻的之一。从费尔班克斯出发，城市的景象很快就被抛在身后，所剩的不过是茫茫而飘动着神秘的白的平原、一座又一座起伏的山丘、远处无法抵达的雪山和一条孤零零、不知尽头的公路。一路上几百公里几乎都是渺无人烟的无人区，没有房屋，甚至没有信号，只有偶尔迎面遇到的卡车和卷起的尘土提醒着人类的存在。道顿公路沿途的景象并不如阿拉斯加的许多其他景点一般波澜壮阔，但永恒的静谧与孤独却更能打动人心。
+
+<div style="text-align: center;">
+  <a href="">
+  <img src="" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">道顿公路、永久冻土与远方的雪山。</figcaption>
+</div>
+
+驾车跨越育空河 (Yukon River) 后，道顿公路迎来的它前半段唯一一个补给站：育空河补给站。在此，可以补充食物与燃料（由于距离城市太远，这里的油价是费尔班克斯的两倍），还可以寄出一封来自阿拉斯加北部育空河的明信片。
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3213.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3213.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.jpg" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.jpg" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：育空河补给站内的道顿公路地图；<b>右</b>：补给站内非常简易的加油站与后方曾经来访者留下的贴纸。</figcaption>
+
+到达北极圈标志处时已是晚上7点30分，天色渐晚，却记录了一行人第一次进入北极圈的时刻。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3221.JPG.jpeg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3221.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">北极圈标志，勇敢者的象征！</figcaption>
+</div>
+
+从北极圈标志处返程，已是晚上8点30分。回程的道路不可谓不曲折。夜晚逐渐来临，车外的温度已降至零下，一切白天的景色都逐渐被黑暗吞噬，汽车油箱中的油也只剩一半。更糟糕的是，在从北极圈标志处返程不久，车辆就发出了胎压警报：右后方轮胎的压力正在缓慢降低。这如同一道霹雳——育空河补给站已经关闭，而距离费尔班克斯更是有着遥远的近400公里。倘若最后轮胎彻底失压，我们将无法安全通过结冰的山路，只能在荒无人烟的茫茫中等待救援。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">摄于回程途中。仪表板上的胎压警报隐约可见。</figcaption>
+</div>
+
+万幸的是，事情没有变得更糟，胎压下降的速度并没有想象中快，粗略的估算告诉我们还有些回转的余地。星空之下，两盏微弱的车灯在黑暗中缓慢前行。自然是伟大而令人敬畏的，茫茫的黑夜，标志着与世隔绝的14个小时。恍惚之间，似真的融入了这黑暗中，遨游在无垠的宇宙与星光里。
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.jpg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">返程途中的星光。</figcaption>
+</div>
+
+回到位于费尔班克斯的住址时，已是凌晨3点30分。历经14个小时的跋涉，此次道顿公路的自驾之旅终于宣告结束。
+
+<b>预计驾车时间（全程）</b>：11小时（最后的实际时长为14小时）。
 
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3134682.872143431!2d-154.47097096486678!3d67.44139560201793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x5132454f67fd65a9%3A0xb3d805e009fef73a!2z6Zi_5ouJ5pav5Yqg5bee6LS55bCU54-t5YWL5pav!3m2!1d64.8400511!2d-147.7199757!4m5!1s0x512077009926947f%3A0x1d228d1ae7281c59!2zRGVhZGhvcnNlLCDmma7mi4nlvrfpnI3mub7pmL_mi4nmlq_liqDlt54!3m2!1d70.20019959999999!2d-148.4597191!5e0!3m2!1szh-CN!2sus!4v1742411479515!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -546,10 +622,15 @@ $110 儿童（3-11岁）；<br>
   </a>
 </div>
 
-<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>
-1，道顿公路全程为未铺装公路，路况较差，大部分阿拉斯加地区的租车公司不允许租户驾车驶入道顿公路。如需自驾，需要在费尔班克斯寻找合适的当地租车公司，例如<a href="https://www.alaska4x4rentals.com/" class="custom-link-1">Alaska 4X4 Rentals</a>, <a href="https://www.alaskaoverlander.com/" class="custom-link-1">Alaska Overlander</a>, <a href="https://alaskaautorental.com/" class="custom-link-1">Alaska Auto Rental</a>；<br>
-2，道顿公路沿途大部分地区无信号，需提前准备好离线地图以免迷路；<br>
-3，道顿公路沿途大部分地区为无人区，务必准备好充足的食物与饮水。<br>
+<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：
+<div class="warning_span" style="">
+  1，道顿公路大部分路段为未铺装公路，路况较差。因此大部分阿拉斯加地区的租车公司不允许租户驾车驶入道顿公路。如需自驾，需要在费尔班克斯寻找合适的当地租车公司，例如<a href="https://www.alaska4x4rentals.com/" class="custom-link-1">Alaska 4X4 Rentals</a>, <a href="https://www.alaskaoverlander.com/" class="custom-link-1">Alaska Overlander</a>, <a href="https://alaskaautorental.com/" class="custom-link-1">Alaska Auto Rental</a>；<br>
+  2，道顿公路沿途大部分地区无信号的无人区，建议提前准备好离线地图；<br>
+  3，道顿公路有部分路段为山路，且冬季路面结冰，请务必小心驾驶，山区切不可超速。司机最好有较为丰富的驾驶经验；<br>
+  4，请小心与大货车会车时扬起的沙土与石子，它们可能会击碎挡风玻璃；<br>
+  5，道顿公路的未铺装路段有较多坑洼与潜在的尖锐石子，在高速情况下容易损坏汽车轮胎。若有可能，请提前准备好备用轮胎，并学会更换轮胎；<br>
+  6，请携带应急物资，包括充足的食物、水、保暖衣物、毯子等。若有可能，卫星电话是非常有用的通讯工具。
+</div>
 
 ## 东/西部环线
 
