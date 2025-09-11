@@ -24,7 +24,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2025-06-27
+last_modified_at: 2025-08-30
 toc: true
 toc_label: '目录 (Table of Contents)'
 permalink: /blogs/travel/Japan-Tour-Plan/

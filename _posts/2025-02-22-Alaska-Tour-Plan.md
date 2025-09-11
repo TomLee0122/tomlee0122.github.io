@@ -23,7 +23,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2025-04-06
+last_modified_at: 2025-09-11
 toc: true
 permalink: /blogs/travel/Alaska-Tour-Plan/
 ---
@@ -295,7 +295,7 @@ $12 青少年（3-15岁）；<br>
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1.3em;">Resurrection Bay上的风光。最后一张照片拍摄于 Resurrection Bay 与太平洋的交汇处。</figcaption>
+<figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1.3em;">Resurrection Bay 上的风光。最后一张照片拍摄于 Resurrection Bay 与太平洋的交汇处。</figcaption>
 
 <b>开放时间</b>：全天开放。
 
@@ -560,12 +560,12 @@ $110 儿童（3-11岁）；<br>
 虽然阿拉斯加有着数不胜数、令人赞叹的美景，但道顿公路沿途的风光却是令我印象最深刻的之一。从费尔班克斯出发，城市的景象很快就被抛在身后，所剩的不过是茫茫而飘动着神秘的白的平原、一座又一座起伏的山丘、远处无法抵达的雪山和一条孤零零、不知尽头的公路。一路上几百公里几乎都是渺无人烟的无人区，没有房屋，甚至没有信号，只有偶尔迎面遇到的卡车和卷起的尘土提醒着人类的存在。道顿公路沿途的景象并不如阿拉斯加的许多其他景点一般波澜壮阔，但永恒的静谧与孤独却更能打动人心。
 
 <div style="text-align: center;">
-  <a href="">
-  <img src="" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/DSC01957.JPG">
+  <img src="/assets/images/Travel/Alaska Tour Plan/DSC01957.JPG" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">道顿公路、永久冻土与远方的雪山。</figcaption>
 </div>
 
-驾车跨越育空河 (Yukon River) 后，道顿公路迎来的它前半段唯一一个补给站：育空河补给站。在此，可以补充食物与燃料（由于距离城市太远，这里的油价是费尔班克斯的两倍），还可以寄出一封来自阿拉斯加北部育空河的明信片。
+驾车跨越育空河 (Yukon River) 后，道顿公路迎来的它前半段唯一一个补给站：育空河补给站。在此，可以补充食物与燃料（由于距离城市太远，这里的油价是费尔班克斯的两倍），还可以寄出一封来自育空河的明信片。
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3213.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
@@ -588,11 +588,16 @@ $110 儿童（3-11岁）；<br>
 
 从北极圈标志处返程，已是晚上8点30分。回程的道路不可谓不曲折。夜晚逐渐来临，车外的温度已降至零下，一切白天的景色都逐渐被黑暗吞噬，汽车油箱中的油也只剩一半。更糟糕的是，在从北极圈标志处返程不久，车辆就发出了胎压警报：右后方轮胎的压力正在缓慢降低。这如同一道霹雳——育空河补给站已经关闭，而距离费尔班克斯更是有着遥远的近400公里。倘若最后轮胎彻底失压，我们将无法安全通过结冰的山路，只能在荒无人烟的茫茫中等待救援。
 
-<div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">摄于回程途中。仪表板上的胎压警报隐约可见。</figcaption>
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3226.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3226.JPG.jpeg" alt="Image 2">
+  </a>
 </div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：返程途中，仪表板上的胎压警报隐约可见；<b>右</b>：还车前拍摄的仪表板，可见左后轮胎明显漏气。</figcaption>
 
 万幸的是，事情没有变得更糟，胎压下降的速度并没有想象中快，粗略的估算告诉我们还有些回转的余地。星空之下，两盏微弱的车灯在黑暗中缓慢前行。自然是伟大而令人敬畏的，茫茫的黑夜，标志着与世隔绝的14个小时。恍惚之间，似真的融入了这黑暗中，遨游在无垠的宇宙与星光里。
 
@@ -622,8 +627,8 @@ $110 儿童（3-11岁）；<br>
   </a>
 </div>
 
-<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：
-<div class="warning_span" style="">
+<div style="margin-bottom:0;"><span style="color: red;"><b>注意</b></span><span style="color: orange;">&#9888;</span>：</div>
+<div class="warning_span" style="margin-top:0;">
   1，道顿公路大部分路段为未铺装公路，路况较差。因此大部分阿拉斯加地区的租车公司不允许租户驾车驶入道顿公路。如需自驾，需要在费尔班克斯寻找合适的当地租车公司，例如<a href="https://www.alaska4x4rentals.com/" class="custom-link-1">Alaska 4X4 Rentals</a>, <a href="https://www.alaskaoverlander.com/" class="custom-link-1">Alaska Overlander</a>, <a href="https://alaskaautorental.com/" class="custom-link-1">Alaska Auto Rental</a>；<br>
   2，道顿公路沿途大部分地区无信号的无人区，建议提前准备好离线地图；<br>
   3，道顿公路有部分路段为山路，且冬季路面结冰，请务必小心驾驶，山区切不可超速。司机最好有较为丰富的驾驶经验；<br>
@@ -636,7 +641,20 @@ $110 儿童（3-11岁）；<br>
 
 ### &#9642; <span style="color: #71D7FF;">马塔努斯卡冰川 (Matanuska Glacier)</span>
 
-马塔努斯卡冰川位于连接安克雷奇与费尔班克斯的东部环线上 (Glenn Highway)，位于安克雷奇西北角约160公里处。马塔努斯卡冰川是阿拉斯加州最大的冰川之一，同时也是世界上最大的可以驾车到达的冰川。马塔努斯卡河 (Matanuska River) 源自马塔努斯卡冰川的融水。
+马塔努斯卡冰川位于连接安克雷奇与费尔班克斯的东部环线上 (Glenn Highway)，位于安克雷奇东北角约160公里处。马塔努斯卡冰川是阿拉斯加州最大的冰川之一，同时也是世界上最大的可以驾车到达的冰川。马塔努斯卡河 (Matanuska River) 源自马塔努斯卡冰川的融水。
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3082.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3082.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3101.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3101.JPG.jpeg" alt="Image 2">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">马塔努斯卡冰川景观。从左图中的人物大小可以看出冰川规模之大。</figcaption>
+
+马塔努斯卡冰川纵横数百公里，游览能到达的地方只不过是冰川的冰山一角。<span class="reveal-on-hover">是吗，大小姐？</span>此外，夏季与冬季的冰川徒步路线也有差异，冬季由于河流结冰，可以到达的地方更远一些。
 
 <b>开放时间</b>：全天开放。
 
@@ -677,6 +695,39 @@ $60 阿拉斯加居民的亲朋好友（参观时需由本地居民陪同）。
 
 迪纳利国家公园和保留区位于连接安克雷奇与费尔班克斯的西部环线上 (George Parks Highway)，距安克雷奇约380公里，距费尔班克斯约200公里。迪纳利国家公园和保留区以北美洲最高峰：迪纳利山（原名麦金利山，海拔6190米）为中心，占地约24585平方公里。迪纳利国家公园和保留区内有众多野生动物，包括棕熊、驯鹿、狼、麋鹿等。
 
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.jpg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">迪纳利国家公园与保留区的标志牌。</figcaption>
+</div>
+
+<div style="text-align: center;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3279.JPG.jpeg">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3279.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">迪纳利国家公园和保留区旁，在冬季已结冰的 Nenana 河与横跨它的桥梁。这座桥梁是西部环线的一部分。</figcaption>
+</div>
+
+迪纳利国家公园和保留区内有游客中心，在内可以领取与景区相关的信息手册与地图。冬季的迪纳利常常大雪纷飞，天地一片白。景区的所有公交系统也会停运。相比之下，夏季则显得更有生机一些。在景区入口附近还有迪纳利的邮局，可以寄出一封来自迪纳利的明信片。
+
+迪纳利国家公园和保留区内有许多徒步线路，其难度与所需时间都有很大跨度，适合各个水平的徒步爱好者！
+
+<div id="lightgallery">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3331.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3331.JPG.jpeg" alt="Image 1">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3303.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3303.JPG.jpeg" alt="Image 2">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3311.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3311.JPG.jpeg" alt="Image 3">
+  </a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3326.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3326.JPG.jpeg" alt="Image 4">
+  </a>
+</div>
+
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左上</b>：大雪纷飞中的迪纳利国家公园和保留区中的森林；<b>右上</b>：因大雪而关闭的园区道路；<b>左下</b>：冬季停运的公交车；<b>右下</b>：被雪覆盖的位于园区内的铁路与信号灯。</figcaption>
+
 <b>开放时间</b>：全天开放。
 
 <b>门票</b>：<br>
@@ -688,12 +739,6 @@ $15 成人；<br>
 
 电话：+1 907-683-9532；<br>
 网站：<a href="https://www.nps.gov/dena/index.htm" class="custom-link-1">迪纳利国家公园和保留区</a>。
-
-<b><span style="color: red;">注意</span></b><span style="color: orange;">&#9888;</span>：<br>
-1，迪纳利公园内只有一条公路 (Denali Park Road)。夏季期间，公路的前15英里（约24公里）对私家车开放，之后需要乘坐公园的巴士进入园区；冬季期间，公路的前3英里（约5公里）对私家车开放，且园区巴士在冬季期间<b>不运营</b>。<br>
-2，公路的1.3英里（约2公里）处是Murie Science and Learning Center，作为冬季期间的游客中心。在此可以领取有关迪纳利国家公园和保留区的信息的手册以及租借雪鞋等。<br>
-3，迪纳利国家公园和保留区内的气候多变，冬季期间短时间内气温可骤降至零下30摄氏度，需做好保暖防护。<br>
-4，园区内野生动物众多，包括可能具有危险性的棕熊。在园区内行走时，切不可随意投喂野生动物。根据园区的建议，游客应与野生动物保持至少25码的距离；与熊保持至少300码的距离。
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d920806.3381067665!2d-152.43440700484936!3d63.20755486389573!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56cdf3ff88d01605%3A0xc6b53b15131936a5!2z6L-q57qz5Yip5Zu95a625YWs5Zut5ZKM5L-d55WZ5Yy6!5e0!3m2!1szh-CN!2sus!4v1740530680181!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -715,10 +760,17 @@ $15 成人；<br>
 
 <div style="text-align: center;margin-bottom: 1.5em;">
   <a href="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png" target="_blank">
-    <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png " alt="Click to view larger image" style="max-width: 80%; height: auto;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png " alt="Click to view larger image" style="max-width: 90%; height: auto;">
   </a>
 </div>
 
+<div style="margin-bottom: 0;"><span style="color: red;"><b>注意</b></span><span style="color: orange;">&#9888;</span>：</div>
+<div class="warning_span" style="margin-top: 0;">
+1，迪纳利公园内只有一条公路 (Denali Park Road)。夏季期间，公路的前15英里（约24公里）对私家车开放，之后需要乘坐公园的巴士进入园区；冬季期间，公路的前3英里（约5公里）对私家车开放，且园区巴士在冬季期间<b>不运营</b>。<br>
+2，公路的1.3英里（约2公里）处是Murie Science and Learning Center，作为冬季期间的游客中心。在此可以领取有关迪纳利国家公园和保留区的信息的手册以及租借雪鞋等。<br>
+3，迪纳利国家公园和保留区内的气候多变，冬季期间短时间内气温可骤降至零下30摄氏度，需做好保暖防护。<br>
+4，园区内野生动物众多，包括可能具有危险性的棕熊。在园区内行走时，切不可随意投喂野生动物。根据园区的建议，游客应与野生动物保持至少25码的距离；与熊保持至少300码的距离。
+</div>
 
 <blockquote>
   <p style="font-size:0.8em">
@@ -726,12 +778,11 @@ $15 成人；<br>
   </p>
   <p style="font-size:0.8em">
   &bull;迪纳利国家公园于1917年成立，最早的目的是保护<a href="https://en.wikipedia.org/wiki/Dall_sheep" class="custom-link-1">白大角羊 (Dall sheep)</a>。<br>
-  &bull;迪纳利国家公园最初名为麦金利国家公园，以当时的美国总统威廉·麦金利命名。1980年，美国总统吉米·卡特签署《阿拉斯加国家利益土地保护法》，将公园更名为迪纳利国家公园和保留区，"迪纳利"在<a href="https://en.wikipedia.org/wiki/Athabaskan_languages" class="custom-link-1">阿萨巴斯卡语 (Athabaskan)</a>中意为"高大的"。<br>
+  &bull;迪纳利国家公园最初名为麦金利国家公园，以当时的美国总统威廉·麦金利命名。1980年，美国总统吉米·卡特签署《阿拉斯加国家利益土地保护法》，将公园更名为迪纳利国家公园和保留区。“迪纳利”在<a href="https://en.wikipedia.org/wiki/Athabaskan_languages" class="custom-link-1">阿萨巴斯卡语 (Athabaskan)</a>中意为"高大的"。<br>
   </p>
 </blockquote>
 
-
-### &#9642; <span style="color: #71D7FF;">蓝冰洞 (Castner Glacier)</span>
+### &#9642; <span style="color: #71D7FF;">蓝冰洞 (Castner Glacier) (not visited)</span>
 
 蓝冰洞位于东部环线距安克雷奇约450公里处。是由冰川活动形成的神奇而美丽的自然景观。
 
@@ -993,7 +1044,7 @@ $15 成人；<br>
 
 ## 费尔班克斯 &rarr; 道顿公路（北极圈标志） &rarr; 费尔班克斯
 
-按照Option 1的情况（即只到达道顿公路的北极圈标志处），从位于费尔班克斯的居住点 (620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA) 出发，到达道顿公路的北极圈标志处，再原路返回。<span style="color: red;">全程约620公里，驾车时间<del style="text-decoration-color: black;">约7小时</del></span>。<span class="hover-switch" style="color: gray;font-style: italic;"><span class="a">7小时?</span><span class="b">其实是14小时！</span></span>
+按照Option 1的情况（即只到达道顿公路的北极圈标志处），从位于费尔班克斯的居住点 (620 Eton Boulevard Lower Unit, Fairbanks, Alaska 99709, USA) 出发，到达道顿公路的北极圈标志处，再原路返回。全程约620公里，驾车时间约11小时。
 
 <b>时间</b>：3月29日周六，预计1:30 p.m.出发，6:00 p.m.到达北极圈标志处，10:30 p.m.返回费尔班克斯。
 
@@ -1034,33 +1085,5 @@ $15 成人；<br>
     </div>
   </a>
 </div>
-
-# <span style="color: #8E403A;"> 附录 II </span>
-
-<!-- 引入 CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/dist/css/lightgallery.min.css">
-
-<!-- 图片画廊 -->
-<div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-24 165445.jpg" class="gallery-item">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-24 165445.jpg" alt="Image 1">
-  </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" class="gallery-item">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" alt="Image 2">
-  </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.jpg" class="gallery-item">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.jpg" alt="Image 3">
-  </a>
-</div>
-
-<!-- 引入 JS -->
-<!-- <script src="https://cdn.jsdelivr.net/npm/lightgallery@2.8.3/dist/js/lightgallery.min.js"></script>
-<script>
-  document.addEventListener('DOMContentLoaded', function () {
-    lightGallery(document.getElementById('lightgallery'), {
-      selector: 'a'
-    });
-  });
-</script> -->
 
 <button id="back-to-top" title="Back to top">↑</button>
