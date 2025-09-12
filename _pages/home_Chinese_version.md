@@ -23,7 +23,7 @@ classes: homepage
 </p>
 
 <p>
-你可以在<a href="/" class="custom-link-3">这里</a>找到我的个人简历。
+你可以在<a href="/assets/pdf/Resume_EN.pdf" class="custom-link-3">这里</a>找到我的个人简历。
 </p>
 
 <p style="margin-top: 1em; font-size: 0.8em">
