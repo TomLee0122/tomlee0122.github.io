@@ -14,8 +14,8 @@ excerpt: |
 header: 
   image: "/assets/images/Travel/Chicago River Tour/2024-11-01 185249_revised.jpg"
   caption: <a href="https://www.google.com/maps/place/%E6%B5%B7%E5%86%9B%E7%A0%81%E5%A4%B4/@41.8921836,-87.6139832,16z/data=!3m1!5s0x880e2b4ba5b33581:0x1fc721b72d7b73c4!4m10!1m2!2m1!1snavy+pier!3m6!1s0x880e2b4d91f12edb:0xd0acdb96b088a4dc!8m2!3d41.8918633!4d-87.6050944!15sCgluYXZ5IHBpZXJaCyIJbmF2eSBwaWVykgESdG91cmlzdF9hdHRyYWN0aW9u4AEA!16zL20vMGM3bG4?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D">Navy Pier</a>
-# tags:
-#   - Travel
+tags:
+  - Travel
 layout: single
 classes: wide custom-footer-chicago
 author_profile: true
@@ -23,12 +23,14 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2025-09-18
+last_modified_at: 2025-09-19
 toc: true
-permalink: /blogs/travel/chicago-river-tour_EN/
+permalink: /tags/travel/chicago-river-tour_EN
 ---
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
+
+<b>For Chinese version, visit <a href="/tags/travel/chicago-river-tour" class="custom-link-3">here</a>.</b>
 
 <span style="font-family: 'Lucida Handwriting';font-size:1.5em;color: #0AAD4E">The Beauty of Chicago: series 1.</span>
 
@@ -85,7 +87,7 @@ Although the Chicago River is not particularly long, it has played a crucial rol
 
 Before the mid-19th century, the Chicago River flowed slowly from the plains west of Chicago toward Lake Michigan. Its sluggish current made it difficult for the river to naturally flush and renew itself, which led to severe water pollution. During periods of bad weather, large amounts of sewage would flow directly into the river and the lake, further worsening both water contamination and water shortages in the Chicago metropolitan area.
 
-Over time, the chronic pollution triggered a series of public health crises, especially outbreaks of infectious diseases such as cholera and typhoid fever. In 1887, <a href="https://www.ilga.gov/">the Illinois General Assembly</a> officially decided to reverse the river’s flow through a massive engineering project. The plan called for the construction of the Chicago Sanitary and Ship Canal—a 28-mile (about 45 km) canal in the southwestern part of the city—linking the river’s South Branch to the Des Plaines River.
+Over time, the chronic pollution triggered a series of public health crises, especially outbreaks of infectious diseases such as cholera and typhoid fever. In 1887, <a href="https://www.ilga.gov/" class="custom-link-3">the Illinois General Assembly</a> officially decided to reverse the river’s flow through a massive engineering project. The plan called for the construction of the Chicago Sanitary and Ship Canal—a 28-mile (about 45 km) canal in the southwestern part of the city—linking the river’s South Branch to the Des Plaines River.
 
 When completed in 1900, this ambitious project permanently reversed the flow of the river’s main branches. It solved the city’s water pollution crisis, created a navigable water route between Lake Michigan and the Mississippi River, and laid the groundwork for Chicago’s subsequent economic growth. To this day, the canal remains the only waterway connecting Lake Michigan to the Mississippi River.
 
@@ -123,22 +125,22 @@ The following buildings are introduced in roughly the order they appear along th
 
 ### <span class="my-custom-color_1"> The Wrigley Building <img src="/assets/images/Travel/Chicago River Tour/Mars Brand Logos Web Confectionery Doublemint Large_0_0_0_0.png" alt="" style="max-width: 6%; height: auto;}"> </span>
 
-箭牌大厦坐落于芝加哥北密西根大道 (North Michigan Avenue) 南部400-410号，密西根大道桥的西北角，同时也位于芝加哥著名的“<a href="https://www.google.com/search?q=The+Magnificent+Mile&oq=The+Magnificent+Mile&gs_lcrp=EgRlZGdlKgkIABBFGDkYgAQyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABge0gEHMTI3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8" class="custom-link-3">华丽一英里 (The Magnificent Mile)</a>”与芝加哥河交界处。箭牌集团的创始人William Wrigley Jr.于1910年前后决定在芝加哥修建这座大厦作为箭牌集团的总部。大厦于1920年正式开始修建，包含南塔与北塔两个部分。南塔于1921年完工，北塔于1924年完工完工。这座建筑的灵感来源于西班牙的塞维利亚主教座堂 (Seville Cathedral) 的钟楼与法国文艺复兴时期 (Renaissance) 的建筑风格。每座塔的六个面都由非常特殊的明亮白色陶瓦覆盖。芝加哥于1893年的世界博览会中获得了“白城 (White City)”的称号，据称 William Wrigley Jr. 在考虑这座建筑的外观时，受到了“白城”的启发。
+The Wrigley Building is located at 400–410 North Michigan Avenue in Chicago, on the northwest corner of the Michigan Avenue Bridge and at the intersection of the Chicago River and the city’s renowned “<a href="https://www.google.com/search?q=The+Magnificent+Mile&oq=The+Magnificent+Mile&gs_lcrp=EgRlZGdlKgkIABBFGDkYgAQyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABge0gEHMTI3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8" class="custom-link-3">The Magnificent Mile</a>.” Around 1910, <span class="custom-link-3">William Wrigley Jr.</span>, the founder of the Wrigley Company, decided to build this skyscraper in Chicago as the company’s headquarters. Construction began in 1920 and consisted of two sections: the South Tower and the North Tower. The South Tower was completed in 1921, and the North Tower was completed in 1924. The building’s design was inspired by the bell tower of the Seville Cathedral in Spain and the architectural style of the Renaissance in France. All six façades of each tower are clad in a distinctive bright white terra cotta. In the World's Columbian Exposition held in Chicago in 1893, the city earned the nickname “White City,” which is said to have inspired William Wrigley Jr. when envisioning the building’s exterior.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">箭牌大厦。Credit: <a href="https://en.wikipedia.org/wiki/Wrigley_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Wrigley_Building</a>.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">The Wrigley Building. Credit: <a href="https://en.wikipedia.org/wiki/Wrigley_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Wrigley_Building</a>.</figcaption>
 </div>
 
-箭牌大厦已不再是箭牌集团的总部。箭牌集团于2010年出售了这座大厦，如今它已经成为了集办公、酒店、餐饮、购物于一体的综合写字楼。
+The Wrigley Building is no longer the headquarters of the Wrigley Company. The company sold the building in 2010, and it has since become a mixed-use office building housing offices, hotels, restaurants, and retail spaces.
 
-箭牌大厦地处芝加哥市最为繁华的商业区，它保存在几乎所有前往芝加哥游玩，并且在芝加哥downtown地区漫步过的人们的相册中。2012年，箭牌大厦被认定为芝加哥地标之一。
+Located in the heart of Chicago's bustling commercial district, the Wrigley Building is a staple in the photo albums of nearly everyone who has visited Chicago and strolled through downtown. In 2012, it was designated as one of Chicago's landmarks.
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d883.033891620474!2d-87.62437441783523!3d41.8894130667085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2caea511689f%3A0x7d92d3215f6863d5!2sThe%20Wrigley%20Building!5e0!3m2!1szh-CN!2sus!4v1744083445081!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的箭牌大厦。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">The Wrigley Building on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -147,7 +149,7 @@ The following buildings are introduced in roughly the order they appear along th
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">箭牌大厦</div>
+      <div class="map-card-title">The Wrigley Building</div>
       <div class="map-card-address">400-410 N Michigan Ave, Chicago, IL 60611</div>
     </div>
   </a>
@@ -157,37 +159,39 @@ The following buildings are introduced in roughly the order they appear along th
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull; 箭牌大厦是芝加哥第一座使用空调的大厦。
+  &bull; The Wrigley Building was the first air-conditioned building in Chicago.
   </p>
   <p style="font-size:0.8em">
-  &bull; 箭牌大厦在完工时，密西根大道还远没有今日繁华。当时箭牌大厦旁的连接芝加哥河两岸的钢铁桥都还没有建成。这使得人们认为，华丽一英里的诞生就是从箭牌大厦开始的。
+  &bull; When the Wrigley Building was completed, Michigan Avenue was not as bustling as it is today. The steel bridges connecting the two sides of the Chicago River next to the Wrigley Building had not yet been built. This led people to believe that the birth of the Magnificent Mile started with the Wrigley Building.
   </p>
   <p style="font-size:0.8em">
-  &bull; 箭牌大厦由 Graham, Anderson, Probst & White 建筑公司建造。这家建筑公司在20世纪初还负责建造了著名的<a href="https://www.fieldmuseum.org/" class="custom-link-3">芝加哥菲尔德自然历史博物馆 (Field Museum of Natural History)</a>。
+  &bull; The Wrigley Building was designed by the architectural firm Graham, Anderson, Probst & White. This firm was also responsible for designing the famous <a href="https://www.fieldmuseum.org/" class="custom-link-3">Field Museum of Natural History</a> in Chicago in the early 20th century.
   </p>
 </blockquote>
 
-### <span class="my-custom-color_1"> 马利纳城 (Marina City) </span>
+### <span class="my-custom-color_1"> Marina City </span>
 
-马利纳城位于 300 N State St, 60654, 坐落于芝加哥河的北岸。它有着酷似玉米棒的独特外形，使得它能够被一眼辨认出来。然而，马利纳城的独特之处还远不止它的外形。马利纳城由两座外观与内部结构都几乎一模一样的“城”组成，它们于1959年由建筑师 Bertrand Goldberg 设计，并最终在1969年建造完成。Bertrand Goldberg 在设计这座建筑时，基于了一个在当时看来非常前卫的想法：城中之城 (City within a city)。即这座建筑并不单一地用作住宅或者写字楼，而是能够完整地配套一座城市所有的最基本的设施，拥有一座城市的基本功能。这个想法也在后来马利纳城的建造中得到了实现。马利纳城的任何一座“城”的最下方19层是螺旋形的停车场，用于给“城”内的住户提供停车位。20-60层则是住宅区，包括了住户的房间、超市与药店、餐馆、酒吧、游泳池、健身房等等。61层是一个开放式的全景观景台。“城”的地下则是一座大型船坞，用于停靠住户或访客的游艇。
+Marina City is located at 300 N State St, 60654, on the north bank of the Chicago River. It has a unique corn cob-like appearance, making it easily recognizable at a glance. However, Marina City's uniqueness goes far beyond its appearance. Marina City consists of two "cities" that are almost identical in appearance and internal structure. They were designed by architect Bertrand Goldberg in 1959 and finally completed in 1969. When designing this building, Bertrand Goldberg based it on a very avant-garde idea at the time: a city within a city. That is, the building is not simply used as a residence or office building, but is able to fully support all the most basic facilities of a city and have the basic functions of a city. This idea was later realized in the construction of Marina City. The bottom 19 floors of any "city" in Marina City are spiral parking lots, providing parking spaces for residents within the "city". Floors 20-60 are residential areas, including residents' rooms, supermarkets and pharmacies, restaurants, bars, swimming pools, gyms, and more. The 61st floor is an open panoramic observation deck. The underground of the "city" is a large dock for mooring yachts of residents or visitors.
 
 <div style="text-align: center;">
     <a href="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg" target="_blank">
     <img src="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg" alt="Click to view larger image" style="max-width: 40%; height: auto;">
 </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">马利纳城。Credit: <a href="https://en.wikipedia.org/wiki/Marina_City" class="custom-link-3">https://en.wikipedia.org/wiki/Marina_City</a>.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Marina City. Credit: <a href="https://en.wikipedia.org/wiki/Marina_City" class="custom-link-3">https://en.wikipedia.org/wiki/Marina_City</a>.</figcaption>
 </div>
 
-Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20世纪50-60年代流行的<a href="https://en.wikipedia.org/wiki/White_flight" class="custom-link-3">“白人群飞” (White flight) </a>现象。当时的美国正处于国内与国际移民热潮中，大量非洲裔、墨西哥裔美国人以及海外移民迁移到了美国北方城市。受种族关系、社会地位、资源分配的影响，许多欧洲裔的美国白人最终选择离开城市而迁往城市周边的郊区甚至是乡村地带居住。白人群飞现象是美国上世纪的郊区城市化 (Suburbanization) 和城市去中心化 (Urban decentralization) 中的重要一环，同时也加速了上述进程。在这种现象下，美国上世纪50-70年代许多中部与中西部城市都受到了很大影响，例如芝加哥、巴尔的摩 (Baltimore)、克里夫兰 (Cleveland)、底特律 (Detroit)、堪萨斯城 (Kansas City) 、奥克兰 (Oakland) 等。正是在这样的背景下，Bertrand Goldberg 提出了“城中之城”的概念，希望通过这种特殊的建筑形式减缓白人群飞现象和它对城市的影响。
+The concept of a “city within a city” envisioned by Bertrand Goldberg was rooted in the phenomenon of <a href="https://en.wikipedia.org/wiki/White_flight" class="custom-link-3">“White flight”</a>, which became prevalent in certain American cities during the 1950s and 1960s. At that time, the United States was experiencing a surge of both domestic and international migration, with large numbers of African Americans, Mexican Americans, and immigrants from overseas moving into northern cities. Due to racial tensions, social hierarchies, and disparities in resource allocation, many white Americans of European descent chose to leave the cities and relocate to surrounding suburbs or even rural areas.
 
-马利纳城因其独特的外形与内部结构，启发了许多之后的建筑，包括美国曼哈顿的 The Corinthian，同时也多次出现在有关芝加哥的文学与影视作品中。2016年，马利纳城被认定为芝加哥地标之一。
+The phenomenon of White flight was a key factor in the Suburbanization and Urban decentralization of the mid-20th century in the U.S., and it further accelerated these processes. From the 1950s to the 1970s, many Midwestern and central U.S. cities were heavily affected by this trend, including Chicago, Baltimore, Cleveland, Detroit, Kansas City, and Oakland. It was in this context that Bertrand Goldberg proposed the idea of a “city within a city,” hoping to use this distinctive architectural form to mitigate White flight and its impact on urban centers.
+
+Due to its unique appearance and interior structure, Marina City went on to inspire many subsequent buildings, including The Corinthian in Manhattan, and has frequently appeared in literature and film works set in Chicago. In 2016, Marina City was officially designated as a Chicago Landmark.
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.20329031507!2d-87.63116137328014!3d41.88848491476284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cb1d258ab5b%3A0x44f88e8b932916f2!2sMarina%20City!5e0!3m2!1szh-CN!2sus!4v1744251516175!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的马利纳城。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Marina City on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -196,7 +200,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">马利纳城</div>
+      <div class="map-card-title">Marina City</div>
       <div class="map-card-address">300 N State St, Chicago, IL 60654</div>
     </div>
   </a>
@@ -205,46 +209,50 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
-  <p style="font-size:0.8em">
-  &bull; 在马利纳城的内部，你几乎找不到任何一个直角。马利纳城的每一层都非常的“圆润”：停车场是螺旋形的19层；住宅区的每一层的每一户都围绕着中央的电梯组呈圆形排列在外围，就连住户的阳台也是圆形的一部分！
-  </p>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull; 整座马利纳城的现代设施自它建造完成至今，完全由电力驱动。这意味着建筑内部不使用任何煤气 (propane)、天然气 (natural gas)。（同时也意味着建筑内没有明火灶！）因此，马利纳城内没有任何中央空调、热水、暖气等设施，所有这些设施均由住户与商户自行安装并使用，消耗的电力也由住户与商户自行承担。据称，这是由于马利纳城在修建完成后，地产商与芝加哥地区的电力公司联邦爱迪生 (Commonwealth Edison) 达成了一项协议：如果马利纳城完全由电力驱动，那么联邦爱迪生将免费为马利纳城修建了一座在当时相当昂贵的变电站。
+  &bull; Inside Marina City, you can hardly find any right angles. Each floor of Marina City is very "rounded": the parking garage is a 19-story spiral; each residential floor has units arranged in a circle around the central elevator core, and even the balconies are part of the circular design!
   </p>
   <p style="font-size:0.8em">
-  &bull; 马利纳城建成时，它是世界上最高的钢筋混凝土建筑，这一地位在1976年被水塔广场大厦 (Water Tower Place) 取代，而后者的最高地位又在2009年被特朗普大厦 (Trump International Hotel and Tower) 取代。水塔广场大厦与特朗普大厦均位于芝加哥。
+  &bull; All modern facilities in Marina City have been powered entirely by electricity since its completion. This means that no propane or natural gas is used inside the building (which also means there are no open-flame stoves!). Therefore, there are no central air conditioning, hot water, or heating systems in Marina City; all these facilities are installed and used by the residents and businesses themselves, and the electricity consumption is also borne by them. It is said that this is due to an agreement between the developer of Marina City and the local electric company, Commonwealth Edison: if Marina City is entirely powered by electricity, Commonwealth Edison would build a substation for Marina City free of charge, which was quite expensive at the time.
+  </p>
+  <p style="font-size:0.8em">
+  &bull; When Marina City was completed, it was the tallest reinforced concrete building in the world, a title it held until 1976 when it was surpassed by the Water Tower Place, which in turn was surpassed by the Trump International Hotel and Tower in 2009. Both Water Tower Place and Trump International Hotel and Tower are located in Chicago.
   </p>
 </blockquote>
 
-### <span class="my-custom-color_1"> 芝加哥商品市场 (Merchandise Mart, or The Mart) </span>
+### <span class="my-custom-color_1"> Merchandise Mart, or The Mart </span>
 
-芝加哥商品市场位于 222 W Merchandise Mart Plaza, 60654, 同时也恰好在芝加哥河的“Y”型分岔口处。芝加哥商品市场是芝加哥的规模巨大的贸易综合体，整个建筑包括了各式各样的零售商铺、仓库、购物广场等与商业活动相关的设施。
+Located at 222 W Merchandise Mart Plaza, 60654—right at the Y-shaped junction of the Chicago River—the Merchandise Mart is an enormous commercial complex in Chicago. The building houses a wide variety of facilities related to business activities, including retail shops, warehouses, and shopping plazas.
 
-当芝加哥商品市场于1930年建成时，它的占地面积令人震惊地超过了372000平方米，等同于几乎52个标准足球场。这使得它一举成为世界上占地面积最大的建筑，这一地位直到1943年才被五角大楼 (Pentagon) 取代。芝加哥商品市场如此之大，使得它在相当长一段时间内拥有自己的邮政编码 (60654)。
+When the Merchandise Mart was completed in 1930, its footprint was an astonishing 4 million square feet (about 372,000 square meters)—roughly equivalent to 52 standard football fields. This made it the largest building in the world by floor area at the time, a title it held until 1943 when it was surpassed by the Pentagon. The building was so massive that for a long period it even had its own ZIP code (60654).
 
-建造如此庞大的建筑自然非易事。装载着水泥原料的巨大货船开到芝加哥河的交叉口，水泥原料由压缩空气运送至20米高处，建筑内有巨大的水泥搅拌机，搅拌后的水泥被运送到垂直塔吊上的货机中，塔吊也随着建造进程的不断推进而被不断延长；建造所用的沙子和石砾则由火车直接运输到施工工地附近，而后由长传送带和运输电梯运送到高处的施工工地。自1928年芝加哥商品市场动工，至1930年最终建成，这个庞然大物消耗了两千九百万块砖、40 miles （约合64公里）长的管道、380 miles （约合610公里）长的线路、三百一十万立方米的混凝土、五千七百立方米的的石头以及六万吨钢铁。建成之后，整个建筑物一共包含4000扇窗户、建筑物内有多达30座电梯。建筑前后，共有约5700人直接参与了这项工程的修建。整个工程的耗资在当时超过了两千六百万美元。
+Constructing such a colossal structure was by no means an easy feat. Massive barges carrying cement materials docked at the Chicago River junction, where the materials were transported 20 meters upward using compressed air. Giant cement mixers inside the building mixed the materials, and the concrete was then loaded onto hoists mounted on vertical tower cranes—which were themselves extended upward as construction progressed. Sand and gravel were brought in by train to sites near the construction area, then carried up to the elevated work platforms via long conveyor belts and freight elevators.
+
+From the groundbreaking of the Merchandise Mart in 1928 to its completion in 1930, the project consumed 29 million bricks, 40 miles (64 km) of piping, 380 miles (610 km) of wiring, 3.1 million cubic meters of concrete, 5,700 cubic meters of stone, and 60,000 tons of steel. Upon completion, the building featured 4,000 windows and as many as 30 elevators. In total, about 5,700 workers were directly involved in its construction, which cost more than 26 million U.S. dollars at the time.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.jpg" alt="" style="max-width: 90%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1em;">芝加哥商品市场。Credit: <a href="https://en.wikipedia.org/wiki/Merchandise_Mart#" class="custom-link-3">https://en.wikipedia.org/wiki/Merchandise_Mart#</a>.</figcaption>
+  <figcaption style="margin-top: 1em;">The Mart. Credit: <a href="https://en.wikipedia.org/wiki/Merchandise_Mart#" class="custom-link-3">https://en.wikipedia.org/wiki/Merchandise_Mart#</a>.</figcaption>
 </div>
 
-芝加哥商品市场使用了装饰风艺术 (Art Deco) 的建筑风格。它的外观与内部装饰都非常精致。装饰风艺术在20世纪上半叶非常流行，它强调了建筑物上的几何图案、装饰细节、对称结构。著名的使用了装饰风艺术的建筑包括了纽约的克莱斯勒大厦 (Chrysler Building)、帝国大厦 (Empire State Building)、洛克菲勒中心 (Rockefeller Center)，法国的镀金门宫殿 (Palais de la Porte Dorée)，中国上海的上海大厦 (Shanghai Tower)，和平饭店 (Peace Hotel) 等等。
+The Merchandise Mart was designed in the Art Deco style, with both its exterior and interior showcasing exquisite detailing. Art Deco was a highly popular architectural style in the first half of the 20th century, characterized by geometric patterns, ornamental detailing, and symmetrical forms.
+
+Some of the most iconic buildings that adopted the Art Deco style include the Chrysler Building, the Empire State Building, and the Rockefeller Center in New York; the Palais de la Porte Dorée in France; and the Shanghai Tower and Peace Hotel in Shanghai, China.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.jpg" alt="" style="max-width: 90%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">近距离的芝加哥商品市场。</figcaption>
+  <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">A close-up view of the Merchandise Mart.</figcaption>
 </div>
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.206793365386!2d-87.63802472354905!3d41.88840957124053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cb6e328686d%3A0x43f86a8214e286bb!2sTHE%20MART!5e0!3m2!1szh-CN!2sus!4v1744394988412!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的芝加哥商品市场。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">The Merchandise Mart on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -253,7 +261,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">芝加哥商品市场</div>
+      <div class="map-card-title">Merchandise Mart</div>
       <div class="map-card-address">222 W Merchandise Mart Plaza, Chicago, IL, 60654</div>
     </div>
   </a>
@@ -261,122 +269,132 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull; 芝加哥商品市场曾经很长一段时间由肯尼迪家族 (Kennedy family) 所有，直至1998年被出售给房地产公司 Vornado Realty Trust。
+  &bull; The Merchandise Mart was owned by the Kennedy family for a long time until it was sold to the real estate company Vornado Realty Trust in 1998.
   </p>
   <p style="font-size:0.8em">
-  &bull; 芝加哥商品市场的原址是芝加哥的一个小型贸易点与芝加哥西北铁路公司的威尔斯街站 (Wells Street Station). 该站在1911年芝加哥西北铁路乘客中心 (Chicago and North Western Passenger Terminal，现为 Richard B. Ogilvie Transportation Center) 建成后被关闭。然而，留下的铁路轨道为芝加哥商品市场的建造提供了便利条件。
+  &bull; The site of the Merchandise Mart was originally a small trading post and the Wells Street Station of the Chicago and North Western Railway. The station was closed after the Chicago and North Western Passenger Terminal (now Richard B. Ogilvie Transportation Center) was built in 1911. However, the remaining railway tracks provided convenient conditions for the construction of the Merchandise Mart.
   </p>
 </blockquote>
 
-### <span class="my-custom-color_1"> 可移动的桥 (Movable Bridges) </span>
+### <span class="my-custom-color_1"> Movable Bridges </span>
 
-在介绍一座城市的建筑时，桥梁 (Bridges) 一般不会作为主角登场。然而，在芝加哥，这一点并不适用。由于芝加哥河的存在，横跨芝加哥河两岸的桥梁，在芝加哥的历史上留下了浓墨重彩的一笔，也在这座城市的演变过程中逐渐成为了这座城市的符号之一。
+When introducing the architecture of a city, bridges generally do not take center stage. However, this is not the case in Chicago. Due to the presence of the Chicago River, the bridges spanning its banks have left a significant mark on the city's history and have gradually become one of its symbols.
 
-与我们一般见到的桥不同，芝加哥河上横跨的桥，大多数是可移动的 (Movable)，这并不是指这座桥可以沿着河道自由地移动到需要它的位置，而是指这座桥可以在需要的时候“抬起”或“放下”，供下方的船只通过。
+Unlike the typical bridges we see, most of the bridges over the Chicago River are movable. This does not mean that the bridge can freely move along the river to where it is needed, but rather that it can be "lifted" or "lowered" when necessary to allow boats to pass underneath.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" alt="" style="max-width: 90%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1em;">正要抬起的位于麦迪逊大街 (Madison Street) 上的 Lyric Opera Bridge. Credit: <a href="https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)" class="custom-link-3">https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)</a>.</figcaption>
+  <figcaption style="margin-top: 1em;">The Lyric Opera Bridge on Madison Street is about to be lifted. Credit: <a href="https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)" class="custom-link-3">https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)</a>.</figcaption>
 </div>
 
-#### <span style="color: gray;"> 历史 </span>
+#### <span style="color: gray;"> History </span>
 
-虽然如今芝加哥河上有着众多的桥，穿越芝加哥河并非难事，但是在19世纪20年代，为了穿越芝加哥河到达对岸，人们需要颇费周折。当时常见的交通工具包括渡船和木筏。建造一座方便通行的，永久性的桥的提议很早就被人们提出了，但是反对的声音也不绝于耳。一是当时的芝加哥河的南北两岸的发展情况有很大差异，南岸的经济状况要明显好于北岸，因此南岸的商人担心建议一座连接南北两岸的桥会使得他们的生意被北岸抢走；二是有许多人的职业与芝加哥河的通行密切相关，例如他们是渡船的船主、船夫、木筏的制造者或者为这些人提供伙食、住宿的服务商，他们担心桥的建造会使得他们失业；三是当时芝加哥河上的贸易运输非常繁忙，人们担心桥的建造会阻挡大型船只进入芝加哥的港口。基于种种情况，桥的建造计划被搁置了很长时间。1832年，北岸的居民完全出资在如今 Kinzie Street 附近修建了第一座供行人与马车通行的，连通芝加哥河南北两岸的桥，它也是芝加哥河历史上第一座永久性的桥。随后，芝加哥河上修建了越来越多的类似的连接南北两岸的人行桥。第一座可移动的桥建于1834年，位于如今的 Dearborn Street 附近。然而，这座桥存在着严重的设计缺陷，这使得它在使用过程中经常出现故障，导致无法正常地“抬起”与“落下”，影响了交通通行。严重时，桥梁的故障会导致河两岸的行人与车辆需要等待数个小时甚至数天时间。第一座穿越芝加哥河的铁路桥于1852年建成，地点同样位于 Kinzie Street 附近。如今，芝加哥是世界上拥有可移动桥数量第二多的城市，第一多的则是荷兰的阿姆斯特丹 (Amsterdam)。
+Although today there are numerous bridges spanning the Chicago River, making it easy to cross from one side to the other, things were quite different back in the 1820s. At that time, crossing the river was a cumbersome task. Common means of transportation included ferries and rafts.
+
+The idea of building a convenient and permanent bridge had been proposed early on, but it also faced strong opposition. First, the development on the river’s south bank was much more advanced than on the north bank, and merchants on the south side feared that a bridge would allow their business to be taken away by the north side. Second, many people’s livelihoods depended on river crossings — such as ferry owners, ferrymen, raft builders, and those providing food and lodging to them — and they worried that building a bridge would put them out of work. Third, the river was a busy hub for shipping at the time, and many feared that a bridge would block large vessels from entering the port of Chicago.
+
+For all these reasons, the bridge project was delayed for a long time. In 1832, residents on the north bank fully funded the construction of the first permanent bridge for pedestrians and horse-drawn carriages near what is now Kinzie Street. It was the first permanent bridge in the history of the Chicago River.
+
+Soon after, more pedestrian bridges connecting the north and south banks were built. The first movable bridge was constructed in 1834 near what is now Dearborn Street. However, it suffered from serious design flaws, frequently malfunctioning and failing to “lift” or “lower” properly, which disrupted both pedestrian and vehicular traffic. In severe cases, breakdowns forced people and vehicles on both sides to wait for hours or even days.
+
+The first railroad bridge across the Chicago River was built in 1852, also near Kinzie Street. Today, Chicago has the second-largest number of movable bridges in the world — surpassed only by Amsterdam in the Netherlands.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/chicagoriver1931.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/chicagoriver1931.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/chicagoriver1931.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">1931年时的芝加哥河景象<span class="small-text" style="color: gray;"><em>（这是今天芝加哥的哪里呢？）</em></span>。Credit: <a href="https://chicagology.com/harbor/riverbridges/" class="custom-link-3">https://chicagology.com/harbor/riverbridges/</a>.</figcaption>
+  <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">The Chicago River in 1931 <span class="small-text" style="color: gray;"><em> (Where is it in today's Chicago?)</em></span>. Credit: <a href="https://chicagology.com/harbor/riverbridges/" class="custom-link-3">https://chicagology.com/harbor/riverbridges/</a>.</figcaption>
 </div>
 
-#### <span style="color: gray;"> 可移动的桥是如何运作的？ </span>
+#### <span style="color: gray;"> How does it work? </span>
 
-可移动的桥基本都使用电力驱动。在19世纪，电是非常昂贵的能源。为了节省成本，大多数早期的桥都设计得十分精巧以至于仅需要很少的电力就可以驱动桥梁“抬起”或“落下”。常见的可移动的桥可以大致可以分为以下几种类型：
+Movable bridges are generally powered by electricity. In the 19th century, electricity was a very expensive resource. To save costs, most early bridges were designed so ingeniously that they required very little power to "lift" or "lower" the bridge. Common types of movable bridges can be roughly divided into the following categories:
 
-##### <span style="color: gray;"> 开合桥 (Trunnion Bascule Bridge) </span>
+##### <span style="color: gray;"> Trunnion Bascule Bridge </span>
 
-开合桥是如今芝加哥河上最常见的可移动桥，它根据运作时桥梁是否从中间“断开”又可分为双叶开合桥 (Double-leaf bascule bridge) 与单叶开合桥 (Single-leaf bascule bridge)。无论是哪一种类型，开合桥的基本工作原理都是杠杆原理。每一叶都由桥体、中央轴 (Trunnion) 和配重组成。配重的重量被精确控制以至于它对于中央轴的力矩仅仅略小于桥体对于中央轴的力矩。这使得仅需要很小的力就可以控制桥体的“抬起”与“落下”。每一叶还包含一些精巧的机械结构以使得桥体和配重都能够平滑地绕着中央轴旋转。
+The trunnion bascule bridge is the most common type of movable bridge on the Chicago River today. It can be further divided into double-leaf bascule bridges and single-leaf bascule bridges, depending on whether the bridge "breaks" in the middle during operation. Regardless of the type, the basic working principle of a bascule bridge is the lever principle. Each leaf consists of the bridge deck, a central axis (trunnion), and counterweights. The weight of the counterweights is precisely controlled so that the torque they exert on the trunnion is slightly less than the torque exerted by the bridge deck. This allows the bridge deck to be "lifted" and "lowered" with minimal force. Each leaf also contains intricate mechanical structures to ensure smooth rotation of both the bridge deck and counterweights around the trunnion.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/Kinzie_Street_railroad_bridge_schematic.png" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Kinzie_Street_railroad_bridge_schematic.png" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/Kinzie_Street_railroad_bridge_schematic.png" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em;">开合桥的工作示意图，Cwt. (counter weight) 即为配重。Credit: <a href="https://en.m.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#" class="custom-link-3">https://en.m.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#</a>.</figcaption>
+  <figcaption style="margin-top: 1em;">The illustration of a bascule bridge's working principle. Cwt. means counterweight. Credit: <a href="https://en.m.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#" class="custom-link-3">https://en.m.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#</a>.</figcaption>
 </div>
 
-##### <span style="color: gray;"> 中心墩旋转桥 (Center Pier Swing Bridge) </span>
+##### <span style="color: gray;"> Center Pier Swing Bridge </span>
 
-顾名思义，这种桥的工作原理是整个桥面围绕着中央的桥墩旋转。当桥面旋转到与河道平行时，船只就可以通过。由于这种桥对于河道的宽度有着较大要求（需要能够在河道中央建造一个足够承重与旋转的桥墩，以及在旋转后剩余的河道需要足以让船只通行），它在芝加哥河位于市区的部分并不常见。
+As the name suggests, this type of bridge operates by rotating the entire bridge deck around a central pier. When the bridge deck rotates to be parallel with the river channel, boats can pass through. Due to the significant space requirements for this type of bridge (it needs a central pier that can support the weight and rotation, as well as enough remaining river channel width after rotation for boats to pass), it is not common in the downtown area of the Chicago River.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/Center_Pier_Swing_Bridge.png" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Center_Pier_Swing_Bridge.png" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/Center_Pier_Swing_Bridge.png" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em;">1889年位于 State Street 上的中心墩旋转桥。Credit: <a href="http://www.encyclopedia.chicagohistory.org/pages/10789.html" class="custom-link-3">http://www.encyclopedia.chicagohistory.org/pages/10789.html</a>.</figcaption>
+  <figcaption style="margin-top: 1em;">The center pier swing bridge on State Street in 1889. Credit: <a href="http://www.encyclopedia.chicagohistory.org/pages/10789.html" class="custom-link-3">http://www.encyclopedia.chicagohistory.org/pages/10789.html</a>.</figcaption>
 </div>
 
-##### <span style="color: gray;"> Scherzer 式旋转升降桥 (Scherzer Rolling Lift Bridge) </span>
+##### <span style="color: gray;"> Scherzer Rolling Lift Bridge </span>
 
-以其发明者 William D. Scherzer 的名字命名的 Scherzer 式旋转升降桥的工作原理与开合桥类似，只不过将联动桥面与配重的杆式结构换成了巨大的轮盘。Scherzer 式旋转升降桥的优点是具有高可靠性，不宜故障，缺点则是需要较大的空间来放置轮盘。
+Named after its inventor William D. Scherzer, the Scherzer rolling lift bridge operates similarly to a bascule bridge, but replaces the lever mechanism with large rolling discs. The advantage of the Scherzer rolling lift bridge is its high reliability and low likelihood of failure, while the disadvantage is the need for a larger space to accommodate the rolling discs.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/scherzeradvertisement.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/scherzeradvertisement.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/scherzeradvertisement.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">1897年宣传 Scherzer 式旋转升降桥的广告。Credit: <a href="https://chicagology.com/harbor/riverbridges/" class="custom-link-3">https://chicagology.com/harbor/riverbridges/</a>.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Advertisement for the Scherzer rolling lift bridge in 1889. Credit: <a href="https://chicagology.com/harbor/riverbridges/" class="custom-link-3">https://chicagology.com/harbor/riverbridges/</a>.</figcaption>
 </div>
 
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/HMS-Hall-of-Fame-William-Scherzer.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/HMS-Hall-of-Fame-William-Scherzer.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/HMS-Hall-of-Fame-William-Scherzer.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em;">芝加哥河上的 Scherzer 式旋转升降桥。Credit: <a href="https://heavymovablestructures.org/wp-content/uploads/2021/02/HMS-Hall-of-Fame-William-Scherzer.pdf" class="custom-link-3">https://heavymovablestructures.org/wp-content/uploads/2021/02/HMS-Hall-of-Fame-William-Scherzer.pdf</a>.</figcaption>
+  <figcaption style="margin-top: 1em;">Scherzer rolling lift bridge on the Chicago River. Credit: <a href="https://heavymovablestructures.org/wp-content/uploads/2021/02/HMS-Hall-of-Fame-William-Scherzer.pdf" class="custom-link-3">https://heavymovablestructures.org/wp-content/uploads/2021/02/HMS-Hall-of-Fame-William-Scherzer.pdf</a>.</figcaption>
 </div>
 
-#### <span style="color: gray;"> 桥梁的守护员 (Bridge Tender) </span>
+#### <span style="color: gray;"> Bridge Tender </span>
 
 <em>"The tramp, the wharf rat, and the river pirate are [the bridge tender’s] neighbors." -Chicago Tribune, 1896 </em>
 
-时至今日，在芝加哥许多重要的可移动的桥的附近，你都可以找到一座白色的小房子，它叫做桥梁小屋 (Bridge Tender House)，那是桥梁维护员的工作地点（也有可能是居住地点）。桥梁维护员的最主要职责当然是按照计划，在合适的时间控制桥梁的“抬起”与“落下”，以使得船只与行人、车辆通行，并且保障他们的安全。然而，桥梁维护员工作的全貌还远不止于此。桥梁维护员还要定期检查并且维护桥梁，确保它们处于良好的工作状态、处理与任何桥梁有关的突发事件、发现并且驱赶在桥上的流浪者、阻止那些失去了生活的希望而走上桥的人以及在任何时候都要做好准备去营救不慎从桥上掉入河中的人！
+To this day, near many important movable bridges in Chicago, you can find a small white house called a Bridge Tender House. It serves as the workplace (and sometimes residence) for the bridge tender. The primary responsibility of the bridge tender is, of course, to control the "lifting" and "lowering" of the bridge at the appropriate times according to schedule, allowing boats, pedestrians, and vehicles to pass safely. However, the full scope of the bridge tender's work goes far beyond this. They must also regularly inspect and maintain the bridges to ensure they are in good working condition, handle any emergencies related to the bridges, find and remove vagrants on the bridges, rescue people who fall into the river carelessly, and even prevent the people who step in the bridge because of the loss of hope of their lives.
 
-现存在芝加哥的桥梁小屋一共有70座，分布在芝加哥河的三条主要支流上。桥梁维护员曾经日夜待在这些小屋中，监视着桥梁的状态。然而，随着时代的演变，如今开往芝加哥的主要的贸易商船都不再驶入芝加哥河内部，而是停泊于芝加哥港 (Port of Chicago)，桥梁维护员的工作时间也大大缩短。如今，仅有7座桥梁小屋为24小时值守，大部分桥梁小屋在全年95%以上的时间都处于无人值守状态，桥梁维护员也仅仅会在特定的桥梁需要“抬起”的日期到达这些桥梁小屋。
+There are currently 70 Bridge Tender Houses in Chicago, distributed along the three main branches of the Chicago River. Bridge tenders used to stay in these houses day and night, monitoring the condition of the bridges. However, with the passage of time, major commercial ships heading to Chicago no longer enter the inner Chicago River but dock at the Port of Chicago, significantly reducing the working hours of bridge tenders. Today, only 7 Bridge Tender Houses are staffed 24 hours a day, while most are unstaffed more than 95% of the year, with bridge tenders only arriving at these houses on specific dates when the bridges need to be "lifted."
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/Bridge_Tender_House.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/THP-map-01.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/THP-map-01.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">芝加哥河上现存的桥梁小屋以及它们的位置。Credit: <a href="https://www.tenderhouseproject.com/chicagobridgehouses" class="custom-link-3">https://www.tenderhouseproject.com/chicagobridgehouses</a>.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">The location of existing Bridge Tender Houses along the Chicago River. Credit: <a href="https://www.tenderhouseproject.com/chicagobridgehouses" class="custom-link-3">https://www.tenderhouseproject.com/chicagobridgehouses</a>.</figcaption>
 </div>
 
-更多有关桥梁维护员与桥梁小屋的故事，请访问 <a href="https://www.tenderhouseproject.com/chicagobridgehouses" class="custom-link-3">https://www.tenderhouseproject.com/chicagobridgehouses</a>.
+For more stories about bridge tenders and Bridge Tender Houses, please visit <a href="https://www.tenderhouseproject.com/chicagobridgehouses" class="custom-link-3">https://www.tenderhouseproject.com/chicagobridgehouses</a>.
 
 #### <span style="color: gray;"> Kinzie Street Railroad Bridge </span>
 
-如果你乘坐游船游览芝加哥河，那么在船行驶到北支时，绝大部分时间你会看到一座处于“抬起”状态的桥，它就是 Kinzie Street Railroad Bridge. 它建于1908年，属于单叶开合桥。在它建成之时，它是世界上最大，也是最重的开合桥。它是联合太平洋铁路 (Union Pacific Railroad) 的一条支线，用于服务北支东岸的众多公司与工厂。随着芝加哥城区交通的便利，这条支线的效率逐渐下降。2000年，随着 The Chicago Sun-Times 报社印刷厂的迁移<span class="small-text" style="color: gray;"><em>（这家报社出现在这篇blog之前的某张图片中，你能找到它吗？）</em></span>，这条铁路失去了它在东岸的最后一个客户，并在随后不久被关闭。Kinzie Street Railroad Bridge 也因此被半永久性地被锁定在“抬起”状态。
+If you take a boat tour along the Chicago River, you’ll likely notice a bridge on the North Branch that is almost always in the “raised” position — the Kinzie Street Railroad Bridge. Built in 1908, it is a single-leaf bascule bridge. When it was completed, it was the largest and heaviest bascule bridge in the world. It once served as a spur of the Union Pacific Railroad, providing rail service to the many companies and factories along the east bank of the North Branch.
 
-如今，你仍然可以在这座桥的两岸看到曾经的铁路轨道。虽然绝大部分时候它都处于“抬起”状态，但是每年当工作人员例行检查这座桥时，它会被“放下”一次。<span class="small-text" style="color: gray;"><em>你会成为看到它放下的时候的幸运儿吗？</em></span>
+As transportation infrastructure in the city became more developed, the efficiency of this rail line gradually declined. In 2000, when The Chicago Sun-Times newspaper relocated its printing plant <span class="small-text" style="color: gray;"><em>(this newspaper appeared in an earlier photo in this blog — can you spot it?)</em></span>, the bridge lost its last remaining client on the east bank, and the rail line was soon shut down. Since then, the Kinzie Street Railroad Bridge has been left semi-permanently locked in the “raised” position.
+
+Today, you can still see remnants of the old railroad tracks on both sides of the bridge. Although it stays “raised” most of the time, it is lowered once a year for routine inspection. <span class="small-text" style="color: gray;"><em>Will you be lucky enough to witness that rare moment?</em></span>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/KinzieStRRBrdg08.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/KinzieStRRBrdg08.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/KinzieStRRBrdg08.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Kinzie Street Railroad Bridge。Credit: <a href="https://en.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#" class="custom-link-3">https://en.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#</a>.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Kinzie Street Railroad Bridge. Credit: <a href="https://en.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#" class="custom-link-3">https://en.wikipedia.org/wiki/Kinzie_Street_railroad_bridge#</a>.</figcaption>
 </div>
 
-#### <span style="color: gray;"> 后话 </span>
+#### <span style="color: gray;"> Afterword </span>
 
-历史上还有着许许多多有关芝加哥河上的桥梁的人与故事，如果对他们感兴趣的话，不妨去参观一下位于芝加哥市区的<a href="https://www.chicagoriver.org/programs/education-and-outreach/mccormick-bridgehouse-chicago-river-museum" class="custom-link-3">McCormick Bridgehouse & Chicago River Museum</a>.
+There are many stories and people related to the bridges over the Chicago River throughout history. If you are interested in them, you might want to visit the <a href="https://www.chicagoriver.org/programs/education-and-outreach/mccormick-bridgehouse-chicago-river-museum" class="custom-link-3">McCormick Bridgehouse & Chicago River Museum</a> located in downtown Chicago.
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.2022186186614!2d-87.62723192328012!3d41.88850796476136!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2caec38f3099%3A0x8d893967f1929d0!2sMcCormick%20Bridgehouse%20%26%20Chicago%20River%20Museum!5e0!3m2!1szh-CN!2sus!4v1744500110206!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的McCormick Bridgehouse & Chicago River Museum.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">McCormick Bridgehouse & Chicago River Museum on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -393,34 +411,38 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull; 芝加哥河上的可移动桥大多数都会定期“抬起”，如果你想亲眼目睹这一过程，可以访问<a href="https://chicagoloopbridges.com/schedule.html" class="custom-link-3">https://chicagoloopbridges.com/schedule.html</a> 查看日期与时间。
+  &bull; Most of the movable bridges over the Chicago River are regularly "lifted." If you want to witness this process in person, you can visit <a href="https://chicagoloopbridges.com/schedule.html" class="custom-link-3">https://chicagoloopbridges.com/schedule.html</a> to check the dates and times.
   </p>
   <p style="font-size:0.8em">
-  &bull; 发明了 Scherzer 式旋转升降桥的 William D. Scherzer 同时负责设计了西北大学 (Northwestern University) 的天文台建筑 (Dearborn Observatory)。
+  &bull; William D. Scherzer, the inventor of the Scherzer rolling lift bridge, was also responsible for designing the observatory building (Dearborn Observatory) at Northwestern University.
   </p>
 </blockquote>
 
-### <span class="my-custom-color_1"> 河北路150號大厦 </span>
+### <span class="my-custom-color_1"> 150 N Riverside Plaza </span>
 
-河北路150號大厦位于 150 N Riverside Plaza，它建于2017年，坐落在芝加哥河南支的西侧河岸。与芝加哥商品市场一样，它也位于芝加哥河的“Y”型分叉口处。河北路150號大厦高229米，是芝加哥的一座现代化摩天大楼。
+150 N Riverside Plaza, built in 2017, is located on the west bank of the South Branch of the Chicago River. Like the Chicago Merchandise Mart, it is also situated at the "Y" shaped confluence of the Chicago River. Standing at 229 meters tall, 150 N Riverside Plaza is a modern skyscraper in Chicago.
 
-河北路150號大厦的独特之处在于它的设计。整个建筑非常纤细，为了节约地基占用的空间，建筑的整体是下窄上宽的形态。整个地基的占地面积大约只有上层较宽部分的占地面积的25%。
+What makes 150 N Riverside Plaza unique is its design. The entire building is very slender, and to save on foundation space, the building is narrower at the base and wider at the top. The foundation's footprint is only about 25% of the footprint of the wider upper portion.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/150_North_Riverside,_Wolf_Point,_Chicago.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/150_North_Riverside,_Wolf_Point,_Chicago.jpg" alt="" style="max-width: 90%; height: auto;}">
   </a>
-  <figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1.5em;">河北路150號大厦，整个建筑<br>呈现出下窄上宽<br>的姿态。</figcaption>
+  <figcaption style="text-align: center; margin-top: 1em; margin-bottom: 1.5em;">150 N Riverside Plaza, the entire building<br>is narrower at the base and <br>wider at the top.</figcaption>
 </div>
 
-高层建筑通常对于大风天气较为敏感，因为大风产生的风压会使得高层建筑产生晃动，从而影响内部人员的活动，严重时甚至影响整个建筑物的安全。这种情况在建筑物更高、更“细”时会更加明显。对于河北路150號大厦，其独特的设计使得设计师在前期设计时不得不考虑这一点。为了使得建筑物在大风天气下仍然能够保持稳定，设计师在大厦的高层安装了数个液体谐振阻尼器 (Tuned Mass Dampers)。液体谐振阻尼器由若干个巨大的水箱组成，水箱的尺寸被设计得以至于其谐振频率与整座大厦的谐振频率非常接近。在大风天气到来之前，内部会充满水，大风天气到来时，质量巨大的水箱和它与大厦非常接近的谐振频率使得它能够给予大厦一个与大风产生的力矩相反的力矩，以此来部分抵消大厦的晃动。谐振阻尼器经常运用在高层建筑中以减弱大风对于建筑的影响，除液体谐振阻尼器外，经常使用的还有固体谐振阻尼器，它们的工作原理与液体谐振阻尼器类似。更多有关高层建筑的谐振阻尼器的知识，可以参阅<a href="https://en.wikipedia.org/wiki/Tuned_mass_damper" class="custom-link-3">https://en.wikipedia.org/wiki/Tuned_mass_damper</a>.
+Tall buildings are usually sensitive to strong winds, as the wind pressure can cause them to sway, which may affect the activities of people inside and, in severe cases, even threaten the structural safety of the entire building. This effect becomes more noticeable as a building becomes taller and more slender.
+
+For the building at 150 N Riverside Plaza, its unique design required the designers to take this issue into serious consideration during the early design phase. To keep the building stable under strong winds, several tuned mass dampers (TMDs) filled with liquid were installed on its upper floors. Each TMD consists of a massive water tank designed so that its natural frequency is very close to that of the building itself. Before strong winds arrive, these tanks are filled with water. When strong winds hit, the large mass of water in the tanks moves at nearly the same frequency as the building but in the opposite direction, producing a counteracting torque that partially offsets the building’s swaying.
+
+Tuned mass dampers are commonly used in tall buildings to reduce the effects of wind. In addition to liquid-based TMDs, solid TMDs are also widely used, and they work on a similar principle. For more information about tuned mass dampers in tall buildings, you can refer to: <a href="https://en.wikipedia.org/wiki/Tuned_mass_damper" class="custom-link-3">https://en.wikipedia.org/wiki/Tuned_mass_damper</a>.
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2970.3431983752107!2d-87.63980996102148!3d41.885475689664496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cc7ed999a0b%3A0x4fc33263be6edca3!2z5rKz5YyX6LevMTUw6Jmf!5e0!3m2!1szh-CN!2sus!4v1744763676664!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的河北路150號大厦。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">150 N Riverside Plaza on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -429,7 +451,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">河北路150號大厦</div>
+      <div class="map-card-title">150 N Riverside Plaza</div>
       <div class="map-card-address">150 N Riverside Plaza, Chicago, IL 60606</div>
     </div>
   </a>
@@ -437,34 +459,34 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
-  <p style="font-size:0.8em">
-  &bull; 著名的<a href="https://www.hyatt.com/" class="custom-link-3">凯悦酒店集团 (Hyatt Hotels Corporation)</a> 的总部就位于河北路150號大厦。
-  </p>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull; 虽然河北路150號大厦的总体高度并不算非常出色，甚至不在芝加哥最高的十座摩天大楼之列，但是它却是它所在的河岸的最高建筑物。<span class="small-text" style="color: gray;"><em>这说明有时候选择比努力更加重要！</em></span>
+  &bull; The headquarters of the famous <a href="https://www.hyatt.com/" class="custom-link-3">Hyatt Hotels Corporation</a> is located in 150 N Riverside Plaza.
+  </p>
+  <p style="font-size:0.8em">
+  &bull; Although 150 N Riverside Plaza is not among the tallest buildings in Chicago, and not even in the top ten tallest skyscrapers in the city, it is the tallest building on its riverbank. <span class="small-text" style="color: gray;"><em>This shows that sometimes choice is more important than effort!</em></span>
   </p>
 </blockquote>
 
-### <span class="my-custom-color_1"> 芝加哥歌剧院 (Lyric Opera of Chicago) </span>
+### <span class="my-custom-color_1"> Lyric Opera of Chicago </span>
 
-芝加哥歌剧院位于 20 N Wacker Drive, Chicago, IL 60606. 它建于1929年，坐落在芝加哥河南支的东侧河岸，至今已有近100年的历史。在它最初建成的时候，它是芝加哥市民歌剧公司 (Chicago Civic Opera). 然而，芝加哥市民歌剧公司在美国大萧条时期破产，公司几经破产与重组，在1954年重组并且重新命名为 Lyric Opera of Chicago. 自那之后，芝加哥歌剧院一直是 Lyric Opera of Chicago 的总部所在地。
+The Chicago Opera House is located at 20 N Wacker Drive, Chicago, IL 60606. It was built in 1929 on the east bank of the North Branch of the Chicago River and has stood for nearly a century. When it was first constructed, it served as the home of the Chicago Civic Opera. However, the company went bankrupt during the Great Depression. After several bankruptcies and reorganizations, it was reestablished and renamed the Lyric Opera of Chicago in 1954. Since then, the Chicago Opera House has remained the headquarters of the Lyric Opera of Chicago.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/Lyric_Opera_of_Chicago.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Civic_Opera_House_060528.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/Civic_Opera_House_060528.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em;">芝加哥歌剧院外貌（背面）。Credit: <a href="https://en.wikipedia.org/wiki/Civic_Opera_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Civic_Opera_Building</a>.</figcaption>
+  <figcaption style="margin-top: 1em;">The exterior of the Chicago Opera House (rear view). Credit: <a href="https://en.wikipedia.org/wiki/Civic_Opera_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Civic_Opera_Building</a>.</figcaption>
 </div>
 
-芝加哥歌剧院的建造最早由芝加哥地区的能源公司 (Commonwealth Edison) 的总裁 Samuel Insull 提出。Samuel Insull 委托了建筑公司 Graham, Anderson, Probst & White <span class="small-text" style="color: gray;"><em>（这家公司是不是在哪里出现过？）</em></span>来负责设计和建造芝加哥歌剧院。芝加哥歌剧院由一座主塔和两座副塔组成，主塔高45层，两座副塔均高22层。芝加哥歌剧院的内部设计采用了装饰风艺术，从每一扇门、每一扇窗到每一个房梁角落、每一根承重柱都经过精心设计，内部的整体风格艺术而古典，非常符合它作为剧院的身份。芝加哥歌剧院的主厅是拥有3563个座位的大剧场，它是北美洲第二大的剧场，仅次于纽约的大都会歌剧院 (Metropolitan Opera House)。在20世纪，来自世界各地的众多知名的歌剧演员都将芝加哥歌剧院作为他们在北美洲首演的演出地，有关相关演员的列表，可参阅<a href="https://en.wikipedia.org/wiki/Lyric_Opera_of_Chicago" class="custom-link-3">https://en.wikipedia.org/wiki/Lyric_Opera_of_Chicago</a>.
+The construction of the Chicago Opera House was initially proposed by Samuel Insull, the president of the Commonwealth Edison Company in the Chicago area. Samuel Insull commissioned the architectural firm Graham, Anderson, Probst & White <span class="small-text" style="color: gray;"><em>(has this firm appeared somewhere before?)</em></span> to design and build the Chicago Opera House. The building consists of a main tower and two subsidiary towers, with the main tower standing 45 stories tall and the two subsidiary towers each 22 stories tall. The interior design of the Chicago Opera House features Art Deco elements, with meticulous attention to detail in every door, window, beam, and load-bearing column. The overall style is artistic and classical, befitting its function as a theater. The main auditorium has 3,563 seats, making it the second-largest theater in North America, after the Metropolitan Opera House in New York. Throughout the 20th century, many renowned opera singers from around the world chose the Chicago Opera House as the venue for their North American debuts. For a list of these performers, see <a href="https://en.wikipedia.org/wiki/Lyric_Opera_of_Chicago" class="custom-link-3">https://en.wikipedia.org/wiki/Lyric_Opera_of_Chicago</a>.
 
-在芝加哥城上演的第一部歌剧是于1850年在芝加哥演出的梦游女 (La sonnambula)，但具体的演出地点已经无从考证。芝加哥的第一个歌剧院建于1865年，但不幸的是，它仅仅在6年之后就在芝加哥大火中被烧毁。在芝加哥建成的第二座歌剧院是位于南密西根大道 (South Michigan Avenue) 上的 Auditorium Building，它于1889年建成，至今仍然存在。芝加哥歌剧院是芝加哥的第三座剧院。
+The first opera performed in Chicago was "La sonnambula" in 1850, but the exact venue is unknown. The city's first opera house was built in 1865 but was destroyed in the Great Chicago Fire just six years later. The second opera house in Chicago was the Auditorium Building on South Michigan Avenue, completed in 1889 and still standing today. The Chicago Opera House is the third opera house in the city.
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5940.9783486303795!2d-87.6399726232803!3d41.88233576514791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cb8925e8fe5%3A0x1a7ed21598ee5c97!2z6Iqd5Yqg5ZOl5q2M5Ymn6Zmi!5e0!3m2!1szh-CN!2sus!4v1744771089820!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的芝加哥歌剧院。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">The Chicago Opera House on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -473,7 +495,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">芝加哥歌剧院</div>
+      <div class="map-card-title">Chicago Opera House</div>
       <div class="map-card-address">20 N Wacker Dr, Chicago, IL 60606</div>
     </div>
   </a>
@@ -481,42 +503,46 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull; 芝加哥歌剧院的外表像是一把巨大的椅子，它面朝东方，背对西方。这与 Samuel Insull 有关。Samuel Insull 在来到芝加哥之前，在纽约与托马斯·爱迪生 (Thomas Edison) 同事。由于对于当时公司收购事宜的不满，他在公司被收购完成后不久辞去了在纽约的职务。当时恰巧 Comonwealth Edison 公司的前任总裁刚刚退休，公司又在为即将在芝加哥举办的1893年哥伦比亚世博会而忙碌。在这种背景下，Samuel Insull 被邀请来到 Commonwealth Edison 公司担任总裁，而 Samuel Insull 也欣然接受了这一职务。Samuel Insull 在与 Graham, Anderson, Probst & White 商讨芝加哥歌剧院的设计时，要求将它的“椅背”朝向西方，以此来暗示他在纽约的不愉快经历以及他的不满（纽约在芝加哥的西边）。因为如此，芝加哥歌剧院也被称为“Insull的王位” (Insull's Throne).
+  &bull; The exterior of the Chicago Opera House resembles a giant chair, facing east with its back to the west. This design choice is related to Samuel Insull. Before coming to Chicago, Samuel Insull worked with Thomas Edison in New York. Due to dissatisfaction with a company acquisition, he resigned from his position in New York shortly after the acquisition was completed. At that time, the former president of Commonwealth Edison had just retired, and the company was busy preparing for the 1893 World's Columbian Exposition in Chicago. In this context, Samuel Insull was invited to become the president of Commonwealth Edison, a position he gladly accepted. When discussing the design of the Chicago Opera House with Graham, Anderson, Probst & White, Samuel Insull requested that the "backrest" of the building face west, symbolizing his unpleasant experiences and dissatisfaction in New York (which is west of Chicago). Because of this, the Chicago Opera House is also known as "Insull's Throne."
   </p>
   <p style="font-size:0.8em">
-  &bull; 如果你在坐船时仔细观察芝加哥歌剧院背面的文字，你会发现它的拼写似乎是错误的 (Civic Opera Bvilding). 这其实与历史上的英文字母表中的字母 "U" 和 "V" 有关。最早的拉丁字母表只有23个字母，而非今天英语字母表的26个，其中只包含字母 "V" 而不包含字母 "U". 这是由于早期时候，"U" 和 "V" 被认为是同一个字母的两个变体 (allographs)，它们的发音是完全相同的。直到17世纪初印刷技术的规范化，字母 "U" 才被印刷师 Lazare Zetzner 正式引入到字母表中。在设计芝加哥歌剧院背面的文字时，采用了较为古典的 "Building" 的拼写方式，即 "Bvilding".
+  &bull; If you look closely at the lettering on the back of the Chicago Opera House while on a boat, you may notice that the spelling seems unusual: "Civic Opera Bvilding." This actually relates to the history of the Latin alphabet and the letters "U" and "V."
+
+  The earliest Latin alphabet contained only 23 letters, rather than the 26 letters in today's English alphabet, and it included the letter "V" but not "U." In early usage, "U" and "V" were considered two variants (allographs) of the same letter and were pronounced identically. It was not until the early 17th century, with the standardization of printing techniques, that printer Lazare Zetzner formally introduced the letter "U" into the alphabet.
+
+  When the lettering on the back of the Chicago Opera House was designed, the more classical spelling of "Building" was chosen, hence the use of "Bvilding."
   </p>
 </blockquote>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">芝加哥歌剧院的背面，"BVILDING" 一词清晰可见。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">The back of the Chicago Opera House, with the word "BVILDING" clearly visible.</figcaption>
 </div>
 
 
-### <span class="my-custom-color_1"> 韦莱集团大厦 (Willis Tower) </span> <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_logo.png" alt="" style="max-width: 12%; height: auto;">
+### <span class="my-custom-color_1"> Willis Tower </span> <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_logo.png" alt="" style="max-width: 12%; height: auto;">
 
-#### <span style="color: gray;"> 简介 </span>
+#### <span style="color: gray;"> Introduction </span>
 
-韦莱集团大厦坐落在芝加哥河南支的东侧河岸，位于 233 S Wacker Dr, Chicago, IL 60606. 韦莱集团大厦一座建筑便占据一整个街区，其四周被富兰克林大街 (Franklin Street)、杰克森大道 (Jackson Boulevard)、瓦克大道 (Wacker Drive) 和亚当大街 (Adams Street) 包围。它建于1973年。建成时，由于它是西尔斯百货公司 (Sears, Roebuck and Co.) 的总部，得名西尔斯大厦 (Sears Tower). 1994年，西尔斯百货公司出售了这栋摩天大楼并将总部迁出芝加哥。2009年，大厦的命名权交给了韦莱集团，从此大厦更名为韦莱集团大厦 (Willis Tower).
+Willis Tower is located on the east bank of the south branch of the Chicago River, at 233 S Wacker Dr, Chicago, IL 60606. The building occupies an entire city block, surrounded by Franklin Street, Jackson Boulevard, Wacker Drive, and Adams Street. It was built in 1973. When it was completed, it was named Sears Tower after Sears, Roebuck and Co., which was headquartered there. In 1994, Sears sold the skyscraper and moved its headquarters out of Chicago. In 2009, the naming rights were acquired by Willis Group, and the building was renamed Willis Tower.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/2024-10-13 185904.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-13 185904.jpg" alt="" style="max-width: 70%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-13 185904.jpg" alt="" style="max-width: 70%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">韦莱集团大厦，摄于2024年10月13日与Leo的芝加哥河之旅。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Willis Tower, photographed on October 13, 2024, during the Chicago River Tour with Leo.</figcaption>
 </div>
 
-韦莱集团大厦全高1451英尺（约442.3米），包含地上108层与地下3层。1973年建成之时，它是全世界最高的建筑，并且保持了这一纪录<b>长达25年</b>，直至1998年被吉隆坡的吉隆坡双子塔 (Petronas Twin Towers) 超越。
+Willis Tower stands at a total height of 1,451 feet (approximately 442.3 meters) and comprises 108 floors above ground and 3 floors below ground. When it was completed in 1973, it was the tallest building in the world and held this record for an impressive 25 years until it was surpassed by the Petronas Twin Towers in Kuala Lumpur in 1998.
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5941.299612949914!2d-87.63848982328044!3d41.878880365364374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cbee269fbbb%3A0x10f6dce5eb88c7d!2z6Z-m6I6x6ZuG5Zui5aSn5Y6m!5e0!3m2!1szh-CN!2sus!4v1749880882625!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">地图上的韦莱集团大厦。</figcaption>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5941.299612949914!2d-87.63848982328044!3d41.878880365364374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e2cbee269fbbb%3A0x10f6dce5eb88c7d!2z6Z-m6I6x6ZuG5Zui5aSn5Y6m!5e0!3m2!1sen!2sus!4v1749880882625!5m2!1sen!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Willis Tower on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -525,92 +551,100 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">韦莱集团大厦</div>
+      <div class="map-card-title">Willis Tower</div>
       <div class="map-card-address">233 S Wacker Dr, Chicago, IL 60606</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: gray;"> 诞生历史 </span>
+#### <span style="color: gray;"> History </span>
 
-20世纪中叶，正值西尔斯百货公司在美国零售业的巅峰时期，日益增长的业务与公司规模使得西尔斯百货的高层意识到原本位于（彼时）芝加哥西郊的总部大楼已经无法满足公司的需求。1966年，西尔斯的董事会决定开始规划一栋新的总部大楼。董事会聘请了著名的建筑公司 <a href="https://www.som.com/" class="custom-link-3">Skidmore, Owings & Merrill (SOM)</a> 来负责设计这座新大楼。根据对公司的估算，董事会计划新的大楼至少需要有39万平方米的办公面积，大楼剩余的办公面积将出租给其他需要的租户。起初，董事会提出每一层楼的面积需要达到10万平方英尺（约9300平方米），然后按照公司需求决定大楼的层数。然而，SOM 的建筑师们认为过大的每层面积会导致大楼多余空间难以出租。为了使大楼具有良好的出租收益，SOM 提出了在低楼层每层面积55000平方英尺（约5100平方米），并在高楼层逐渐减少层面积的设计方案。经过讨论，董事会最终接受了这个方案，但与此同时，董事会过于乐观的对西尔斯公司的发展估计使他们意识到在上述设计方案下，新的总部大楼会出乎意料地高。1970年7月27日，SOM 宣布了一座令人震惊的高1450英尺（约442米）的约110层摩天大楼的设计方案，这使得这座大楼一旦建成，将成为世界上最高的建筑物（按照屋顶到地面的高度计算）。1970年8月，西尔斯大厦正式开工。
+In the mid-20th century, at the height of Sears, Roebuck & Co.’s dominance in the U.S. retail industry, the company’s rapidly growing business and expanding scale made it clear to Sears executives that the existing headquarters, located in what was then the western suburbs of Chicago, could no longer meet the company’s needs. In 1966, the Sears board of directors decided to begin planning a new headquarters building. They commissioned the renowned architectural firm <a href="https://www.som.com/" class="custom-link-3">Skidmore, Owings & Merrill (SOM)</a> to design the new tower.
 
-#### <span style="color: gray;"> 混合管状结构 (Bundled tube structure) </span>
+Based on company projections, the board planned for the new building to provide at least 390,000 square meters of office space, with any remaining space to be leased to other tenants. Initially, the board proposed that each floor cover 100,000 square feet (approximately 9,300 square meters), and the total number of floors would be determined according to company needs. However, SOM’s architects argued that excessively large floor plates would make it difficult to lease the surplus space. To ensure the building’s rental viability, SOM proposed a design in which lower floors would each cover 55,000 square feet (approximately 5,100 square meters), with floor areas gradually decreasing on the higher floors.
 
-一件每一栋摩天大楼都需要考虑的非常重要的事情是如何使得如此高的建筑物能够支撑起它庞大的重量以及在横向负载（包括极端天气与地震）下保持稳定。传统的解决方案包括在高层安装谐振阻尼器（<a href="/blogs/travel/chicago-river-tour/#-%E6%B2%B3%E5%8C%97%E8%B7%AF150%E8%99%9F%E5%A4%A7%E5%8E%A6-" class="custom-link-3">河北路150號大厦</a>）和在高层采用镂空设计（芝加哥瑞吉酒店 (The Residences at The St. Regis Chicago)）。然而，这两个方案都有各自的缺点。前者需要占用大量的内部建筑空间从而会影响经济性，而后者则会影响建筑物的美观。为了<em style="color: gray;"><del>“我全都要”</del></em>二者兼得，SOM 的建筑师创新性地提出了管状结构 (Tube Structure) 与混合管状结构 (Bundled Tube Structure) 的设计方案。管状结构的做法是在建筑物的外围边缘部分密集地修建一系列的承重管以作为负责建筑物稳定性的主要结构，这些主承重管之间有一些巧妙的结构连接并且相互固定。同时，在建筑物的内部也配有一些辅助承重管，这些辅助承重管与主承重管之间有梁连接，它们的作用是将建筑物的重量均匀地传递到位于建筑外围的主承重管上。采用了混合管状结构的建筑物则由多个采用了上述的管状结构的单元组合而成，这些单元彼此间不完全相同。一般有一至两个高度最高的单元，它们代表了这个建筑物的高度。它们的下方周围分布着一些高度较低的单元，这些较低的单元一方面是建筑的一部分，另一方面则起到了巩固高单元的作用，从而提升了建筑物的整体稳定性。建筑师会综合考虑当地天气、地基等条件以决定具体的单元数量与排布。韦莱集团大厦采用了9个单元的混合管状结构设计。
+After discussion, the board ultimately accepted this plan. At the same time, however, the board’s overly optimistic projections for Sears’ growth led them to realize that, under this design, the new headquarters would be unexpectedly tall. On July 27, 1970, SOM announced a staggering design for a skyscraper approximately 1,450 feet tall (about 442 meters) with roughly 110 floors, which, once completed, would become the tallest building in the world (measured from ground to roof). Construction of the Sears Tower officially began in August 1970.
+
+#### <span style="color: gray;"> Bundled tube structure </span>
+
+One of the most critical considerations for any skyscraper is how to support its immense weight while maintaining stability under lateral loads, including extreme weather and seismic forces. Traditional solutions include installing tuned mass dampers on upper floors (as seen in <a href="/blogs/travel/chicago-river-tour/#-%E6%B2%B3%E5%8C%97%E8%B7%AF150%E8%99%9F%E5%A4%A7%E5%8E%A6-" class="custom-link-3">150 North Riverside Plaza</a>) and incorporating hollowed-out designs on upper levels (such as The Residences at The St. Regis Chicago). However, both approaches have drawbacks: the former occupies a significant amount of interior space, affecting economic efficiency, while the latter can compromise the building’s aesthetic appeal.
+
+To achieve the best of both worlds, SOM’s architects innovatively proposed the tube structure and bundled tube structure designs. In a tube structure, a series of closely spaced load-bearing tubes are constructed along the perimeter of the building to serve as the primary structural framework responsible for stability. These main tubes are interconnected through carefully designed structural links that provide mutual support. Inside the building, additional auxiliary tubes are installed; these are connected to the main tubes via beams and help evenly transfer the building’s weight to the perimeter tubes.
+
+Buildings employing a bundled tube structure are composed of multiple tube-structured units combined together, each with slightly different dimensions. Typically, one or two of these units reach the building’s maximum height, representing its tallest sections. Surrounding these taller units are shorter units, which not only form part of the overall structure but also help stabilize the taller units, enhancing the building’s overall structural integrity. Architects determine the specific number and arrangement of these units based on local weather conditions, soil, and other factors. The Willis Tower, for example, utilizes a bundled tube design composed of nine such units.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/Willis_Tower_tube_structure.png" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_tube_structure.png" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/Willis_Tower_tube_structure.png" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">韦莱集团大厦的混合管状结构设计。Credit: <a href="https://en.wikipedia.org/wiki/Tube_(structure)" class="custom-link-3">https://en.wikipedia.org/wiki/Tube_(structure)</a>.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Bundled tube structure design of Willis Tower. Credit: <a href="https://en.wikipedia.org/wiki/Tube_(structure)" class="custom-link-3">https://en.wikipedia.org/wiki/Tube_(structure)</a>.</figcaption>
 </div>
 
-管状结构与混合管状结构自1970年被提出以来，已经成为了摩天大楼的标准结构之一，同时也被许多后来的高层建筑采用。更多例子可见<a href="https://en.wikipedia.org/wiki/Tube_(structure)#Concrete" class="custom-link-3">https://en.wikipedia.org/wiki/Tube_(structure)#Concrete</a>.
+Tube structure and bundled tube structure have become standard structural systems for skyscrapers since their introduction in 1970, and have been adopted by many subsequent high-rise buildings. More examples can be found at <a href="https://en.wikipedia.org/wiki/Tube_(structure)#Concrete" class="custom-link-3">https://en.wikipedia.org/wiki/Tube_(structure)#Concrete</a>.
 
-#### <span style="color: gray;"> 天空甲板 (Skydeck) </span>
+#### <span style="color: gray;"> Skydeck </span>
 
-<a href="https://theskydeck.com/" class="custom-link-3">Skydeck</a> 是位于韦莱集团大厦内部的观景台，位于大厦的第103层。Skydeck 是美国境内最高的室内观景台。在此，你可以从东西南北一览芝加哥的城市风貌。
+<a href="https://theskydeck.com/" class="custom-link-3">Skydeck</a> is an observation deck located inside the Willis Tower, on the 103rd floor. It is the highest indoor observation deck in the United States. From here, you can enjoy panoramic views of Chicago's cityscape in all directions.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;">
   </a>
   <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;">
   </a>
   <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;">
   </a>
   <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">摄于Skydeck. 四张照片分别对应东、南、西、北四个方向。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Photos taken at Skydeck. The four photos correspond to the east, south, west, and north directions respectively.</figcaption>
 </div>
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull; 传言在西尔斯大厦的设计过程初期的讨论中，SOM 的建筑师为了测试大厦的结构稳定性，使用了9根雪茄 (cigars) 来模拟大厦的9个单元。
+  &bull; It is rumored that during the early design discussions of the Sears Tower, the architects at SOM used 9 cigars to simulate the 9 units of the building to test its structural stability.
   </p>
   <p style="font-size:0.8em">
-  &bull; 建筑物高度的计算方法，历史上曾颇有争议。1998年吉隆坡双子塔建成时，它的建造者宣称它超越了西尔斯大厦成为了世界上最高的建筑物。这一说法引起了西尔斯大厦的建造者乃至芝加哥人的反对与强烈不满。当时为了明确计算方法从而解决争议，人们提出了四种不同的高度计算方法。在这四种计算方法中，吉隆坡双子塔仅是在计算从地面到最高的建筑物元素的意义下最高的建筑物。
+  &bull; The method of calculating building height has historically been a subject of controversy. When the Petronas Towers in Kuala Lumpur were completed in 1998, their developers claimed they had surpassed the Sears Tower to become the tallest buildings in the world. This claim was met with opposition and strong dissatisfaction from the developers of the Sears Tower and the people of Chicago. At that time, to clarify the calculation method and resolve the dispute, four different methods of height calculation were proposed. Among these four methods, the Petronas Towers were only the tallest when measuring from the ground to the highest architectural element.
   </p>
   <p style="font-size:0.8em">
-  &bull; 美国主要航空公司之一的美国联合航空 (United Airlines, 又称美联航) 的总部就位于韦莱集团大厦。同时，美联航也是目前韦莱集团大厦的最大租户，其占据了韦莱集团大厦的20层楼。
+  &bull; The headquarters of United Airlines, one of the major airlines in the United States, is located in the Willis Tower. At the same time, United Airlines is also the largest tenant of the Willis Tower, occupying 20 floors of the building.
   </p>
 </blockquote>
 
-### <span class="my-custom-color_1"> 芝加哥瑞吉酒店 (St. Regis Chicago) </span>
+### <span class="my-custom-color_1"> St. Regis Chicago </span>
 
-芝加哥瑞吉酒店位于芝加哥河干流东侧靠近密西根湖处。它建于2020年，高1198英尺（约合365米），共93层，是芝加哥第三高的建筑物，仅次于<a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E9%9F%A6%E8%8E%B1%E9%9B%86%E5%9B%A2%E5%A4%A7%E5%8E%A6-willis-tower--" class="custom-link-3">韦莱集团大厦</a>与特朗普大厦 (Trump International Hotel and Tower)，它同时是芝加哥21世纪以来建成的最高的建筑物。顾名思义，瑞吉酒店的主要作用是酒店住宿，它的内部主要由瑞吉集团运营。瑞吉酒店的前十层包含192个酒店房间，其余部分则是住宅区，共有393套非凡的湖景房。<span class="reveal-on-hover">猜猜一套湖景房要多少钱呢？</span>
+The St. Regis Chicago is located on the east side of the Chicago River near Lake Michigan. Built in 2020, it stands 1,198 feet (approximately 365 meters) tall with 93 floors, making it the third tallest building in Chicago, after the <a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E9%9F%A6%E8%8E%B1%E9%9B%86%E5%9B%A2%E5%A4%A7%E5%8E%A6-willis-tower--" class="custom-link-3">Willis Tower</a> and the Trump International Hotel and Tower. It is also the tallest building constructed in Chicago in the 21st century. As the name suggests, the primary function of the St. Regis Chicago is hotel accommodation, and it is mainly operated by the St. Regis Group. The first ten floors of the St. Regis Chicago contain 192 hotel rooms, while the remaining floors are residential, with a total of 393 extraordinary lake-view residences. <span class="reveal-on-hover">Guess how much a lake-view residence costs?</span>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.jpg">
   <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.jpg" alt="" style="max-width: 70%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">于游船上拍摄的芝加哥瑞吉酒店。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The St. Regis Chicago as seen from a boat on the Chicago River.</figcaption>
 </div>
 
-瑞吉酒店由三栋高度递增的建筑组成，它们的外表是颇有特色的海蓝色波纹，使人联想到起伏的海洋。为了保证大楼的稳定性，其内部采用了支撑核心筒结构 (buttressed core). 支撑核心筒结构由建筑物中央的主要承重柱与若干个附着在主承重柱上，并且连接地面的侧翼构成。这种结构与<a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E6%B7%B7%E5%90%88%E7%AE%A1%E7%8A%B6%E7%BB%93%E6%9E%84-bundled-tube-structure-" class="custom-link-3">混合管状结构</a>截然不同，但同样能有效地分担建筑物各个部位的重量。瑞吉酒店内的支撑筒结构有三个呈现 "Y" 形的等角对称侧翼。为了抵抗风阻，瑞吉酒店的主塔的第83层采用了镂空的设计，即不包含任何装修，不设窗户，也没有任何电梯停靠，目的是使风能直接通过以减小风压。这是在瑞吉酒店的设计过程中，设计团队在进行了酒店的风洞模型试验后决定的。
+The St. Regis Chicago consists of three buildings of increasing height, with a distinctive sea-blue wavy exterior that evokes the undulating ocean. To ensure the stability of the building, it employs a buttressed core structure internally. The buttressed core structure consists of a central main load-bearing column with several wings attached to it and connected to the ground. This structure is different from the <a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E6%B7%B7%E5%90%88%E7%AE%A1%E7%8A%B6%E7%BB%93%E6%9E%84-bundled-tube-structure-" class="custom-link-3">bundled tube structure</a>, but it is equally effective in distributing the weight of the building. The buttressed core structure inside the St. Regis Chicago has three "Y"-shaped wings with equal angles. To resist wind loads, the 83rd floor of the main tower of the St. Regis Chicago is designed as a hollow space, with no decoration, windows, or elevator stops, allowing wind to pass through and reduce wind pressure. This design decision was made by the design team after conducting wind tunnel tests during the design process.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.jpg">
   <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">在芝加哥河干流与密西根湖交汇处拍摄的芝加哥东部的城市天际线。图中最高的建筑物即是芝加哥瑞吉酒店。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The eastern Chicago skyline as seen from the confluence of the Chicago River and Lake Michigan. The tallest building in the image is the St. Regis Chicago.</figcaption>
 </div>
 
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull; 芝加哥瑞吉酒店的主设计师是著名的女建筑师 <a href="https://en.wikipedia.org/wiki/Jeanne_Gang" class="custom-link-3">Jeanne Gang</a>. 在芝加哥瑞吉酒店建成之日，它是世界上由女建筑师主要负责设计的最高建筑物。
+  &bull; The lead architect of the St. Regis Chicago is the renowned female architect <a href="https://en.wikipedia.org/wiki/Jeanne_Gang" class="custom-link-3">Jeanne Gang</a>. At the time of its completion, it was the tallest building in the world designed primarily by a female architect.
   </p>
   <p style="font-size:0.8em">
-  &bull; 中国万达集团是负责开发芝加哥瑞吉酒店的主要公司之一，瑞吉酒店建成之时，它的官方名称是万达观光大厦 (Wanda Vista Tower). 由于种种外部因素，万达集团于2019年4月出售了其拥有的全部股份，在这之后芝加哥瑞吉酒店于2020年更名为现在的名称。
+  &bull; The Chinese Wanda Group was one of the main companies responsible for developing the St. Regis Chicago. When the hotel was completed, its official name was Wanda Vista Tower. Due to various external factors, Wanda Group sold all its shares in April 2019, after which the hotel was renamed to its current name in 2020.
   </p>
 </blockquote>
 
