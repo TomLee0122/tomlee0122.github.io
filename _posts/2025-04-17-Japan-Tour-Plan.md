@@ -27,7 +27,7 @@ read_time: false
 last_modified_at: 2025-08-30
 toc: true
 toc_label: '目录 (Table of Contents)'
-permalink: /blogs/travel/Japan-Tour-Plan/
+permalink: /tags/travel/Japan-Tour-Plan
 ---
 
 <script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>

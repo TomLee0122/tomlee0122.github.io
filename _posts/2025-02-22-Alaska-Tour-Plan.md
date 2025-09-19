@@ -25,7 +25,7 @@ related: false
 read_time: false
 last_modified_at: 2025-09-11
 toc: true
-permalink: /blogs/travel/Alaska-Tour-Plan/
+permalink: /tags/travel/Alaska-Tour-Plan
 ---
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>

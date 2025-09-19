@@ -14,8 +14,8 @@ excerpt: |
 header: 
   image: "/assets/images/Travel/Chicago River Tour/2024-11-01 185249_revised.jpg"
   caption: <a href="https://www.google.com/maps/place/%E6%B5%B7%E5%86%9B%E7%A0%81%E5%A4%B4/@41.8921836,-87.6139832,16z/data=!3m1!5s0x880e2b4ba5b33581:0x1fc721b72d7b73c4!4m10!1m2!2m1!1snavy+pier!3m6!1s0x880e2b4d91f12edb:0xd0acdb96b088a4dc!8m2!3d41.8918633!4d-87.6050944!15sCgluYXZ5IHBpZXJaCyIJbmF2eSBwaWVykgESdG91cmlzdF9hdHRyYWN0aW9u4AEA!16zL20vMGM3bG4?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D">Navy Pier</a>
-tags:
-  - Travel
+# tags:
+#   - Travel
 layout: single
 classes: wide custom-footer-chicago
 author_profile: true
@@ -23,12 +23,14 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2025-09-08
+last_modified_at: 2025-09-19
 toc: true
-permalink: /blogs/travel/chicago-river-tour/
+permalink: /tags/travel/chicago-river-tour
 ---
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
+
+<b><a href="/tags/travel/chicago-river-tour_EN" class="custom-link-3">这篇 blog 的英文版本</a>。</b>
 
 <span style="font-family: 'Lucida Handwriting';font-size:1.5em;color: #0AAD4E">The Beauty of Chicago: series 1.</span>
 
