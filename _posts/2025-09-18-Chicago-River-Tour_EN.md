@@ -1,7 +1,7 @@
 ---
 title: |
   <div>
-  芝加哥河之旅 (Chicago River Tour)
+  Chicago River Tour
   </div>
 excerpt: |
   <div style="maring-bottom: 1em;">
@@ -14,8 +14,8 @@ excerpt: |
 header: 
   image: "/assets/images/Travel/Chicago River Tour/2024-11-01 185249_revised.jpg"
   caption: <a href="https://www.google.com/maps/place/%E6%B5%B7%E5%86%9B%E7%A0%81%E5%A4%B4/@41.8921836,-87.6139832,16z/data=!3m1!5s0x880e2b4ba5b33581:0x1fc721b72d7b73c4!4m10!1m2!2m1!1snavy+pier!3m6!1s0x880e2b4d91f12edb:0xd0acdb96b088a4dc!8m2!3d41.8918633!4d-87.6050944!15sCgluYXZ5IHBpZXJaCyIJbmF2eSBwaWVykgESdG91cmlzdF9hdHRyYWN0aW9u4AEA!16zL20vMGM3bG4?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D">Navy Pier</a>
-tags:
-  - Travel
+# tags:
+#   - Travel
 layout: single
 classes: wide custom-footer-chicago
 author_profile: true
@@ -23,20 +23,26 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2025-09-08
+last_modified_at: 2025-09-18
 toc: true
-permalink: /blogs/travel/chicago-river-tour/
+permalink: /blogs/travel/chicago-river-tour_EN/
 ---
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
 
 <span style="font-family: 'Lucida Handwriting';font-size:1.5em;color: #0AAD4E">The Beauty of Chicago: series 1.</span>
 
-芝加哥 (Chicago) 位于美国伊利诺伊州 (Illinois) 东北角，毗邻密西根湖 (Michigan Lake)，是美国中西部 (Midwest) 的一座枢纽城市。无论在人口数量上，还是经济体量上，芝加哥都位列美国前三（另两座分别为纽约 (New York) 与洛杉矶 (Los Angeles)）。芝加哥虽然不属于随美国建国而建立的最早的一批城市，却在美国历史上却有着极重要的地位。自1837年这座城市正式被冠以“芝加哥”的名称以来，它的发展对美国的政治、文化、艺术、经济都产生了深远的影响。
+Chicago, located in the northeastern corner of Illinois along the shores of Lake Michigan, is a major hub city in the Midwest region of the United States. In terms of both population and economic scale, Chicago ranks among the top three cities in the country, alongside New York City and Los Angeles. Although Chicago was not one of the earliest cities founded at the birth of the United States, it has played a crucial role in the nation’s history. Since officially adopting the name “Chicago” in 1837, the city has exerted a profound influence on American politics, culture, art, and economy.
 
 <blockquote>
   <p style="font-size:0.8em">
-  芝加哥也被称为风城 (The windy city)。许多人以为这个名字来源于芝加哥时常有大风（特别是冬天）的气候。实际上，这个名字背后的故事不止于此。风城 (The windy city) 这个名字诞生于19世纪末期，但具体的起源至今仍有争议。一个说法是彼时芝加哥与辛辛那提 (Cincinnati, Ohio) 之间有着激烈的竞争关系，特别是在政治领域。1876年，两座城市正在争夺4年之后全国共和党大会的举办权。3月9日，一位辛辛那提的评论员在《辛辛那提调研》 (Cincinnati Enquirer) 上发表了一篇文章，文中使用了 "windy city" 一词，意在讽刺芝加哥政治家的浮躁与空头支票。另一个说法是，19世纪末时，芝加哥正在与纽约等美国其他主要城市争夺1893年世界博览会的举办权。芝加哥的政治家为此极力吹嘘芝加哥的美好、活力、繁荣，其他城市的政府官员为了批评芝加哥政治家的镜花水月的描述，给予了芝加哥“风城”的称号。虽然时至今日，已经难以推测“风城”这个名字的确切起源，但“风城”在历史上出现之时，十有八九是带有贬义的。然而，随着芝加哥在19、20世纪的迅速发展，芝加哥慢慢成长成为了一个真正的活力、繁荣的国际大都市，“风城”一词也逐渐摆脱了历史上的贬义色彩，成为了这个城市的一个正面代名词。
+Chicago is also known as “The Windy City.” Many people assume this nickname comes from Chicago’s often windy weather—especially in winter—but the story behind it goes deeper than that. The term “Windy City” emerged in the late 19th century, though its exact origin remains debated to this day.
+
+One theory is that it arose from the fierce rivalry between Chicago and Cincinnati, Ohio, especially in the political arena. In 1876, the two cities were competing for the right to host the Republican National Convention four years later. On March 9 of that year, a Cincinnati commentator wrote an article in the Cincinnati Enquirer using the phrase “windy city” to mock Chicago politicians as boastful and full of empty promises.
+
+Another explanation ties the nickname to Chicago’s bid to host the World's Columbian Exposition in 1893. At the time, Chicago was competing with New York City and other major U.S. cities, and its politicians enthusiastically promoted Chicago’s beauty, vitality, and prosperity. Officials from rival cities, dismissing these claims as exaggerated and fanciful, labeled Chicago the “Windy City.”
+
+Although the exact origin of the nickname may never be fully confirmed, it was almost certainly meant as an insult when it first appeared in history. Over time, however, as Chicago rapidly developed during the 19th and 20th centuries into a truly vibrant and prosperous global metropolis, the term “Windy City” gradually shed its negative connotation and became a proud and positive symbol of the city.
   </p>
 </blockquote>
 
@@ -44,18 +50,22 @@ permalink: /blogs/travel/chicago-river-tour/
   <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.jpg" alt="" style="max-width: 90%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1.5em;">芝加哥天际线，摄于韦莱集团大厦 (Willis Tower)。</figcaption>
+  <figcaption style="margin-top: 1.5em;">The skyline of Chicago, captured from the Willis Tower.</figcaption>
 </div>
 
-# <span><span style="color: #8E403A;"> 芝加哥河 </span>
+# <span><span style="color: #8E403A;"> Chicago River </span>
 
-## <span style="color: gray;"> 简介 </span>
+## <span style="color: gray;"> Introduction </span>
 
-芝加哥河 (Chicago River) 是芝加哥地区一系列河流与水道的统称，主要包括北支 (north branch)，南支 (south branch) 和干流 (main stem)。芝加哥河的流域包括了整个芝加哥大都会地区 (Chicago metropolitan area)。包括主要支流在内，芝加哥河全长156 miles（约合251公里）。芝加哥河的干流东接密西根湖，北支于芝加哥北部小镇埃文斯顿 (Evanston) 北部与密西根湖相连，南支则向南接入密西西比河 (Mississippi River)，最终流入墨西哥湾 (Gulf of Mexico)。
+The Chicago River refers to a network of rivers and waterways running through the Chicago metropolitan area. It consists mainly of three parts: the North Branch, the South Branch, and the Main Stem. Including its major tributaries, the river system stretches about 156 miles (approximately 251 kilometers) in total.
+
+The Main Stem flows eastward into Lake Michigan, while the North Branch connects with the lake near the northern edge of the city in Evanston. The South Branch extends southward and eventually joins the Mississippi River, which carries its waters all the way down to the Gulf of Mexico.
+
+Spanning the entire metropolitan region, the Chicago River has long been a vital part of the city’s development, shaping its geography, commerce, and infrastructure.
 
 <div class="map-desktop" style="text-align: center;margin-bottom: 1.5em">
   <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d56530.046779693985!2d-87.63987213319413!3d41.8714625153871!3m2!1i1024!2i768!4f13.1!5e0!3m2!1szh-CN!2sus!4v1743992875439!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em;">芝加哥河地图。其北支、南支、干流对应于芝加哥市中心附近"Y"型水道的三个河道。</figcaption>
+  <figcaption style="margin-top: 1em;">Chicago River map. Its North Branch, South Branch, and Main Stem correspond to the three waterways in the "Y"-shaped channel near downtown Chicago.</figcaption>
 </div>
 
 <div class="map-card">
@@ -64,46 +74,54 @@ permalink: /blogs/travel/chicago-river-tour/
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">芝加哥河全貌</div>
+      <div class="map-card-title">Chicago River Overview</div>
     </div>
   </a>
 </div>
 
-芝加哥河虽然不长，但在芝加哥的历史上有着重要的地位。它连接了五大湖之一的密西根湖与美国第二长的河流——密西西比河，成为了密西根湖周边地区与美国中南部地区之间的水上交通要道，也在历史上极大推动了芝加哥成为美国中西部的贸易枢纽城市。
+Although the Chicago River is not particularly long, it has played a crucial role in the city’s history. By linking Lake Michigan—one of the Great Lakes—with the Mississippi River, the second-longest river in the United States, it became a vital waterway between the Lake Michigan region and the south-central parts of the country. This connection greatly accelerated Chicago’s rise as a major commercial hub of the Midwest.
 
-### <span style="color: gray;"> 流向的逆转 (The reverse of the flow) </span>
+### <span style="color: gray;"> The Reverse of the Flow </span>
 
-19世纪中期以前，芝加哥河始终从芝加哥西部地区的平原缓慢地流向密西根湖。缓慢的水流使得芝加哥河的水体难以有效地新陈代谢，从而导致了水体污染的问题。每逢恶劣天气，大量的污水更是直接涌入芝加哥河与密西根湖，加剧了芝加哥河的污染情况与芝加哥地区的水资源短缺问题。长期的水体污染问题还诱导了一系列的公共卫生问题，尤其是霍乱、伤寒等传染病。1887年，<a href="https://www.ilga.gov/">伊利诺伊州议会 (Illinois General Assembly) </a>正式决定通过人造工程改变芝加哥河的流向。这项艰巨的工程在芝加哥西南部修建了一条长达 28 miles（约合45公里）的芝加哥运河 (Chicago Sanitary and Ship Canal)，以连接芝加哥河南支与德斯普兰斯河 (Des Plaines River)，并于1900年最终完全改变了芝加哥河主要支流的流向。这项工程一举解决了芝加哥河的水体污染问题，并且打通了密西根湖与密西西比河之间的水上交通通道，为后续芝加哥的经济发展奠定了基础。芝加哥运河至今仍然是连接密西根湖与密西西比河的唯一水道。1999年，芝加哥河的水体治理计划与流向逆转工程被美国土木工程师学会 (American Society of Civil Engineers) 评选为人造工程的千年纪念碑 (Civil Engineering Monument of the Millennium)。
+Before the mid-19th century, the Chicago River flowed slowly from the plains west of Chicago toward Lake Michigan. Its sluggish current made it difficult for the river to naturally flush and renew itself, which led to severe water pollution. During periods of bad weather, large amounts of sewage would flow directly into the river and the lake, further worsening both water contamination and water shortages in the Chicago metropolitan area.
+
+Over time, the chronic pollution triggered a series of public health crises, especially outbreaks of infectious diseases such as cholera and typhoid fever. In 1887, <a href="https://www.ilga.gov/">the Illinois General Assembly</a> officially decided to reverse the river’s flow through a massive engineering project. The plan called for the construction of the Chicago Sanitary and Ship Canal—a 28-mile (about 45 km) canal in the southwestern part of the city—linking the river’s South Branch to the Des Plaines River.
+
+When completed in 1900, this ambitious project permanently reversed the flow of the river’s main branches. It solved the city’s water pollution crisis, created a navigable water route between Lake Michigan and the Mississippi River, and laid the groundwork for Chicago’s subsequent economic growth. To this day, the canal remains the only waterway connecting Lake Michigan to the Mississippi River.
+
+In 1999, the American Society of Civil Engineers named the river reversal project and its water management system a Civil Engineering Monument of the Millennium, recognizing it as one of the most significant engineering achievements in modern history.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.jpg" alt="" style="max-width: 80%; height: auto;}">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">历史上芝加哥运河工程从提出到最后实现的主要节点。Credit: <a href="https://chicagology.com/harbor/riverreversal/" class="custom-link-3">https://chicagology.com/harbor/riverreversal/.</a></figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">Milestones from the plan of the project to its final complete. Credit: <a href="https://chicagology.com/harbor/riverreversal/" class="custom-link-3">https://chicagology.com/harbor/riverreversal/.</a></figcaption>
 </div>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/chicagosanitaryandshipcanalmap.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/chicagosanitaryandshipcanalmap.jpg" alt="" style="max-width: 100%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/chicagosanitaryandshipcanalmap.jpg" alt="" style="max-width: 100%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">芝加哥运河地图。Credit: <a href="https://chicagology.com/harbor/riverreversal/." class="custom-link-3">https://chicagology.com/harbor/riverreversal/</a>.</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">The map of the Chicago river. Credit: <a href="https://chicagology.com/harbor/riverreversal/." class="custom-link-3">https://chicagology.com/harbor/riverreversal/</a>.</figcaption>
 </div>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Chicago River Tour/canal.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/canal.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <img src="/assets/images/Travel/Chicago River Tour/canal.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">位于洛克波特 (lockport) 的芝加哥运河水闸。Credit: <a href="https://www.thedesplaines.com/?page_id=364" class="custom-link-3">https://www.thedesplaines.com/?page_id=364.</a></figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">The canal lock located in Lockport. Credit: <a href="https://www.thedesplaines.com/?page_id=364" class="custom-link-3">https://www.thedesplaines.com/?page_id=364.</a></figcaption>
 </div>
 
 
-## <span style="color: gray;"> 芝加哥河上的建筑之旅 </span>
+## <span style="color: gray;"> The Architectural Tour on the Chicago River </span>
 
-如果一个人来到芝加哥游玩，但在他离开之前只有半天时间游览这座城市，那我会立即拉着他/她前往芝加哥河边的船坞，带他/她乘坐一艘航行在芝加哥河上的游船。或是建筑家们的“英雄所见略同”，亦或是芝加哥河本身绝佳的地理位置，几乎所有芝加哥的标志性建筑物/地标都分布在芝加哥河的两岸，使得游船成为了观赏它们的绝好方式。穿行在众多摩天大楼之间的短短90分钟内，船员们便能一览芝加哥建筑的多样与精致、芝加哥城的忙碌与繁荣。
+If someone comes to visit but only has half a day before leaving, I would immediately take them to the docks along the river for a cruise. Whether it’s the architects’ shared vision or simply the river’s prime location, nearly all of Chicago’s iconic buildings and landmarks line its banks, making a boat tour one of the best ways to see the city.
 
-以下介绍的这些建筑，大致上根据一艘从密西根大道桥 (DuSable Bridge) 东侧码头出发的游船的航线，以及它们在航线上出现的先后顺序排列。
+In just a short 90-minute cruise weaving through towering skyscrapers, passengers can appreciate the diversity and intricacy of Chicago’s architecture, as well as the city’s bustling energy and vibrant prosperity.
 
-### <span class="my-custom-color_1"> 箭牌大厦 (The Wrigley Building) <img src="/assets/images/Travel/Chicago River Tour/Mars Brand Logos Web Confectionery Doublemint Large_0_0_0_0.png" alt="" style="max-width: 6%; height: auto;}"> </span>
+The following buildings are introduced in roughly the order they appear along the route of a boat tour departing from the east side of the DuSable Bridge.
+
+### <span class="my-custom-color_1"> The Wrigley Building <img src="/assets/images/Travel/Chicago River Tour/Mars Brand Logos Web Confectionery Doublemint Large_0_0_0_0.png" alt="" style="max-width: 6%; height: auto;}"> </span>
 
 箭牌大厦坐落于芝加哥北密西根大道 (North Michigan Avenue) 南部400-410号，密西根大道桥的西北角，同时也位于芝加哥著名的“<a href="https://www.google.com/search?q=The+Magnificent+Mile&oq=The+Magnificent+Mile&gs_lcrp=EgRlZGdlKgkIABBFGDkYgAQyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABge0gEHMTI3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8" class="custom-link-3">华丽一英里 (The Magnificent Mile)</a>”与芝加哥河交界处。箭牌集团的创始人William Wrigley Jr.于1910年前后决定在芝加哥修建这座大厦作为箭牌集团的总部。大厦于1920年正式开始修建，包含南塔与北塔两个部分。南塔于1921年完工，北塔于1924年完工完工。这座建筑的灵感来源于西班牙的塞维利亚主教座堂 (Seville Cathedral) 的钟楼与法国文艺复兴时期 (Renaissance) 的建筑风格。每座塔的六个面都由非常特殊的明亮白色陶瓦覆盖。芝加哥于1893年的世界博览会中获得了“白城 (White City)”的称号，据称 William Wrigley Jr. 在考虑这座建筑的外观时，受到了“白城”的启发。
 
