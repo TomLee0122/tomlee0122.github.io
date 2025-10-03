@@ -30,7 +30,7 @@ permalink: /tags/travel/chicago-river-tour_EN
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
 
-<b>For Chinese version, visit <a href="/tags/travel/chicago-river-tour" class="custom-link-3">here</a>.</b>
+<b>这篇 blog 的<a href="/tags/travel/chicago-river-tour" class="custom-link-3">中文版本</a>。</b>
 
 <span style="font-family: 'Lucida Handwriting';font-size:1.5em;color: #0AAD4E">The Beauty of Chicago: series 1.</span>
 

@@ -1,5 +1,5 @@
 ---
-title: 阿拉斯加旅行指南
+title: Guide to Alaska
 excerpt: |
   <div style="margin-bottom: 1em;">
   <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #A52A2A">🌳Into the Nature from Alaska.🌳</span>
@@ -8,14 +8,14 @@ excerpt: |
   <img src='/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.jpg' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>
-# tags:
-#   - Travel
+tags:
+  - Travel
 # primary_tag: Travel
 my_wide_image: 
   src: '/assets/images/Travel/Alaska Tour Plan/IMG_3163.JPG.jpeg'
   src_dark: '/assets/images/Travel/Alaska Tour Plan/2025-03-27 010746.jpg'
-  title: '阿拉斯加'
-  subtitle: '世界尽头'
+  title: 'Alaska'
+  subtitle: 'End of the World'
 layout: single
 classes: wide
 author_profile: true
@@ -25,30 +25,30 @@ related: false
 read_time: false
 last_modified_at: 2025-09-11
 toc: true
-permalink: /tags/travel/Alaska-Tour-Plan
+permalink: /tags/travel/Alaska-Tour-Plan_EN
 ---
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
 
-<b><a href="/tags/travel/Alaska-Tour-Plan_EN" class="custom-link-3">English version</a> of the blog.</b>
+<b>这篇 blog 的<a href="/tags/travel/Alaska-Tour-Plan" class="custom-link-3">中文版本</a>。</b>
 
-# <span style="color: #8E403A;">前言</span>
+# <span style="color: #8E403A;">Foreword</span>
 
-阿拉斯加位于美国本土以外，东与加拿大接壤，西与俄罗斯隔白令海峡相望，北临北冰洋，南濒太平洋。阿拉斯加是美国最大的州，其面积超过美国本土面积前五的州的总和。阿拉斯加拥有令人叹为观止的雪山、冰川、湖泊、河流、森林等自然风光与极为丰富的野生动植物资源。本篇 blog 最初用于准备于2025年3月24日至4月2日与 V1ncent, Steven, Tina, Chenghong 的阿拉斯加之旅的攻略，介绍了阿拉斯加的主要旅行景点与行程规划。10天9晚的旅途充满了来自北国的壮丽风光，也不乏挑战、惊险与归途中的心旷神怡。谨以纪念。
+Alaska is located outside the contiguous United States, bordered by Canada to the east and separated from Russia by the Bering Strait to the west, with the Arctic Ocean to the north and the Pacific Ocean to the south. Alaska is the largest state in the U.S., with an area greater than the combined size of the next five largest states in the mainland. It is home to breathtaking natural landscapes such as snow-capped mountains, glaciers, lakes, rivers, and forests, along with an abundance of wildlife resources. This blog was originally prepared as a travel guide for the Alaska trip with V1ncent, Steven, Tina, and Chenghong from March 24 to April 2, 2025, covering the state’s major attractions and itinerary planning. The 10-day, 9-night journey was filled with the magnificent scenery of the far north, along with challenges, thrills, and the serenity of the return. In fond remembrance.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.jpg">
   <img src="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">阿拉斯加地图。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map of Alaska.</figcaption>
 </div>
 
-# <span style="color: #8E403A;">主要旅行景点</span>
+# <span style="color: #8E403A;">Main Attractions</span>
 
-## 安克雷奇市区与周边
+## Anchorage Downtown and Surroundings
 
-### &#9642; <span style="color: #71D7FF;">安克雷奇历史艺术博物馆 (Anchorage Museum)</span>
+### &#9642; <span style="color: #71D7FF;">Anchorage Museum</span>
 
-安克雷奇博物馆建于1968年，位于安克雷奇市区。安克雷奇博物馆是阿拉斯加州最大的博物馆，讲述了阿拉斯加的历史、自然风光、生态、当地土著文化等。
+Anchorage Museum was established in 1968 and is located in downtown Anchorage. It is the largest museum in Alaska, showcasing the state's history, natural landscapes, ecology, and indigenous cultures.
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.jpg" class="gallery-item" style="max-width:47.5%;">
@@ -65,27 +65,27 @@ permalink: /tags/travel/Alaska-Tour-Plan
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左上</b>：安克雷奇历史艺术博物馆的正门；<b>右上</b>：博物馆内的 "Alaska", 周边展示了代表阿拉斯加人文的象征物；<b>左下</b>：博物馆天花板上的飞机模型，旨在纪念二战中的阿拉斯加；<b>右下</b>：可爱的彩色熊<span class="reveal-on-hover">似乎暗示着这里曾经发生过什么？？？</span></figcaption>
-
-<b>开放时间</b>（10月至次年4月）：<br>
-周一：闭馆；<br>
-周二至周六：早上10点至下午6点；<br>
-周日：中午12点至下午6点。<br>
-<b>注</b>：每月第一个周五延长开放时间至晚上9点，6点后免费入馆。
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Top left</b>: The main entrance of the Anchorage Museum of History and Art; <b>Top right</b>: "Alaska" inside the museum, surrounded by symbols representing Alaskan culture; <b>Bottom left</b>: An airplane model hanging from the museum ceiling, commemorating Alaska’s role in World War II; <b>Bottom right</b>: A lovely colorful bear <span class="reveal-on-hover">perhaps hinting at something that once happened here???</span></figcaption>
 
 
-<b>门票</b>：<br>
-$25 成人 (18-64岁)<br>
-$20 阿拉斯加居民 (18-64岁)<br>
-$18 青少年 (13-17岁)、老年人 (65岁以上)、军人、学生<br>
-$12 儿童 (6-12岁)*<br>
-5岁及以下儿童、博物馆会员、联邦认可部落成员免费入馆。
+<b>Opening Hours</b> (October to April of the following year):<br>
+Monday: Closed;<br>
+Tuesday to Saturday: 10:00 AM – 6:00 PM;<br>
+Sunday: 12:00 PM – 6:00 PM.<br>
+<b>Note</b>: On the first Friday of each month, opening hours are extended to 9:00 PM, and admission is free after 6:00 PM.
 
-<b>预计游览时间</b>：2小时。
+<b>Admission</b>:<br>
+$25 Adults (ages 18-64)<br>
+$20 Alaska Residents (ages 18-64)<br>
+$18 Youth (ages 13-17), Seniors (ages 65+), Military, Students<br>
+$12 Children (ages 6-12)*<br>
+Children aged 5 and under, museum members, and federally recognized tribal members are free.
 
-地址：625 C St, Anchorage, AK 99501；<br>
-电话：+1 907-929-9200；<br>
-网站：<a href="https://www.anchoragemuseum.org/" class="custom-link-1">安克雷奇博物馆</a>。
+<b>Expected Visited Duration</b>: 2 hours.
+
+Address: 625 C St, Anchorage, AK 99501;<br>
+Phone: +1 907-929-9200;<br>
+Website: <a href="https://www.anchoragemuseum.org/" class="custom-link-1">Anchorage Museum</a>.
 
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3842.2382601482577!2d-149.88815402208795!3d61.21623065858035!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c896296ce7438d%3A0x5745ca1a5052f9af!2z5a6J5YWL6Zu35aWH5Y6G5Y-y6Im65pyv5Y2a54mp6aaG!5e0!3m2!1szh-CN!2sus!4v1740331160277!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -97,35 +97,35 @@ $12 儿童 (6-12岁)*<br>
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">安克雷奇历史艺术博物馆</div>
+      <div class="map-card-title">Anchorage Museum</div>
       <div class="map-card-address">625 C St, Anchorage, AK 99501</div>
     </div>
   </a>
 </div>
 
-### &#9642; <span style="color: #71D7FF;">安克雷奇动物园 (Alaska Zoo) (not visited)</span>
+### &#9642; <span style="color: #71D7FF;">Alaska Zoo (not visited)</span>
 
-安克雷奇动物园建于1969年，位于安克雷奇市东南角。动物园内有众多阿拉斯加本土动物和生活在北极圈或亚北极圈的物种，同时也有一些非本土动物。
+Alaska Zoo, established in 1969, is located in the southeastern corner of Anchorage. The zoo is home to numerous native Alaskan animals and species that live in the Arctic or sub-Arctic regions, as well as some non-native animals.
 
-<b>开放时间</b>：<br>
-十一月至次年二月：周一至周日，早上10点至下午4点（周二开放至下午6点）；<br>
-三月至四月：周一至周日，早上10点至下午5点（Dino Lights活动期间开放至下午6点）；<br>
-五月、九月：周一至周日，早上9点至下午6点；<br>
-六月至八月：周一至周日，早上9点至晚上8点。<br>
-<b>注</b>：动物园在每年的法定假日期间开放时间会有所调整。
+<b>Opening Hours</b>:<br>
+November to February of the following year: Monday to Sunday, 10:00 AM to 4:00 PM (Tuesday open until 6:00 PM);<br>
+March to April: Monday to Sunday, 10:00 AM to 5:00 PM (open until 6:00 PM during Dino Lights event);<br>
+May, September: Monday to Sunday, 9:00 AM to 6:00 PM;<br>
+June to August: Monday to Sunday, 9:00 AM to 8:00 PM.<br>
+<b>Note</b>: The zoo's opening hours may vary during public holidays each year.
 
-<b>门票</b>：<br>
-$25 成人（16岁以上非本地居民）；<br>
-$18 阿拉斯加居民（16岁以上），需要出示学生ID；<br>
-$16 老年人（65岁以上）或军人，需要出示军人服务证明；<br>
-$12 青少年（3-15岁）；<br>
-2岁及以下儿童免费。
+<b>Admission</b>:<br>
+$25 Adults (ages 16 and older, non-residents);<br>
+$18 Alaska Residents (ages 16 and older), must show student ID;<br>
+$16 Seniors (ages 65 and older) or Military, must show military service proof;<br>
+$12 Youth (ages 3-15);<br>
+Children aged 2 and under are free.
 
-<b>预计游览时间</b>：2小时。
+<b>Expected Visited Duration</b>: 2 hours.
 
-地址：4731 O'Malley Rd, Anchorage, AK 99507；<br>
-电话：+1 907-346-3242；<br>
-网站：<a href="https://www.alaskazoo.org/" class="custom-link-1">安克雷奇动物园</a>。
+Address: 4731 O'Malley Rd, Anchorage, AK 99507;<br>
+Phone: +1 907-346-3242;<br>
+Website: <a href="https://www.alaskazoo.org/" class="custom-link-1">Alaska Zoo</a>.
 
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d33597.944913313804!2d-149.84574440772968!3d61.14293558317947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c89a04f821661f%3A0xa18c6267f53e05ea!2z6Zi_5ouJ5pav5Yqg5Yqo54mp5Zut!5e0!3m2!1szh-CN!2sus!4v1740332795133!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -137,39 +137,39 @@ $12 青少年（3-15岁）；<br>
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">安克雷奇动物园</div>
+      <div class="map-card-title">Alaska Zoo</div>
       <div class="map-card-address">4731 O'Malley Rd, Anchorage, AK 99507</div>
     </div>
   </a>
 </div>
 
-### &#9642; <span style="color: #71D7FF;">安克雷奇植物园 (Alaska Botanical Garden) (not visited)</span>
+### &#9642; <span style="color: #71D7FF;">Alaska Botanical Garden (not visited)</span>
 
-安克雷奇植物园位于安克雷奇市东部郊区。植物园内有超过1200种植物。在冬季，植物园会举办灯光秀活动，参观时段分为白天与夜晚两种。
+Alaska Botanical Garden is located in the eastern suburbs of Anchorage. The garden is home to over 1,200 species of plants. In winter, the garden hosts a light show, with visiting hours divided into daytime and nighttime.
 
-<b>开放时间（白天）</b>：<br>
-周一至周四：需要预约；<br>
-周五至周六：12:00 p.m.至4:00 p.m.；<br>
-周日：闭馆。
+<b>Opening Hours (Daytime)</b>:<br>
+Monday to Thursday: Appointment required;<br>
+Friday to Saturday: 12:00 p.m. to 4:00 p.m.;<br>
+Sunday: Closed.
 
-<b>注</b>：<br>
-1， 周一至周四需致电907-770-3692预约参观时间；<br>
-2， 周五至周六的最后入园时间为下午3点30分；<br>
+<b>Note</b>:<br>
+1, Monday to Thursday requires an appointment by calling 907-770-3692;<br>
+2, The last entry time on Friday to Saturday is 3:30 p.m.;<br>
 
-<b>门票</b>：$5，6岁以下儿童以及植物园会员免费。
+<b>Admission</b>: $5, free for children under 6 and garden members.
 
-<b>开放时间（冬季夜晚）</b>：<br>
-周五至周六：5:00 p.m.至8:00 p.m.<br>
+<b>Opening Hours (Winter Night)</b>:<br>
+Friday to Saturday: 5:00 p.m. to 8:00 p.m.<br>
 
-<b>注</b>：周五与周六最后入园时间为7:30 p.m.
+<b>Note</b>: The last entry time on Friday and Saturday is 7:30 p.m.
 
-<b>门票</b>：$10（非会员），$6（会员），6岁及以下儿童免费。
+<b>Admission</b>: $10 (non-members), $6 (members), free for children under 6.
 
-<b>预计游览时间</b>：1小时。
+<b>Expected Visited Duration</b>: 1 hour.
 
-地址：4601 Campbell Airstrip Rd, Anchorage, AK 99507；<br>
-电话：+1 907-770-3692；<br>
-网站：<a href="https://alaskabg.org/" class="custom-link-1">安克雷奇植物园</a>。
+Address: 4601 Campbell Airstrip Rd, Anchorage, AK 99507;<br>
+Phone: +1 907-770-3692;<br>
+Website: <a href="https://alaskabg.org/" class="custom-link-1">Alaska Botanical Garden</a>.
 
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d61532.7727912549!2d-149.87592607010507!3d61.18706100081363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c896d7e53505fb%3A0x52486d0012981808!2sAlaska%20Botanical%20Garden!5e0!3m2!1szh-CN!2sus!4v1740334675962!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -181,31 +181,31 @@ $12 青少年（3-15岁）；<br>
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">安克雷奇植物园</div>
+      <div class="map-card-title">Alaska Botanical Garden</div>
       <div class="map-card-address">4601 Campbell Airstrip Rd, Anchorage, AK 99507</div>
     </div>
   </a>
 </div>
 
-### &#9642; <span style="color: #71D7FF;">地震公园 (Earthquake Park)</span>
+### &#9642; <span style="color: #71D7FF;">Earthquake Park</span>
 
-地震公园位于泰德·史蒂文斯安克雷奇国际机场北部，安克雷奇市西南角。地震公园旨在纪念于1964年3月27日发生的安克雷奇大地震（由于当天恰好是耶稣受难日，故又称耶稣受难日地震）。安克雷奇大地震的里氏震级为8.5，矩震级为9.2，是北美洲有记录以来最强烈的地震，也是自1900年系统的地震测量方法问世以来，全球第二强烈的地震。地震引发了海啸，造成了阿拉斯加地区共139人死亡与彼时3亿美元的损失。地震公园内有现存的地震遗迹。
+Earthquake Park is located north of Ted Stevens Anchorage International Airport, at the southwest corner of the city of Anchorage. The park is dedicated to commemorating the Great Alaska Earthquake that occurred on March 27, 1964 (also known as Good Friday Earthquake, as it happened to fall on Good Friday). The earthquake had a magnitude of 8.5 and a moment magnitude of 9.2, making it the strongest earthquake ever recorded in North America and the second strongest earthquake globally since the advent of systematic seismic measurement methods in 1900. The earthquake triggered a tsunami, resulting in a total of 139 deaths and $300 million in damages in the Alaska region. The park contains existing geological features from the earthquake.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3362.JPG.jpeg">
   <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3362.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地震公园内一景，平静地似乎看不出曾经大地震的痕迹。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">A view in Earthquake Park, seemingly calm and showing no signs of the past earthquake.</figcaption>
 </div>
 
-<b>开放时间</b>：全天开放。
+<b>Opening Hours</b>: Open all day.
 
-<b>门票</b>：免费。
+<b>Admission</b>: Free.
 
-<b>预计游览时间</b>：1小时。
+<b>Expected Visited Duration</b>: 1 hour.
 
-地址：5101 Point Woronzof Rd, Anchorage, AK 99502；<br>
-电话：+1 907-3434-355；<br>
-网站：无官方网站。相关信息可参阅<a href="https://www.alaska.org/detail/earthquake-park" class="custom-link-1">alaska.org</a>与<a href="https://www.anchorage.net/outdoors/trails-and-local-parks/earthquake-park/" class="custom-link-1">Visit Alaska</a>。
+Address: 5101 Point Woronzof Rd, Anchorage, AK 99502;<br>
+Phone: +1 907-3434-355;<br>
+Website: No official website. For more information, please refer to <a href="https://www.alaska.org/detail/earthquake-park" class="custom-link-1">alaska.org</a> and <a href="https://www.anchorage.net/outdoors/trails-and-local-parks/earthquake-park/" class="custom-link-1">Visit Alaska</a>.
 
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5437.547397575755!2d-149.97018095679482!3d61.19420383146667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x56c8bd40a230606f%3A0x978a1d820daedc47!2sEarthquake%20Park!5e0!3m2!1szh-CN!2sus!4v1740365635384!5m2!1szh-CN!2sus" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -217,7 +217,7 @@ $12 青少年（3-15岁）；<br>
       <img src="/assets/images/Travel/Chicago River Tour/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">地震公园</div>
+      <div class="map-card-title">Earthquake Park</div>
       <div class="map-card-address">5101 Point Woronzof Rd, Anchorage, AK 99502</div>
     </div>
   </a>
