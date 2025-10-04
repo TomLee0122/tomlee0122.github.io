@@ -2,4 +2,4 @@ source "https://rubygems.org"
 gemspec
 
 
-# bundle exec jekyll serve
+gem "jekyll-paginate-v2"
