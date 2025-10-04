@@ -11,11 +11,11 @@ classes: homepage
 <div class="profile-wrapper">
   <img src="/assets/images/selfie.jpg" alt="My Photo" class="profile-pic">
 <p>
-你好，我是李翊昆（Lǐ Yì Kūn），欢迎来到我的个人网站！我目前是<a href="https://statistics.northwestern.edu/" class="custom-link-3">西北大学统计与数据科学系</a>的三年级博士生，导师是 <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>。目前我们正在研究 Gaussian sequence 模型下的鲁棒性均值检验问题的 minimax 界。
+你好，我是李翊昆（Lǐ Yì Kūn），欢迎来到我的个人网站！我目前是<a href="https://statistics.northwestern.edu/" class="custom-link-3">西北大学统计与数据科学系</a>的三年级博士生，导师是 <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>。近期我们在研究 Gaussian sequence 模型下的鲁棒均值检验问题的 minimax 界。
 </p>
 
 <p>
-在就读于西北大学之前，我在<a href="https://www.pku.edu.cn/" class="custom-link-3">北京大学</a><a href="https://www.math.pku.edu.cn/" class="custom-link-3">数学科学学院</a><a href="https://www.stat.pku.edu.cn/" class="custom-link-3">概率与统计系</a>度过了四年美好的时光，并在那里获得了统计学学士学位。在本科学习中，我很幸运地得到了<a href="https://www.math.pku.edu.cn/teachers/linw/" class="custom-link-3">林伟教授</a>的指导。
+在就读于西北大学之前，我在<a href="https://www.pku.edu.cn/" class="custom-link-3">北京大学</a><a href="https://www.math.pku.edu.cn/" class="custom-link-3">数学科学学院</a><a href="https://www.stat.pku.edu.cn/" class="custom-link-3">概率与统计系</a>度过了四年美好的时光，并于2023年获得了统计学学士学位。在本科学习中，我很幸运地得到了<a href="https://www.math.pku.edu.cn/teachers/linw/" class="custom-link-3">林伟教授</a>的指导。
 </p>
 
 <p>
