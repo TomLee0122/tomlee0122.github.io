@@ -25,6 +25,7 @@ related: false
 read_time: false
 last_modified_at: 2025-09-11
 toc: true
+toc_label: '目录 (Table of Contents)'
 permalink: /tags/travel/Alaska-Tour-Plan
 ---
 
