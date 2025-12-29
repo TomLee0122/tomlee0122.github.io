@@ -24,7 +24,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2025-08-30
+last_modified_at: 2025-12-29
 toc: true
 # toc_label: '目录 (Table of Contents)'
 permalink: /tags/travel/Japan-Tour-Plan_EN/
@@ -342,7 +342,7 @@ World-renowned as the ultimate sanctuary for ACG (Anime, Comic, and Games) cultu
   <button class="collapse-toggle real_or_virtual" style="width: 90%;"
         aria-expanded="false"
         aria-controls="real_or_virtual_Akihabara">
-  <span style="font-family: 'ChineseFont';"><b>Anime Pilgrimage Guide</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Pilgrimage Guide</b></span>
 </button>
 </div>
 
@@ -531,7 +531,7 @@ Address: Shibuya, Tokyo, Japan.
   <button class="collapse-toggle real_or_virtual" style="width: 90%;"
         aria-expanded="false"
         aria-controls="real_or_virtual_Shibuya">
-  <span style="font-family: 'ChineseFont';"><b>Anime Pilgrimage Guide</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Pilgrimage Guide</b></span>
 </button>
 </div>
 
@@ -604,7 +604,7 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
   <button class="collapse-toggle real_or_virtual" style="width: 90%;"
         aria-expanded="false"
         aria-controls="real_or_virtual_Meiji_Shrine">
-  <span style="font-family: 'ChineseFont';"><b>Anime Pilgrimage Guide (To Be Completed)</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Pilgrimage Guide (To Be Completed)</b></span>
 </button>
 </div>
 
@@ -616,28 +616,28 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
   </div>
 </div>
 
-#### <span style="color: orange">新宿</span>
+#### <span style="color: orange">Shinjuku</span>
 
-新宿 (Shinjuku), 即新宿区，是东京都的一个特别区，位于东京都中心以西，是东京都最为繁华的区之一。新宿区以新宿站为中心，在周围纵横数个街区内聚集了大量的购物中心、酒吧、棋牌室等娱乐场所，<span class="reveal-on-hover">作为新宿的特色，它还拥有东京最大的红灯区，</span>著名的歌舞伎町一番街就位于新宿。新宿与涩谷 (Shibuya), 池袋 (Ikebukuro) 并称为东京的三大副都心。
+Shinjuku, a special ward of Tokyo located west of the city center, stands as one of the metropolis’s most thriving districts. Centered around Shinjuku Station, the area spans several blocks densely packed with shopping malls, bars, gaming parlors, and various entertainment venues. <span class="reveal-on-hover">A distinctive feature of Shinjuku is that it houses Tokyo’s largest red-light district;</span> the famous Kabukicho Ichibangai is located right here. Along with Shibuya and Ikebukuro, Shinjuku is recognized as one of Tokyo’s three major "Subcenters" (Fukudoshin).
 
 <div style="text-align: center;">    
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg" alt="" style="max-width: 70%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">新宿的歌舞伎町一番街。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Kabukicho Ichibangai in Shinjuku.</figcaption>
 </div>
 
-<b>开放时间</b>:全天开放。<span class="reveal-on-hover">（当然是夜晚开放了！）</span>
+<b>Opening Hours</b>: Open all day. <span class="reveal-on-hover">(Of course, it's open at night!)</span>
 
-<b>门票</b>:免费。<span class="reveal-on-hover">（免不免费取决于个人爱好！）</span>
+<b>Admission</b>: Free. <span class="reveal-on-hover">(Whether it's free depends on personal preference!)</span>
 
-<b>预计游览时间</b>:30分钟。<span class="reveal-on-hover">（游览时间由游览项目决定！）</span>
+<b>Estimated Visit Duration</b>: 30 minutes. <span class="reveal-on-hover">(The duration depends on the activities chosen!)</span>
 
-地址:〒160-0021 东京都新宿区<br>
+Address: 〒160-0021 Shinjuku, Tokyo
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.246847669134!2d139.70057457664808!3d35.69554267258274!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cd84e865c35%3A0x33418e00dfeefac!2z5pel5pys44CSMTYwLTAwMjEg5Lic5Lqs6YO95paw5a6_5Yy65q2M6Iie5LyO55S6!5e0!3m2!1szh-CN!2s!4v1752335113818!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的新宿。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Shinjuku.</figcaption>
 </div>
 
 <div class="map-card">
@@ -646,8 +646,8 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">新宿</div>
-      <div class="map-card-address">Shinjuku, Tokyo 160-0021日本</div>
+      <div class="map-card-title">Shinjuku</div>
+      <div class="map-card-address">Shinjuku, Tokyo 160-0021 Japan</div>
     </div>
   </a>
 </div>
@@ -656,7 +656,7 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
   <button class="collapse-toggle real_or_virtual" style="width: 90%;"
         aria-expanded="false"
         aria-controls="real_or_virtual_Shinjuku">
-  <span style="font-family: 'ChineseFont';"><b>圣地巡礼案内</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Pilgrimage Guide</b></span>
 </button>
 </div>
 
@@ -664,42 +664,42 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
   <div style="text-align: center;">
     <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png">
     <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png" alt="" style="max-width: 90%; height: auto;"></a>
-    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">女神异闻录5:皇家版中的新宿商业街。</figcaption>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Shinjuku shopping street in Persona 5 Royal.</figcaption>
   </div>
   <div style="text-align: center;">
     <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg">
     <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-    <figcaption style="margin-top: 1em;">新宿街角一景。</figcaption>
+    <figcaption style="margin-top: 1em;">A street corner in Shinjuku.</figcaption>
   </div>
 </div>
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull;新宿的发展，离不开它脚下相对坚实的土地。1923年的关东大地震使得彼时东京的商业中心银座、浅草收到了很大打击，而所在地表相对稳定的新宿则受影响较小，这使得新宿在关东大地震之后发展迅速。<br>
+  &bull;The development of Shinjuku is closely tied to its relatively stable ground. The Great Kanto Earthquake of 1923 severely impacted Tokyo's commercial centers at the time, Ginza and Asakusa, while Shinjuku, located on more stable ground, was less affected. This allowed Shinjuku to develop rapidly after the earthquake.<br>
   </p>
 </blockquote>
 
-#### <span style="color: orange">代代木公园 (not visited)</span>
+#### <span style="color: orange">Yoyogi Park (not visited)</span>
 
-代代木公园位于东京都涩谷区，坐落在涩谷站北偏西的方位，是一座环境优美的大型城市公园。春天时，可在代代木公园赏樱花，平日也可以在代代木公园发现东京市井的各种活动与风情。
+Yoyogi Park is located in Shibuya, Tokyo, situated to the north-northwest of Shibuya Station. It is a large urban park with a beautiful environment. In spring, you can enjoy cherry blossoms in Yoyogi Park, and on weekdays, you can also discover various activities and local scenes of Tokyo in the park.
 
-<b>开放时间</b>:全天开放。
+<b>Opening Hours</b>: Open all day.
 
-<b>门票</b>:免费。
+<b>Admission</b>: Free.
 
-<b>预计游览时间</b>:30分钟。
+<b>Estimated Visit Duration</b>: 30 minutes.
 
-地址:2 Chome-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052日本；<br>
-电话:+81 3-3469-6081；<br>
-网站:<a href="https://www.tokyo-park.or.jp/park/format/index039.html" class="custom-link-3">代代木公园</a>。
+Address: 2 Chome-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052 Japan;<br>
+Phone: +81 3-3469-6081;<br>
+Website:<a href="https://www.tokyo-park.or.jp/park/format/index039.html" class="custom-link-3">Yoyogi Park</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.2817097854436!2d139.6923906766472!3d35.670064872590835!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cb479620a33%3A0x34bcc78ce7f8bf3e!2z5Luj5Luj5pyo5YWs5Zut!5e0!3m2!1szh-CN!2s!4v1752416802286!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的代代木公园。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Yoyogi Park.</figcaption>
 </div>
 
 <div class="map-card">
@@ -708,22 +708,22 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">代代木公园</div>
-      <div class="map-card-address">2 Chome-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052日本</div>
+      <div class="map-card-title">Yoyogi Park</div>
+      <div class="map-card-address">2 Chome-1 Yoyogikamizonocho, Shibuya City, Tokyo 151-0052 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">三轩茶屋 (not visited)</span>
+#### <span style="color: orange">Sangenjaya (not visited)</span>
 
-一个位于东京都世田谷区的看起来非常平常的区域，但同时又是人气非常高的住宅区。<span class="reveal-on-hover">（同时也是雨宫莲打工的卢布朗咖啡店所在地，“四轩茶屋”的现实原型。</span><span class="reveal-on-hover">可惜这次没有来得及去！！）</span>
+At first glance, this is a seemingly ordinary neighborhood in Tokyo’s Setagaya City, yet it remains an incredibly popular residential area. <span class="reveal-on-hover">(It is also the real-world inspiration for "Yongen-Jaya," the location of Café Leblanc where Ren Amamiya works. </span><span class="reveal-on-hover">Unfortunately, I didn't have enough time to visit this time!!)</span>
 
-地址:〒154-0024 东京都世田谷区
+Address: 〒154-0024 Setagaya City, Tokyo
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6484.899875553955!2d139.66283964789346!3d35.641284690400646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f49927231ef9%3A0xcc2931a04ac73fe6!2z5pel5pys44CSMTU0LTAwMjQg5Lic5Lqs6YO95LiW55Sw6LC35Yy65LiJ6L2p6Iy25bGL!5e0!3m2!1szh-CN!2s!4v1752418086506!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的三轩茶屋。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Sangenjaya.</figcaption>
 </div>
 
 <div class="map-card">
@@ -732,20 +732,19 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">三轩茶屋</div>
-      <div class="map-card-address">Setagaya City, Tokyo 154-0024日本</div>
+      <div class="map-card-title">Sangenjaya</div>
+      <div class="map-card-address">Setagaya City, Tokyo 154-0024 Japan</div>
     </div>
   </a>
 </div>
 
 
 
-### 南部区域
+### Southern Area
 
-#### <span style="color: orange">东京塔</span>
+#### <span style="color: orange">Tokyo Tower</span>
 
-东京塔（又称东京铁塔，日本电波塔），是东京都的一座电波塔，主要用于发射电视与广播信号。东京塔建于1958年，高332.9米，是日本第二高的建筑物，仅次于<a href="/blogs/travel/Japan-Tour-Plan/#东京晴空塔天空树" class="custom-link-3">东京晴空塔</a>。东京塔以其简洁优美的外形，每年吸引了众多游客参观。<span class="reveal-on-hover">（同时也是众多日本电视剧、动漫、游戏的取景地！）</span>
-
+Tokyo Tower (officially the Nippon Television City Corporation tower) is a telecommunications and observation tower in Tokyo, primarily used for broadcasting television and radio signals. Built in 1958 and standing at 332.9 meters, it is the second-tallest structure in Japan, surpassed only by the <a href="/blogs/travel/Japan-Tour-Plan/#Tokyo-Skytree" class="custom-link-3">Tokyo Skytree</a>. With its elegant and minimalist silhouette, Tokyo Tower attracts millions of visitors annually. <span class="reveal-on-hover">(It is also an iconic filming location for countless Japanese dramas, anime, and games!)</span>
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" class="gallery-item" style="max-width:47.5%;">
     <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" alt="Image 1">
@@ -755,27 +754,27 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">东京塔。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">Tokyo Tower.</figcaption>
 
-<b>开放时间</b>:9:00 a.m.-11:00 p.m.（最后入场时间为10:30 p.m.）
+<b>Opening Hours</b>: 9:00 a.m. - 11:00 p.m. (Last admission at 10:30 p.m.)
 
-<b>门票</b>:<br>
-¥1500 成人；<br>
-¥1200 高中学生；<br>
-¥900 小学与初中学生；<br>
-¥600 幼儿（4岁以上）；<br>
-免费 4岁及以下婴幼儿。
+<b>Tickets</b>:<br>
+¥1500 Adults;<br>
+¥1200 High School Students;<br>
+¥900 Elementary and Junior High School Students;<br>
+¥600 Children (4 years and older);<br>
+Free for infants 4 years and under.
 
-<b>预计游览时间</b>:1小时。
+<b>Estimated Visit Duration</b>: 1 hour.
 
-地址:4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011日本；<br>
-电话:+81 3-3433-5111；<br>
-网站:<a href="https://cn.tokyotower.co.jp/" class="custom-link-3">东京塔</a>。
+Address: 4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011 Japan;<br>
+Phone: +81 3-3433-5111;<br>
+Website: <a href="https://cn.tokyotower.co.jp/" class="custom-link-3">Tokyo Tower</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7479757770852!2d139.74285797664683!3d35.65858047259467!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbd9009ec09%3A0x481a93f0d2a409dd!2z5Lic5Lqs6ZOB5aGU!5e0!3m2!1szh-CN!2s!4v1752419833639!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的东京塔。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Tokyo Tower.</figcaption>
 </div>
 
 <div class="map-card">
@@ -784,48 +783,48 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">东京塔</div>
-      <div class="map-card-address">4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011日本</div>
+      <div class="map-card-title">Tokyo Tower</div>
+      <div class="map-card-address">4 Chome-2-8 Shibakoen, Minato City, Tokyo 105-0011 Japan</div>
     </div>
   </a>
 </div>
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull;东京塔是以巴黎的艾菲尔铁塔为原型建造的。<br>
+  &bull;Tokyo Tower was modeled after the Eiffel Tower in Paris.<br>
   </p>
   <p style="font-size:0.8em">
-  &bull;东京塔的外观是明亮的橙白相间的颜色。它每五年会被重新粉刷一次，每次粉刷需要一年时间。<br>
+  &bull;Tokyo Tower's exterior is painted in bright orange and white. It is repainted every five years, with each repainting taking one year to complete.<br>
   </p>
 </blockquote>
 
-#### <span style="color: orange">增上寺</span>
+#### <span style="color: orange">Zojoji Temple</span>
 
-增上寺位于东京都港区，临近东京塔，是一座净土宗寺院，山号为三缘山。
+Zojoji Temple is located in Minato City, Tokyo, near Tokyo Tower. It is a Jodo sect Buddhist temple, with the mountain name Sanyenzan.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">传统与现代:增上寺与其后的东京塔。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Tradition and Modernity: Zojoji Temple with Tokyo Tower in the background.</figcaption>
 </div>
 
-<b>开放时间</b>:9:00 a.m.-5:00 p.m.
+<b>Opening Hours</b>: 9:00 a.m. - 5:00 p.m.
 
-<b>门票</b>:免费。
+<b>Tickets</b>: Free.
 
-<b>预计游览时间</b>:30分钟。
+<b>Estimated Visit Duration</b>: 30 minutes.
 
-地址:4 Chome-7-35 Shibakoen, Minato City, Tokyo 105-0011日本；<br>
-电话:+81 3-3432-1431；<br>
-网站:<a href="https://www.zojoji.or.jp/" class="custom-link-3">增上寺</a>。
+Address: 4 Chome-7-35 Shibakoen, Minato City, Tokyo 105-0011 Japan;<br>
+Phone: +81 3-3432-1431;<br>
+Website: <a href="https://www.zojoji.or.jp/" class="custom-link-3">Zojoji Temple</a>.
 
 <b>地图位置</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7926897702123!2d139.74571787664684!3d35.657478972594916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbe91676c0b%3A0x88a4a86ddb1dbd24!2z5aKe5LiK5a-6!5e0!3m2!1szh-CN!2s!4v1752666666548!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的增上寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Zojoji Temple.</figcaption>
 </div>
 
 <div class="map-card">
@@ -834,18 +833,18 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">增上寺</div>
-      <div class="map-card-address">4 Chome-7-35 Shibakoen, Minato City, Tokyo 105-0011日本</div>
+      <div class="map-card-title">Zojoji Temple</div>
+      <div class="map-card-address">4 Chome-7-35 Shibakoen, Minato City, Tokyo 105-0011 Japan</div>
     </div>
   </a>
 </div>
 
-### 其他区域
+### Other Areas
 
 
-#### <span style="color: orange">日本航空与全日空航空机库</span>
+#### <span style="color: orange">Japan Airlines and All Nippon Airways Hangars</span>
 
-参观位于东京羽田空港的日本航空 (JAL) 和全日空 (ANA) 的机库，实地探索机库的组成、作用，了解飞机的维护和保养过程，近距离感受代表了人类现代航空工业技术的天空机器！
+Visit the hangars of Japan Airlines (JAL) and All Nippon Airways (ANA) located at Tokyo Haneda Airport. Explore the composition and functions of the hangars, learn about the maintenance and care processes of aircraft, and get up close to the sky machines that represent modern human aviation technology!
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_3570.JPG.jpeg" class="gallery-item">
@@ -877,28 +876,28 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">日本航空机库之旅。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">Japan Airlines Hangar Tour.</figcaption>
 
-<div style="margin-bottom: 0.5em;"><b>开放时间与预约信息</b>:</div>
+<div style="margin-bottom: 0.5em;"><b>Opening Hours and Reservation Information</b>:</div>
 
-<b>日本航空机库 (JAL Sky Museum)</b>: <br>
-周一、二、四、六、日（节假日不开放）:<br>
+<b>Japan Airlines Hangar (JAL Sky Museum)</b>: <br>
+Monday, Tuesday, Thursday, Saturday, Sunday (closed on public holidays):<br>
 9:30 a.m.-11:20 a.m.；<br>
 10:45 a.m.-12:35 p.m.；<br>
 2:45 p.m.-4:35 p.m.
 
-<b>预约信息</b>:提前一个月同一天的东京时间 9:30 a.m. 放出名额（若前一个月无此日期，则向后推迟一天）。<b>只接受<a href="https://www.jal.com/ja/kengaku/en/" class="custom-link-3">日本航空官网</a>预订</b>。
+<b>Reservation Information</b>: Slots are released at 9:30 a.m. Tokyo time one month in advance on the same day (if the date does not exist one month prior, it will be postponed by one day). <b>Reservations are only accepted through the <a href="https://www.jal.com/ja/kengaku/en/" class="custom-link-3">Japan Airlines official website</a></b>.
 
-<b>门票</b>:免费。
+<b>Tickets</b>: Free.
 
-地址:JALメインテナンスセンタ, 1, 3 Chome-5-1 Hanedakuko, Ota City, Tokyo 144-0041日本；<br>
-电话:+81 3-5460-3755；<br>
-网站:<a href="https://www.jal.co.jp/kengaku/" class="custom-link-3">日本航空官网</a>。
+Address: JAL Maintenance Center, 1, 3 Chome-5-1 Hanedakuko, Ota City, Tokyo 144-0041 Japan；<br>
+Phone: +81 3-5460-3755；<br>
+Website: <a href="https://www.jal.co.jp/kengaku/" class="custom-link-3">Japan Airlines official website</a>。
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.493231819025!2d139.78404829013283!3d35.541519002068206!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601865c4fe3606d1%3A0x113bcf8ac76912ec!2sJAL%20Sky%20Museum!5e0!3m2!1szh-CN!2s!4v1752668669629!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的日本航空机库。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Japan Airlines Hangar.</figcaption>
 </div>
 
 <div class="map-card">
@@ -907,33 +906,33 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">日本航空机库</div>
-      <div class="map-card-address">JALメインテナンスセンタ, 1, 3 Chome-5-1 Hanedakuko, Ota City, Tokyo 144-0041日本</div>
+      <div class="map-card-title">Japan Airlines Hangar</div>
+      <div class="map-card-address">JAL Maintenance Center, 1, 3 Chome-5-1 Hanedakuko, Ota City, Tokyo 144-0041 Japan</div>
     </div>
   </a>
 </div>
 
-<div style="margin-bottom: 0.5em;"><b>全日空航空机库 (ANA Blue Hanger)</b>:</div>
+<div style="margin-bottom: 0.5em;"><b>ANA Blue Hangar (ANA Blue Hangar)</b>:</div>
 
-周二至周六（节假日不开放）:<br>
+Tuesday to Saturday (closed on public holidays):<br>
 9:30 a.m.-10:45 a.m.；<br>
 10:45 a.m.-12:00 p.m.；<br>
 1:00 p.m.-2:15 p.m.；<br>
 2:15 p.m.-3:30 p.m.；<br>
 3:30 p.m.-4:45 p.m.
 
-<b>ANA Blue Hanger Tour</b>:同样<b>只接受网上预订</b>。提前30天的东京时间 9:30 a.m. 在<a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/reservation/" class="custom-link-3">全日空航空官网</a>放出名额，预约时间详见<a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/assets/pdf/schedule_2502.pdf" class="custom-link-3">表格</a>。请提前至少10分钟到达约定的集合地点。
+<b>ANA Blue Hangar Tour</b>: Similarly, <b>only online reservations are accepted</b>. Slots are released at 9:30 a.m. Tokyo time 30 days in advance on the <a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/reservation/" class="custom-link-3">ANA official website</a>. Reservation times can be found in the <a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/assets/pdf/schedule_2502.pdf" class="custom-link-3">schedule</a>. Please arrive at the designated meeting point at least 10 minutes early.
 
-<b>门票</b>:免费。
+<b>Tickets</b>: Free.
 
-地址:Component Maintenance Building, 3 Chome-5-5 Hanedakuko, Ota City, Tokyo 144-0041日本；<br>
-电话:+81 3-6700-2222；<br>
-网站:<a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/" class="custom-link-3">全日空航空官网</a>。
+Address: Component Maintenance Building, 3 Chome-5-5 Hanedakuko, Ota City, Tokyo 144-0041 Japan；<br>
+Phone: +81 3-6700-2222；<br>
+Website: <a href="https://www.anahd.co.jp/group/tour/ana-blue-hangar/" class="custom-link-3">ANA official website</a>。
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.648287094472!2d139.79091277664264!3d35.537688272634114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018641346eb558f%3A0xfc2324997c40613f!2sANA%20Aircraft%20Hangar!5e0!3m2!1szh-CN!2s!4v1752668535570!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的全日空航空机库。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of ANA Aircraft Hangar.</figcaption>
 </div>
 
 <div class="map-card">
@@ -942,38 +941,38 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">全日空航空机库。</div>
-      <div class="map-card-address">Component Maintenance Building, 3 Chome-5-5 Hanedakuko, Ota City, Tokyo 144-0041日本</div>
+      <div class="map-card-title">ANA Aircraft Hangar</div>
+      <div class="map-card-address">Component Maintenance Building, 3 Chome-5-5 Hanedakuko, Ota City, Tokyo 144-0041 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">三鹰之森吉卜力美术馆</span>
+#### <span style="color: orange">Ghibli Museum, Mitaka</span>
 
-三鹰之森吉卜力美术馆位于东京都三鹰市，是由著名动画制作工作室吉卜力工作室的创始人宫崎骏所创办的动画美术馆与博物馆，其中包含了大量宫崎骏动画元素。<span class="reveal-on-hover">绝对是能让宫崎骏动画的粉丝怦然心动的美术馆！！</span>
+The Ghibli Museum, Mitaka is located in Mitaka City, Tokyo, and was founded by Hayao Miyazaki, the renowned animator and co-founder of Studio Ghibli. The museum features numerous elements from Miyazaki's animations. <span class="reveal-on-hover">It is an absolute delight for fans of Miyazaki's animations!!</span>
 
-<b>开放时间与预约信息</b>:<br>
-每周除周二外:10:00 a.m.-6:00 p.m.<br>
-周二:闭馆<br>
+<b>Opening Hours and Reservation Information</b>:<br>
+Open every day except Tuesday: 10:00 a.m. - 6:00 p.m.<br>
+Tuesday: Closed<br>
 
-<b>参观日期上一个月10日的东京时间 10:00 a.m. 开始放票</b>，通过（给外国人版本的）<a href="https://l-tike.com/st1/ghibli-en/Tt/Ttg010agreement/index" class="custom-link-3">罗森订票平台</a>预定。
+<b>Tickets for the previous month are released at 10:00 a.m. Tokyo time on the 10th day of the previous month</b>, and can be reserved through the (foreign version) <a href="https://l-tike.com/st1/ghibli-en/Tt/Ttg010agreement/index" class="custom-link-3">Lawson ticketing platform</a>.
 
-<b>门票</b>:<br>
-成人 ¥1000<br>
-中学生与高中生 ¥700<br>
-小学生 ¥400<br>
-幼儿（4岁以上） ¥100<br>
-婴幼儿（4岁以下）免费
+<b>Tickets</b>:<br>
+Adult ¥1000<br>
+Junior High and High School Students ¥700<br>
+Elementary School Students ¥400<br>
+Children (4 years and older) ¥100<br>
+Infants (under 4 years old) Free
 
-<b>预计游览时间</b>:2小时。
+<b>Estimated Visit Duration</b>: 2 hours.
 
-地址:1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013日本；<br>
-网站:<a href="https://www.ghibli-museum.jp/" class="custom-link-3">三鹰之森吉卜力美术馆</a>。
+Address: 1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013 Japan；<br>
+Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Museum, Mitaka</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3240.2185968597164!2d139.567856776648!3d35.69623797258247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018ee34e5038c2d%3A0x4de155903f849205!2z5LiJ6bmw5LmL5qOu5ZCJ5Y2c5Yqb576O5pyv6aaG!5e0!3m2!1szh-CN!2s!4v1752769921672!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的三鹰之森吉卜力美术馆。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Ghibli Museum, Mitaka.</figcaption>
 </div>
 
 <div class="map-card">
@@ -982,8 +981,8 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">三鹰之森吉卜力美术馆</div>
-      <div class="map-card-address">1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013日本</div>
+      <div class="map-card-title">Ghibli Museum, Mitaka</div>
+      <div class="map-card-address">1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013 Japan</div>
     </div>
   </a>
 </div>
