@@ -32,6 +32,8 @@ permalink: /tags/travel/Japan-Tour-Plan
 
 <script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>
 
+<b><a href="/tags/travel/Japan-Tour-Plan_EN/" class="custom-link-3">English version</a> of the blog.</b>
+
 # <span style="color: #8E403A;">前言</span>
 
 这篇 blog 记录了 ptr 与我在2025年6月18日至6月27日的日本之行。全文包含了我们在最初规划时的主要旅行景点与详细日程，以及旅游过程中的诸多见闻，还包含了我们准备的有关日本交通出行的信息、各景区门票的预订情况与周边餐饮信息。 Blog 中各景点的介绍综合了网络上的信息与旅行中的了解。 ptr 在旅行之前查询了诸多有关日程、景点、住宿等等的信息，为整段旅程的框架奠定了良好基础。即使如此，异国之旅难免时有计划之外之变。整段旅程能较为顺利地完成，实属荣幸，在此要感谢 ptr. 此次旅程虽长达10天9晚，但日本仍有丰富的景点、文化、美食只能等日后再来探索。谨以纪念。
@@ -1956,9 +1958,9 @@ permalink: /tags/travel/Japan-Tour-Plan
 
 <b>开放时间</b>：6:00 a.m.-8:00 p.m.
 
-<b>门票</b>：免费
+<b>门票</b>：免费。
 
-<b>预计游览时间</b>：1.5小时
+<b>预计游览时间</b>：1.5小时。
 
 地址：180 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112日本；<br>
 电话：+81 75-741-2016；<br>

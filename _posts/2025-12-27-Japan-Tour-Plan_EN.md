@@ -26,11 +26,13 @@ related: false
 read_time: false
 last_modified_at: 2025-12-29
 toc: true
-# toc_label: '目录 (Table of Contents)'
+toc_label: 'Table of Contents'
 permalink: /tags/travel/Japan-Tour-Plan_EN/
 ---
 
 <script src="{{ '/assets/js/vendor/jquery/jquery-3.6.0.js' | relative_url }}"></script>
+
+<b>这篇 blog 的<a href="/tags/travel/Japan-Tour-Plan" class="custom-link-3">中文版本</a>。</b>
 
 # <span style="color: #8E403A;">Foreword</span>
 
@@ -821,7 +823,7 @@ Address: 4 Chome-7-35 Shibakoen, Minato City, Tokyo 105-0011 Japan;<br>
 Phone: +81 3-3432-1431;<br>
 Website: <a href="https://www.zojoji.or.jp/" class="custom-link-3">Zojoji Temple</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.7926897702123!2d139.74571787664684!3d35.657478972594916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bbe91676c0b%3A0x88a4a86ddb1dbd24!2z5aKe5LiK5a-6!5e0!3m2!1szh-CN!2s!4v1752666666548!5m2!1szh-CN!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Zojoji Temple.</figcaption>
@@ -987,35 +989,35 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-## <span style="color: #7F82BB;">富士山地区</span>
+## <span style="color: #7F82BB;">The Mount Fuji</span>
 
 <div class="my_section_hero" style="">
   <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3969_revised.JPG.jpeg')"></div>
   <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3954_revised.JPG.jpeg')"></div>
   <div class="my_section_hero_content" style="">
-    富士山 The Mount Fuji
+    The Mount Fuji
   </div>
 </div>
 
 <div class="short_introduction_wrapper" style="">
-  <b>富士山，位于日本中部的静冈县、山梨县，距离东京约80公里。“<em>谁能凭爱意要富士山私有。</em>”走在富士山前，你知道她永远是浪漫的，携樱花飘过一春又一春；你知道她永远是真诚的，将自己完整地展现在每一个欣赏它她的人面前；你也知道，她永远是善良的，静静地就在那里，纵然听着山脚下来去的人们对她的是非议论，将自己的祝福送到她喜欢的城市、村庄中。</b>
+  <b>Mount Fuji, situated across the Shizuoka and Yamanashi prefectures in central Japan, stands about 80 kilometers from Tokyo. As the lyric goes, <em>"Who can possess Mount Fuji by love alone?"</em> Standing before her, you realize she is eternally romantic, drifting through spring after spring with cherry blossoms in her wake. You see her eternal sincerity, as she reveals her complete self to all who admire her. And you sense her enduring kindness—standing there in silent grace, she remains unmoved by the fleeting chatter of the crowds below, instead quietly sending her blessings to the cities and villages she holds dear.</b>
 </div>
 
-### <span style="color: orange">富士山</span>
+### <span style="color: orange">The Mount Fuji</span>
 
 <div style="margin-top: 1em; margin-bottom: 1em; color: gray;">
-  <em >攀登富士山一次的人是智者，再攀登一次的人则是愚者。——日本谚语</em>
+  <em >"He who climbs Mount Fuji once is a wise man; he who climbs it twice is a fool." — Japanese Proverb</em>
 </div>
 
-闻名世界的富士山 (ふじさん, the Mount Fuji) 位于东京西南方向约80公里处，横跨静冈县与山梨县，主峰海拔3776米，是日本的最高峰。富士山是日本的象征之一，自古就在日本人民心中拥有崇高的地位，出现在大量日本古代的文献、诗歌、绘画等作品中。富士山与浅间神社于2013年被列入世界文化遗产。
+The world-renowned Mount Fuji (ふじさん, the Mount Fuji) is situated approximately 80 kilometers southwest of Tokyo, straddling the border between Shizuoka and Yamanashi prefectures. With its primary peak reaching an elevation of 3,776 meters, it stands as the highest mountain in Japan. As an enduring symbol of the nation, Mount Fuji has held a sacred status in the hearts of the Japanese people since ancient times, featuring prominently in a vast array of classical literature, poetry, and artwork. In 2013, Mount Fuji, along with the Fujisan Hongu Sengen Taisha shrines, was officially designated as a UNESCO World Heritage site.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">封面图之一:富士山与浅间神社同框。据 (ptr) 称是谈起日本时大多数人脑海中第一个浮现出的画面。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">One of the cover photos: Mount Fuji and the Sengen Shrine in a single frame. It is said (ptr) that this is the very first image that springs to mind for most people when thinking of Japan.</figcaption>
 </div>
 
-“合目”是日语中的一个单位，一合目表示从山脚到山顶高度的十分之一。富士山拥有路况良好的上山公路，可从山脚乘车（或自驾）到达富士山五合目，一路上有众多标志与观景台可打卡。富士山五合目是富士山景区最大的休息、补充营地，有着许多食品店与纪念品商店，同时还拥有富士邮便局与富士山小御岳神社！<span class="info_span" style="">对于不要求到达富士山顶的游客而言，富士山五合目非常适合作为富士山景区的最终目的地。</span>
+"合目" is a Japanese unit, where one "合目" represents one-tenth of the height from the base to the summit. Mount Fuji has well-maintained roads leading up the mountain, allowing visitors to travel by car (or drive themselves) to the fifth station of Mount Fuji. Along the way, there are numerous signs and viewing platforms to stop at. The fifth station of Mount Fuji is the largest rest and supply area in the Mount Fuji scenic area, featuring many food shops and souvenir stores, as well as the Fuji Post Office and the Mount Fuji Komitake Shrine! <span class="info_span" style="">For visitors who do not require reaching the summit of Mount Fuji, the fifth station is an excellent final destination within the Mount Fuji scenic area.</span>
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.jpg" class="gallery-item" style="max-width:47.5%;">
@@ -1026,176 +1028,173 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">从富士山五合目拍摄的天空与富士山。<em >所见宛如天境。</em></figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">Sky and Mount Fuji photographed from the fifth station of Mount Fuji. <em>TA sight like a realm of the heavens.</em></figcaption>
 
-富士山同时是观赏日出与日落的好去处，对于喜欢挑战的登山者，富士山顶也是值得发起挑战的地点。登顶富士山的路线大致有四条:须走路线、富士宫路线、御殿场路线和吉田路线。所有路线都从富士山的五合目开始。（并不一定是上述提到的富士山五合目！富士山的五合目可以有很多个。）下述有关路线的内容摘选自<a href="https://www.japan-travel.cn/spot/1308/" class="custom-link-3">日本国家旅游局</a>。
+Mount Fuji is a prime location for witnessing breathtaking sunrises and sunsets. For adventurous climbers, reaching the summit is a challenge well worth undertaking. There are four main routes to the top: the Subashiri Trail, the Fujinomiya Trail, the Gotemba Trail, and the Yoshida Trail. All routes commence at the "5th Station" (note that there are several "5th Stations" around the mountain, not just one specific location). The following details regarding these routes are excerpted from the <a href="https://www.japan-travel.cn/spot/1308/" class="custom-link-3">Japan National Tourism Organization (JNTO)</a>.
 
 <div style="text-align: center; margin-bottom: 1em;">
   <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="fuji-route-1">
-  <span style="font-family: 'ChineseFont';"><b>须走路线</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Subashiri Trail</b></span>
 </button>
 </div>
 
-
 <div id="fuji-route-1" class="collapse-panel" hidden>
 
-<p>多样化的地形、较少的登山客人潮，再加上有趣的下山路线，让这里成为攻顶富士山的绝佳路线。从海拔高度约2000米处开始，须走路线以林木覆盖的绵延路径和优美风景为特色。沿途有许多设施，且整条路线皆面朝东方，因此是欣赏日出的绝佳选择。</p>
+<p>Diverse terrain, fewer climbers, and an interesting descent route make this an excellent route to the summit of Mount Fuji. Starting at an altitude of about 2000 meters, the Subashiri Trail is characterized by forest-covered winding paths and beautiful scenery. There are many facilities along the way, and the entire route faces east, making it an excellent choice for watching the sunrise.</p>
 
-<p style=""><b>路线一览</b>:<br>
-&bull; 从海拔1970米的须走口五合目出发；<br>
-&bull; <b>登山</b>:约5-7个小时，而且前半段路程都有林荫遮蔽；<br>
-&bull; <b>下山</b>:约2-4个小时，从七合目开始可以享受愉快的绵延山路；<br>
-&bull; 登山与下山的路线<b>不同</b>。</p>
+<p style=""><b>Route Overview</b>:<br>
+&bull; Starting from the Subashiri 5th Station at an altitude of 1970 meters;<br>
+&bull; <b>Ascent</b>: about 5-7 hours, with shade covering the first half of the route;<br>
+&bull; <b>Descent</b>: about 2-4 hours, enjoying the pleasant winding mountain path from the 7th Station;<br>
+&bull; The ascent and descent routes are <b>different</b>.</p>
 
-<p style=""><b>路线概要</b>:<br>
-须走是较少人选择的登山路线，但也是同样值得尝试的路线。攀登过程的前半段（直到近七合目的地方）会穿过森林区域，有大量林荫可以遮挡太阳。这条路线以其绵延的火山沙路径，以及下山路线的碎石而闻名，因此可以迅速地滑走下山。请小心，这条路线在通过八合目的地方，会和最受欢迎的吉田路线合并，因此在大约日出的时间，会造成前进速度缓慢和山顶人流堵塞。幸好，一旦您的高度高于林木线，在须走路线的各处都能欣赏到日出。</p>
+<p style=""><b>Route Overview</b>:<br>
+Subashiri is a less frequented climbing route but equally worth trying. The first half of the ascent (up to near the 7th Station) passes through forested areas, providing ample shade from the sun. This route is known for its long volcanic sand paths and the rocky descent route, allowing for a quick slide down. Be cautious, as this route merges with the popular Yoshida Trail around the 8th Station, which can cause slow progress and crowding near the summit around sunrise. Fortunately, once above the tree line, you can enjoy the sunrise from various points along the Subashiri Trail.</p>
 
-<p style=""><b>设施</b>:<br>
-在登山过程中，须走路线的沿途设有许多山庄。多数站点都设有山庄与洗手间（一次 200-300 日元使用费），并贩卖食物与饮品。沿途都有机会购买登山杖，而且可以在每家山庄给登山杖盖章。从八合目到山顶是登山过程中最长的一段路，若中途不做休息，行走也要超过 100 分钟，因此请务必到御来光馆休息一下，因为这里是抵达山顶前的最后一处山庄。</p>
+<p style=""><b>Facilities</b>:<br>
+Along the Subashiri route, there are many mountain huts. Most stations have huts and restrooms (usage fee of 200-300 yen), and sell food and drinks. You can also purchase hiking poles along the way and get them stamped at each hut. The section from the 8th Station to the summit is the longest part of the climb, taking over 100 minutes without breaks, so be sure to rest at the Goraikoukan hut, the last hut before the summit.</p>
 
-<p style=""><b>开始登山</b>:<br>
-搭乘巴士到达富士山东侧的须走口五合目。从御殿场站出发的巴士，多数时间都是从早上7点35分到下午5点35分，往返车费为2100日元。在五合目，您可以找到两家商店、一座游客信息服务中心以及洗手间。请注意，现场并未提供置物柜，因此请仅携带登山所需要的物品。</p>
+<p style=""><b>Starting the Climb</b>:<br>
+Take a bus to the Subashiri 5th Station on the east side of Mount Fuji. Buses from Gotemba Station generally run from 7:35 AM to 5:35 PM, with a round-trip fare of 2100 yen. At the 5th Station, you can find two shops, a tourist information center, and restrooms. Please note that there are no lockers available on-site, so only bring the items necessary for climbing.</p>
 
-<p style=""><b>到达登山口</b>:<br>
-在登山旺季时，最方便的交通方式就是从御殿场站搭乘巴士。另外，您也可以自驾到达须走多功能广场 (Subashiri Multipurpose Square)，然后搭乘接驳巴士到五合目登山口。</p>
+<p style=""><b>Reaching the Trailhead</b>:<br>
+During the climbing season, the most convenient way to reach the trailhead is by bus from Gotemba Station. Alternatively, you can drive to the Subashiri Multipurpose Square and then take a shuttle bus to the 5th Station trailhead.</p>
 
-<p style=""><b>攀登过程</b>:<br>
-从五合目到山顶的攀登过程，预计至少要5.5个小时。登山的前半段，是会通过森林地形的迷人健行路线。而最长的一段路程是在八合目到山顶之间，约需100分钟。须走路线也是从这里开始和吉田路线合并，人流更多，前行缓慢。登山时请考虑到这一点，特别是在周末与假日时，因为有大批行走在狭窄山路上的登山客，所以最后的这一段路会花费更多的时间。<br>
-从山顶往下走时，在接近八合目的地方请务必更加小心。道路有分岔处，因此容易不小心走错方向，往下走到吉田路线，可能会带您走到与出发时不一样的五合目。在七合目，您会遇到这条路线上的砂走（砂子滑走步道）路线。请务必使用护腿或绑腿，享受大步滑着火山沉积物直冲下山的自由感受。</p>
+<p style=""><b>Climbing Process</b>:<br>
+The climb from the 5th Station to the summit is expected to take at least 5.5 hours. The first half of the ascent passes through charming forested terrain. The longest section is between the 8th Station and the summit, taking about 100 minutes. The Subashiri route merges with the Yoshida route starting here, leading to more crowds and slower progress. Keep this in mind, especially on weekends and holidays, as the narrow mountain paths can become congested, making the final stretch take longer. When descending from the summit, be extra cautious near the 8th Station, as the trail forks and it's easy to accidentally take the wrong path down to the Yoshida route, which may lead you to a different 5th Station than your starting point. At the 7th Station, you'll encounter the sand run section of this route. Be sure to use gaiters or leg wraps and enjoy the freedom of sliding down the volcanic deposits in large strides.</p>
 
-<p style=""><b>住宿地点</b>:<br>
-对于想登山观日出，且先到山庄过夜的登山客，强烈建议上山前预约房间。<br>
-御来光馆是八合目与九合目之间的中间站，海拔高度约为3450米。设有基本的睡觉设施:提供毯子与枕头，并且是和其他登山客一起睡大通铺。价格为11000日元起。</p>
+<p style=""><b>Accommodation</b>:<br>
+For climbers who want to watch the sunrise and stay overnight at a mountain hut, it is strongly recommended to book a room in advance.<br>
+Goraikoukan is a mid-station between the 8th and 9th Stations, located at an altitude of about 3450 meters. It offers basic sleeping facilities: blankets and pillows are provided, and guests sleep in a large dormitory-style room with other climbers. Prices start at 11,000 yen.</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 1em;">
   <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="fuji-route-2">
-  <span style="font-family: 'ChineseFont';"><b>富士宫路线</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Fujinomiya Trail</b></span>
 </button>
 </div>
 
 <div id="fuji-route-2" class="collapse-panel" hidden>
-<p>相较于其他三条步道的五合目出发点，富士宫路线五合目出发点的位置更高，因此登山距离最短。在登山旺季会有拥挤人潮，但热门程度略逊于吉田路线。</p>
+<p>Compared to the other three trailheads at the 5th Station, the Fujinomiya Route's 5th Station is located at a higher altitude, making the climbing distance the shortest. During the climbing season, it can get crowded, but it is slightly less popular than the Yoshida Route.</p>
 
-<p><b>路线一览</b>:<br>
-&bull; 从富士宫口五合目开始，海拔高度约为2400米；<br>
-&bull; 上山路线:4.3公里。约需5-7个小时。有相当数量的设施<br>
-&bull; 下山路线:4.3公里。依天气状况与人潮，约需3个小时<br>
-&bull; 可轻松到达宝永山，这是富士山的副峰之一，是在上一次火山喷发时形成（18世纪初）的。</p>
+<p><b>Route Overview</b>:<br>
+&bull; Starting from the Fujinomiya 5th Station, at an altitude of about 2400 meters;<br>
+&bull; Ascent route: 4.3 kilometers. Takes about 5-7 hours. Has a considerable number of facilities<br>
+&bull; Descent route: 4.3 kilometers. Depending on weather conditions and crowds, takes about 3 hours<br>
+&bull; Easily accessible to Mount Hoei, one of Fuji's secondary peaks, formed during the last volcanic eruption (early 18th century).</p>
 
-<p><b>路线概要</b>:<br>
-富士宫是第二热门的路线，因为这是唯一能从西日本轻松攻顶的登山口。拥有较具挑战性的坡度，以及多处的岩石路段，因此登山距离较短。由于是热门的登山路线，因此在登上山顶的沿途，会有多处山庄与设施可供使用。在登山季某些时候，在八合目也随时会有全天候24小时值班的医生，因此您可以安心登山。</p>
+<p><b>Route Overview</b>:<br>
+Fujinomiya is the second most popular route because it is the only trailhead that allows easy access to the summit from western Japan. It features a more challenging slope and several rocky sections, resulting in a shorter climbing distance. As a popular climbing route, there are many mountain huts and facilities along the way to the summit. During the climbing season, there is a doctor on duty 24/7 at the 8th Station, providing peace of mind for climbers.</p>
 
-<p><b>开始登山</b>:<br>
-富士宫路线从富士宫口五合目开始。您可以在这里的其中一家商店做最后补给、使用洗手间，让自己为前方的登山路程做好准备。前往旅客服务中心，取得地图以及实用的登山信息。</p>
+<p><b>Start Climbing</b>:<br>
+The Fujinomiya Route starts from the Fujinomiya 5th Station. Here, you can make your final purchases at one of the shops, use the restrooms, and prepare yourself for the upcoming climb. Visit the visitor center to obtain maps and useful climbing information.</p>
 
-<p><b>到达登山口</b>:<br>
-从静冈的许多地点及主要火车站，都能搭乘巴士与接驳车到富士宫口五合目。<br>
-搭乘连接东京与京都的新干线到三岛站，从早上7点40分到下午4点，大约每两个小时就会有一班固定路线巴士，车程约为2个小时，往返车费为3200日元。不需要提前预约。<br>
-同样搭乘新干线到新富士站，每个小时会有一班前往登山口的巴士，并且会停靠在富士站与富士宫站。巴士的服务时间是从早上10点开始（若从富士宫站则为早上8点10分），车程约为2.5个小时，往返车费为3200日元。这条路线的巴士不用提前预约。<br>
-若是想自驾前往的游客，在登山旺季（七月到九月），前往五合目登山口的所有道路皆禁止私人车辆进入。若要开车到富士宫口五合目，您应该将车子停在水冢停车场，然后搭乘接驳车或出租车到五合目；接驳车为每60分钟一班（从早上6点到下午5点），往返车费为2000日元。单程的出租车资约为4750日元。</p>
+<p><b>Getting to the Trailhead</b>:<br>
+From many locations in Shizuoka and major train stations, you can take buses and shuttles to the Fujinomiya 5th Station.<br>
+Take the Shinkansen connecting Tokyo and Kyoto to Mishima Station. From 7:40 AM to 4:00 PM, there is a fixed-route bus approximately every two hours, with a travel time of about 2 hours and a round-trip fare of 3200 yen. No advance reservation is required.<br>
+Similarly, take the Shinkansen to Shin-Fuji Station, where there is a bus to the trailhead every hour, stopping at Fuji Station and Fujinomiya Station. The bus service starts at 10:00 AM (8:10 AM from Fujinomiya Station), with a travel time of about 2.5 hours and a round-trip fare of 3200 yen. No advance reservation is required for this route.<br>
+If you plan to drive, note that during the climbing season (July to September), all roads to the 5th Station trailhead are closed to private vehicles. If you want to drive to the Fujinomiya 5th Station, you should park at the Mizugatsuka Parking Lot and then take a shuttle bus or taxi to the 5th Station; the shuttle bus runs every 60 minutes (from 6:00 AM to 5:00 PM), with a round-trip fare of 2000 yen. A one-way taxi fare is approximately 4750 yen.</p>
 
-<p><b>攀登过程</b>:<br>
-从五合目到山顶的攀登过程，预计至少需要5个小时。到六合目之前是一小段的绵延山路，您将会在六合目找到几处山庄（云海庄与宝永山庄）。对于不想一路直登富士山山顶的人，可以在这里找到通往宝永山的较短登山路线。宝永山是在上一次大型火山喷发时形成的，当天气晴朗时，从山顶处还能欣赏到一览无遗的全景，可一路眺望到太平洋，甚至是东京。如同御殿场路线，从宝永山山顶下山时，会遇到一小段砂走（sunabashiri，即砂子滑走步道）路线。<br>
-假设您想继续前往富士山的山顶，就再继续往上爬约1小时，就能到达新七合目。您将能在这里找到御来光山庄，看见植被极少的荒芜景观。从新七合目到旧七合目，约需50分钟。请注意，随着您继续前进，地面开始呈红色调。到了这里，请留意四周，因为步道会变窄，而且在旺季时也会变得更加拥挤。<br>
-再前进40分钟，将会到达池田馆。请趁机休息一下，若您有任何健康方面的问题，请随时前往这里的健康中心，有医生全天候24小时值班协助。<br>
-在短暂休息后，再继续往上走30分钟会抵达九合目，这里设有万年雪山庄。在日出前的时段，这一段路会特别拥挤，而且也会变得更陡峭。强烈建议您在这里配戴安全帽。在步道以外的地方，您也可以看到积雪区。<br>
-再继续往前进30分钟后，就能抵达九合目与山顶之间的中间站，以及胸突山庄。这是抵达山顶前的最后一个山庄，所以请稍事休息，以做最后冲刺，登上富士山顶。到了这里，您只差221米就能抵达山顶。</p>
+<p><b>Climbing Process</b>:<br>
+The ascent from the 5th Station to the summit is estimated to take at least five hours. Leading up to the 6th Station is a stretch of rolling mountain paths, where you will find a couple of mountain huts (Unkaiso and Hoeisanso). For those who prefer not to trek all the way to the peak, a shorter trail leads to Mount Hoei. Formed during the volcano's last major eruption, Mount Hoei offers an unobstructed panoramic view on clear days, stretching all the way to the Pacific Ocean and even Tokyo. Similar to the Gotemba Trail, the descent from Mount Hoei features a section of Sunabashiri (sand-sliding path), where you can swiftly slide down through the volcanic scoria.<br>
+Assuming you wish to continue to the summit of Mount Fuji, another hour of climbing will bring you to the New 7th Station. Here, you will find the Goraiko-kan hut and encounter a barren landscape with very little vegetation. The trek from the New 7th Station to the Old 7th Station takes about 50 minutes. Please note that as you progress, the ground begins to take on a reddish hue. From this point on, stay alert as the trail narrows and can become quite congested during the peak season.<br>
+After another 40 minutes, you will reach the Ikedakan hut. Take this opportunity to rest; if you have any health concerns, feel free to visit the health center here, where doctors are on call 24/7 to assist you.<br>
+Following a short break, a 30-minute ascent will lead you to the 9th Station, home to the Mannen-yuki mountain hut. During the pre-dawn hours, this section becomes exceptionally crowded and the incline grows steeper. It is highly recommended to wear a helmet here. You may also spot patches of lingering snow off the main trail.<br>
+Another 30-minute climb will bring you to the midway point between the 9th Station and the summit, where the Munatsuki-sanso hut is located. This is the final mountain hut before the peak, so take a moment to recharge for the final push to the top. From here, you are only 221 meters away from the summit of Mount Fuji.</p>
 
-<p><b>住宿地点</b>:<br>
-御来光山庄位于七合目，海拔高度约为2780米。这个山庄提供单间与上下铺客房，平日的房价约为每晚6000日元。从这里到达山顶约只需3个小时，但您甚至可以在这个小屋观赏到日出。<br>
-若您想在休息之前更接近山顶，何不一路直接攻顶呢？顶上富士馆位于十合目，是位于山顶的最后终点站。旁边就是富士山本宫浅间大社奥宫的邮筒（方便寄明信片），而且再前进8分钟，就能抵达富士山的最高点。提供基本的日式床垫组，房价为5500日元（不含餐）以及7500日元（含两餐）。您可以通过电话、传真或电子邮件预约。</p>
+<p><b>Accommodation</b>:<br>
+Goraiko-kan is located at the 7th Station, at an altitude of approximately 2,780 meters. This mountain hut offers both private rooms and bunk beds, with rates starting at around 6,000 yen per night on weekdays. While it takes about three hours to reach the summit from here, you can witness the spectacular sunrise directly from the hut.<br>
+If you prefer to be even closer to the peak before resting, why not push all the way to the top? Chojo Fujikan, situated at the 10th Station, is the ultimate final stop at the summit. It is conveniently located next to the mailbox of the Fujisan Hongu Sengen Taisha Okumiya (perfect for sending postcards), and the highest point of Mount Fuji is just an 8-minute walk away. The hut provides basic Japanese futon sets, with rates at 5,500 yen (without meals) and 7,500 yen (including two meals). Reservations can be made via telephone, fax, or email.</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 1em;">
   <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="fuji-route-3">
-  <span style="font-family: 'ChineseFont';"><b>御殿场路线</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Gotemba Trail</b></span>
 </button>
 </div>
 
 <div id="fuji-route-3" class="collapse-panel" hidden>
 
-<p>在富士山的四条登山路线中，御殿场路线坡度最缓，登山客人数也最少，因此也最不拥挤。<br>
-从御殿场口五合目开始登山，其海拔高度约为1400米。在路线的一开始，只有少数的设施可供使用，因此请确保您携带各种必备物品，或在五合目购买齐全。沿途可欣赏绝佳景色，不过请适当补充水分以及做好防晒措施。</p>
+<p>Among the four climbing routes on Mount Fuji, the Gotemba Trail has the gentlest incline and attracts the fewest climbers, making it the least crowded option.<br>
+Your ascent begins at the Gotemba 5th Station, which sits at an altitude of approximately 1,400 meters. There are very few facilities available during the initial stage of this route, so please ensure you carry all essential supplies or purchase everything you need at the 5th Station before heading out. While the trail offers breathtaking views along the way, it is vital to stay properly hydrated and apply adequate sun protection.</p>
 
-<p><b>路线一览</b>:<br>
-&bull;为四条路线中，高度变化最明显的一条（1440米到3776米）；<br>
-&bull;登山:约需8-9个小时，大约直到七合目与八合目才设有数个设施；<br>
-&bull;下山:约需4个小时，有一大段大砂走（即砂子滑走步道）路线，让您可以在短时间内滑砂下山。</p>
+<p><b>Route Overview</b>:<br>
+&bull;Among the four routes, it has the most significant altitude change (1440 meters to 3776 meters);<br>
+&bull;Ascent: approximately 8-9 hours, with a few facilities only available around the 7th and 8th stations;<br>
+&bull;Descent: approximately 4 hours, featuring a long section of Sunabashiri (sand-sliding path) that allows you to slide down quickly.</p>
 
-<p><b>路线概要</b>:<br>
-登山人数约占最受欢迎的吉田路线的1/10，若希望不用人挤人地悠闲登山，御殿场路线即为最佳选择。沿着御殿场路线，往山上看去的景观大致上都相同，只有像灌木一样的零星植被，偶尔为基本上都是黑色火山沙的山坡增添些许色彩。由于地形开阔，因此请注意要补充水分和做好防晒，在这条登山路线上，防晒霜就是您的最佳伙伴。</p>
+<p><b>Route Overview</b>:<br>
+With only about one-tenth the number of climbers compared to the highly popular Yoshida Trail, the Gotemba Trail is the ideal choice for those seeking a tranquil ascent away from the crowds. Along this route, the upward view remains largely monotonous, with only sparse, shrub-like vegetation occasionally adding a splash of color to the slopes of black volcanic sand. Due to the open terrain and lack of shade, staying hydrated and protected from the sun is crucial—on this trail, sunscreen will truly be your best friend.</p>
 
-<p><b>设施</b>:<br>
-在御殿场口五合目，您将会找到一家小商店、一个巴士站、洗手间，其他设施并不多。在所有的五合目登山口中，此地发展的最少，而且整条路线几乎都是如此。在出发到达 Waraji 馆之前的4小时，沿途都没有任何设施，请务必在出发时就做好万全准备。在这条路线上，主要是从七合目之后开始设置有限的设施。请准备零钱以使用洗手间，一次100-300日元。</p>
+<p><b>Facilities</b>:<br>
+At the Gotemba 5th Station, you will find a small shop, a bus stop, and restrooms, but other facilities are limited. Among all the 5th Station trailheads, this one is the least developed, and the entire route is similarly sparse. There are no facilities for about four hours until you reach the Waraji Hut, so please be well-prepared before setting out. Limited facilities start appearing mainly after the 7th Station. Please have some change ready for restroom use, which costs between 100-300 yen per use.</p>
 
-<p><b>开始登山</b>:<br>
-从御殿场站搭乘巴士到达御殿场口五合目。单程车费为1130日元，往返车费则是1570日元，整段车程约为40分钟。前往富士山的巴士营运时间为早上7点35分到下午3点50分（约为每2个小时1班），而前往御殿场站的回程巴士营运时间则为上午9点15分到下午5点45分。不需要提前预约。</p>
+<p><b>Starting the Climb</b>:<br>
+From Gotemba Station, take a bus to the Gotemba 5th Station. A one-way ticket costs 1,130 yen, while a round-trip ticket is 1,570 yen. The bus ride takes approximately 40 minutes. Bus services to Mount Fuji operate from 7:35 AM to 3:50 PM (approximately one bus every two hours), and return services to Gotemba Station run from 9:15 AM to 5:45 PM. No advance reservation is required.</p>
 
-<p><b>攀登过程</b>:<br>
-从御殿场口五合目到富士山顶，有着相对轻松的爬坡，不过这条路线的距离明显比其他路线更长。从起点到七合目，大约需要4个小时，而且途中亦未设置任何设施。在一开始登山后，可以到五合目与六合目的 Jirobo 中间站稍事休息再继续前进，接着展开这条路线最辛苦的路段，也就是持续2个小时出头、几乎没有景色变化的之字形转向山路。您需要爬到3000米的海拔高度，才能看见第一家山庄。通过 Waraji 馆，并且继续前往八合目，您将会发现砂子地面逐渐转变为红色，若您停下脚步往山下俯看，就能欣赏山中湖的美景。<br>
-从八合目之后，建议您戴上安全帽，因为这条道路会变得更为陡峭，岩石路也会变多，而通往山顶的山路本身蜿蜒曲折。<br>
-您可以在出发前，向很多公司如Yamarent，租借安全帽与其他登山装备。<br>
-下山时，有一部分路线和登山路线重叠，最后会分岔来到大砂走坡，或大家所谓的"大型砂子滑走步道"。顾名思义，您可以在这里加快速度，而且有一大段路能相对轻松地下山。在这段路上，由于会有大量细小尘土，因此请务必要使用护腿或绑腿，出于同样原因，您或许也会想戴上口罩或护目镜。雾气会迅速飘来，因此请小心别距离路标太远，以免迷路。</p>
+<p><b>Climbing Process</b>:<br>
+From the Gotemba 5th Station to the summit of Mount Fuji, the climb is relatively gentle, but this route is noticeably longer than the others. It takes about 4 hours to reach the 7th Station, and there are no facilities along the way. After starting the climb, you can take a short break at the Jirobo station between the 5th and 6th Stations before continuing. Then, you will face the most challenging section of this route, a zigzag mountain path lasting just over 2 hours with almost no change in scenery. You need to climb to an altitude of 3,000 meters to see the first mountain hut. After passing the Waraji Hut and continuing to the 8th Station, you will notice the sandy ground gradually turning red. If you stop and look down the mountain, you can enjoy the beautiful view of Lake Yamanaka.<br>
+After the 8th Station, it is recommended to wear a helmet because the road becomes steeper, with more rocky paths, and the trail to the summit itself is winding.<br>
+You can rent helmets and other climbing gear from various companies such as Yamarent before starting your climb.<br>
+During the descent, part of the route overlaps with the ascent path, eventually branching off to the Sunabashiri, or "large sand sliding path." As the name suggests, you can increase your speed here, and there is a long section where you can descend relatively easily. Due to the large amount of fine dust on this path, it is essential to use gaiters or leg wraps. For the same reason, you might also want to wear a mask or goggles. Fog can quickly roll in, so be careful not to stray too far from the trail markers to avoid getting lost.</p>
 
-<p><b>住宿地点</b>:<br>
-这条路线只有几家山庄可供住宿，而且各山庄都未设置英文网站，也没有订房选项。若要订房，请咨询游客中心，寻求订房协助。</p>
+<p><b>Accommodation</b>:<br>
+There are only a few mountain huts available for accommodation along this route, and none of them have English websites or booking options. If you wish to make a reservation, please consult the tourist center for assistance.</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 1em;">
 <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="fuji-route-4">
-  <span style="font-family: 'ChineseFont';"><b>吉田路线</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Yoshida Trail</b></span>
 </button>
 </div>
 
 <div id="fuji-route-4" class="collapse-panel" hidden>
 
-<p>由于可轻松登山，并且提供大量设施，让吉田路线成为最热门的攀登富士山路线。<br>
-登山是从富士山五合目开始。通过各合目一路往上攀登，若您有购买登山杖，还可以在沿途的不同山庄为登山杖烙印。登山时可以欣赏沿途的景色。</p>
+<p>As it offers a relatively easy ascent and a wide array of facilities, the Yoshida Trail has become the most popular route for climbing Mount Fuji.<br>
+The climb begins at the Fuji Subaru Line 5th Station. As you make your way up through the various stations, you can have your wooden walking stick branded with unique stamps at different mountain huts along the path. You can also enjoy the breathtaking scenery throughout your journey.</p>
 
-<p><b>路线一览</b>:<br>
-&bull;从海拔 2,300 米高的富士山五合目开始；<br>
-&bull;上山路线:6.8 公里。约需 5-7 小时。提供许多设施<br>
-&bull;下山路线:（距离正在确认中）。约为 3-5 个小时。八合目以下没有山庄/仅提供有限的设施<br>
-&bull;上下山的路线不同。</p>
+<p><b>Route Overview</b>:<br>
+&bull;Starts at the Fuji Subaru Line 5th Station, located at an elevation of 2,300 meters;<br>
+&bull;Ascent route: 6.8 kilometers. Approximately 5-7 hours. Offers many facilities<br>
+&bull;Descent route: (distance to be confirmed). Approximately 3-5 hours. No mountain huts below the 8th Station / limited facilities<br>
+&bull;Ascent and descent routes differ.</p>
+<p><b>Route Overview</b>:<br>
+The Yoshida Trail is currently the most popular of the four routes, with about three times the number of climbers compared to the second most popular Fujinomiya Trail. From the 6th Station to the 7th Station, the trail features a gentle zigzag path. After the 7th Station, the path becomes more rugged, and from the 8th Station onwards, the ascent and descent routes merge with the Subashiri Trail, making this section more congested, especially before sunrise.</p>
 
-<p><b>路线概要</b>:<br>
-吉田路线是目前四条路线中最热门的一条，登山客的人数是第二受欢迎的富士宫路线的三倍左右。从六合目到七合目，以坡度和缓的之字形山路为特色。经过七合目后，道路就会变得更加崎岖，从八合目之后，上、下山的路线就会和须走路线合并，这个路段会变得更加壅塞，特别是在日出前。</p>
+<p><b>Facilities</b>:<br>
+Comparatively, the Yoshida Trail is the most accessible route to the summit of Mount Fuji and is the most well-equipped with facilities spaced at intervals of approximately 60 to 90 minutes. These amenities include first-aid centers and on-call doctors at the 5th, 7th, and 8th Stations, along with vending machines and mountain huts. At the safety guidance center located at the 6th Station, helmets are available for rent with a refundable deposit of 2,000 yen. All mountain huts are equipped with restrooms (which require a small usage fee) and staff who can brand your walking stick. Upon reaching the summit, you even have the option to mail a letter from the top of the mountain.</p>
 
-<p><b>设施</b>:<br>
-相对来说，吉田路线是最容易登上富士山的路线，沿途设置的设施也最多，各设施之间约相隔1小时到90分钟的距离。相关设施包括急救中心，以及在五合目、七合目与八合目的值班医生、贩卖机以及山庄。在六合目的安全指导中心，可用2000日元的押金（可退还）租借安全帽。所有山庄都设有洗手间（需支付一定的使用费），还有能为登山杖盖章的工作人员。抵达山顶后，您甚至还可以选择从山顶寄信。</p>
+<p><b>Start Climbing</b>:<br>
+Yoshida Trail actually starts from the Kitaguchi Hongu Fuji Sengen Shrine at the foot of Mount Fuji. In the past, this shrine was the starting point for climbing Mount Fuji from the north side. Nowadays, most people choose to start from the Fuji Subaru Line 5th Station, significantly shortening the climbing time.</p>
 
-<p><b>开始登山</b>:<br>
-吉田路线实际是从富士山山脚的北口本宫富士浅间神社开始的。过去是以这家神社作为从富士山北侧攀登的起点。现在，多数人都是选择从富士斯巴鲁线五合目出发，大大缩短了登山时间。</p>
+<p><b>Getting to the Trailhead</b>:<br>
+To reach the main trailhead at the Fuji Subaru Line 5th Station, you can take a rapid bus from Tokyo, local buses from nearby stations, or drive yourself.<br>
+During the climbing season, rapid buses depart from Shinjuku, Tokyo. Reservations are required in advance.<br>
+From Fuji or Kawaguchiko Station to the 5th Station, buses run at least once every hour starting from 6:20 AM. These buses do not require prior reservations, and the round-trip fare is 2,300 yen.<br>
+If you rent a car, please park it at the Fuji Hokuroku Parking Area (1,000 yen per vehicle), then take a shuttle bus to the 5th Station (round-trip fare is 2,100 yen). The shuttle bus operates from 5:30 AM to 7:00 PM, with a bus every 30 minutes; on Fridays and Saturdays, the shuttle bus starts earlier.</p>
 
-<p><b>到达登山口</b>:<br>
-要到达富士山五合目的主要登山口，可从东京搭乘快速巴士、从邻近车站搭乘当地巴士或自驾前往。<br>
-在登山季节期间，快速巴士会从东京新宿出发。须事前预约。<br>
-从富士山或河口湖站到五合目，从早上6点20开始，至少每个小时都会有一班车。这些巴士无需事先预约，往返车费为2300日元。<br>
-若租车，请将车子停放在富士北麓停车区（每辆车1000日元），然后搭乘接驳巴士到五合目（往返车费为2100日元）。接驳巴士的营运时间为早上5点30分到晚上7点，且每30分钟一班；在周五与周六，接驳巴士更会提早发车。</p>
+<p><b>Climbing Process</b>:<br>
+The ascent from the 5th Station to the summit is expected to take at least six hours. The segment from the 7th to the 8th Station is the longest, requiring over 100 minutes to complete as the altitude rises from 2,700 to 3,100 meters. Around this stretch, the terrain transitions from flat switchbacks to steeper, rocky paths. The final section from the 8th Station to the summit is the most congested and slowest-moving part, as the Yoshida and Subashiri trails merge here. If you plan to watch the sunrise from the peak, please allow yourself plenty of extra time.<br>
+Since this is the most accessible route compared to others, take the opportunity to enjoy the scenery during your climb. Maintain a comfortable pace from the start and try to rest once every hour. Pay close attention to the signage, especially during your descent. The Subashiri and Yoshida trails share the same path down to the 8th Station before branching off; it is easy to accidentally take the wrong turn if you aren't careful. When following the Yoshida Trail, be sure to follow the yellow trail markers.</p>
 
-<p><b>攀登过程</b>:<br>
-从五合目到山顶的攀登过程，预计至少要6个小时。从七合目到八合目的山路最长，需要超过100分钟才能走完，而且海拔高度会从2700米增至3100米。大约在这一段，地形也会从平坦的之字形山路，变成较陡峭的岩石路。从八合目到山顶的这段路程，由于吉田路线和须走路线合并到一起，因此是最为拥挤且前进速度最慢的一段。若您想到山顶观赏日出，请预留充裕的时间。<br>
-由于与其他攀登富士山的路线相比，这是最容易的路线，因此，在上下山过程中，请尽情地欣赏沿途风景，从一开始就以自在的步调攀登，并请每个小时休息一次。请留意路标，特别是在下山时。须走路线与吉田路线在八合目之前会共享同条路径，之后就会岔开，若不注意，很容易就会不小心走入错误的下山路线。选择吉田路线时，请顺着黄色的指引路标前进。</p>
-
-<p><b>住宿地点</b>:<br>
-对于想登山观日出且先到山庄过夜的登山客，建议上山前先预约房间。御来光馆是八合目与九合目之间的中间站，海拔高度约为3450米。配有基本住宿设施:提供毯子与枕头，而且是和其他的登山客一起睡在大通铺，价格为11000日元起。<br>
-太子馆位于八合目，海拔高度为3100米，距离山顶约2.5个小时。太子馆为每位登山客提供山庄的优质睡袋与指定空间。每晚的住宿价格是从10000日元起，并且包含两餐。<br>
-鎌岩馆位于七合目，海拔高度为2790米。距离吉田五合目，仅有一两个小时的路程。平日的住宿价格从7300日元起，包含一餐。双层床宿舍、私人房间或单人间均提供睡袋与床垫。</p>
+<p><b>Accommodation</b>:<br>
+For hikers planning to watch the sunrise and stay overnight at a mountain hut, it is highly recommended to book your room in advance. Goraiko-kan serves as a midway station between the 8th and 9th Stations, at an elevation of approximately 3,450 meters. It provides basic accommodations, including blankets and pillows, in a shared dormitory-style sleeping area. Rates start at 11,000 yen.<br>
+Taishokan is located at the 8th Station, at an altitude of 3,100 meters, roughly 2.5 hours from the summit. Taishokan provides high-quality sleeping bags and designated space for each guest. Overnight rates start from 10,000 yen and include two meals.<br>
+Kamaiwakan is situated at the 7th Station, at an elevation of 2,790 meters, only a one-to-two-hour trek from the Yoshida 5th Station. Weekday rates start at 7,300 yen and include one meal. Sleeping bags and mats are provided for bunk-bed dormitories, private rooms, or single rooms.</p>
 </div>
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13015.197565360477!2d138.71706367403974!3d35.360624563076406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6019629a42fdc899%3A0xa6a1fcc916f3a4df!2sMount%20Fuji!5e0!3m2!1sen!2s!4v1753872264241!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的富士山。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Mount Fuji on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1204,17 +1203,17 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">富士山</div>
-      <div class="map-card-address">Kitayama, Fujinomiya, Shizuoka 418-0112日本</div>
+      <div class="map-card-title">Mount Fuji</div>
+      <div class="map-card-address">Kitayama, Fujinomiya, Shizuoka 418-0112 Japan</div>
     </div>
   </a>
 </div>
 
-### <span style="color: orange">富士五湖</span>
+### <span style="color: orange">Fuji Five Lakes</span>
 
-富士五湖是位于富士山靠近山梨县一侧的五个由富士山喷发而行程的湖泊，包括河口湖、山中湖、西湖、精进湖和本栖湖。其中山中湖附近有许多度假酒店与餐馆，可作为游玩富士山地区时的落脚点。（另一可能的行程规划则是居住在东京，白天乘坐巴士前往富士山地区游玩。）
+The Fuji Five Lakes are five lakes formed by eruptions of Mount Fuji, located on the Yamanashi Prefecture side near Mount Fuji. They include Lake Kawaguchi, Lake Yamanaka, Lake Sai, Lake Shoji, and Lake Motosu. There are many resorts and restaurants near Lake Yamanaka, which can serve as a base for exploring the Mount Fuji area. (Another possible itinerary is to stay in Tokyo and take a bus to the Mount Fuji area during the day.)
 
-富士五湖同时是极佳的、恰到好处的欣赏富士山的地点，非常适合作为富士山之旅的“前菜”。富士五湖附近有修建良好的公路，对于拥有国际驾照 (international driving permit, IDP) 的游客而言，自驾富士五湖无疑是绝佳的选择。（富士山五合目也可自驾到达。）<span class="reveal-on-hover">（对不起, ptr!）</span>
+The Fuji Five Lakes are also excellent and just right places to appreciate Mount Fuji, making them a perfect "appetizer" for a Mount Fuji trip. There are well-maintained roads around the Fuji Five Lakes, making self-driving an excellent choice for visitors with an international driving permit (IDP). (You can also drive to the 5th Station of Mount Fuji.)<span class="reveal-on-hover">（Sorry, ptr!）</span>
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_3940.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
@@ -1231,12 +1230,12 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">山中湖附近景观。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">Scenery near Lake Yamanaka.</figcaption>
 
-<b>地图位置（以山中湖为例）</b>:
+<b>Map Location (Example: Lake Yamanaka)</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52022.584524549064!2d138.8287975802826!3d35.41983427485513!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6019656f7e289dd5%3A0xee8e28a0ba717347!2sYamanakako%2C%20Minamitsuru%20District%2C%20Yamanashi%2C%20Japan!5e0!3m2!1sen!2s!4v1754158261533!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的山中湖。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Lake Yamanaka on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1245,41 +1244,41 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">山中湖</div>
-      <div class="map-card-address">Minamitsuru District, Yamanashi, Yamanashi 401-0304日本</div>
+      <div class="map-card-title">Lake Yamanaka</div>
+      <div class="map-card-address">Minamitsuru District, Yamanashi, Yamanashi 401-0304 Japan</div>
     </div>
   </a>
 </div>
 
-<span class="warning_span" style=""><span style="color: red"><b>注</b></span>:国际驾照仅由日内瓦公约框架内的国家颁发。中国既不在日内瓦公约框架内，其驾照也不被日本认可。因此仅持有中国驾照的游客无法在日本租车。</span>
+<span class="warning_span" style=""><span style="color: red"><b>Note</b></span>: An international driving permit (IDP) is only issued by countries within the framework of the Geneva Convention. China is not within the framework of the Geneva Convention, and its driver's license is not recognized in Japan. Therefore, tourists holding only a Chinese driver's license cannot rent a car in Japan.</span>
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull;富士山其实是一座活火山，其上一次喷发时间是1707年。为了应对潜在的风险，日本政府制定了详尽的灾难防范计划:其在富士山周边多地设置了火山与地震活动监测点，并制定了可以快速疏散富士山周边居民的方案。
+  &bull;Mount Fuji is actually an active volcano, with its last eruption occurring in 1707. To address potential risks, the Japanese government has developed comprehensive disaster prevention and mitigation plans. These include the installation of volcanic and seismic monitoring stations at numerous locations around the mountain, as well as the formulation of rapid evacuation protocols for residents in the surrounding areas.
   </p>
   <p style="font-size:0.8em">
-  &bull;富士山属私人所有，其所有者是富士山本宫浅间大社。
+  &bull;Mount Fuji is privately owned, with its owner being the Fujisan Hongu Sengen Taisha Shrine.
   </p>
   <p style="font-size:0.8em">
-  &bull;有关富士山名称的来源，一直众说纷纭。有说法称其源于“富饶”与“具有地位的人”之意（与中文中“富”与“士”）的含义吻合；也有说法称富士山仅仅使用了“富士”两字的读音，与其字面意没有关系；还有其他说法，包括称其来源于“不死”二字的音变、意为“永不停息”等等。
+  &bull;The origins of the name "Mount Fuji" remain a subject of much debate. Some suggest it stems from the concepts of "abundance" and "men of status" (matching the meanings of the Chinese characters "Fu" and "Shi"). Others argue that the name is simply a phonetic use of the characters "Fu-ji," unrelated to their literal meanings. Additional theories suggest the name evolved from the word for "immortality" (fushi) or carries the connotation of "never-ending."
   </p>
 </blockquote>
 
 
-## 京都府
+## Kyoto
 
 <div class="short_introduction_wrapper" style="">
-  <b>京都，日本的古城。自794年桓武天皇迁都到平安京（即今京都）至1868年明治天皇迁都到东京，京都始终是日本的首都。千年古都历史，使京都见证了日本诸多影响颇深的政治变革与经济兴衰。如今，二字皆名都城的京都虽不再是日本的首都，却拥有极为丰富、保存完好的历史古建筑，将古日本的气息难能可贵地带到了现代来。</b>
+  <b>Kyoto, the ancient heart of Japan. From 794, when Emperor Kanmu moved the seat of power to Heian-kyo (modern-day Kyoto), until the capital was relocated to Tokyo in 1868 by Emperor Meiji, Kyoto served as the nation's imperial capital for over a millennium. Through these ten centuries, this ancient city bore witness to profound political upheavals and the ebb and flow of Japan’s economic fortunes. Today, while Kyoto—a name that literally signifies a capital city—no longer holds that political title, it remains a treasure trove of impeccably preserved historic architecture, rare in its ability to breathe the soul of ancient Japan into the modern world.</b>
 </div>
 
 <div class="my_section_hero" style="">
   <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4315_revised.JPG.jpeg')"></div>
   <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4581_revised.JPG.jpeg')"></div>
   <div class="my_section_hero_content" style="">
-    京都 Kyoto
+    Kyoto
   </div>
 </div>
 
@@ -1287,7 +1286,7 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   <button class="collapse-toggle" style="width: 90%;"
         aria-expanded="false"
         aria-controls="kyoto_route">
-  <span style="font-family: 'ChineseFont';"><b>景点分布地图</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Map of Attractions</b></span>
 </button>
 </div>
 
@@ -1296,42 +1295,42 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   <div style="text-align: center;">
     <a href="/assets/images/Travel/Japan Tour Plan/kyoto_brief.jpg">
     <img src="/assets/images/Travel/Japan Tour Plan/kyoto_brief.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">京都日程与景区地图。Credit: Vincent.</figcaption>
+    <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map of Kyoto itinerary and attractions. Credit: Vincent.</figcaption>
   </div>
 </div>
 
-### 中部区域
+### Central Area
 
-#### <span style="color: orange;">清水寺</span>
+#### <span style="color: orange;">Kiyomizu-dera</span>
 
-清水寺位于京都市东山区，建于公元778年，是京都最古老的寺院。它山号为音羽山，主要供奉千手观音。清水寺是京都最为有名的景点之一，它的本堂（即正殿）是每个前往清水寺的游客必然打卡的地点。
+Kiyomizu-dera, located in the Higashiyama District of Kyoto, was founded in 778 AD and stands as the city's oldest temple. Its honorary mountain name is Mount Otowa, and it primarily enshrines the Eleven-Headed Thousand-Armed Kannon. As one of Kyoto’s most celebrated landmarks, its Hondo (Main Hall) is an absolute must-visit destination for every traveler venturing to the temple.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.jpg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">清水寺的本堂。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Main Hall of Kiyomizu-dera.</figcaption>
 </div>
 
-从清水寺本堂旁的小路下去，有清水寺后山的山泉水可以喝。请遵守使用寺院中泉水的礼仪！
+From the small path beside the Main Hall of Kiyomizu-dera, there is spring water from the mountain behind the temple available for drinking. Please observe the etiquette when using the spring water within the temple!
 
-另外，晚上的清水寺本堂与附近的树林会有丰富的灯光照明，与白天是完全不同的一番风景，非常值得一去！
+Additionally, the Main Hall of Kiyomizu-dera and the nearby woods are beautifully illuminated at night, offering a completely different scenery from the daytime, making it well worth a visit!
 
-<b>开放时间</b>:6:00 a.m.-6:00 p.m. （节假日可能会有所调整，请以官网的时间表为准。）
+<b>Opening Hours</b>:6:00 a.m.-6:00 p.m. (Hours may vary on holidays; please refer to the official website for the most accurate schedule.)
 
-<b>门票</b>:¥500。
+<b>Admission Fee</b>:¥500.
 
-<b>导览</b>:<a href="https://www.kiyomizudera.or.jp/map.php" class="custom-link-3">景区地图</a>、<a href="https://www.kiyomizudera.or.jp/access.php#worship" class="custom-link-3">开放时间与交通信息</a>。
+<b>Guides</b>:<a href="https://www.kiyomizudera.or.jp/map.php" class="custom-link-3">Site Map</a>, <a href="https://www.kiyomizudera.or.jp/access.php#worship" class="custom-link-3">Opening Hours and Access Information</a>.
 
-<b>预计预览时间</b>:1小时。
+<b>Estimated Visit Duration</b>:1 hour.
 
-地址:1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862日本；<br>
-电话:+81 75-551-1234；<br>
-网站:<a href="https://www.kiyomizudera.or.jp/" class="custom-link-3">清水寺</a>。
+Address:1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862 Japan;<br>
+Phone:+81 75-551-1234;<br>
+Website:<a href="https://www.kiyomizudera.or.jp/" class="custom-link-3">Kiyomizu-dera</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.4808590851726!2d135.78208071255537!3d34.994666172703305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108d385dcfb07%3A0x62af658650c434ba!2sKiyomizu-dera!5e0!3m2!1sen!2s!4v1754407421557!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的清水寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map of Kiyomizu-dera.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1340,38 +1339,38 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">清水寺</div>
-      <div class="map-card-address">1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862日本</div>
+      <div class="map-card-title">Kiyomizu-dera</div>
+      <div class="map-card-address">1 Chome-294 Kiyomizu, Higashiyama Ward, Kyoto, 605-0862 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange;">三十三间堂</span>
+#### <span style="color: orange;">Sanjūsangendō</span>
 
-三十三间堂位于京都市东山区，建于1164年，是天台宗妙法院的境外佛堂。“间”是日本的长度单位，一间约合1.8米。江户年代以前三十三间堂约59.4米长，故得名。三十三间堂的本堂中展出了大量保存完好的木制雕刻千手观音像，是难得一见的珍品。
+Sanjūsangendō is located in Higashiyama Ward, Kyoto, and was built in 1164. It is an external Buddhist hall of the Tendai sect's Myōhō-in. "Ken" is a Japanese unit of length, approximately 1.8 meters. Before the Edo period, Sanjūsangendō was about 59.4 meters long, hence the name. The main hall of Sanjūsangendō houses a large number of well-preserved wooden sculptures of the Thousand-Armed Kannon, a rare treasure.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4147.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4147.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">雨中，三十三间堂外庭院景色。<span class="warning_span" style="">三十三间堂内部禁止拍照摄影</span>。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">In the rain, the view of the outer courtyard of Sanjūsangendō. <span class="warning_span" style="">Photography is prohibited inside Sanjūsangendō.</span></figcaption>
 </div>
 
-<b>开放时间</b>:8:30 a.m.-5:00 p.m.
+<b>Opening Hours</b>:8:30 a.m.-5:00 p.m.
 
-<b>门票</b>:¥600。<br>
+<b>Admission Fee</b>:¥600。<br>
 
-<b>导览</b>:<a href="https://www.sanjusangendo.jp/precincts/" class="custom-link-3">三十三间堂庭院地图与景点介绍</a>。
+<b>Guided Tour</b>:<a href="https://www.sanjusangendo.jp/precincts/" class="custom-link-3">Sanjūsangendō Courtyard Map and Attractions Introduction</a>。
 
-<b>预计预览时间</b>:1小时。
+<b>Estimated Visit Duration</b>:1 hour.
 
-地址:657 Sanjusangendo Mawaricho, Higashiyama Ward, Kyoto, 605-0941日本；<br>
-电话:+81 75-561-0467；<br>
-网站:<a href="https://www.sanjusangendo.jp/" class="custom-link-3">三十三间堂</a>。
+Address:657 Sanjusangendo Mawaricho, Higashiyama Ward, Kyoto, 605-0941 Japan;<br>
+Phone:+81 75-561-0467;<br>
+Website:<a href="https://www.sanjusangendo.jp/" class="custom-link-3">Sanjūsangendō</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.7516698360705!2d135.76913231255503!3d34.98788447270555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108ca8f9b80b3%3A0xaa2b01ebdb651688!2sSanj%C5%ABsangend%C5%8D%20Temple!5e0!3m2!1sen!2s!4v1754408152609!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的三十三间堂。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map of Sanjūsangendō.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1380,46 +1379,46 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">三十三间堂</div>
-      <div class="map-card-address">657 Sanjusangendo Mawaricho, Higashiyama Ward, Kyoto, 605-0941日本</div>
+      <div class="map-card-title">Sanjūsangendō</div>
+      <div class="map-card-address">657 Sanjusangendo Mawaricho, Higashiyama Ward, Kyoto, 605-0941 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange;">南禅寺</span>
+#### <span style="color: orange;">Nanzen-ji</span>
 
-南禅寺位于京都市东山区，建于1291年，侍奉释迦如来，山号为瑞龙山。三门是南禅寺的正门，雄伟且富有日本、中国的古代建筑的气息，其房梁上的固定结构也值得观察一番。
+Nanzen-ji is located in Higashiyama Ward, Kyoto, and was built in 1291. It is dedicated to Shakyamuni Buddha, with the mountain name Zuiryūzan. The Sanmon gate is the main gate of Nanzen-ji, grand and rich in the atmosphere of ancient Japanese and Chinese architecture, and its fixed structure on the beams is also worth observing.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4159.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4159.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">南禅寺的三门。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Sanmon gate of Nanzen-ji.</figcaption>
 </div>
 
-南禅寺院内的琵琶湖疏水水路阁遗迹也颇有意思。它最初由田边朔郎设计用于给周边众多的日本庭院供水，并在1888年建造完成。
+The remains of the Lake Biwa Canal aqueduct within Nanzen-ji Temple are also quite interesting. It was originally designed by Tanabe Sakurō to supply water to many Japanese gardens in the surrounding area and was completed in 1888.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4165.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4165.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">琵琶湖疏水水路阁遗迹。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Remains of the Lake Biwa Canal aqueduct.</figcaption>
 </div>
 
-<b>开放时间</b>:8:40 a.m.-5:00 p.m.
+<b>Opening Hours</b>:8:40 a.m.-5:00 p.m.
 
-<b>门票</b>:免费。
+<b>Admission</b>:Free.
 
-<b>导览</b>:<a href="https://nanzenji.or.jp/about_rinzaishu" class="custom-link-3">南禅寺历史介绍</a>、<a href="https://nanzenji.or.jp/equipment" class="custom-link-3">寺院内经典列表与地图</a>。
+<b>Guided Tours</b>:<a href="https://nanzenji.or.jp/about_rinzaishu" class="custom-link-3">History of Nanzen-ji</a>, <a href="https://nanzenji.or.jp/equipment" class="custom-link-3">List of Classics and Map within the Temple</a>.
 
-<b>预计预览时间</b>:1小时。
+<b>Estimated Visit Duration</b>:1 hour.
 
-地址:86 Nanzenji Fukuchicho, Sakyo Ward, Kyoto, 606-8435日本；<br>
-电话:+81 75-771-0365；<br>
-网站:<a href="https://nanzenji.or.jp/" class="custom-link-3">南禅寺</a>。
+Address:86 Nanzenji Fukuchicho, Sakyo Ward, Kyoto, 606-8435 Japan;<br>
+Phone:+81 75-771-0365;<br>
+Website:<a href="https://nanzenji.or.jp/" class="custom-link-3">Nanzen-ji</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.8118881128767!2d135.79190381255577!3d35.011413772697665!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600109217397fbfd%3A0x38b339a4c7e7004d!2sNanzen-ji!5e0!3m2!1sen!2s!4v1754504328683!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的南禅寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map of Nanzen-ji.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1428,30 +1427,30 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">南禅寺</div>
-      <div class="map-card-address">86 Nanzenji Fukuchicho, Sakyo Ward, Kyoto, 606-8435日本</div>
+      <div class="map-card-title">Nanzen-ji</div>
+      <div class="map-card-address">86 Nanzenji Fukuchicho, Sakyo Ward, Kyoto, 606-8435 Japan</div>
     </div>
   </a>
 </div>
 
 
-#### <span style="color: orange;">禅林寺（永观堂）</span>
+#### <span style="color: orange;">Zenrin-ji (Eikando)</span>
 
-禅林寺又称永观堂、无量寿院，它位于京都市左京区，与南禅寺相距不远。禅林寺的具体的建造时间不详，但最早的有关它的历史记载可追溯到853年。禅林寺侍奉阿弥陀如来，山号为圣众来迎山。
+Zenrin-ji, also known as Eikando or Muryōju-in, is located in Sakyo Ward, Kyoto, not far from Nanzen-ji. The exact construction date of Zenrin-ji is unknown, but the earliest historical records date back to 853. Zenrin-ji is dedicated to Amida Nyorai, with the mountain name Shōjūragaikazan.
 
-禅林寺最为美丽的季节是秋季，届时禅林寺内枫叶飘飘，使人恍如隔世。禅林寺内有可以进入的日式建筑，在内部可以仔细地揣摩它置身其中的日本庭园。建筑还通往南禅寺的本堂，可以欣赏幽静庄严的僧人修习之所与精美的佛像。
+The most beautiful season to visit Zenrin-ji is autumn when the maple leaves create a breathtaking scene. Inside Zenrin-ji, there are accessible Japanese-style buildings where visitors can closely appreciate the Japanese gardens. The buildings also lead to the main hall of Nanzen-ji, where one can admire the serene and solemn place of monk practice and exquisite Buddhist statues.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4190.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4190.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">在建筑内拍摄的南禅寺内的庭院。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Courtyard within Nanzen-ji captured from inside the building.</figcaption>
 </div>
 
-<b>开放时间</b>:9:00 a.m.-4:00 p.m
+<b>Opening Hours</b>:9:00 a.m.-4:00 p.m
 
-<b>门票</b>:¥600。
+<b>Admission</b>:¥600。
 
-<b>导览</b>:<a href="https://www.eikando.or.jp/nenpyou.html" class="custom-link-3">南禅寺历史年表</a>、<a href="https://www.eikando.or.jp/keidaizu.pdf" class="custom-link-3">南禅寺地图</a>、<a href="https://www.eikando.or.jp/haikan.html" class="custom-link-3">参拜案内</a>。
+<b>Guided Tours</b>:<a href="https://www.eikando.or.jp/nenpyou.html" class="custom-link-3">History of Nanzen-ji</a>, <a href="https://www.eikando.or.jp/keidaizu.pdf" class="custom-link-3">Map of Nanzen-ji</a>, <a href="https://www.eikando.or.jp/haikan.html" class="custom-link-3">Visiting Guide</a>。
 
 <div class="" style="padding-left: 5%; padding-right: 5%; margin-bottom: 1.3em;">
   <object
@@ -1466,16 +1465,16 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
 </object>
 </div>
 
-<b>预计预览时间</b>:1小时。
+<b>Estimated Visit Duration</b>:1 hour.
 
-地址:48 Eikandocho, Sakyo Ward, Kyoto, 606-8445日本；<br>
-电话:+81 75-761-0007；<br>
-网站:<a href="https://www.eikando.or.jp/" class="custom-link-3">禅林寺</a>。
+Address:48 Eikandocho, Sakyo Ward, Kyoto, 606-8445 Japan；<br>
+Phone:+81 75-761-0007；<br>
+Website:<a href="https://www.eikando.or.jp/" class="custom-link-3">Zenrin-ji</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.6744252151934!2d135.79157851255573!3d35.014854272696375!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60010918b2b38d17%3A0x1c9705a093b0ad54!2sEikand%C5%8D%20Temple!5e0!3m2!1sen!2s!4v1754506227013!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的禅林寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Zenrin-ji.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1484,30 +1483,30 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">禅林寺</div>
-      <div class="map-card-address">48 Eikandocho, Sakyo Ward, Kyoto, 606-8445日本</div>
+      <div class="map-card-title">Zenrin-ji</div>
+      <div class="map-card-address">48 Eikandocho, Sakyo Ward, Kyoto, 606-8445 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">平安神宫 (not visited)</span>
+#### <span style="color: orange">Heian Shrine (not visited)</span>
 
-平安神宫是位于京都市左京区的神宫。“平安”，即平安京，是京都的旧称。它于1895年庆祝平安京建立1100周年时建成，是平安京大内里正厅朝堂院的八分之五比例的复制品。
+Heian Shrine is located in Sakyo Ward, Kyoto. "Heian" refers to Heian-kyo, the old name of Kyoto. It was built in 1895 to celebrate the 1100th anniversary of the establishment of Heian-kyo and is a five-eighths scale replica of the main hall of the Heian Palace.
 
-<b>开放时间</b>:6:00 a.m.-5:00 p.m.
+<b>Opening Hours</b>:6:00 a.m.-5:00 p.m.
 
-<b>门票</b>:免费。
+<b>Admission</b>:Free.
 
-<b>预计游览时间</b>:30分钟。
+<b>Estimated Visit Duration</b>:30 minutes.
 
-地址:97 Okazaki Nishitennocho, Sakyo Ward, Kyoto, 606-8341日本；<br>
-电话:+81 75-761-0221；<br>
-网站:<a href="https://www.heianjingu.or.jp/" class="custom-link-3">平安神宫</a>。
+Address:97 Okazaki Nishitennocho, Sakyo Ward, Kyoto, 606-8341 Japan；<br>
+Phone:+81 75-761-0221；<br>
+Website:<a href="https://www.heianjingu.or.jp/" class="custom-link-3">Heian Shrine</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.629354157871!2d135.7798460125557!3d35.01598227269595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600108e5187cc88d%3A0x75bed992d897454f!2sHeian%20Jingu%20Shrine!5e0!3m2!1sen!2s!4v1754589374143!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的平安神宫。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Heian Shrine.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1516,30 +1515,30 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">平安神宫</div>
-      <div class="map-card-address">97 Okazaki Nishitennocho, Sakyo Ward, Kyoto, 606-8341日本</div>
+      <div class="map-card-title">Heian Shrine</div>
+      <div class="map-card-address">97 Okazaki Nishitennocho, Sakyo Ward, Kyoto, 606-8341 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">八坂神社 (not visited)</span>
+#### <span style="color: orange">Yasaka Shrine (not visited)</span>
 
-八坂神社是位于京都市东山区的神社，建于656年。总本社的祇园祭是日本最大的祭典之一。八坂神社夜晚有漂亮的灯笼可以观赏。
+Yasaka Shrine is located in Higashiyama Ward, Kyoto. It was founded in 656. The Gion Festival, one of Japan's largest festivals, is held at the main shrine. Yasaka Shrine is also known for its beautiful lanterns at night.
 
-<b>开放时间</b>:全天开放。
+<b>Opening Hours</b>: Open all day.
 
-<b>门票</b>:免费。
+<b>Admission</b>: Free.
 
-<b>预计游览时间</b>:30分钟。
+<b>Estimated Visit Duration</b>: 30 minutes.
 
-地址:625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073日本；<br>
-电话:+81 75-561-6155；<br>
-网站:<a href="https://www.yasaka-jinja.or.jp/" class="custom-link-3">八坂神社</a>。
+Address:625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073 Japan；<br>
+Phone:+81 75-561-6155；<br>
+Website:<a href="https://www.yasaka-jinja.or.jp/" class="custom-link-3">Yasaka Shrine</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3495.9384310754117!2d135.7759138611646!3d35.00390686112349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60010879a010eca9%3A0xc77ac89d5a241ae9!2sYasaka%20Shrine!5e0!3m2!1sen!2s!4v1754589610364!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的京都八坂神社。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Yasaka Shrine.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1548,33 +1547,32 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">京都八坂神社</div>
-      <div class="map-card-address">625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073日本</div>
+      <div class="map-card-title">Yasaka Shrine</div>
+      <div class="map-card-address">625 Gionmachi Kitagawa, Higashiyama Ward, Kyoto, 605-0073 Japan</div>
     </div>
   </a>
 </div>
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull;八坂神社是“全国连锁的”，在日本全国约有3000多间。位于京都的是它的总本社（即“总店”）。<br>
+  &bull;Yasaka Shrine is part of a nationwide "network," with over 3,000 locations scattered across Japan. The one situated in Kyoto serves as the Sōhonsha, or the grand headquarters, of them all.<br>
   </p>
   <p style="font-size:0.8em">
-  &bull;祇园祭始于瘟疫时期民众的平安祈愿，后来逐渐发展成为今日的盛大祭典。
+  &bull;The Gion Festival originated as a prayer for peace during an epidemic and gradually developed into the grand festival it is today.
   </p>
 </blockquote>
 
 
+### Northern Area
 
-### 北部区域
+#### <span style="color: orange">Kyoto Imperial Palace Park - Kyoto State Guest House</span>
 
-#### <span style="color: orange">京都御苑-京都迎宾馆</span>
+The state guest house of Kyoto is located inside the Kyoto Imperial Palace Park in Kamigyo Ward, Kyoto. The Kyoto State Guest House was built in 2005 to accommodate foreign heads of state and other important visitors. When not hosting important guests, it is open to the public for visits.
 
-京都的国宾馆，位于京都市上京区京都御苑内部。京都迎宾馆建于2005年，用于接待外国元首等重要访客，在不接待重要来宾时也开放给公众参观。
-
-京都迎宾馆内部装饰是十分典型的日本和室风格。大到挂画、地板、屋顶，小到花纹、灯光角度、桌椅排布，京都迎宾馆可以称为无微不至地精心装饰了每一个细节。迎宾馆内有多个房间，它们的用途在访客来临时不尽相同，但都以“XX之间”命名。
+The interior decoration of the Kyoto State Guest House is a typical example of Japanese-style rooms. From large paintings, floors, and ceilings to small patterns, lighting angles, and furniture arrangements, the Kyoto State Guest House can be said to meticulously decorate every detail. The guest house has multiple rooms, each serving different purposes when visitors arrive, but all are named "XX Room."
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4560.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
@@ -1591,9 +1589,9 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左上</b>:夕映之间。夕映之间是访客来访时落脚休息的地方，其左右两面墙上各绘有一幅山与夕阳同框之景，两座山是京都市东西边真实存在的两座山。<b>右上</b>:藤之间。藤之间是宾客来访时召开会议的场所。“藤”即紫藤，与房间内的画相呼应（即图片中的画）。<b>左下</b>:藤之间的侧面墙。墙上有由传统手艺人亲手刻画的“截金”。<b>右下</b>:迎宾馆内的走廊，各种物品摆放考究。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Top left</b>:The Yu-bae-no-ma (Twilight Room). This is a space where guests rest and wait upon arrival. Its left and right walls each feature a landscape painting of a mountain set against the setting sun, representing two real mountains located on the eastern and western sides of Kyoto city; <b>Upper Right</b>: The Fuji-no-ma (Wisteria Room). This is the venue used for hosting meetings and conferences for visiting guests. "Fuji" refers to wisteria, which echoes the floral paintings seen in the room (as shown in the image); <b>Lower Left</b>: A side wall in the Fuji-no-ma. The wall features intricate "Kirikane" (cut gold leaf), meticulously hand-carved and applied by traditional master craftsmen; <b>Lower Right</b>: A corridor within the State Guest House, where every object is placed with exquisite attention to detail and refinement.</figcaption>
 
-除室内的各种精美装饰，迎宾馆也拥有相当丰富的日式庭院景观。
+Beyond the exquisite interior decorations, the State Guest House also boasts an extensive and stunning collection of traditional Japanese garden landscapes.
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4583.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
@@ -1604,24 +1602,24 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">迎宾馆内的日本庭园。庭院内的池塘、石头、树木、鱼都由专人打理。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">The Japanese garden within the State Guest House. Every element of the garden—the pond, the stones, the trees, and even the koi fish—is meticulously tended to by dedicated specialists.</figcaption>
 
-京都迎宾馆在历史上曾接待了众多国家元首等政府高官，具体历史可参见<a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">京都迎宾馆官网</a>。
+The Kyoto State Guest House has historically hosted numerous heads of state and high-ranking government dignitaries. For more detailed historical information, please refer to the <a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">official website of the Kyoto State Guest House</a>.
 
-<b>开放时间</b>:<span class="info_span" style="">需要提前在<a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">京都迎宾馆官网</a>预约，每周二与周四有英文场，其余场次为日文场</span>。
+<b>Opening Hours</b>:<span class="info_span" style="">Advance reservation is required on the <a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">official website of the Kyoto State Guest House</a>. English tours are available on Tuesdays and Thursdays, while other tours are conducted in Japanese.</span>。
 
-<b>门票</b>:免费。
+<b>Admission</b>: Free.
 
-<b>预计游览时间</b>:1.5小时。
+<b>Estimated Visit Duration</b>: 1.5 hours.
 
-地址:23 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881日本；<br>
-电话:+81 75-223-2301；<br>
-网站:<a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">京都迎宾馆</a>。
+Address: 23 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881 Japan;<br>
+Phone: +81 75-223-2301;<br>
+Website: <a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3">Kyoto State Guest House</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.2697992094318!2d135.76288801255603!3d35.02497977269289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600109142639b8df%3A0x2bb6a17e05508b21!2sKyoto%20State%20Guest%20House!5e0!3m2!1sen!2s!4v1754672380969!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的京都迎宾馆。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of the Kyoto State Guest House.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1630,15 +1628,15 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">京都迎宾馆</div>
-      <div class="map-card-address">23 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881日本</div>
+      <div class="map-card-title">Kyoto State Guest House</div>
+      <div class="map-card-address">23 Kyotogyoen, Kamigyo Ward, Kyoto, 602-0881 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">二条城</span>
+#### <span style="color: orange">Nijo Castle</span>
 
-二条城建于1603年，位于京都市中京区。二条城是江户幕府初代德川家康在京都落脚、住宿以及拜见天皇的地方。1867年，著名的“大政奉还”仪式在二条城举行，标志着日本长达682年的幕府时代结束。广义上，二条城代指每一任幕府将军在京都的住所，因此其位置上在历史上发生过多次变化。
+Nijo Castle was built in 1603 and is located in Nakagyo Ward, Kyoto. It served as the residence of Tokugawa Ieyasu, the first shogun of the Edo period, when he stayed in Kyoto and met the Emperor. In 1867, the famous "Taisei Hokan" ceremony was held at Nijo Castle, marking the end of Japan's 682-year shogunate era. Broadly speaking, Nijo Castle refers to the residence of each shogun in Kyoto, and its location has changed multiple times throughout history.
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4348.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
@@ -1649,32 +1647,32 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>:二条城的“唐门”，据称是仿照唐代时的大门的结构建造的。<b>右</b>:二条城的“二之丸御殿”外景。<span class="warning_span" style="">二之丸御殿内部禁止拍照摄影</span>。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Left</b>: The "Karamon" gate of Nijo Castle, said to be modeled after the gate structure of the Tang Dynasty. <b>Right</b>: Exterior view of the "Ninomaru Palace" of Nijo Castle. <span class="warning_span" style="">Photography is prohibited inside the Ninomaru Palace</span>.</figcaption>
 
-<b>开放时间</b>:8:45 a.m.-5:00 p.m. （4:00 p.m.停止入城。）
+<b>Opening Hours</b>: 8:45 a.m. - 5:00 p.m. (Last admission at 4:00 p.m.)
 
-<b>门票 （入城券）</b>:<br>
-成人 ¥800；<br>
-高中生与初中生 ¥400；<br>
-小学生 ¥300。
+<b>Admission (Entry Ticket)</b>:<br>
+Adult ¥800;<br>
+High school and junior high school students ¥400;<br>
+Elementary school students ¥300。
 
-<b>（入城券与二之丸御殿券）</b>:<br>
-成人 ¥1300；<br>
-高中生与初中生 ¥400；<br>
-小学生 ¥300。
+<b>(Entry Ticket and Ninomaru Palace Ticket)</b>:<br>
+Adult ¥1300；<br>
+High school and junior high school students ¥400；<br>
+Elementary school students ¥300。
 
-<b>注</b>:若年龄未到小学生，则免费。参观二之丸御殿最好提前预约，现场票量有限。
+<b>Note</b>: Free for children below elementary school age. It is recommended to make a reservation in advance to visit the Ninomaru Palace, as the number of tickets available on-site is limited.
 
-<b>预计游览时间</b>:1.5小时。
+<b>Estimated Visit Duration</b>: 1.5 hours.
 
-地址:541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301日本；
-电话:+81 75-841-0096；<br>
-网站:<a href="https://nijo-jocastle.city.kyoto.lg.jp/" class="custom-link-3">元离宫二条城官网</a>。
+Address: 541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301 Japan;
+Phone: +81 75-841-0096;<br>
+Website: <a href="https://nijo-jocastle.city.kyoto.lg.jp/" class="custom-link-3">Official Nijo Castle Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.7068722629842!2d135.74354952957026!3d35.014042196021265!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600107d40a2b9b0b%3A0x106b8759906a2f2f!2sNij%C5%8D%20Castle!5e0!3m2!1sen!2s!4v1754759290023!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的二条城。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Nijo Castle.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1683,30 +1681,30 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">元离宫二条城</div>
-      <div class="map-card-address">541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301日本</div>
+      <div class="map-card-title">Former Imperial Palace Nijo Castle</div>
+      <div class="map-card-address">541 Nijojocho, Nakagyo Ward, Kyoto, 604-8301 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">晴明神社 (not visited)</span>
+#### <span style="color: orange">Seimei Shrine (not visited)</span>
 
-晴明神社是位于京都市上京区，供奉阴阳师安倍晴明的神社。
+Seimei Shrine is located in Kamigyo Ward, Kyoto, and is dedicated to the onmyoji Abe no Seimei.
 
-<b>开放时间</b>:9:00 a.m.-4:30 p.m.
+<b>Opening Hours</b>: 9:00 a.m. - 4:30 p.m.
 
-<b>门票</b>:免费。
+<b>Admission</b>: Free.
 
-<b>预计游览时间</b>:30分钟。
+<b>Estimated Visit Duration</b>: 30 minutes.
 
-地址:806 Seimeicho, Kamigyo Ward, Kyoto, 602-8222日本；<br>
-电话:+81 75-441-6460；<br>
-网站:<a href="https://www.seimeijinja.jp/" class="custom-link-3">晴明神社官网</a>。
+Address: 806 Seimeicho, Kamigyo Ward, Kyoto, 602-8222 Japan;<br>
+Phone: +81 75-441-6460;<br>
+Website: <a href="https://www.seimeijinja.jp/" class="custom-link-3">Official Seimei Shrine Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.1585059593817!2d135.74859991268823!3d35.02776436547812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600107df798f7951%3A0xf28aea911a6811d0!2sSeimei%20Shrine!5e0!3m2!1sen!2s!4v1754760474467!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的晴明神社。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Seimei Shrine.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1715,15 +1713,15 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">晴明神社</div>
-      <div class="map-card-address">806 Seimeicho, Kamigyo Ward, Kyoto, 602-8222日本</div>
+      <div class="map-card-title">Seimei Shrine</div>
+      <div class="map-card-address">806 Seimeicho, Kamigyo Ward, Kyoto, 602-8222 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">北野天满宫</span>
+#### <span style="color: orange">Kitano Tenmangu Shrine</span>
 
-北野天满宫是位于京都市上京区的神社。它供奉学问之神菅原道真，相当于日本的文庙，适合在此求学业御守り。<span class="reveal-on-hover">你会许什么愿呢？</span>
+Kitano Tenmangu Shrine is located in Kamigyo Ward, Kyoto. It is dedicated to Sugawara no Michizane, the god of learning, and is equivalent to a Confucian temple in Japan, suitable for seeking academic amulets. <span class="reveal-on-hover">What wish will you make?</span>
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4337.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
@@ -1734,22 +1732,22 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>:北野天满宫的主殿；<b>右</b>:北野天满宫的大门。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Left</b>: Main hall of Kitano Tenmangu Shrine; <b>Right</b>: Gate of Kitano Tenmangu Shrine.</figcaption>
 
-<b>开放时间</b>:7:00 a.m.-8:00 p.m.
+<b>Opening Hours</b>: 7:00 a.m. - 8:00 p.m.
 
-<b>门票</b>:免费。
+<b>Admission</b>: Free.
 
-<b>预计游览时间</b>:30分钟。
+<b>Estimated Visit Duration</b>: 30 minutes.
 
-地址:Bakurocho, Kamigyo Ward, Kyoto, 602-8386日本；<br>
-电话:+81 75-461-0005；<br>
-网站:<a href="https://kitanotenmangu.or.jp/" class="custom-link-3">北野天满宫官网</a>。
+Address: Bakurocho, Kamigyo Ward, Kyoto, 602-8386 Japan;<br>
+Phone: +81 75-461-0005;<br>
+Website: <a href="https://kitanotenmangu.or.jp/" class="custom-link-3">Official Kitano Tenmangu Shrine Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.022061143062!2d135.73024642957301!3d35.031177995079325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600107ed7bf0e06d%3A0x5b26fec16c2eee1a!2sKitano%20Tenmangu%20Shrine!5e0!3m2!1sen!2s!4v1754842182882!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的北野天满宫。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Kitano Tenmangu Shrine.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1758,36 +1756,36 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">北野天满宫</div>
-      <div class="map-card-address">Bakurocho, Kamigyo Ward, Kyoto, 602-8386日本</div>
+      <div class="map-card-title">Kitano Tenmangu Shrine</div>
+      <div class="map-card-address">Bakurocho, Kamigyo Ward, Kyoto, 602-8386 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">金阁寺（鹿苑寺）</span>
+#### <span style="color: orange">Kinkaku-ji (Rokuon-ji)</span>
 
-金阁寺（又称鹿苑寺）位于京都市北区。它是足利义满的别墅，后改为禅寺。金阁寺的最主要建筑物是舍利殿，其外层在20世纪80年代使用金漆与金箔重新装饰，使用了约1.6吨纯黄金，现价值约1.7亿美元。如此高价值的的物体赫然出现在眼前，很难不让人感叹！
+Kinkaku-ji (also known as Rokuon-ji) is located in Kita Ward, Kyoto. It was originally the villa of Ashikaga Yoshimitsu, later converted into a Zen temple. The most prominent building of Kinkaku-ji is the Shariden, whose exterior was redecorated in the 1980s with gold paint and gold leaf, using about 1.6 tons of pure gold, currently valued at approximately $170 million. Such a highly valuable object appearing before your eyes is hard not to marvel at!
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4315.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4315.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">金阁寺的舍利殿。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Shariden of Kinkaku-ji.</figcaption>
 </div>
 
-<b>开放时间</b>:9:00 a.m.-5:00 p.m.
+<b>Opening Hours</b>: 9:00 a.m. - 5:00 p.m.
 
-<b>门票</b>:¥500（持有残疾证等行动不便人士，可以在参观当天出示相关证件，或在参观前使用邮件申请参观费用减免。具体细节可参阅<a href="https://www.shokoku-ji.jp/kinkakuji/faq/" class="custom-link-3">相关说明</a>。）
+<b>Admission</b>: ¥500 (Visitors with disabilities or mobility impairments can present relevant documents on the day of the visit or apply for admission fee reduction via email before the visit. For details, please refer to the <a href="https://www.shokoku-ji.jp/kinkakuji/faq/" class="custom-link-3">official explanation</a>.)
 
-<b>预计浏览时间</b>:1小时。
+<b>Estimated Visit Duration</b>: 1 hour.
 
-地址:1 Kinkakujicho, Kita Ward, Kyoto, 603-8361日本；<br>
-电话:+81 75-461-0013；<br>
-网站:<a href="https://www.shokoku-ji.jp/kinkakuji/" class="custom-link-3">金阁寺官网</a>。
+Address: 1 Kinkakujicho, Kita Ward, Kyoto, 603-8361 Japan;<br>
+Phone: +81 75-461-0013;<br>
+Website: <a href="https://www.shokoku-ji.jp/kinkakuji/" class="custom-link-3">Official Kinkaku-ji Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3266.694399992132!2d135.72666281268883!3d35.039374364849955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001a820c0eb46bd%3A0xee4272b1c22645f!2sKinkaku-ji!5e0!3m2!1sen!2s!4v1754845869173!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的金阁寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Kinkaku-ji.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1796,24 +1794,24 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">鹿苑金阁寺</div>
-      <div class="map-card-address">1 Kinkakujicho, Kita Ward, Kyoto, 603-8361日本</div>
+      <div class="map-card-title">Rokuon-ji (Kinkaku-ji)</div>
+      <div class="map-card-address">1 Kinkakujicho, Kita Ward, Kyoto, 603-8361 Japan</div>
     </div>
   </a>
 </div>
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull;金阁寺是聪明的一休中将军的居所。<br>
+  &bull;Kinkaku-ji was the residence of the clever Ikkyu Sojun.<br>
   </p>
 </blockquote>
 
-#### <span style="color: orange">银阁寺（慈照寺）</span>
+#### <span style="color: orange">Ginkaku-ji (Jisho-ji)</span>
 
-银阁寺（本名慈照寺）位于京都市左京区，创立者为室町幕府将军足利义政，山号为东山。由于寺内的观音殿被称为“银阁”，因此得名，与金阁寺（鹿苑寺）遥相呼应。相较于金阁寺的辉煌，银阁寺则以它朴素而优雅的建筑与庭院闻名。
+Ginkaku-ji (officially named Jisho-ji) is located in Sakyo Ward, Kyoto. It was founded by Ashikaga Yoshimasa, the shogun of the Muromachi shogunate, and its mountain name is Higashiyama. The temple is named after the "Silver Pavilion" (Ginkaku) within its grounds, which contrasts with the "Golden Pavilion" (Kinkaku-ji or Rokuon-ji). Compared to the splendor of Kinkaku-ji, Ginkaku-ji is renowned for its simple and elegant architecture and gardens.
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4244.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
@@ -1824,28 +1822,28 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>:银阁寺。<b>右</b>:于银阁寺后山拍摄的银阁寺全貌。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Left</b>: Ginkaku-ji. <b>Right</b>: Full view of Ginkaku-ji taken from the rear mountain of Ginkaku-ji.</figcaption>
 
-<b>开放时间</b>:8:30 a.m.-5:00 p.m. <span class="warning_span" style="">（观音殿内部不对外开放。）</span>
+<b>Opening Hours</b>: 8:30 a.m. - 5:00 p.m. <span class="warning_span" style="">(The interior of the Kannon Hall is not open to the public.)</span>
 
-<b>门票</b>:¥500 （中小学生与行动不便人士可携带证件或提前邮递申请以获得减免。）
+<b>Admission</b>: ¥500 (Elementary and middle school students and visitors with mobility impairments can present relevant documents or apply in advance by mail for a discount.)
 
-<b>景区地图</b>:
+<b>Map Location</b>:
 <div style="text-align: center; margin-bottom: 1.3em;">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.jpg">
   <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.jpg" alt="" style="max-width: 90%; height: auto;"></a>
 </div>
 
-<b>预计游览时间</b>:1小时。
+<b>Estimated Visit Duration</b>: 1 hour.
 
-地址:Kyoto, Sakyo Ward, 606-8402日本；<br>
-电话:+81 75-771-5725；<br>
-网站:<a href="https://www.shokoku-ji.jp/ginkakuji/" class="custom-link-3">银阁寺官网</a>。
+Address: Kyoto, Sakyo Ward, 606-8402 Japan;<br>
+Phone: +81 75-771-5725;<br>
+Website: <a href="https://www.shokoku-ji.jp/ginkakuji/" class="custom-link-3">Official Ginkaku-ji Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.188033518328!2d135.79332952957245!3d35.02702559530773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600109050b426fe1%3A0x258aca1ce888abc9!2sHigashiyama%20Jisho-ji!5e0!3m2!1sen!2s!4v1754845204919!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的银阁寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Ginkaku-ji.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1854,35 +1852,35 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">慈照银阁寺</div>
-      <div class="map-card-address">Kyoto, Sakyo Ward, 606-8402日本</div>
+      <div class="map-card-title">Jisho-ji (Ginkaku-ji)</div>
+      <div class="map-card-address">Kyoto, Sakyo Ward, 606-8402 Japan</div>
     </div>
   </a>
 </div>
 
-### 东北区域
+### Northeast Area
 
-#### <span style="color: orange">三千院 (not visited)</span>
+#### <span style="color: orange">Sanzen-in (not visited)</span>
 
-三千院位于京都市左京区，建于8世纪，侍奉药师如来，山号为鱼山，拥有美丽典雅的庭院。
+Sanzen-in is located in Sakyo Ward, Kyoto. It was founded in the 8th century and is dedicated to Yakushi Nyorai. Its mountain name is Uozan, and it features beautiful and elegant gardens.
 
-<b>开放时间</b>:9:00 a.m.-5:00 p.m.
+<b>Opening Hours</b>: 9:00 a.m. - 5:00 p.m.
 
-<b>门票</b>:<br>
-成人 ¥700（30名及以上团体¥600）；<br>
-中小学生 ¥400；<br>
-小学生 ¥150。
+<b>Admission</b>:<br>
+Adults ¥700 (¥600 for groups of 30 or more);<br>
+Middle and elementary school students ¥400;<br>
+Elementary school students ¥150.
 
-<b>预计游览时间</b>:1小时。
+<b>Estimated Visit Duration</b>: 1 hour.
 
-地址:540 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242日本；<br>
-电话:+81 75-744-2531；<br>
-网站:<a href="http://www.sanzenin.or.jp/" class="custom-link-3">三千院官网</a>。
+Address: 540 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242 Japan;<br>
+Phone: +81 75-744-2531;<br>
+Website: <a href="http://www.sanzenin.or.jp/" class="custom-link-3">Official Sanzen-in Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3263.4785192309564!2d135.83182551269053!3d35.119730360498494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001a0d6590baa13%3A0x532a08b9f00f2f34!2sSanzen-in%20Temple!5e0!3m2!1sen!2s!4v1754931944382!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的三千院。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Sanzen-in.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1891,34 +1889,34 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">三千院</div>
-      <div class="map-card-address">540 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242日本</div>
+      <div class="map-card-title">Sanzen-in</div>
+      <div class="map-card-address">540 Ohararaikoincho, Sakyo Ward, Kyoto, 601-1242 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">寂光院 (not visited)</span>
+#### <span style="color: orange">Jakkoin (not visited)</span>
 
-寂光院是位于京都市左京区的寺院，侍奉地藏菩萨，山号为清香山。同样拥有美丽典雅的庭院，且其位置恰在三千院对面，可以顺便一去。
+Jakkoin is a temple located in Sakyo Ward, Kyoto, dedicated to Jizo Bosatsu. Its mountain name is Seikozan. It also features beautiful and elegant gardens and is conveniently located opposite Sanzen-in, making it easy to visit both.
 
-<b>开放时间</b>:9:00 a.m.-5:00 p.m.
+<b>Opening Hours</b>: 9:00 a.m. - 5:00 p.m.
 
-<b>门票</b>:<br>
-成人 ¥600；<br>
-中学生 ¥350；<br>
-小学生 ¥100。<br>
-其他例外情况请参见<a href="https://www.jakkoin.jp/haikan/" class="custom-link-3">官网说明</a>。
+<b>Admission</b>:<br>
+Adults ¥600;<br>
+Middle school students ¥350;<br>
+Elementary school students ¥100.<br>
+For other exceptions, please refer to the <a href="https://www.jakkoin.jp/haikan/" class="custom-link-3">official website</a>.
 
-<b>预计游览时间</b>:1小时。
+<b>Estimated Visit Duration</b>: 1 hour.
 
-地址:676 Oharakusaocho, Sakyo Ward, Kyoto, 601-1248日本；<br>
-电话:+81 75-744-3341；<br>
-网站:<a href="https://www.jakkoin.jp/" class="custom-link-3">寂光院官网</a>。
+Address: 676 Oharakusaocho, Sakyo Ward, Kyoto, 601-1248 Japan;<br>
+Phone: +81 75-744-3341;<br>
+Website: <a href="https://www.jakkoin.jp/" class="custom-link-3">Official Jakkoin Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3263.303288465459!2d135.81616872958853!3d35.124104289964855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001a6d1d12f79d5%3A0xe7ccd5037dd114a2!2sJakk%C5%8D-in%20Temple!5e0!3m2!1sen!2s!4v1754932792585!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的寂光院。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Jakkoin.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1927,15 +1925,15 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">寂光院</div>
-      <div class="map-card-address">676 Oharakusaocho, Sakyo Ward, Kyoto, 601-1248日本</div>
+      <div class="map-card-title">Jakkoin</div>
+      <div class="map-card-address">676 Oharakusaocho, Sakyo Ward, Kyoto, 601-1248 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">贵船神社</span>
+#### <span style="color: orange">Kifune Shrine</span>
 
-位于京都市左京区北边的神社。贵船神社被京都北部的群山环绕，环境颇为幽静。走在山路两旁，不时有色彩鲜明的灯笼出现，给人柳暗花明之感。位于最高处的奥宫（贵船神社的主殿）更是被数棵参天大树隐匿其中。站在神社前，似能被神明点醒。这里还有特色的<span class="info_span" style="">水占卜</span>可供体验。
+Located in the northern part of Sakyo Ward, Kyoto, Kifune Shrine is surrounded by mountains, creating a serene environment. Walking along the mountain paths, you will occasionally see brightly colored lanterns, adding a touch of magic to the scenery. The Okumiya (main hall of Kifune Shrine) at the highest point is hidden among several towering trees. Standing in front of the shrine, one might feel spiritually awakened. The shrine also offers a unique experience called <span class="info_span" style="">Mizu-uranai</span> (water fortune-telling).
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4383.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
@@ -1952,22 +1950,22 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">贵船神社景观。<b>左上</b>:贵船神社前的山路；<b>右上</b>:贵船神社的其中一间；<b>左下</b>:奥宫（即贵船神社的主殿）的正门；<b>右下</b>:奥宫。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">Scenery of Kifune Shrine. <b>Top Left</b>: Mountain path in front of Kifune Shrine; <b>Top Right</b>: One of the buildings of Kifune Shrine; <b>Bottom Left</b>: Main gate of Okumiya (main hall of Kifune Shrine); <b>Bottom Right</b>: Okumiya.</figcaption>
 
-<b>开放时间</b>:6:00 a.m.-8:00 p.m.
+<b>Opening Hours</b>: 6:00 a.m. - 8:00 p.m.
 
-<b>门票</b>:免费
+<b>Admission</b>: Free.
 
-<b>预计游览时间</b>:1.5小时
+<b>Estimated Visit Duration</b>: 1.5 hours.
 
-地址:180 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112日本；<br>
-电话:+81 75-741-2016；<br>
-网站:<a href="https://kifunejinja.jp/" class="custom-link-3">贵船神社官网</a>。
+Address: 180 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112 Japan;<br>
+Phone: +81 75-741-2016;<br>
+Website: <a href="https://kifunejinja.jp/" class="custom-link-3">Kifune Shrine Official Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3263.3837776744354!2d135.76032981269046!3d35.12209526037053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001a608f30a9109%3A0x1d021ae4b564548b!2sKifune%20Shrine!5e0!3m2!1sen!2s!4v1755019916880!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的贵船神社。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Kifune Shrine.</figcaption>
 </div>
 
 <div class="map-card">
@@ -1976,49 +1974,49 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">贵船神社</div>
-      <div class="map-card-address">180 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112日本</div>
+      <div class="map-card-title">Kifune Shrine</div>
+      <div class="map-card-address">180 Kuramakibunecho, Sakyo Ward, Kyoto, 601-1112 Japan</div>
     </div>
   </a>
 </div>
 
 
-### 西部区域
+### Western Area
 
-#### <span style="color: orange">嵯峨岚山</span>
+#### <span style="color: orange">Arashiyama</span>
 
-岚山是位于京都市西北部的一片区域，拥有低矮的丘陵和茂密的竹林。岚山地区是观赏樱花与枫叶的好地点。整个岚山地区包含多个景点。
+Arashiyama is an area located in the northwest of Kyoto City, featuring low hills and dense bamboo groves. The Arashiyama area is a great spot for viewing cherry blossoms and autumn leaves. The entire Arashiyama area includes multiple attractions.
 
 <div style="text-align: center; margin-bottom: 1em;">
   <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="arashiyama_scenery_1">
-  <span style="font-family: 'ChineseFont';"><b>岚山竹林小径</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Arashiyama Bamboo Grove</b></span>
 </button>
 </div>
 
 <div id="arashiyama_scenery_1" class="collapse-panel" hidden>
-<p>岚山竹林小径位于天龙寺旁，距离地铁站约15分钟步行距离。竹林小径是岚山的必打卡景点之一，（在没有人时）曲径幽深，颇有美感。</p>
+<p>Arashiyama Bamboo Grove is located next to Tenryu-ji Temple, about a 15-minute walk from the subway station. The bamboo grove is one of the must-visit spots in Arashiyama, offering a serene and picturesque pathway, especially when it is less crowded.</p>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4282.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4282.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">岚山竹林小径。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">Arashiyama Bamboo Grove.</figcaption>
 </div>
 
-<p><b>开放时间</b>:全天开放。</p>
+<p><b>Opening Hours</b>: Open all day.</p>
 
-<p><b>门票</b>:免费。</p>
+<p><b>Admission</b>: Free.</p>
 
-<p><b>预计游览时间</b>:30分钟。</p>
+<p><b>Estimated Visit Duration</b>: 30 minutes.</p>
 
-<p>地址:Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394日本；<br>
-网站:<a href="https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2683" class="custom-link-3">竹林小径介绍</a>。</p>
+<p>Address: Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394 Japan;<br>
+Website: <a href="https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2683" class="custom-link-3">Arashiyama Bamboo Grove Introduction</a>.</p>
 
-<p><b>地图位置</b>:</p>
+<p><b>Map Location</b>:</p>
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.5957580801587!2d135.6687210126882!3d35.01682306606968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001abebbf5c8bad%3A0xfb9ffc7bbdd67cdd!2sArashiyama%20Bamboo%20Forest!5e0!3m2!1sen!2s!4v1755101147879!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的竹林小径。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Arashiyama Bamboo Grove.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2027,8 +2025,8 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">竹林小径</div>
-      <div class="map-card-address">Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394日本</div>
+      <div class="map-card-title">Arashiyama Bamboo Grove</div>
+      <div class="map-card-address">Sagaogurayama Tabuchiyamacho, Ukyo Ward, Kyoto, 616-8394 Japan</div>
     </div>
   </a>
 </div>
@@ -2039,40 +2037,40 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="arashiyama_scenery_2">
-  <span style="font-family: 'ChineseFont';"><b>天龙寺</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Tenryu-ji Temple</b></span>
 </button>
 </div>
 
 <div id="arashiyama_scenery_2" class="collapse-panel" hidden>
-<p>天龙寺位于地铁岚山站西北边步行约10分钟处。天龙寺建于1339年，其等级位列京都市五大禅寺之首。其内有诸堂参拜区、法堂云龙图等观光景点。天龙寺曾经规模庞大，由一系列建筑组成。然而部分建筑在历史中已被毁坏，现存建筑只是天龙寺建成时的一小部分。天龙寺的本堂可进入参观，零距离感受日本和室。</p>
+<p>Tenryu-ji Temple is located about a 10-minute walk northwest of Arashiyama Station. Founded in 1339, it is ranked as the top of Kyoto's five great Zen temples. The temple complex includes various halls, the Dharma Hall with the famous cloud dragon painting, and other sightseeing spots. Tenryu-ji was once a large complex consisting of multiple buildings. However, some buildings have been destroyed over history, and the existing structures represent only a small portion of the original temple. Visitors can enter the main hall to experience traditional Japanese tatami rooms up close.</p>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">天龙寺外景。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">Exterior view of Tenryu-ji Temple.</figcaption>
 </div>
 
-<p><b>开放时间</b>:8:30 a.m.-5:00 p.m.</p>
+<p><b>Opening Hours</b>:8:30 a.m.-5:00 p.m.</p>
 
-<p><b>门票（庭院）</b>:<br>
-成人 ¥500；<br>
-中小学生 ¥300；<br>
-未及小学生年龄儿童 免费。</p>
+<p><b>Admission (Garden)</b>:<br>
+Adult ¥500；<br>
+Elementary and middle school students ¥300；<br>
+Children below elementary school age Free.</p>
 
-<p><b>门票（诸堂参拜区）</b>:¥500。</p>
+<p><b>Admission (Various Halls)</b>:¥500.</p>
 
-<p><b>门票（法堂云龙图）</b>:¥500。</p>
+<p><b>Admission (Dharma Hall Cloud Dragon Painting)</b>:¥500.</p>
 
-<p><b>预计游览时间</b>:1-2小时。</p>
+<p><b>Estimated Visit Duration</b>:1-2 hours.</p>
 
-<p>地址:68 Saga Tenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385日本；<br>
-电话:+81 75-881-1235<br>
-网站:<a href="https://www.tenryuji.com/" class="custom-link-3">天龙寺官网</a>。</p>
+<p>Address: 68 Saga Tenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385 Japan;<br>
+Phone: +81 75-881-1235<br>
+Website: <a href="https://www.tenryuji.com/" class="custom-link-3">Official Tenryu-ji Website</a>.</p>
 
-<p><b>地图位置</b>:</p>
+<p><b>Map Location</b>:</p>
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.634948414915!2d135.67118511268836!3d35.01584226612272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001aa01b80f9e93%3A0xcd9c3edaff3348c0!2sTenryu-ji!5e0!3m2!1sen!2s!4v1755102768702!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的天龙寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Tenryu-ji.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2081,8 +2079,8 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">天龙寺</div>
-      <div class="map-card-address">68 Saga Tenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385日本</div>
+      <div class="map-card-title">Tenryu-ji</div>
+      <div class="map-card-address">68 Saga Tenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8385 Japan</div>
     </div>
   </a>
 </div>
@@ -2093,41 +2091,41 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   <button class="collapse-toggle" style=""
         aria-expanded="false"
         aria-controls="arashiyama_scenery_3">
-  <span style="font-family: 'ChineseFont';"><b>渡月桥</b></span>
+  <span style="font-family: 'ChineseFont';"><b>Togetsukyo Bridge</b></span>
 </button>
 </div>
 
 <div id="arashiyama_scenery_3" class="collapse-panel" hidden>
 
-<p>渡月桥位于天龙寺东南方向约5分钟步行距离之处。它最初建于836年，后经多次维护重修。现在的渡月桥建于1934年。渡月桥全长仅155米，横跨岚山旁的桂川。渡月桥是岚山景区的标志性景点之一，在春秋季时同样是赏樱与赏红叶的绝佳观景点。</p>
+<p>Togetsukyo Bridge is located about a 5-minute walk southeast of Tenryu-ji Temple. It was originally built in 836 and has undergone multiple repairs and reconstructions. The current Togetsukyo Bridge was built in 1934. The bridge is only 155 meters long and spans the Katsura River next to Arashiyama. Togetsukyo Bridge is one of the iconic landmarks of the Arashiyama area and is also an excellent spot for cherry blossom and autumn leaf viewing in spring and fall.</p>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4308.JPG">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4308.JPG" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">岚山景区的渡月桥，桥下即是桂川。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">Togetsukyo Bridge in the Arashiyama area, with the Katsura River flowing underneath.</figcaption>
 </div>
 
-<p>可以乘坐人力车游览渡月桥，亦可以租船在桥下的桂川中游玩。渡月桥附近还有周恩来纪念碑，值得一去。</p>
+<p>You can take a rickshaw ride to explore Togetsukyo Bridge, or rent a boat to enjoy the Katsura River beneath the bridge. Nearby Togetsukyo Bridge, there is also a memorial monument dedicated to Zhou Enlai, which is worth a visit.</p>
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4307.JPG">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4307.JPG" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1em;">位于渡月桥附近的周恩来纪念碑。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1em;">Memorial monument dedicated to Zhou Enlai near Togetsukyo Bridge.</figcaption>
 </div>
 
-<p><b>开放时间</b>:全天开放。</p>
+<p><b>Opening Hours</b>: Open all day.</p>
 
-<p><b>门票</b>:免费。</p>
+<p><b>Admission</b>: Free.</p>
 
-<p><b>预计游览时间</b>:1小时。</p>
+<p><b>Estimated Visit Duration</b>: 1 hour.</p>
 
-<p>地址:1-5 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8384日本；<br>
-网站介绍:<a href="https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2682" class="custom-link-3">渡月桥介绍</a>。</p>
+<p>Address: 1-5 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8384 Japan;<br>
+Website: <a href="https://ja.kyoto.travel/tourism/single01.php?category_id=8&tourism_id=2682" class="custom-link-3">Togetsukyo Bridge Introduction</a>.</p>
 
-<p><b>地图位置</b>:</p>
+<p><b>Map Location</b>:</p>
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4279.305903172885!2d135.67607014690032!3d35.011944800836176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001075300916977%3A0xec14f8e82496283d!2sTogetsuky%C5%8D%20Bridge!5e0!3m2!1sen!2s!4v1755274226109!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的渡月桥。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Togetsukyo Bridge.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2136,28 +2134,28 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">渡月桥</div>
-      <div class="map-card-address">1-5 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8384日本</div>
+      <div class="map-card-title">Togetsukyo Bridge</div>
+      <div class="map-card-address">1-5 Sagatenryuji Susukinobabacho, Ukyo Ward, Kyoto, 616-8384 Japan</div>
     </div>
   </a>
 </div>
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull;渡月桥的名字来源于鎌仓时代的龟山天皇。龟山天皇曾在一次在今渡月桥附近举办的赏月聚会上描绘当时倒映在桂川中的月亮似在渡桥，因而得名。<br>
+  &bull;The name "Togetsukyo Bridge" originates from Emperor Kameyama of the Kamakura period. During a moon-viewing party held near the current Togetsukyo Bridge, Emperor Kameyama described the moon reflected in the Katsura River as if it were crossing the bridge, hence the name.<br>
   </p>
 </blockquote>
 
 </div>
 
-### 南部区域
+### Southern Area
 
-#### <span style="color: orange">伏见稻荷大社</span>
+#### <span style="color: orange">Fushimi Inari Taisha</span>
 
-伏见稻荷大社是位于京都市伏见区的神社，亦是伏见稻荷社的本社，供奉稻荷大神。适宜求商业和爱情的御守り。<span class="info_span" style="">内有著名的千本鸟居</span>。据传说称，稻荷大神在奈良时代的711年就已镇座于稻荷山，至今已有超过1300年历史。
+Fushimi Inari Taisha is a Shinto shrine located in Fushimi-ku, Kyoto. It serves as the head shrine for all Inari shrines and is dedicated to the deity Inari Okami. It is a popular place to seek amulets (omamori) for success in business and luck in love. <span class="info_span" style="">It is home to the famous Senbon Torii (Thousand Torii Gates)</span>. According to legend, Inari Okami was enshrined on Mount Inari in 711 AD during the Nara period, giving the shrine a history spanning over 1,300 years.
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4525.JPG" class="gallery-item" style="max-width:60.5%;">
@@ -2168,24 +2166,24 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>:伏见稻荷大社的正门；<b>右</b>:千本鸟居一景。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Left</b>: The main gate of Fushimi Inari Taisha; <b>Right</b>: A view of the Senbon Torii.</figcaption>
 
-伏见稻荷大社内的鸟居数不胜数，其从山下一直排列到山上。如果想拍摄一幅无人的千本鸟居，不妨多向山上爬爬。
+Fushimi Inari Taisha is home to countless torii gates that line the path from the base to the summit of Mount Inari. If you want to capture a photo of the Senbon Torii without any people, consider hiking up the mountain.
 
-<b>开放时间</b>:全天开放。<span class="reveal-on-hover">（欲挑战胆量的，请在晚上尝试爬伏见稻荷大社后的山:）。）</span>
+<b>Opening Hours</b>: Open all day. <span class="reveal-on-hover">(For those seeking a thrill, try hiking up the mountain behind Fushimi Inari Taisha at night.)</span>
 
-<b>门票</b>:免费。
+<b>Admission</b>: Free.
 
-<b>预计游览时间</b>:1-2小时。
+<b>Estimated Visit Duration</b>: 1-2 hours.
 
-地址:68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882日本；<br>
-电话:+81 75-641-7331；<br>
-网站:<a href="https://inari.jp/" class="custom-link-3">伏见稻荷大社官网</a>、<a href="https://inari.jp/zh-cn/map/" class="custom-link-3">伏见稻荷大社地图</a>。
+Address: 68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882 Japan;<br>
+Phone: +81 75-641-7331;<br>
+Website:<a href="https://inari.jp/" class="custom-link-3">Fushimi Inari Taisha Official Website</a>, <a href="https://inari.jp/zh-cn/map/" class="custom-link-3">Fushimi Inari Taisha Map</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3269.557637413282!2d135.77661267615903!3d34.967694472825954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60010f153d2e6d21%3A0x7b1aca1c753ae2e9!2sFushimi%20Inari%20Taisha!5e0!3m2!1sen!2s!4v1755275936655!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的伏见稻荷大社。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Fushimi Inari Taisha on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2194,17 +2192,17 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">伏见稻荷大社</div>
-      <div class="map-card-address">68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882日本</div>
+      <div class="map-card-title">Fushimi Inari Taisha</div>
+      <div class="map-card-address">68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto, 612-0882 Japan</div>
     </div>
   </a>
 </div>
 
-#### <span style="color: orange">东寺</span>
+#### <span style="color: orange">To-ji Temple</span>
 
-东寺位于京都市南区，又名教王护国寺，侍奉药师如来，山号为八幡山。东寺建于794年的平安时代，是桓武天皇迁都平安京后兴建的寺院。
+To-ji Temple is located in Minami-ku, Kyoto, also known as Kyo-o Gokoku-ji, dedicated to Yakushi Nyorai, with the mountain name Hachiman-yama. To-ji was built in 794 during the Heian period, after Emperor Kanmu moved the capital to Heian-kyo.
 
-东寺内的主要建筑包括金堂（国宝）、讲堂（重要文化财）、五重塔（国宝），其中最著名的非其五重塔莫属，它是日本最高的木制塔，被视为京都的象征。
+The main buildings within To-ji include the Kondo (National Treasure), Kodo (Important Cultural Property), and the Five-story Pagoda (National Treasure), the latter being the most famous. It is the tallest wooden pagoda in Japan and is considered a symbol of Kyoto.
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4269.JPG" class="gallery-item" style="max-width:47.5%;">
@@ -2215,7 +2213,7 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>:东寺的金堂；<b>右</b>:东寺的讲堂。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Left</b>: Kondo of To-ji; <b>Right</b>: Kodo of To-ji.</figcaption>
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4265.JPG" class="gallery-item" style="max-width:47.5%;">
@@ -2226,24 +2224,24 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>:东寺的五重塔；<b>右</b>:五重塔与金堂的屋檐的合影。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Left</b>: Five-story Pagoda of To-ji; <b>Right</b>: A photo of the eaves of the Five-story Pagoda and Kondo.</figcaption>
 
-虽然东寺在历史中扮演了非常重要的角色，但在旅游业中似乎不及京都其他一些更加知名的景点流行。但这也恰是推荐前往东寺参观的原因！
+Although To-ji has played a very important role in history, it seems less popular in tourism compared to some other more famous attractions in Kyoto. But this is exactly the reason to recommend visiting To-ji!
 
-<b>开放时间</b>:8:00 a.m.-5:00 p.m.
+<b>Opening Hours</b>: 8:00 a.m.-5:00 p.m.
 
-<b>门票</b>:¥800。
+<b>Admission Fee</b>: ¥800.
 
-<b>预计游览时间</b>:30分钟-1小时。
+<b>Estimated Visit Duration</b>: 30 minutes to 1 hour.
 
-地址:1 Kujocho, Minami Ward, Kyoto, 601-8473日本；<br>
-电话:+81 75-691-3325；<br>
-网站:<a href="https://toji.or.jp/" class="custom-link-3">东寺官网</a>、<a href="https://toji.or.jp/guide/" class="custom-link-3">东寺境内地图</a>、<a href="https://toji.or.jp/admission/" class="custom-link-3">东寺活动日程表</a>（东寺的五重塔一般不开放参观，但每年会有一些日期有特别参拜活动）。
+Address: 1 Kujocho, Minami Ward, Kyoto, 601-8473 Japan;<br>
+Phone: +81 75-691-3325;<br>
+Website: <a href="https://toji.or.jp/" class="custom-link-3">To-ji Official Website</a>, <a href="https://toji.or.jp/guide/" class="custom-link-3">To-ji Temple Map</a>, <a href="https://toji.or.jp/admission/" class="custom-link-3">To-ji Event Schedule</a> (The Five-story Pagoda of To-ji is generally not open for visits, but there are special worship events on certain dates each year).
 
-<b>地图位置</b>:<br>
+<b>Map Location</b>:<br>
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1158.8149267792567!2d135.7469944301372!3d34.98039683566092!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001060485fbaa4d%3A0xd3ee2dd9b0177910!2sTo-ji%20Temple!5e0!3m2!1sen!2s!4v1755361504075!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的东寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">To-ji Temple on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2252,44 +2250,44 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">东寺</div>
-      <div class="map-card-address">1 Kujocho, Minami Ward, Kyoto, 601-8473日本</div>
+      <div class="map-card-title">To-ji Temple</div>
+      <div class="map-card-address">1 Kujocho, Minami Ward, Kyoto, 601-8473 Japan</div>
     </div>
   </a>
 </div>
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull;京都又称平安京，平安时代是京都作为都城的开端。然而，现今京都只有东寺是平安时代留存下来的建筑。<br>
+  &bull; Kyoto is also known as Heian-kyo, and the Heian period marks the beginning of Kyoto as the capital. However, today, To-ji is the only building remaining from the Heian period in Kyoto.<br>
   </p>
 </blockquote>
 
-#### <span style="color: orange">京都铁道博物馆 (not visited)</span>
+#### <span style="color: orange">Kyoto Railway Museum (not visited)</span>
 
-京都铁道博物馆位于京都市下京区，是日本最大的铁道博物馆。京都铁道博物馆拥有非常丰富的铁道、火车以及相关藏品，大到日本的不同铁轨，各种火车头与车厢，小到曾经列车上职员的服饰，京都铁道博物馆应有尽有，是火车迷的必去之地！馆内还有托马斯蒸汽小火车和模拟驾驶舱可以体验。
+The Kyoto Railway Museum is located in Shimogyo Ward, Kyoto, and is the largest railway museum in Japan. The museum boasts a rich collection of railway-related exhibits, from various Japanese railway tracks, locomotives, and carriages to the uniforms of train staff. It is a must-visit destination for train enthusiasts! The museum also features a Thomas the Tank Engine steam train and a simulator cockpit for interactive experiences.
 
-<b>开放时间</b>:10:00 a.m.-5:00 p.m., 周三休馆（开馆日4:30 p.m.后停止入馆）。
+<b>Opening Hours</b>: 10:00 a.m. - 5:00 p.m., closed on Wednesdays (last admission at 4:30 p.m.).
 
-<b>门票</b>:<br>
-¥1500 成人；<br>
-¥1300 大学生；<br>
-¥500 初中生与小学生；<br>
-¥200 婴儿（3岁以上）；<br>
-免费 婴儿（3岁以下）。<br>
-有关团队参观事宜可参阅<a href="https://www.kyotorailwaymuseum.jp/guide/" class="custom-link-3">京都铁道博物馆官网</a>。
+<b>Admission Fee</b>:<br>
+¥1500 Adults;<br>
+¥1300 University Students;<br>
+¥500 Junior High and Elementary School Students;<br>
+¥200 Infants (3 years and older);<br>
+Free Infants (under 3 years old).<br>
+For group visits, please refer to the <a href="https://www.kyotorailwaymuseum.jp/guide/" class="custom-link-3">Kyoto Railway Museum Official Website</a>.
 
-<b>预计游览时间</b>:2小时。
+<b>Estimated Visit Duration</b>: 2 hours.
 
-地址:Kankijicho, Shimogyo Ward, Kyoto, 600-8835日本；<br>
-网站:<a href="https://www.kyotorailwaymuseum.jp/" class="custom-link-3">京都铁道博物馆官网</a>。
+Address: Kankijicho, Shimogyo Ward, Kyoto, 600-8835 Japan;<br>
+Website: <a href="https://www.kyotorailwaymuseum.jp/" class="custom-link-3">Kyoto Railway Museum Official Website</a>.
 
-<b>地图位置</b>:<br>
+<b>Map Location</b>:<br>
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3268.783049882159!2d135.73969827615966!3d34.987098572819335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001061746adc243%3A0x899ffa889ace79ed!2sKyoto%20Railway%20Museum!5e0!3m2!1sen!2s!4v1755362376393!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的京都铁道博物馆。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Kyoto Railway Museum on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2298,34 +2296,34 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">京都铁道博物馆</div>
-      <div class="map-card-address">Kankijicho, Shimogyo Ward, Kyoto, 600-8835日本</div>
+      <div class="map-card-title">Kyoto Railway Museum</div>
+      <div class="map-card-address">Kankijicho, Shimogyo Ward, Kyoto, 600-8835 Japan</div>
     </div>
   </a>
 </div>
 
-## 奈良县
+## Nara
 
 <div class="my_section_hero" style="">
   <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4444_revised.JPG')"></div>
   <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4462_revised.JPG')"></div>
   <div class="my_section_hero_content" style="">
-    奈良 Nara
+    Nara
   </div>
 </div>
 
 <div class="short_introduction_wrapper" style="">
-  <b>位于日本本州岛中南部的奈良市，虽然少了些东京与大阪泛有的灯红酒绿，却多了些独属于奈良的古色古香。公元8世纪自元明天皇迁都奈良而开启的奈良时代，是日本历史上与中国交往最为友好、频繁的一段时期。在奈良，你不仅能看到属于那个时代的日本遗留下来的种种古迹与工艺，甚至还能在暗中一瞥中国盛唐时期的风采。</b>
+  <b>Nestled in the south-central region of Japan's Honshu island, Nara lacks the neon-lit bustle common to Tokyo and Osaka, yet it possesses an ancient, weathered charm that is uniquely its own. The Nara period, which began in the 8th century when Empress Genmei moved the capital here, marks an era of Japan's history characterized by its most amicable and frequent exchanges with China. In Nara, one can not only witness the surviving relics and craftsmanship of that Japanese golden age but also catch a fleeting, profound glimpse of the splendor of China's Tang Dynasty in its prime.</b>
 </div>
 
-### <span style="color: orange">唐招提寺</span>
+### <span style="color: orange">Toshodai-ji Temple</span>
 
-唐招提寺位于奈良市五条町，<span class="info_span" style="">是759年中国唐代高僧鉴真东渡日本期间亲自规划修建的寺院</span>。寺院整体采用了盛唐时期的建筑风格。
+Toshodai-ji Temple is located in Gojocho, Nara City. It was personally planned and built by the Chinese Tang Dynasty monk Jianzhen during his eastward journey to Japan in 759. The temple as a whole adopts the architectural style of the flourishing Tang Dynasty.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4444.JPG">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4444.JPG" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">唐招提寺的金堂。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The main hall of Toshodai-ji Temple.</figcaption>
 </div>
 
 <div id="lightgallery">
@@ -2337,26 +2335,26 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">唐招提寺内的庭院，是修生养性的好场所。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;">The courtyard inside Toshodai-ji Temple is a great place for cultivating oneself.</figcaption>
 
-<b>开放时间</b>:8:30 a.m.-4:30 p.m.
+<b>Opening Hours</b>:8:30 a.m.-4:30 p.m.
 
-<b>门票</b>:<br>
-¥1000 成人；<br>
-¥400 大学生与初高中生；<br>
-¥200 小学生；<br>
-团体（30人及以上）在上述票价的基础上再减免20%。
+<b>Admission Fees</b>:<br>
+¥1000 Adults；<br>
+¥400 University and high school students；<br>
+¥200 Elementary school students；<br>
+Groups (30 or more) receive a 20% discount on the above prices.
 
-<b>预计游览时间</b>:1小时。
+<b>Estimated Visit Duration</b>: 1 hour.
 
-地址:13-46 Gojocho, Nara, 630-8032日本；<br>
-电话:+81 74-233-7900；<br>
-网站:<a href="https://www.toshodaiji.jp/" class="custom-link-3">唐招提寺官网</a>。
+Address: 13-46 Gojocho, Nara, 630-8032 Japan；<br>
+Phone: +81 74-233-7900；<br>
+Website: <a href="https://www.toshodaiji.jp/" class="custom-link-3">Official Toshodai-ji Temple Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3281.1738714514668!2d135.7822584761474!3d34.67556097292855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60013b040778f7e9%3A0x57c638784fa5da2e!2sToshodai-ji!5e0!3m2!1sen!2s!4v1755448948963!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的唐招提寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Toshodai-ji Temple.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2365,41 +2363,41 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">唐招提寺</div>
-      <div class="map-card-address">13-46 Gojocho, Nara, 630-8032日本</div>
+      <div class="map-card-title">Toshodai-ji Temple</div>
+      <div class="map-card-address">13-46 Gojocho, Nara, 630-8032 Japan</div>
     </div>
   </a>
 </div>
 
-### <span style="color: orange">东大寺</span>
+### <span style="color: orange">Todai-ji Temple</span>
 
-东大寺位于奈良市杂司町，由日本圣武天皇建于728年。东大寺正面宽度57米，深50米，是<span class="info_span" style="">世界上最大的木质建筑</span>。东大寺内的佛像也十分巨大，令人震撼而敬畏。
+Todai-ji Temple is located in Zoshicho, Nara City, and was built in 728 by Emperor Shomu of Japan. The front width of Todai-ji Temple is 57 meters, and the depth is 50 meters, making it the <b>largest wooden building</b> in the world. The Buddha statues inside Todai-ji Temple are also very large, evoking awe and reverence.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4462.JPG">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4462.JPG" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">东大寺的正面，其建筑之庞大一目了然。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The front of Todai-ji Temple, showcasing its massive architecture.</figcaption>
 </div>
 
-<b>开放时间</b>:<br>
-7:30 a.m.-5:30 p.m. （四月至十月）；<br>
-8:00 a.m.-5:00 p.m. （十一月至次年三月）。
+<b>Opening Hours</b>:<br>
+7:30 a.m.-5:30 p.m. (April to October);<br>
+8:00 a.m.-5:00 p.m. (November to March).
 
-<b>门票</b>:<br>
-¥800 成人、大学生、高中生、初中生；<br>
-¥400 小学生。<br>
-有关团体票价的信息请参阅<a href="https://www.todaiji.or.jp/information/haikan/" class="custom-link-3">官网</a>。
+<b>Admission Fees</b>:<br>
+¥800 Adults, university students, high school students, and junior high school students;<br>
+¥400 Elementary school students.<br>
+For information on group ticket prices, please refer to the <a href="https://www.todaiji.or.jp/information/haikan/" class="custom-link-3">official website</a>.
 
-<b>预计游览时间</b>:1小时。
+<b>Estimated Visit Duration</b>: 1 hour.
 
-地址:406-1 Zoshicho, Nara, 630-8587日本；<br>
-电话:+81 74-222-5511；<br>
-网站:<a href="https://www.todaiji.or.jp/" class="custom-link-3">东大寺官网</a>。
+Address: 406-1 Zoshicho, Nara, 630-8587 Japan;<br>
+Phone: +81 74-222-5511;<br>
+Website: <a href="https://www.todaiji.or.jp/" class="custom-link-3">Official Todai-ji Temple Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.6419504817063!2d135.8372408761481!3d34.68898507292373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600139907a0876dd%3A0xf890ac3f9dd53c8f!2zVMWNZGFpLWpp!5e0!3m2!1sen!2s!4v1755449668780!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的东大寺。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Todai-ji Temple.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2408,45 +2406,45 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">东大寺</div>
-      <div class="map-card-address">406-1 Zoshicho, Nara, 630-8587日本</div>
+      <div class="map-card-title">Todai-ji Temple</div>
+      <div class="map-card-address">406-1 Zoshicho, Nara, 630-8587 Japan</div>
     </div>
   </a>
 </div>
 
 <blockquote>
   <p style="font-size:0.8em">
-  <b>你知道吗？</b>
+  <b>Did you know?</b>
   </p>
   <p style="font-size:0.8em">
-  &bull;与东大寺对应，奈良其实也有西大寺，但在旅游业中并不如东大寺出名。<br>
+  &bull;Corresponding to Todai-ji Temple, Nara also has Sai-ji Temple, but it is not as famous as Todai-ji Temple in tourism.<br>
   </p>
 </blockquote>
 
-### <span style="color: orange">奈良公园</span>
+### <span style="color: orange">Nara Park</span>
 
-奈良公园位于奈良市若草山麓。除了一般的公园拥有的景色外，奈良公园最大的特色是可以免费撸小鹿，有兴趣的话还可以在旁边的商铺买200日元一份的鹿饼投喂。此外，奈良公园位于奈良市近乎中心的区域，距离奈良的几个重要景点（如东大寺、春日大社、若草山等）距离不远，是很方便前往的公园。
+Nara Park is located at the foot of Mount Wakakusa in Nara City. Besides the typical scenic views of a park, Nara Park's biggest feature is the free-roaming deer that visitors can interact with. If interested, you can also buy deer crackers for 200 yen per pack from nearby shops to feed the deer. Additionally, Nara Park is situated near the center of Nara City, making it convenient to visit several important attractions such as Todai-ji Temple, Kasuga Taisha Shrine, and Mount Wakakusa.
 
 <div style="text-align: center;">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4467.JPG.jpeg">
   <img src="/assets/images/Travel/Japan Tour Plan/IMG_4467.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">奈良公园的可爱小鹿。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The lovely deer of Nara Park.</figcaption>
 </div>
 
 
-<b>开放时间</b>:全天开放。
+<b>Opening Hours</b>: Open all day.
 
-<b>门票</b>:免费。
+<b>Admission Fees</b>: Free.
 
-<b>预计游览时间</b>:30分钟。
+<b>Estimated Visit Duration</b>: 30 minutes.
 
-电话:+81 742-222-0375；<br>
-网站:<a href="https://www3.pref.nara.jp/park/" class="custom-link-3">奈良公园官网</a>。
+Phone: +81 742-222-0375;<br>
+Website: <a href="https://www3.pref.nara.jp/park/" class="custom-link-3">Official Nara Park Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.7978389278496!2d135.84043171268104!3d34.6850513839373!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60013996bd8c6061%3A0xf96cacf357447456!2sNara%20Park!5e0!3m2!1sen!2s!4v1755541239260!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的奈良公园。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Nara Park.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2455,28 +2453,28 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">奈良公园</div>
+      <div class="map-card-title">Nara Park</div>
     </div>
   </a>
 </div>
 
 
-### <span style="color: orange">若草山 (not visited)</span>
+### <span style="color: orange">Mount Wakakusa (not visited)</span>
 
-若草山是位于奈良市奈良公园东部的一座小山，有一片大草地，其上可以俯瞰奈良市区的全景。如果想拍摄以草地为背景的人像照，若草山是不错的选择。若草山每年还有特殊的烧山仪式，若恰巧遇上，不妨一去。
+Mount Wakakusa is a small mountain located to the east of Nara Park in Nara City, featuring a large grassy area that offers panoramic views of the city. If you're interested in taking portrait photos with a grassy background, Mount Wakakusa is a great choice. The mountain also hosts a special annual grass-burning ceremony, which is worth visiting if you happen to be there at the right time.
 
-<b>开放时间</b>:全天开放。
+<b>Opening Hours</b>: Open all day.
 
-<b>门票</b>:免费。
+<b>Admission Fees</b>: Free.
 
-<b>预计游览时间</b>:30分钟。
+<b>Estimated Visit Duration</b>: 30 minutes.
 
-地址:Zoshicho, Nara, 630-8211日本；<br>
+Address: Zoshicho, Nara, 630-8211 Japan;<br>
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13122.222021870468!2d135.84411332376445!3d34.691166258202244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600139bbcae1062f%3A0x3ffe7797efcbb75e!2sMount%20Wakakusa!5e0!3m2!1sen!2s!4v1755541750215!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的若草山。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Mount Wakakusa.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2485,25 +2483,25 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">若草山</div>
-      <div class="map-card-address">Zoshicho, Nara, 630-8211日本</div>
+      <div class="map-card-title">Mount Wakakusa</div>
+      <div class="map-card-address">Zoshicho, Nara, 630-8211 Japan</div>
     </div>
   </a>
 </div>
 
-### <span style="color: orange">春日大社 (not visited)</span>
+### <span style="color: orange">Kasuga Taisha Shrine (not visited)</span>
 
-春日大社位于奈良公园内，建于710年，是春日社的总本社。春日大社与一般其他神社不同之处在于它供奉了四位神明（一般的神社最多只供奉两位神明）。春日大社颜色艳丽，社内建筑多采用朱红色外漆，与周围的植被相映成趣，是摄影打卡的绝佳地点。
+Kasuga Taisha Shrine is located within Nara Park and was established in 710 AD as the head shrine of the Kasuga faith. Unlike most other shrines that typically enshrine up to two deities, Kasuga Taisha enshrines four deities. The shrine is known for its vibrant colors, with many buildings painted in vermilion, creating a striking contrast with the surrounding greenery, making it an excellent spot for photography.
 
-<b>开放时间</b>:7:00 a.m.-5:00 p.m.
+<b>Opening Hours</b>: 7:00 a.m. - 5:00 p.m.
 
-<b>门票</b>:<br>
-¥700 成人；<br>
-¥400 大学生与高中生；<br>
-¥300 初中生与小学生；<br>
-20人及以上的成人团体票价为¥600/人，学生无团体优惠票。
+<b>Admission Fees</b>:<br>
+¥700 Adults;<br>
+¥400 University and high school students;<br>
+¥300 Junior high and elementary school students;<br>
+Group rate for adults of 20 or more is ¥600 per person, no group discount for students.
 
-<b>境内地图</b>:
+<b>Map of the Shrine</b>:
 <div class="" style="padding-left: 5%; padding-right: 5%; margin-bottom: 1.3em;">
   <object
   data="https://www.kasugataisha.or.jp/images/pdf/keidai_mapA3.pdf"
@@ -2517,16 +2515,16 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
 </object>
 </div>
 
-<b>预计游览时间</b>:1小时。
+<b>Estimated Visit Duration</b>: 1 hour.
 
-地址:160 Kasuganocho, Nara, 630-8212日本；<br>
-电话:+81 74-222-7788；<br>
-网站:<a href="https://www.kasugataisha.or.jp/" class="custom-link-3">春日大社官网</a>。
+Address: 160 Kasuganocho, Nara, 630-8212 Japan;<br>
+Phone: +81 74-222-7788;<br>
+Website: <a href="https://www.kasugataisha.or.jp/" class="custom-link-3">Kasuga Taisha Official Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.9365910710712!2d135.845891612681!3d34.68154978412466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600139c06bb06ad5%3A0x4c97e78382e39596!2sKasugataisha%20Shrine!5e0!3m2!1sen!2s!4v1755618950369!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的春日大社。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map location of Kasuga Taisha Shrine.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2535,35 +2533,35 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">春日大社</div>
-      <div class="map-card-address">160 Kasuganocho, Nara, 630-8212日本</div>
+      <div class="map-card-title">Kasuga Taisha Shrine</div>
+      <div class="map-card-address">160 Kasuganocho, Nara, 630-8212 Japan</div>
     </div>
   </a>
 </div>
 
-## 大阪府
+## Osaka
 
 <div class="my_section_hero" style="">
   <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4646_revised.JPG.jpeg')"></div>
   <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4609_revised.JPG.jpeg')"></div>
   <div class="my_section_hero_content" style="">
-    大阪 Osaka
+    Osaka
   </div>
 </div>
 
 <div class="short_introduction_wrapper" style="">
-  <b>关西的大阪，与东京一齐，被称为日本城市的代表。自奈良时代起，大阪就已是日本关西地方的最重要城市之一。身处大阪，或许你想品尝一下大阪烧，感受“天下的厨房”中的美食；或许你想置身心斋桥，短暂地漂浮在欲望之海之上；又或许你想站在天守阁上，似曾经的统治者一般眺望这片关西要地。</b>
+  <b>Osaka, alongside Tokyo, stands as one of the definitive representatives of Japanese urban life. Since the Nara period, it has remained one of the most vital hubs in the Kansai region. While in Osaka, you might find yourself savoring Okonomiyaki, immersing your senses in the flavors of "The Nation’s Kitchen"; perhaps you wish to lose yourself in Shinsaibashi, drifting briefly atop a sea of neon desires; or maybe you yearn to stand atop the Main Tower of Osaka Castle, gazing out over this strategic Kansai stronghold just as its rulers once did.</b>
 </div>
 
-<span class="info_span" style="">由于临时机票调整，大阪区域的游览被基本砍掉，预计只会有半天用以参观大阪城。</span> 
+<span class="info_span" style="">Due to last-minute flight changes, the Osaka area tour has been largely cut, with only half a day expected for visiting Osaka Castle.</span> 
 
-### <span style="color: orange">大阪城</span>
+### <span style="color: orange">Osaka Castle</span>
 
-大阪城位于大阪市中央区，是日本的一大名城。它建于丰臣秀吉的桃山时代，是彼时丰臣秀吉的居所。后在被德川家族打败后成为了德川幕府的重要关西据点。
+Located in Chuo-ku, Osaka Castle stands as one of Japan’s most iconic landmarks. Originally constructed during the Momoyama period as the residence of Toyotomi Hideyoshi, it later became a pivotal stronghold for the Tokugawa Shogunate following the Toyotomi clan's defeat.
 
-大阪城在历史上可谓命运坎坷。丰臣时代的大阪城在1615年德川家族攻打丰臣家族的战役（史称“冬之阵”）中被毁。后德川秀忠将军在1620年重建大阪城，重建过程中几乎损坏了所有之前丰臣家大阪城的遗迹，并将所有残骸埋没至地下数米深处，旨在使世人忘记曾经丰臣家的统治。然而新建的大阪城也好景不长，新大阪城天守阁在1665年因雷击导致的火灾中再次被毁。1868年，在旧幕府将军反抗维新政府的鸟羽伏见之战中，幕府战败，大阪城在此次失利中近乎全毁。如今所见的大阪城是1928年重建的。
+The castle’s history is a tumultuous one. The original structure was razed in 1615 during the Siege of Osaka, the decisive battle where the Tokugawa clan overthrew the Toyotomi family. In 1620, Shogun Tokugawa Hidetada ordered the castle’s reconstruction; in doing so, he systematically destroyed nearly all remnants of the original fortress, burying the ruins meters underground in a deliberate attempt to eradicate the memory of Toyotomi rule. However, this new iteration was short-lived, as the Main Tower was struck by lightning and destroyed by fire in 1665. Misfortune struck again in 1868 during the Battle of Toba-Fushimi, where the shogunate's defeat left the castle almost entirely in ruins. The structure standing today was resurrected in 1928.
 
-如今的大阪城从本质上并不是真正的历史古迹，但它的结构与样貌都参照了丰臣与德川时代的大阪城原迹。如今的大阪城天守阁更像是一个讲述大阪城与天守阁的历史博物馆，内有非常丰富的有关历史资料。在天守阁的顶楼还可一览大阪市区的风采。
+While the modern Osaka Castle is not a "historical relic" in the strictest sense, its design and appearance meticulously reference the original blueprints from both the Toyotomi and Tokugawa eras. Today, the Main Tower functions as a comprehensive history museum, housing a wealth of artifacts and archives. From its top floor, visitors can enjoy a breathtaking panoramic view of the Osaka cityscape.
 
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/IMG_4642.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
@@ -2574,17 +2572,17 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
   </a>
 </div>
 
-<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>:现大阪城的样貌；<b>右</b>:大阪城天守阁内部讲述曾经发生的战事的模型。</figcaption>
+<figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Left</b>: The current appearance of Osaka Castle; <b>Right</b>: A model inside the Main Tower of Osaka Castle depicting the historical battles that took place.</figcaption>
 
-<b>开放时间</b>:9:00 a.m.-6:00 p.m. （5:30 p.m.停止入馆）
+<b>Opening Hours</b>:9:00 a.m.-6:00 p.m. (Last admission at 5:30 p.m.)
 
-<b>门票</b>:<span class="info_span" style="">天守阁参观需要提前1至2天通过<a href="https://www.osakacastle.net/guide/" class="custom-link-3">官网</a>预定</span>；<br>
-¥1200 成人；<br>
-¥600 大学生；<br>
-免费 中学生及以下。<br>
-团体票（15人及以上）九折优惠。
+<b>Admission Fees</b>:<span class="info_span" style="">Advance reservation 1 to 2 days prior is required for Main Tower visits through the <a href="https://www.osakacastle.net/guide/" class="custom-link-3">official website</a></span>;<br>
+¥1200 Adults;<br>
+¥600 University students;<br>
+Free for junior high school students and below.<br>
+Group tickets (15 or more people) receive a 10% discount.
 
-<b>参观指南</b>:
+<b>Visitor Guide</b>:
 <div class="" style="padding-left: 5%; padding-right: 5%; margin-bottom: 1.3em;">
   <object
   data="https://www.osakacastle.net/pdf/leaflet/kantaiji_2025.pdf"
@@ -2598,16 +2596,16 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
 </object>
 </div>
 
-<b>预计游览时间</b>:1-2小时。
+<b>Estimated Visit Duration</b>: 1-2 hours.
 
-地址:1-1 Osakajo, Chuo Ward, Osaka, 540-0002日本；<br>
-电话:+81 66-941-3044；<br>
-网站:<a href="https://www.osakacastle.net/" class="custom-link-3">大阪城官网</a>。
+Address: 1-1 Osakajo, Chuo Ward, Osaka, 540-0002 Japan;<br>
+Phone: +81 66-941-3044;<br>
+Website: <a href="https://www.osakacastle.net/" class="custom-link-3">Official Osaka Castle Website</a>.
 
-<b>地图位置</b>:
+<b>Map Location</b>:
 <div class="map-desktop" style="text-align: center;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3280.710256622803!2d135.52327431268094!3d34.68726148381854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000e0cd5c283afd%3A0xf01d07d5ca11e41!2sOsaka%20Castle!5e0!3m2!1sen!2s!4v1755794405271!5m2!1sen!2s" width="960" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地图上的大阪城。</figcaption>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Osaka Castle on the map.</figcaption>
 </div>
 
 <div class="map-card">
@@ -2616,8 +2614,8 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
       <img src="/assets/images/Travel/Japan Tour Plan/google-map-icon_revised.png" alt="Map Thumbnail">
     </div>
     <div class="map-card-info">
-      <div class="map-card-title">大阪城</div>
-      <div class="map-card-address">1-1 Osakajo, Chuo Ward, Osaka, 540-0002日本</div>
+      <div class="map-card-title">Osaka Castle</div>
+      <div class="map-card-address">1-1 Osakajo, Chuo Ward, Osaka, 540-0002 Japan</div>
     </div>
   </a>
 </div>
