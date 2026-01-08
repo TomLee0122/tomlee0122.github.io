@@ -24,7 +24,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2025-12-29
+last_modified_at: 2026-01-08
 toc: true
 toc_label: 'Table of Contents'
 permalink: /tags/travel/Japan-Tour-Plan_EN/
@@ -746,7 +746,7 @@ Address: 〒154-0024 Setagaya City, Tokyo
 
 #### <span style="color: orange">Tokyo Tower</span>
 
-Tokyo Tower (officially the Nippon Television City Corporation tower) is a telecommunications and observation tower in Tokyo, primarily used for broadcasting television and radio signals. Built in 1958 and standing at 332.9 meters, it is the second-tallest structure in Japan, surpassed only by the <a href="/blogs/travel/Japan-Tour-Plan/#Tokyo-Skytree" class="custom-link-3">Tokyo Skytree</a>. With its elegant and minimalist silhouette, Tokyo Tower attracts millions of visitors annually. <span class="reveal-on-hover">(It is also an iconic filming location for countless Japanese dramas, anime, and games!)</span>
+Tokyo Tower (officially the Nippon Television City Corporation tower) is a telecommunications and observation tower in Tokyo, primarily used for broadcasting television and radio signals. Built in 1958 and standing at 332.9 meters, it is the second-tallest structure in Japan, surpassed only by the <a href="/tags/travel/Japan-Tour-Plan/#Tokyo-Skytree" class="custom-link-3">Tokyo Skytree</a>. With its elegant and minimalist silhouette, Tokyo Tower attracts millions of visitors annually. <span class="reveal-on-hover">(It is also an iconic filming location for countless Japanese dramas, anime, and games!)</span>
 <div id="lightgallery">
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" class="gallery-item" style="max-width:47.5%;">
     <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" alt="Image 1">
@@ -2620,57 +2620,55 @@ Website: <a href="https://www.osakacastle.net/" class="custom-link-3">Official O
   </a>
 </div>
 
-# <span style="color: #8E403A;">附录 I: 交通</span>
+# <span style="color: #8E403A;">Appendix I: Transportation</span>
 
-主要通过铁道进行（除铁道交通较少的京都外）。关于日本铁道票券规则的综述见<a href="/blogs/travel/Japan-Tour-Plan/#%E6%97%A5%E6%9C%AC%E9%93%81%E8%B7%AF%E4%BA%A4%E9%80%9A%E7%A5%A8%E5%88%B8%E7%BB%BC%E8%BF%B0" class="custom-link-3">附录</a>。下面是一些常用的城际火车的指引。
+Primarily traveling by rail (except for Kyoto, which has less frequent rail service). For a comprehensive overview of Japanese railway ticket rules, please refer to the <a href="/tags/travel/Japan-Tour-Plan_EN/#overview-of-japanese-railway-tickets" class="custom-link-3">Appendix</a>. Below are guidelines for some commonly used intercity trains.
 
-## 东京-富士山
+## Tokyo - Mount Fuji
 
-这一程有多种交通方式，下面介绍常见的几种:
+There are multiple transportation options for this route; here are some common ones:
 
-### 直达车
+### Direct Trains
 
-- JR 中央线特急<a href="https://www.fujikyu-railway.jp/fujikaiyuu/" class="custom-link-3">富士洄游</a>:新宿站-河口湖站。每天早晨 7:30/8:30/9:30/10:30 a.m. 从新宿站发车。历时2小时，花费 ¥4000. 最好提前通过 <a href="https://smart-ex.jp/top.php" class="custom-link-3">JR</a> 预定。<br>
-- JR 中央线特快:JR 东京站-河口湖站。历时3小时，花费 ¥2600.
+- JR Chuo Line Limited Express <a href="https://www.fujikyu-railway.jp/fujikaiyuu/" class="custom-link-3">Fujikyu</a>: Shinjuku Station to Kawaguchiko Station. Departs every morning at 7:30/8:30/9:30/10:30 a.m. Duration: 2 hours, Cost: ¥4000. It is recommended to book in advance through <a href="https://smart-ex.jp/top.php" class="custom-link-3">JR</a>.<br>
+- JR Chuo Line Rapid: JR Tokyo Station to Kawaguchiko Station. Duration: 3 hours, Cost: ¥2600.
 
-### 转乘车
+### Transfers
 
-由于富士山是一个热门目的地，所以转乘一般不比直达车慢多少。其中一个关键的转乘点是大月站 (Otsuki). 基本的路线就是通过各种方式到达大月站（约一个半钟），然后转乘富士急行线 (Fujikyu) 到达河口湖站（一个多种）。需要注意的是富士急行线的车次较少（约30 min），所以需要等车不要摸鱼误点。
+Since Mount Fuji is a popular destination, transfers generally do not take much longer than direct trains. One key transfer point is Otsuki Station. The basic route is to reach Otsuki Station by various means (about one and a half hours), then transfer to the Fujikyu Line to Kawaguchiko Station (about one hour). Note that the Fujikyu Line has fewer trains (about every 30 minutes), so be careful not to miss your train while waiting.
 
-### 巴士
+### Buses
 
-有很多公司提供服务，最便宜且（名义上）比较快的，但是要小心晚点和高峰期拥堵问题。
+There are many companies providing services. The cheapest and (nominally) faster options are available, but be cautious of delays and congestion during peak hours.
 
-## <span style="color: #7F82BB;">富士山-京都</span>
+## <span style="color: #7F82BB;">Mount Fuji - Kyoto</span>
 
-先乘坐 <a href="https://sekitori.jp/" class="custom-link-3">Sekitori</a> 巴士从河口湖到三岛站，然后转乘新干线前往京都。4小时左右到。
+First take the <a href="https://sekitori.jp/" class="custom-link-3">Sekitori</a> bus from Kawaguchiko to Mishima Station, then transfer to the Shinkansen to Kyoto. It takes about 4 hours.
 
-主要参考<a href="https://www.xiaohongshu.com/explore/6639958a000000001e01c6b6?xsec_token=ABQ_s1aOeXVCxwLUhLTOMJJDofyEthOS8IkVtkuNXoMQs=&xsec_source=pc_search&source=web_explore_feed" class="custom-link-3">小红书帖子</a>。
+Main reference: <a href="https://www.xiaohongshu.com/explore/6639958a000000001e01c6b6?xsec_token=ABQ_s1aOeXVCxwLUhLTOMJJDofyEthOS8IkVtkuNXoMQs=&xsec_source=pc_search&source=web_explore_feed" class="custom-link-3">Xiaohongshu post</a>.
 
-### Sekitori 巴士
+### Sekitori Bus
 
-<b>路线</b>:河口湖站-三岛站。<br>
-<b>时刻表</b>:在 9:30am - 7:00pm 之间，平均每半小时一班。<br>
-<b>票价</b>:TBD<br>
-<b>车程</b>:约 1.5 小时。<br>
-<b>预定方式</b>:提前一个月通过 <a href="https://sekitori.jp/" class="custom-link-3">Sekitori</a> 预定。
+<b>Route</b>: Kawaguchiko Station - Mishima Station.<br>
+<b>Schedule</b>: Between 9:30am - 7:00pm, approximately every half hour.<br>
+<b>Fare</b>: TBD<br>
+<b>Duration</b>: About 1.5 hours.<br>
+<b>Booking</b>: Book one month in advance through <a href="https://sekitori.jp/" class="custom-link-3">Sekitori</a>.
 
-### 新干线
+### Shinkansen
 
-<b>路线</b>:三岛站-京都站；可能需要在名古屋中转。<br>
-<b>时刻表</b>:平均每半小时一班。<br>
-<b>票价</b>:TBD<br>
-<b>车程</b>:约 2 小时。<br>
-<b>预定方式</b>:提前一个月通过 <a href="https://smart-ex.jp/top.php" class="custom-link-3">JR</a> 预定，也可以三岛站现场买，据称余票较为充裕。
+<b>Route</b>: Mishima Station - Kyoto Station; may require transfer at Nagoya.<br>
+<b>Schedule</b>: Approximately every half hour.<br>
+<b>Fare</b>: TBD<br>
+<b>Duration</b>: About 2 hours.<br>
+<b>Booking</b>: Book one month in advance through <a href="https://smart-ex.jp/top.php" class="custom-link-3">JR</a>, or buy on-site at Mishima Station, reportedly with ample availability.
 
 
+## <span style="color: #7F82BB;">Kyoto - Osaka - Nara - Uji - Lake Biwa</span>
 
-## <span style="color: #7F82BB;">京都-大阪-奈良-宇治-琵琶湖</span>
+In this area, transportation generally does not require special reservations. Some special routes include:
 
-在此区域的交通基本无需特别预定。较特殊的路线包括:
-
-- 京都-大阪:方式很多，基本分为以下几种:
-
+- Kyoto - Osaka: There are many options, basically divided into the following types:
   <!-- | 方式 | 车次 | 速度(15/30/50 min) | 价格(¥500-1500) |
   | --- | --- | --- | --- |
   | JR 新干线 | 多 | 快 | 贵 |
@@ -2686,151 +2684,174 @@ Website: <a href="https://www.osakacastle.net/" class="custom-link-3">Official O
   <col style="width: 20%;">
   <col style="width: 30%;">
   <tr>
-    <th>方式</th>
-    <th>车次</th>
-    <th>速度(15/30/50 min)</th>
-    <th>价格(¥500-1500)</th>
+    <th>Method</th>
+    <th>Frequency</th>
+    <th>Speed (15/30/50 min)</th>
+    <th>Price (¥500-1500)</th>
   </tr>
 
   <tr>
-    <td><b>JR 新干线</b></td>
-    <td>多</td>
-    <td>快</td>
-    <td>贵</td>
+    <td><b>JR Shinkansen</b></td>
+    <td>Frequent</td>
+    <td>Fast</td>
+    <td>Expensive</td>
   </tr>
 
   <tr>
-    <td><b>JR 关西机场特急 Haruka</b></td>
-    <td>少</td>
-    <td>中</td>
-    <td>贵（提前网上买，作为外国人有优惠）</td>
+    <td><b>JR Kansai Airport Limited Express Haruka</b></td>
+    <td>Few</td>
+    <td>Medium</td>
+    <td>Expensive (discounts available for foreigners when purchased online in advance)</td>
   </tr>
   <tr>
-    <td><b>JR 东海道、山阳本线（京都本线）:<br>新快速/Thunderbird</b></td>
-    <td>中</td>
-    <td>中</td>
-    <td>中</td>
-  </tr>
-
-  <tr>
-    <td><b>阪急京都线</b></td>
-    <td>多</td>
-    <td>慢</td>
-    <td>低</td>
+    <td><b>JR Tokaido, Sanyo Main Line (Kyoto Main Line):<br>Shinkaisoku/Thunderbird</b></td>
+    <td>Medium</td>
+    <td>Medium</td>
+    <td>Medium</td>
   </tr>
 
   <tr>
-    <td><b>京阪本线（急行/特急）</b></td>
-    <td>多</td>
-    <td>慢</td>
-    <td>低</td>
+    <td><b>Hankyu Kyoto Line</b></td>
+    <td>Frequent</td>
+    <td>Slow</td>
+    <td>Low</td>
+  </tr>
+
+  <tr>
+    <td><b>Keihan Main Line (Express/Limited Express)</b></td>
+    <td>Frequent</td>
+    <td>Slow</td>
+    <td>Low</td>
   </tr>
 
 </table>
 </div>
   
-- 京都-奈良:一般坐近铁京都线和近铁奈良线，耗时约45分钟，花费 ¥800.
-- 大阪-关西机场:JR 关空快速，耗时约70分钟，花费 ¥1200 或 JR 关空特急 Haruka，耗时约45分钟，花费 ¥2500 或南海电铁（难波出发）特急，耗时约40分钟，花费 ¥1500；急行耗时约45分钟，花费 ¥1000.
-- 大阪-奈良:一般坐近铁难波线和近铁奈良线，耗时约30分钟，花费 ¥700.
-- 京都-宇治:JR, 耗时约20分钟，花费 ¥300.
-- 京都-志贺:JR, 耗时约30分钟，花费 ¥400.
-- 京都-彦根:JR, 耗时约1小时，花费 ¥1000.
+- Kyoto - Nara: Generally take Kintetsu Kyoto Line and Kintetsu Nara Line, about 45 minutes, costing ¥800.
+- Osaka - Kansai Airport: JR Kansai Airport Rapid Service, about 70 minutes, costing ¥1200; or JR Kansai Airport Limited Express Haruka, about 45 minutes, costing ¥2500; or Nankai Electric Railway (from Namba) Limited Express, about 40 minutes, costing ¥1500; Rapid Service about 45 minutes, costing ¥1000.
+- Osaka - Nara: Generally take Kintetsu Namba Line and Kintetsu Nara Line, about 30 minutes, costing ¥700.
+- Kyoto - Uji: JR, about 20 minutes, costing ¥300.
+- Kyoto - Shiga: JR, about 30 minutes, costing ¥400.
+- Kyoto - Hikone: JR, about 1 hour, costing ¥1000.
 
-## <span style="color: #7F82BB;">日本铁路交通票券综述</span>
+## <span style="color: #7F82BB;">Overview of Japanese Railway Tickets</span>
 
-日本铁道与大多数国家不同，是有多个公司分别运营，主要包括 JR （其中 JR 还按照地域划分为 JR 东日本、JR 西日本等）、一些城铁、私铁等。它们可能会共用一些车站实现线路之间的乘换，所以会出现需要在同一车站内先出 A 公司铁路的闸机再进 B 公司铁路的闸机的情况。为了减轻买票的压力，各铁路公司承认一些铁路通票，广为认知的西瓜卡 Suica (JR 东日本发行) 和 ICOCA (JR 西日本发行) 就是一些例子，虽然是由其中一个公司发行，但在其他公司的线路上也可以使用。
+Unlike most countries, Japan’s railway system is managed by multiple independent operators. These primarily include the Japan Railways (JR Group)—which is further divided by region into entities like JR East and JR West—along with various municipal subways and private railways (Shitetsu). While different operators often share the same station for transfers, you may find yourself needing to exit through the gates of Company A before entering those of Company B within the same building.
 
-基于这种制度，在日本并不适用其他国家在“城际铁路”和“城市轨道交通”之间有明确的区分，只有不同公司运营有不同侧重的铁路从而自然导致有些线路是城际有些线路是城市轨道交通的情况。例如:JR 主要运营的是城际铁路，但也有少部分城轨运营（比如著名的山手线）；近畿日本鉄道（近铁）则是主营关西地区的城际铁路；而每个地区自己的城轨私铁公司/市营铁路自然是以城轨为主了。所以在日本坐铁路最好还是认为坐的都是“火车”，并以此来理解相关制度。
+To alleviate the complexity of purchasing individual tickets, railway companies have adopted various IC cards and passes. The widely recognized Suica (issued by JR East) and ICOCA (issued by JR West) are prime examples; although issued by a specific company, they offer cross-network interoperability across almost all other lines.
 
-上书的这种私营运行的方式导致了日本铁道非常复杂的票券系统，下面作一些介绍。
+Under this system, the clear distinction found in other countries between "intercity rail" and "urban mass transit" (metro/subway) does not strictly apply in Japan. Instead, the lines are blurred, with different companies simply focusing on different operational strengths. For instance, while JR primarily operates intercity networks, it also runs key urban lines (such as the famous Yamanote Line). Kintetsu Railway, on the other hand, specializes in intercity travel within the Kansai region, while municipal subways and private lines focus on local urban transit. Therefore, when traveling in Japan, it is best to view all these systems as "trains" to better navigate their respective rules and structures.
 
-### 关于各駅停車/快速/急行/特急/新干线
+This privatized and multi-operator model has resulted in an exceptionally complex ticketing system, which I will outline in more detail below.
 
-为了提高铁道的运载效率，日本铁道采用了分级的方式来区分列车的速度和停靠站点，标题所列的是一些典型的列车类型，不同的等级会导致买票时存在一些区别。另外，不同等级的列车经常共用站台，故而上车前 **必须确认好车次类型**（决定了停靠的站点稀疏性）:例如急行车可能只停靠一些大站，这时如果你想前往某个小站，就应该等待各駅停車到来再乘坐，或者先坐急行车到某个大站再转乘各駅停車。在实操时只需在确保路线合理的情况下，**严格遵照** Google maps 或 乗り換え案内 的指示即可
+### About Local / Rapid / Express / Limited Express / Shinkansen
 
-这其中，前面的几种都统称“在来线”，与最后一种的新干线相对立（见后文关于买票的说明）。
+To maximize operational efficiency, Japanese railways utilize a tiered system to categorize trains based on their speed and stopping patterns. The types listed in the heading are typical service tiers, and these classifications often result in different ticketing requirements. Furthermore, since trains of various tiers frequently share the same platform, it is imperative to verify the service type before boarding, as this determines which stations the train will serve. For example, an "Express" train may only stop at major hubs; if your destination is a smaller station, you should wait for a "Local" train or take the Express to a major hub and then transfer to a Local service. In practice, as long as your route is logical, simply strictly follow the directions provided by Google Maps or Norikae Annai (transit navigation apps).
 
-### 票价逻辑
+Among these, the first several types are collectively referred to as "Zairaisen" (conventional lines), which are distinct from the final type, the Shinkansen (as explained in the ticketing section below).
 
-日本的铁路的价格制度比较特殊，“一趟旅程”的价格是由多个部分组成的，目前发现有以下几种常见票券:
+### Fare Logic
 
-- 乘车券:按照运载距离计算（一些特例讨论见本节最后），只保证最基础的乘车服务。例如各駅停車/快速一般是包含在此的，如果要乘坐更快的列车，需要下面的特急料金:
-- 特急券/急行券:按照乘坐车辆的类型，需要额外购买的一张对应票券，它负责将你的乘坐等级“升级”到特急/急行等级。特急车作为普通铁路上最快的车辆种类，还分为以下关于座位的票券:
-- 特急券 - 自由席/指定席/绿色车厢/其它特殊车厢:分别对应座位先到先得（i.e. 站票）（有些特急车没有自由席）/有预留给定座位/一等座/特殊车类
+Japan's railway fare system is quite unique. The price of a "single journey" consists of multiple components. Currently, the following common ticket types have been identified:
 
-有这么几种券，在买票的时候自然会有很多特殊事项:
+- Basic fare ticket: Calculated based on the distance traveled (some special cases are discussed at the end of this section). This ticket guarantees the most basic transportation service. For example, local and rapid trains are generally included in this fare. If you want to ride faster trains, you need to purchase the following limited express tickets:
+- Limited express/express ticket: Depending on the type of train you ride, you need to purchase an additional corresponding ticket. This ticket upgrades your travel class to limited express/express. Limited express trains, being the fastest type on conventional railways, further have the following seat ticket types:
+- Limited Express Ticket Types – Non-Reserved / Reserved / Green Car / Other Special Cabins: > These correspond respectively to: Non-Reserved (seating is on a first-come, first-served basis; if full, standing is required; please note some Limited Express trains consist of reserved seats only), Reserved (guarantees a specific pre-booked seat), Green Car (the equivalent of First Class), and Other Special Cabins (such as luxury or themed carriages).
 
-#### 在来线结算指南
+There are several types of tickets, and naturally, there are many special considerations when purchasing tickets:
 
-- 如果坐的是最基础的各駅停車/快速，直接买乘车券就行了
-- 接下来如果乘坐的是急行/特急，分两种情况
-  - 对于一些城市轨道交通私铁 / 部分 JR 特急 来说不用额外买票券
-  - 对于其它铁路一般要买急行/特急券（例如新干线和一些长距离私铁），例如坐京阪特急就要在京都-大阪乘车券的基础上买多一张特急券，买新干线也是要买对应的特急券；也就是说这种车你实际上需要乘车券+特急券/急行券的组合才能上车。当然如果直接去柜台买的话可以卖给你二合一的票，所以是一张纸但本质上是两张票。
-- 不同的席次/特殊车辆购买方式也是同理。
+#### Conventional Line Fare Guide
 
-另外必须额外提及的是前文提到过的 Suica/ICOCA 等卡片，它们的本质是“IC 乘车券”，所以如果你乘坐的列车是各駅停車/快速，或是上面提到不用买特急券/急行券的列车，那么直接刷卡就行了；如果是需要买特急券/急行券的列车，那么你需要额外买特急券/急行券。在过闸机的时候，把乘车券塞进机器/拍 IC 卡即可，特急券购买后留着给列车员检查。btw 很多线路的特急券可以网上买。
+- For basic Local or Rapid trains: Simply purchasing a standard Base Fare ticket (乘车券) is sufficient.
 
-**注**:如果已经进站了忘了买特急/急行券，可以在内部的机器上买，或者上车后找列车员补票（但如果坐的是只有指定席的特急车而车上没有空位了，可能会被赶下车）。
+- For Express or Limited Express trains, there are two possibilities:
 
+- On certain private urban railways or specific JR Limited Express lines, no extra ticket is required beyond the base fare.
 
-下面介绍更为特殊的新干线:
+- For most other lines (such as the Shinkansen and long-distance private railways), you must purchase an additional Express or Limited Express Surcharge ticket (特急/急行券). For example, taking a Limited Express on the Keihan line or riding the Shinkansen requires a combination of a Base Fare ticket plus a Limited Express ticket. Note that if you buy these at a service counter, they may be printed on a single slip of paper, but they technically represent two separate fares.
 
-#### 新干线结算指南
+Seat upgrades and special cabins follow the same additive logic.
 
-作为与其他车相区分的车辆类型，它拥有高贵的新干线特急券和不接受 IC 乘车券的特点。也就是说，我们不能用 IC 卡来支付新干线部分的乘车券，所以，存在下面这种情况:我从某非新干线站点刷 IC 卡进展，坐城轨到达新干线站点，然后当我要转乘新干线的时候，需要进行下面的特殊结算:（引用自<a href="https://japantravel.navitime.com/zh-cn/booking/jr/support/ticketing/#:~:text=%E5%A6%82%E6%9E%9C%E6%82%A8%E4%BD%BF%E7%94%A8Suica%E3%80%81Pasmo%E7%AD%89%E4%BA%A4%E9%80%9A%E7%B3%BBIC%E5%8D%A1%E4%BB%8E%E5%9C%A8%E6%9D%A5%E7%BA%BF%E6%A3%80%E7%A5%A8%E5%8F%A3%E8%BF%9B%E7%AB%99%EF%BC%8C%E8%BD%AC%E4%B9%98%E6%96%B0%E5%B9%B2%E7%BA%BF%E6%97%B6%EF%BC%8C%E8%AF%B7%E5%9C%A8%E8%BD%AC%E4%B9%98%E6%96%B0%E5%B9%B2%E7%BA%BF%E7%9A%84%E6%A3%80%E7%A5%A8%E5%8F%A3%E5%B0%86%E6%82%A8%E6%8C%81%E6%9C%89%E7%9A%84%E3%80%8C%E4%B9%98%E8%BD%A6%E5%88%B8%E3%80%8D%E5%92%8C%E3%80%8C%E7%89%B9%E6%80%A5%E5%88%B8%E3%80%8D%E4%B8%A4%E5%BC%A0%E5%90%8C%E6%97%B6%E6%8F%92%E5%85%A5%EF%BC%8C%E7%84%B6%E5%90%8E%E5%86%8D%E4%BD%BF%E7%94%A8%E7%9B%B8%E5%90%8C%E7%9A%84IC%E5%8D%A1%E6%8B%8D%E5%8D%A1%E3%80%82,%E8%AF%B7%E5%8A%A1%E5%BF%85%E9%81%B5%E5%AE%88%E6%AD%A4%E9%A1%BA%E5%BA%8F%E3%80%82%20%E5%A6%82%E6%9E%9C%E5%9C%A8%E6%96%B0%E5%B9%B2%E7%BA%BF%E4%B8%8B%E8%BD%A6%E5%90%8E%EF%BC%8C%E4%B8%8D%E7%A6%BB%E5%BC%80%E6%A3%80%E7%A5%A8%E5%8F%A3%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8JR%E5%9C%A8%E6%9D%A5%E7%BA%BF%EF%BC%8C%E8%AF%B7%E5%9C%A8%E6%9C%80%E7%BB%88%E5%87%BA%E7%AB%99%E7%9A%84%E5%9C%A8%E6%9D%A5%E7%BA%BF%E6%A3%80%E7%A5%A8%E5%8F%A3%E4%BD%BF%E7%94%A8%E4%BA%A4%E9%80%9A%E7%B3%BBIC%E5%8D%A1%E6%88%96%E7%8E%B0%E9%87%91%E8%BF%9B%E8%A1%8C%E8%B6%85%E7%A8%8B%E7%BB%93%E7%AE%97%E3%80%82" class="custom-link-3">关于新干线的说明</a>）。
+It is essential to mention the Suica/ICOCA cards discussed earlier. These are essentially "Digital Base Fare Tickets." If you are riding a Local or Rapid train (or a line that doesn't require a surcharge), just tap your card at the gate. However, if the train requires an Express or Limited Express ticket, you must purchase that surcharge separately. When passing through the ticket gates, insert your Base Fare ticket or tap your IC card; keep your Surcharge ticket handy for inspection by the conductor on board. BTW: Many Limited Express tickets can now be purchased online.
 
-- “如果您使用Suica、Pasmo等交通系IC卡从在来线检票口进站，转乘新干线时，请在转乘新干线的检票口将您持有的「乘车券」和「特急券」两张同时插入，然后再使用相同的IC卡拍卡。请务必遵守此顺序。”
-- “如果在新干线下车后，不离开检票口直接使用JR在来线，请在最终出站的在来线检票口使用交通系IC卡或现金进行超程结算。”
+<b>Note</b>: If you have already entered the station and realize you forgot a surcharge ticket, you can buy one at machines inside the terminal or from a conductor on the train. (Warning: If the train is "Reserved Seats Only" and is fully booked, you may be asked to disembark at the next stop.)
 
-对此我的理解是:买新干线时的乘车券金额由其自带，然后如果你在头尾再加上一段在来线的旅程，那么由于乘车券金额与里程不是线性增长的，所以你需要通过这样的特殊方式来用 IC 卡补齐乘车券金额。当然，如果想图省事，当然也可以直接先在新干线站点出站，然后再用新干线车票进站。
+#### About Shinkansen Ticketing
 
-基于与上面同样的理由，如果在新干线之前乘坐了特急车，也应该在坐新干线前就结算完毕，不然可能被多收钱。
+As a distinct category of train, the Shinkansen is characterized by its premium Shinkansen Limited Express surcharges and the fact that it does not directly accept standard IC cards for the base fare portion. This means you cannot simply use an IC card to cover the Shinkansen's base fare. Consequently, if you enter a non-Shinkansen station using an IC card and travel to a Shinkansen station for a transfer, you must follow a specific settlement procedure (as cited in this <a href="https://japantravel.navitime.com/zh-cn/booking/jr/support/ticketing/#:~:text=%E5%A6%82%E6%9E%9C%E6%82%A8%E4%BD%BF%E7%94%A8Suica%E3%80%81Pasmo%E7%AD%89%E4%BA%A4%E9%80%9A%E7%B3%BBIC%E5%8D%A1%E4%BB%8E%E5%9C%A8%E6%9D%A5%E7%BA%BF%E6%A3%80%E7%A5%A8%E5%8F%A3%E8%BF%9B%E7%AB%99%EF%BC%8C%E8%BD%AC%E4%B9%98%E6%96%B0%E5%B9%B2%E7%BA%BF%E6%97%B6%EF%BC%8C%E8%AF%B7%E5%9C%A8%E8%BD%AC%E4%B9%98%E6%96%B0%E5%B9%B2%E7%BA%BF%E7%9A%84%E6%A3%80%E7%A5%A8%E5%8F%A3%E5%B0%86%E6%82%A8%E6%8C%81%E6%9C%89%E7%9A%84%E3%80%8C%E4%B9%98%E8%BD%A6%E5%88%B8%E3%80%8D%E5%92%8C%E3%80%8C%E7%89%B9%E6%80%A5%E5%88%B8%E3%80%8D%E4%B8%A4%E5%BC%A0%E5%90%8C%E6%97%B6%E6%8F%92%E5%85%A5%EF%BC%8C%E7%84%B6%E5%90%8E%E5%86%8D%E4%BD%BF%E7%94%A8%E7%9B%B8%E5%90%8C%E7%9A%84IC%E5%8D%A1%E6%8B%8D%E5%8D%A1%E3%80%82,%E8%AF%B7%E5%8A%A1%E5%BF%85%E9%81%B5%E5%AE%88%E6%AD%A4%E9%A1%BA%E5%BA%8F%E3%80%82%20%E5%A6%82%E6%9E%9C%E5%9C%A8%E6%96%B0%E5%B9%B2%E7%BA%BF%E4%B8%8B%E8%BD%A6%E5%90%8E%EF%BC%8C%E4%B8%8D%E7%A6%BB%E5%BC%80%E6%A3%80%E7%A5%A8%E5%8F%A3%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8JR%E5%9C%A8%E6%9D%A5%E7%BA%BF%EF%BC%8C%E8%AF%B7%E5%9C%A8%E6%9C%80%E7%BB%88%E5%87%BA%E7%AB%99%E7%9A%84%E5%9C%A8%E6%9D%A5%E7%BA%BF%E6%A3%80%E7%A5%A8%E5%8F%A3%E4%BD%BF%E7%94%A8%E4%BA%A4%E9%80%9A%E7%B3%BBIC%E5%8D%A1%E6%88%96%E7%8E%B0%E9%87%91%E8%BF%9B%E8%A1%8C%E8%B6%85%E7%A8%8B%E7%BB%93%E7%AE%97%E3%80%82" class="custom-link-3">Shinkansen Guide</a>):
 
+- If you enter an ordinary line (Zairaisen) gate using a transit IC card such as Suica or Pasmo, when transferring to the Shinkansen, please insert both your Base Fare and Limited Express tickets simultaneously into the Shinkansen transfer gate, and then tap the same IC card. Please follow this order strictly.
 
+- If you disembark from the Shinkansen and proceed directly to a JR Zairaisen line without exiting the station area, please use your IC card or cash for a fare adjustment at the final ticket gate of your journey.
 
+My understanding is that the Shinkansen ticket includes its own base fare. If you add a Zairaisen segment at the beginning or end of your trip, since fare amounts and distances do not increase linearly, you must use this special method to "balance" the base fare via your IC card. Of course, for simplicity, you can always exit the station from the local line first and then re-enter through the Shinkansen gates using your paper tickets.
 
-### 其他注意事项
+For the same reason, if you took a Limited Express train prior to the Shinkansen, you should settle that fare before boarding the Shinkansen to avoid being overcharged.
 
-- **如果乘车时出现问题或疑问，先去人工柜台/闸机找工作人员**
-- 乘坐超大件行李乘车可能需要付大件行李费用；
-- 存在一些列车的不同节数会前往不同目的地的现象（i.e.在中途某处会脱钩），所以在乘坐的车厢上也务必遵照导航 app；
-- 关于坂环线（又称坂环离心机）:有些类似于 Chicago 的 'L' system，在环状线区域各线路共用铁轨甚至车次运行（比如上一条提到的中途解体）。这导致的问题是:如果你计划从环状线的 A 地运行到 B 地，那么坐任何车次都没有问题，但是当车辆离开环状线之后，它可能前往环状线延伸出的任何一个目的地。一个典型的例子是关西空港快速 & 纪州路快速，它们共用列车，在靠近关西空港的日根野才会解体，然后前四节往关西空港，后四节往和歌山；
-- 新干线自由席和在来线特急的自由席都可以乘坐当天任意一班列车；
-- 在乘车距离足够远时，乘车券可以管到当地的所有车站。前文提到过乘车券距离与价格不是线性增长的，所以如果 e.g. 我买了从东京到大阪的乘车券，上书“乘车券:东京 -> 大阪”，且区段上有黑底白字的符号（例如黑底白字的“阪”），则我可以免费在大阪市区内的任何一个 JR 车站出站（不一定要和新干线特急券上书的目的地车站相同）；
-- 如果要在某个片区玩大量城市（比如关西多城市游）可以买当地 JR 的周游券；
-- JR 运营的城铁标号都是 J+另一个字母，所以如果跟着导航找例如 JC 线但是找不到的话应该先找 JR 的标识；
-- 如果采取买纸质乘车券的方式，在出站时乘车券会直接被吞掉。如果想留念的话应去人工闸口盖章销票；
-- 新干线的自由席一般是前 2-3 节车厢；
+### Other Notes
 
-### 例子
+- When in doubt, <b>always consult staff at the manned counters or gates</b>.
 
-以 <a href="/blogs/travel/Japan-Tour-Plan/#京都-大阪-奈良-宇治-琵琶湖" class="custom-link-3">交通方式</a> 中提到的关西地区诸交通方式为例:
+- <b>Oversized Baggage</b>: Carrying extra-large luggage on some trains (especially Shinkansen) may require a reservation and an additional fee.
 
-- JR 新干线需要在 JR 新干线车站买乘车券 + 新干线特急券；如果前后程刷了 IC 卡要注意按上述使用方法操作；
-- Haruka 作为特急车，也需要买乘车券/IC卡 + 特急券（注:对于这班车来说，提前网上买好二合一的票券或在柜台出示护照对外国人有优惠）；
-- JR 东海道、山阳本线（京都本线）:其中新快速不需要买特急券，Thunderbird 需要买特急券；
-- 阪急京都线:即使是特急也只需要买乘车券/IC卡（特急车有付费特殊车厢 PRiVACE ，需额外买票）；
-- 京阪本线:即使是特急也只需要买乘车券/IC卡（特急车有付费特殊车厢 Premium Car ，需额外买票）；
-- 近铁的线路如果是普通 / 急行只需刷卡入场或买乘车券，特急需要进站后在红色特急券机器额外买特急券（带指定席）；
-- JR 奈良等普通 JR 车只需买乘车券/IC卡；
+- <b>Train Decoupling</b>: Be aware that some trains split mid-journey, with different cars heading to different destinations (i.e., they uncouple at a specific station). Always check your navigation app to ensure you are in the correct car for your final stop.
 
-# <span style="color: #8E403A;">附录 II: 预约日程与旅行日程（实际）</span>
+- <b>The Osaka Loop Line (The "Centrifuge")</b>: Similar to Chicago’s 'L' system, multiple lines share the same tracks and even the same train sets within the loop. A classic example is the Kansai Airport Rapid and the Kishuji Rapid: they run as a single train until Hineno Station, where they uncouple; the first four cars head to Kansai Airport, while the rear four head to Wakayama.
 
-## 预约日程
+<b>Non-Reserved Seating Flexibility</b>: Non-reserved tickets for the Shinkansen and Limited Express trains allow you to board any train of that type on the same day.
 
-- ✅<b>已预定</b>6月20日，2:45 p.m. 预约号:231，带护照与申请表。4月18日起可以预定<a href="/blogs/travel/Japan-Tour-Plan/#参观众议院" class="custom-link-3">众议院参观</a>（即提前两个月）。
-- ✅<b>已预定</b>6月26日，11:35 a.m. 预约号:L06261145q00T，出示预约邮件。4月30日开始可以预定<a href="/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆" class="custom-link-3">京都御苑-京都国宾馆</a>参观。
-- ✅<b>已预定</b>6月20日，9:50 a.m. 预约号:506130880，带护照并出示预约邮件。4月30日可以预定<a href="/blogs/travel/Japan-Tour-Plan/#皇居参观" class="custom-link-3">皇居参观</a>。
-- ✅<b>已预定</b>6月20日，12:00 p.m. 提前去 Lawson 换票或直接电子票入场。5月9日 8:00 p.m. Chicago time 可以预约下个月的<a href="/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆" class="custom-link-3">三鹰之森吉卜力美术馆</a>。
-- ✅<b>已预定</b>6月19日，9:30 a.m. 带护照。5月18日 (JAL), 5月19日 (ANA), 每晚 Chicago time 7:30 p.m. 预约<a href="/blogs/travel/Japan-Tour-Plan/#jal--ana-机库参观" class="custom-link-3">机库参观</a>。
-- 5月18日至5月20日可以预约 Shibuya Sky/晴空塔/麻布台 Hills 之类的票。
-<!-- - 5.20 左右可以开始预约 [富士洄游](/blogs/travel/Japan-Tour-Plan/#富士洄游)。（不约应该问题也不大，可以坐其它种类的铁路） -->
-- 5月23日左右可以开始预约富士山-三岛-京都的 <a href="/blogs/travel/Japan-Tour-Plan/#富士山-京都" class="custom-link-3">Sekitori 巴士和新干线</a>。
-- ✅<b>已预定</b>6月21日 12:00 p.m. 至6月22日 12:00 p.m. 富士山租车。带美国驾照与国际驾照。
-- 提前若干天预定热门饭馆/热门景点。
-  - 例子:岚山小火车，<del>琉璃光院（六月不开门）</del>，大阪城公园天守阁，二条城本丸，京都御苑，京都仙洞御所。
+<b>Zonal Fare Benefit (The "City-Zone" Rule)</b>: For long-distance travel, your base fare ticket often covers all JR stations within a specific city zone. For instance, if your ticket from Tokyo to Osaka features a black-and-white icon (e.g., the character "阪" in a black square), you can disembark at any JR station within Osaka city limits for free, not just the Shinkansen terminal.
 
-## 旅行日程（实际）
+- <b>JR Passes</b>: If you plan to visit multiple cities within a specific region (like a multi-city Kansai tour), consider purchasing a regional JR Pass.
+
+- <b>JR Line Numbering</b>: JR urban lines are labeled with a "J" followed by another letter (e.g., the JC Line). If you can't find your line on the signage, look for the general JR logo first.
+
+<b>Souvenirs</b>: Paper tickets are collected (swallowed) by the automatic gates upon exit. If you wish to keep your ticket as a souvenir, go to the manned gate and ask the staff to stamp it for voiding.
+
+<b>Shinkansen Non-Reserved Cars</b>: Generally, the first 2 or 3 cars of a Shinkansen train are dedicated to non-reserved seating.
+
+### Examples
+
+Taking the transportation options in the Kansai region mentioned in the <a href="/tags/travel/Japan-Tour-Plan_EN/#kyoto---osaka---nara---uji---lake-biwa" class="custom-link-3">Transport Options</a> section as examples:
+
+- JR Shinkansen: You must purchase a Base Fare ticket + a Shinkansen Limited Express ticket at a Shinkansen station. If you used an IC card for the preceding or following segments, be sure to follow the "tap-and-insert" procedure described above.
+
+- Haruka (Limited Express): Requires a Base Fare (or IC card) + a Limited Express ticket. (Note: For this specific train, foreigners can get discounts by purchasing a bundled ticket online in advance or by presenting their passport at the counter.)
+
+- JR Tokaido / Sanyo Main Line (Kyoto Line): The "Special Rapid" (Shin-Kaisoku) service does not require a surcharge, whereas the "Thunderbird" (Limited Express) does require a Limited Express ticket.
+
+- Hankyu Kyoto Line: Even the "Limited Express" service only requires a Base Fare or IC card. (Note: The PRiVACE premium cabin on these trains requires an additional dedicated ticket.)
+
+- Keihan Main Line: Even the "Limited Express" service only requires a Base Fare or IC card. (Note: The Premium Car requires an additional surcharge ticket.)
+
+- Kintetsu Lines: For "Local" or "Express" (Kyuko) services, simply tap your IC card or buy a Base Fare ticket. For "Limited Express" (Tokkyu) services, you must purchase a reserved-seat Limited Express ticket from the red surcharge ticket machines inside the station.
+
+- JR Nara Line and other standard JR trains: Only a Base Fare or IC card is required.
+
+# <span style="color: #8E403A;">Appendix II: Reservation and Travel Itinerary (Realized)</span>
+
+## Reservation Checklist
+
+- ✅ <b>Reserved</b>: June 20, 2:45 p.m. Confirmation No. 231. Bring passport and application form. Reservations for the <a href="/tags/travel/Japan-Tour-Plan_EN/#national-diet-building" class="custom-link-3">House of Representatives Tour</a> open on April 18 (exactly two months in advance).
+
+- ✅ <b>Reserved</b>: June 26, 11:35 a.m. Reservation No. L06261145q00T. Present the confirmation email. Reservations for the <a href="/tags/travel/Japan-Tour-Plan_EN/#kyoto-imperial-palace-park---kyoto-state-guest-house" class="custom-link-3">Kyoto Gyoen - Kyoto State Guest House</a> tour open on April 30.
+
+- ✅ <b>Reserved</b>: June 20, 9:50 a.m. Reservation No. 506130880. Bring passport and present the confirmation email. Reservations for the <a href="/tags/travel/Japan-Tour-Plan_EN/#imperial-palace" class="custom-link-3">Imperial Palace Tour</a> open on April 30.
+
+- ✅ <b>Reserved</b>: June 20, 12:00 p.m. Exchange for tickets at Lawson in advance or use E-tickets for entry. Reservations for next month's <a href="/tags/travel/Japan-Tour-Plan_EN/#ghibli-museum-mitaka" class="custom-link-3">Ghibli Museum, Mitaka</a> open on May 9 at 8:00 p.m. Chicago time.
+
+- ✅ <b>Reserved</b>: June 19, 9:30 a.m. Bring passport. Reservations for the <a href="/tags/travel/Japan-Tour-Plan_EN/#japan-airlines-and-all-nippon-airways-hangars" class="custom-link-3">JAL / ANA Hangar Tours</a> open on May 18 (JAL) and May 19 (ANA) at 7:30 p.m. Chicago time each night.
+From May 18 to May 20, book tickets for attractions such as Shibuya Sky, Skytree, or Azabudai Hills.
+
+Around May 23, begin booking the <a href="/tags/travel/Japan-Tour-Plan_EN/#mount-fuji---kyoto" class="custom-link-3">Sekitori Bus and Shinkansen</a> for the Mt. Fuji – Mishima – Kyoto route.
+
+✅ Booked: June 21, 12:00 p.m. to June 22, 12:00 p.m. Mt. Fuji car rental. Bring U.S. driver's license and International Driving Permit (IDP).
+
+Book popular restaurants and attractions several days in advance.
+
+Examples: Sagano Scenic Railway (Arashiyama Torokko), <del>Rurikoin (closed in June)</del>, Osaka Castle Main Tower, Nijo Castle Honmaru, Kyoto Gyoen, and Kyoto Sento Imperial Palace.
+
+## Travel Itinerary (Realized)
 
 <div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
 <table class="my_table_1" border="1">
@@ -2841,126 +2862,122 @@ Website: <a href="https://www.osakacastle.net/" class="custom-link-3">Official O
   <col style="width: 17%;">
 
   <tr>
-    <th>地点</th>
-    <th>日期</th>
-    <th>行程</th>
-    <th>住宿（泊数）</th>
-    <th>备注</th>
+    <th>Location</th>
+    <th>Date</th>
+    <th>Itinerary</th>
+    <th>Accommodation (Nights)</th>
+    <th>Notes</th>
   </tr>
 
   <tr>
-    <td rowspan="8"><b>东京</b><br>
+    <td rowspan="8"><b>Tokyo</b><br>
     <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
         <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt=""></a>
     </td>
-    <td rowspan="2">6月18日<br>（三/水）</td>
-    <td><b>下午</b>:从香港国际机场起飞前往日本成田国际机场。航班号:HB322.</td>
-    <td rowspan="9">东京 (3)</td>
+    <td rowspan="2">June 18<br>(Wed)</td>
+    <td><b>Afternoon</b>: Depart from Hong Kong International Airport to Narita International Airport, Japan. Flight No.: HB322.</td>
+    <td rowspan="9">Tokyo (3)</td>
     <td rowspan="2"><br></td>
   </tr>
 
-  <tr><td><b>晚上</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#%E6%B5%85%E8%8D%89%E5%AF%BA" class="custom-link-3">浅草寺</a></span></td></tr>
+  <tr><td><b>Evening</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/tags/travel/Japan-Tour-Plan/#%E6%B5%85%E8%8D%89%E5%AF%BA" class="custom-link-3">Asakusa Temple</a></span></td></tr>
 
   <tr>
-    <td rowspan="3">6月19日<br>（四/木）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#浅草寺" class="custom-link-3">浅草寺</a>（早起）、日本航空 (JAL) 机库</td>
+    <td rowspan="3">June 19<br>(Thu)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#senso-ji-temple" class="custom-link-3">Asakusa Temple</a> (early), Japan Airlines (JAL) Hangar</td>
     <td rowspan="3"><br></td>
   </tr>
 
-  <tr><td><b>下午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#秋叶原" class="custom-link-3">秋叶原</a>、<a href="/blogs/travel/Japan-Tour-Plan/#国立西洋美术馆" class="custom-link-3">国立西洋美术馆</a></td></tr>
-  <tr><td><b>晚上</b>:<a href="/blogs/travel/Japan-Tour-Plan/#浅草寺" class="custom-link-3">浅草寺</a></td>
+  <tr><td><b>Afternoon</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#akihabara" class="custom-link-3">Akihabara</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#national-museum-of-western-art" class="custom-link-3">National Museum of Western Art</a></td></tr>
+  <tr><td><b>Evening</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#senso-ji-temple" class="custom-link-3">Asakusa Temple</a></td>
   </tr>
 
   <tr>
-    <td rowspan="3">6月20日<br>（五/金）</td>
-    <td><b>上午</b>:东京电视塔、<a href="/blogs/travel/Japan-Tour-Plan/#东京车站" class="custom-link-3">东京车站</a>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#皇居" class="custom-link-3">皇居</a></span></td>
+    <td rowspan="3">June 20<br>(Fri)</td>
+    <td><b>Morning</b>: Tokyo Tower, <a href="/tags/travel/Japan-Tour-Plan_EN/#tokyo-station" class="custom-link-3">Tokyo Station</a>, <span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/tags/travel/Japan-Tour-Plan_EN/#imperial-palace" class="custom-link-3">Imperial Palace</a></span></td>
     <td rowspan="3"><br></td>
   </tr>
 
-  <tr><td><b>下午</b>:<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆" class="custom-link-3">三鹰之森吉卜力美术馆</a></span>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#众议院" class="custom-link-3">日本众议院</a></span></td></tr>
-
-  <tr><td><b>晚上（仅限 Tom）</b>:吉祥寺、新宿</td></tr>
+  <tr><td><b>Afternoon</b>:<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/tags/travel/Japan-Tour-Plan_EN/#ghibli-museum-mitaka" class="custom-link-3">Ghibli Museum, Mitaka</a></span>, <span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/tags/travel/Japan-Tour-Plan_EN/#house-of-representatives" class="custom-link-3">House of Representatives</a></span></td></tr>
+  <tr><td><b>Evening (Tom only)</b>: Kichijoji, Shinjuku</td></tr>
 
   <tr>
-    <td rowspan="4"><b>富士山</b></td>
-    <td rowspan="2">6月21日<br>（六/土）</td>
-    <td><b>上午</b>:新宿、东京都厅舍</td>
+    <td rowspan="4"><b>Mount Fuji</b></td>
+    <td rowspan="2">June 21<br>(Sat)</td>
+    <td><b>Morning</b>: Shinjuku, Tokyo Metropolitan Government Building</td>
     <td rowspan="2"><br></td>
   </tr>
 
-  <tr><td><b>下午</b>:前往富士山，取车</td>
-  <td rowspan="2">富士山地区 (1)</td>
+  <tr><td><b>Afternoon</b>: Head to Mount Fuji, pick up car</td>
+  <td rowspan="2">Mount Fuji Area (1)</td>
   </tr>
 
   <tr>
-    <td rowspan="2">6月22日<br>（日/日）</td>
-    <td><b>上午</b>:自驾游山中湖、富士山</td>
+    <td rowspan="2">June 22<br>(Sun)</td>
+    <td><b>Morning</b>: Drive around Lake Yamanaka and Mount Fuji</td>
     <td rowspan="2"><br></td>
   </tr>
   <tr>
-    <td><b>下午</b>:还车，<a href="/blogs/travel/Japan-Tour-Plan/#%E5%AF%8C%E5%A3%AB%E5%B1%B1-%E4%BA%AC%E9%83%BD" class="custom-link-3">前往京都</a></td>
-    <td rowspan="11">京都 (4)</td>
+    <td><b>Afternoon</b>: Return car, <a href="/tags/travel/Japan-Tour-Plan/#%E5%AF%8C%E5%A3%AB%E5%B1%B1-%E4%BA%AC%E9%83%BD" class="custom-link-3">Head to Kyoto</a></td>
+    <td rowspan="11">Kyoto (4)</td>
   </tr>
 
   <tr>
-    <td rowspan="6"><b>京都</b><br>
+    <td rowspan="6"><b>Kyoto</b><br>
     <a href="/assets\images\Travel\Japan Tour Plan\kyoto_brief.jpg">
         <img src="/assets\images\Travel\Japan Tour Plan\kyoto_brief.jpg" alt=""></a></td>
-    <td rowspan="3">6月23日<br>（一/月）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#清水寺" class="custom-link-3">清水寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#三十三间堂" class="custom-link-3">三十三间堂</a>、智寂院</td>
+    <td rowspan="3">June 23<br>(Mon)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#kiyomizu-dera" class="custom-link-3">Kiyomizu-dera</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#sanjusangendo" class="custom-link-3">Sanjusangendo</a>, Chishaku-in</td>
     <td rowspan="3"><br></td>
   </tr>
 
   <tr>
-    <td><b>下午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#南禅寺" class="custom-link-3">南禅寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#禅林寺 - 永观堂" class="custom-link-3">永观堂</a>、哲学之道、银阁寺</td>
+    <td><b>Afternoon</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#nanzen-ji" class="custom-link-3">Nanzen-ji</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#eikan-do-zenrin-ji" class="custom-link-3">Eikan-do Zenrin-ji</a>, Philosopher's Path, Ginkaku-ji</td>
   </tr>
 
-  <tr><td><b>晚上</b>:四条商业街</td></tr>
+  <tr><td><b>Evening</b>: Shijo-dori Shopping Street</td></tr>
 
   <tr>
-    <td rowspan="3">6月24日<br>（二/火）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#嵯峨岚山" class="custom-link-3">岚山</a>、<a href="/blogs/travel/Japan-Tour-Plan/#天龙寺" class="custom-link-3">天龙寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#渡月桥" class="custom-link-3">渡月桥</a></td>
+    <td rowspan="3">June 24<br>(Tue)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#saga-arashiyama" class="custom-link-3">Arashiyama</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#tenryu-ji" class="custom-link-3">Tenryu-ji</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#togetsukyo-bridge" class="custom-link-3">Togetsukyo Bridge</a></td>
     <td rowspan="3"><br></td>
   </tr>
-  <tr><td><b>下午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#金阁寺" class="custom-link-3">金阁寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#北野天满宫" class="custom-link-3">北野天满宫</a>、<a href="/blogs/travel/Japan-Tour-Plan/#二条城" class="custom-link-3">二条城</a></td></tr>
-  <tr><td><b>晚上</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#贵船神社" class="custom-link-3">贵船神社</a></span></td></tr>
-
+  <tr><td><b>Afternoon</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#kinkaku-ji" class="custom-link-3">Kinkaku-ji</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#kitano-tenmangu" class="custom-link-3">Kitano Tenmangu</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#nijo-castle" class="custom-link-3">Nijo Castle</a></td></tr>
+  <tr><td><b>Evening</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/tags/travel/Japan-Tour-Plan_EN/#kifune-shrine" class="custom-link-3">Kifune Shrine</a></span></td></tr>
   <tr>
-    <td rowspan="3"><b>奈良</b></td>
-    <td rowspan="3">6月25日<br>（三/水）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#唐招提寺" class="custom-link-3">唐招提寺</a></td>
+    <td rowspan="3"><b>Nara</b></td>
+    <td rowspan="3">June 25<br>(Wed)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#toshodai-ji" class="custom-link-3">Toshodai-ji</a></td>
     <td rowspan="3"></td>
   </tr>
-  <tr><td><b>下午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#东大寺" class="custom-link-3">东大寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#奈良公园" class="custom-link-3">奈良公园</a></td></tr>
-  <tr><td><b>晚上</b>:返回京都</td></tr>
-
+  <tr><td><b>Afternoon</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#todai-ji" class="custom-link-3">Todai-ji</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#nara-park" class="custom-link-3">Nara Park</a></td></tr>
+  <tr><td><b>Evening</b>:Return to Kyoto</td></tr>
   <tr>
-    <td rowspan="3"><b>京都</b></td>
-    <td rowspan="3">6月26日<br>（四/木）</td>
-    <td><b>上午</b>:伏见稻荷大社、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#京都迎宾馆" class="custom-link-3">京都御苑-京都迎宾馆</a></span></td>
+    <td rowspan="3"><b>Kyoto</b></td>
+    <td rowspan="3">June 26<br>(Thu)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#fushimi-inari-taisha" class="custom-link-3">Fushimi Inari Taisha</a>, <span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/tags/travel/Japan-Tour-Plan_EN/#kyoto-guesthouse" class="custom-link-3">Kyoto Imperial Palace - Kyoto Guesthouse</a></span></td>
     <td rowspan="3"></td>
   </tr>
 
   <tr>
-    <td><b>下午</b>:前往大阪</td>
-    <td rowspan="3">大阪 (1)</td>
+    <td><b>Afternoon</b>:Head to Osaka</td>
+    <td rowspan="3">Osaka (1)</td>
   </tr>
 
-  <tr><td><b>晚上</b>:心斋桥商业街</td></tr>
-
+  <tr><td><b>Evening</b>:Shinsaibashi Shopping Street</td></tr>
   <tr>
-    <td rowspan="2"><b>大阪</b></td>
-    <td rowspan="2">6月27日<br>（五/金）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#大阪城" class="custom-link-3">大阪城</a></td>
+    <td rowspan="2"><b>Osaka</b></td>
+    <td rowspan="2">June 27<br>(Fri)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#osaka-castle" class="custom-link-3">Osaka Castle</a></td>
     <td rowspan="2">/</td>
     <td rowspan="2"></td>
   </tr>
-  <tr><td><b>下午</b>:前往关西国际机场返回香港国际机场。航班号:HB341.</td></tr>
+  <tr><td><b>Afternoon</b>:Head to Kansai International Airport for flight back to Hong Kong International Airport. Flight number: HB341.</td></tr>
 </table>
 </div>
 
 
-# <span style="color: #8E403A;"> 附录 III: 旅行日程（原定）</span>
+# <span style="color: #8E403A;"> Appendix III: Travel Itinerary (Original Plan)</span>
 <div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
 <table class="my_table_1" border="1">
   <col style="width: 15%;">
@@ -2969,142 +2986,137 @@ Website: <a href="https://www.osakacastle.net/" class="custom-link-3">Official O
   <col style="width: 20%;">
   <col style="width: 17%;">
   <tr>
-    <th>地点</th>
-    <th>日期</th>
-    <th>行程</th>
-    <th>住宿（泊数）</th>
-    <th>备注</th>
+    <th>Location</th>
+    <th>Date</th>
+    <th>Itinerary</th>
+    <th>Accommodation (Nights)</th>
+    <th>Remarks</th>
   </tr>
 
   <!-- 东京:6月18–20 -->
   <tr>
-    <td rowspan="8"><b>东京</b><br>
+    <td rowspan="8"><b>Tokyo</b><br>
     <a href="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg">
         <img src="/assets\images\Travel\Japan Tour Plan\tokyo_brief.jpg" alt=""></a>
     </td>
-    <td rowspan="3">6月18日<br>（三/水）</td>
-    <td><b>上午</b>:从香港飞往东京</td>
-    <td rowspan="8">东京(3)</td>
+    <td rowspan="3">June 18<br>(Wed)</td>
+    <td><b>Morning</b>:Fly from Hong Kong to Tokyo</td>
+    <td rowspan="8">Tokyo (3)</td>
     <td rowspan="3"><br></td>
   </tr>
-  <tr><td><b>下午</b>:抵达东京，<a href="/blogs/travel/Japan-Tour-Plan/#增上寺" class="custom-link-3">增上寺</a></td></tr>
-  <tr><td><b>晚上</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#东京塔" class="custom-link-3">东京塔</a></span> </td></tr>
-
+  <tr><td><b>Afternoon</b>:Arrive in Tokyo, <a href="/tags/travel/Japan-Tour-Plan_EN/#zojo-ji" class="custom-link-3">Zojo-ji</a></td></tr>
+  <tr><td><b>Evening</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/tags/travel/Japan-Tour-Plan_EN/#tokyo-tower" class="custom-link-3">Tokyo Tower</a></span> </td></tr>
   <tr>
-    <td rowspan="3">6月19日<br>（四/木）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#浅草寺" class="custom-link-3">浅草寺</a>（早起）、<a href="/blogs/travel/Japan-Tour-Plan/#国立西洋美術館" class="custom-link-3">国立西洋美术馆</a></td>
+    <td rowspan="3">June 19<br>(Thu)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#senso-ji" class="custom-link-3">Senso-ji</a> (Early morning), <a href="/tags/travel/Japan-Tour-Plan_EN/#national-museum-of-western-art" class="custom-link-3">National Museum of Western Art</a></td>
     <td rowspan="3"><br></td>
   </tr>
-  <tr><td><b>下午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#東京国立博物館" class="custom-link-3">东京国立博物馆</a>、<a href="/blogs/travel/Japan-Tour-Plan/#上野公園" class="custom-link-3">上野公园</a>、<a href="/blogs/travel/Japan-Tour-Plan/#秋叶原" class="custom-link-3">秋叶原</a></td></tr>
-  <tr><td><b>晚上</b>:<a href="/blogs/travel/Japan-Tour-Plan/#东京天空树" class="custom-link-3">晴空塔</a></td>
+  <tr><td><b>Afternoon</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#tokyo-national-museum" class="custom-link-3">Tokyo National Museum</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#ueno-park" class="custom-link-3">Ueno Park</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#akihabara" class="custom-link-3">Akihabara</a></td></tr>
+  <tr><td><b>Evening</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#tokyo-skytree" class="custom-link-3">Tokyo Skytree</a></td>
   </tr>
 
   <tr>
-    <td rowspan="2">6月20日<br>（五/金）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#东京车站" class="custom-link-3">东京车站</a>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#皇居参观" class="custom-link-3">皇居</a></span></td>
+    <td rowspan="2">June 20<br>(Fri)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#tokyo-station" class="custom-link-3">Tokyo Station</a>, <span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/tags/travel/Japan-Tour-Plan_EN/#imperial-palace" class="custom-link-3">Imperial Palace</a></span></td>
     <td rowspan="2"><br></td>
   </tr>
-  <tr><td><b>下午</b>:<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#三鹰之森吉卜力美术馆" class="custom-link-3">三鹰之森吉卜力美术馆</a></span>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#参观众议院" class="custom-link-3">众议院参观</a></span>、<a href="/blogs/travel/Japan-Tour-Plan/#新宿" class="custom-link-3">新宿</a>、<a href="/blogs/travel/Japan-Tour-Plan/#明治神宫" class="custom-link-3">明治神宫</a>、<a href="/blogs/travel/Japan-Tour-Plan/#代代木公园" class="custom-link-3">代代木公园</a>，</td>
-  <!-- <tr><td><b>晚上</b>:</td> -->
+  <tr><td><b>Afternoon</b>:<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/tags/travel/Japan-Tour-Plan_EN/#ghibli-museum" class="custom-link-3">Ghibli Museum</a></span>, <span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/tags/travel/Japan-Tour-Plan_EN/#house-of-representatives" class="custom-link-3">House of Representatives Tour</a></span>, <a href="/tags/travel/Japan-Tour-Plan_EN/#shinjuku" class="custom-link-3">Shinjuku</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#meiji-shrine" class="custom-link-3">Meiji Shrine</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#yoyogi-park" class="custom-link-3">Yoyogi Park</a>,</td>
+  <!-- <tr><td><b>Evening</b>:</td> -->
   <!-- <td rowspan="3"></td> -->
   </tr>
 
   <!-- 富士山 -->
   <tr>
-    <td rowspan="4"><b>富士山</b></td>
-    <td rowspan="2">6月21日<br>（六/土）</td>
-    <td><b>上午</b>:前往<a href="/blogs/travel/Japan-Tour-Plan/#%E4%B8%9C%E4%BA%AC-%E5%AF%8C%E5%A3%AB%E5%B1%B1" class="custom-link-3">河口湖</a></td>
-    <td rowspan="2">富士山地区(1)</td>
+    <td rowspan="4"><b>Mount Fuji</b></td>
+    <td rowspan="2">June 21<br>(Sat)</td>
+    <td><b>Morning</b>:Head to <a href="/tags/travel/Japan-Tour-Plan_EN/#kawaguchiko" class="custom-link-3">Kawaguchiko</a></td>
+    <td rowspan="2">Mount Fuji Area (1)</td>
     <td rowspan="2"><br></td>
   </tr>
-  <tr><td><b>下午</b>:取车，自驾游<a href="TTTTBBBBDDDD" class="custom-link-3">河口湖</a>-<a href="TTTTBBBBDDDD" class="custom-link-3">山中湖</a></td>
+  <tr><td><b>Afternoon</b>:Pick up car, self-drive tour Kawaguchiko-Yamanakako</td>
   </tr>
   <tr>
-    <td rowspan="2">6月22日<br>（日/日）</td>
-    <td><b>上午</b>:自驾游<a href="TTTTBBBBDDDD" class="custom-link-3">河口湖</a>-<a href="TTTTBBBBDDDD" class="custom-link-3">山中湖</a></td>
-    <td rowspan="10">京都(4)</td><td rowspan="2"><br></td>
+    <td rowspan="2">June 22<br>(Sun)</td>
+    <td><b>Morning</b>:Self-drive tour Kawaguchiko-Yamanakako</td>
+    <td rowspan="10">Kyoto (4)</td><td rowspan="2"><br></td>
   </tr>
-  <tr><td><b>下午</b>:还车，<a href="/blogs/travel/Japan-Tour-Plan/#%E5%AF%8C%E5%A3%AB%E5%B1%B1-%E4%BA%AC%E9%83%BD" class="custom-link-3">前往京都</a></td></tr>
+  <tr><td><b>Afternoon</b>:Return car, <a href="/tags/travel/Japan-Tour-Plan_EN/#mount-fuji-kyoto" class="custom-link-3">Head to Kyoto</a></td></tr>
 
-  <!-- 京都 -->
+  <!-- Kyoto -->
   <tr>
-    <td rowspan="5"><b>京都</b><br>
+    <td rowspan="5"><b>Kyoto</b><br>
     <a href="/assets\images\Travel\Japan Tour Plan\kyoto_brief.jpg">
         <img src="/assets\images\Travel\Japan Tour Plan\kyoto_brief.jpg" alt=""></a></td>
-    <td rowspan="2">6月23日<br>（一/月）</td>
-    <td><b>白天</b>:<a href="/blogs/travel/Japan-Tour-Plan/#清水寺" class="custom-link-3">清水寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#三十三间堂" class="custom-link-3">三十三间堂</a>、<a href="/blogs/travel/Japan-Tour-Plan/#南禅寺" class="custom-link-3">南禅寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#禅林寺 - 永观堂" class="custom-link-3">永观堂</a>、<a href="/blogs/travel/Japan-Tour-Plan/#平安神宫" class="custom-link-3">平安神宫</a></td>
+    <td rowspan="2">June 23<br>(Mon)</td>
+    <td><b>Daytime</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#kiyomizu-dera" class="custom-link-3">Kiyomizu-dera</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#sanjusangendo" class="custom-link-3">Sanjusangendo</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#nanzen-ji" class="custom-link-3">Nanzen-ji</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#eikan-do" class="custom-link-3">Eikan-do</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#heian-jingu" class="custom-link-3">Heian Jingu</a></td>
     <!-- <td rowspan="8">京都</td> -->
     <td rowspan="2"><br></td>
   </tr>
   <!-- <tr><td><b>下午</b>:</td></tr> -->
-  <tr><td><b>晚上</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#伏见稻荷大社" class="custom-link-3">伏见稻荷大社</a></span></td></tr>
+  <tr><td><b>Evening</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/tags/travel/Japan-Tour-Plan_EN/#fushimi-inari-taisha" class="custom-link-3">Fushimi Inari Taisha</a></span></td></tr>
   <tr>
-    <td rowspan="3">6月24日<br>（二/火）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#嵯峨岚山" class="custom-link-3">岚山</a>、<a href="/blogs/travel/Japan-Tour-Plan/#天龙寺" class="custom-link-3">天龙寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#渡月桥" class="custom-link-3">渡月桥</a></td>
+    <td rowspan="3">June 24<br>(Tue)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#saga-arashiyama" class="custom-link-3">Arashiyama</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#tenryu-ji" class="custom-link-3">Tenryu-ji</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#togetsukyo-bridge" class="custom-link-3">Togetsukyo Bridge</a></td>
     <td rowspan="3"><br></td>
   </tr>
-  <tr><td><b>下午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#三千院" class="custom-link-3">三千院</a>、<a href="/blogs/travel/Japan-Tour-Plan/#寂光院" class="custom-link-3">寂光院</a></td></tr>
-  <tr><td><b>晚上</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#贵船神社" class="custom-link-3">贵船神社</a></span></td></tr>
-
+  <tr><td><b>Afternoon</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#sanzen-in" class="custom-link-3">Sanzen-in</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#jakkoin" class="custom-link-3">Jakkoin</a></td></tr>
+  <tr><td><b>Evening</b>:<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/tags/travel/Japan-Tour-Plan_EN/#kifune-shrine" class="custom-link-3">Kifune Shrine</a></span></td></tr>
   <!-- 奈良 -->
   <tr>
-    <td rowspan="3"><b>奈良</b></td>
-    <td rowspan="3">6月25日<br>（三/水）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#唐招提寺" class="custom-link-3">唐招提寺</a></td>
+    <td rowspan="3"><b>Nara</b></td>
+    <td rowspan="3">June 25<br>(Wed)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#toshodai-ji" class="custom-link-3">Toshodai-ji</a></td>
     <!-- <td rowspan="3">京都</td> -->
     <td rowspan="3"></td>
   </tr>
-  <tr><td><b>下午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#东大寺" class="custom-link-3">东大寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#奈良公园" class="custom-link-3">奈良公园</a>、<a href="/blogs/travel/Japan-Tour-Plan/#若草山" class="custom-link-3">若草山</a></td></tr>
-  <tr><td><b>晚上</b>:返回京都、<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/blogs/travel/Japan-Tour-Plan/#八坂神社" class="custom-link-3">八坂神社</a></span></td></tr>
+  <tr><td><b>Afternoon</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#todai-ji" class="custom-link-3">Todai-ji</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#nara-park" class="custom-link-3">Nara Park</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#wakakusa-yama" class="custom-link-3">Wakakusa-yama</a></td></tr>
+  <tr><td><b>Evening</b>:Return to Kyoto, <span style="background-color:rgba(37, 15, 236, 0.27);"><a href="/tags/travel/Japan-Tour-Plan_EN/#yasaka-shrine" class="custom-link-3">Yasaka Shrine</a></span></td></tr>
 
   <!-- 京都 → 大阪 -->
   <tr>
-    <td rowspan="3"><b>京都</b></td>
-    <td rowspan="3">6月26日<br>（四/木）</td>
-    <td><b>白天</b>:<a href="/blogs/travel/Japan-Tour-Plan/#金阁寺" class="custom-link-3">金阁寺</a>、<a href="/blogs/travel/Japan-Tour-Plan/#北野天满宫" class="custom-link-3">北野天满宫</a>、<a href="/blogs/travel/Japan-Tour-Plan/#晴明神社" class="custom-link-3">晴明神社</a>、<a href="/blogs/travel/Japan-Tour-Plan/#二条城" class="custom-link-3">二条城</a>、<span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/blogs/travel/Japan-Tour-Plan/#京都御苑---京都迎宾馆" class="custom-link-3">京都御苑-京都迎宾馆</a></span></td>
-    <td rowspan="3">大阪(1)</td>
+    <td rowspan="3"><b>Kyoto</b></td>
+    <td rowspan="3">June 26<br>(Thu)</td>
+    <td><b>Daytime</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#kinkaku-ji" class="custom-link-3">Kinkaku-ji</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#kitano-tenmangu" class="custom-link-3">Kitano Tenmangu</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#seimei-shrine" class="custom-link-3">Seimei Shrine</a>, <a href="/tags/travel/Japan-Tour-Plan_EN/#nijo-castle" class="custom-link-3">Nijo Castle</a>, <span style="background-color:rgba(236, 15, 15, 0.26);"><a href="/tags/travel/Japan-Tour-Plan_EN/#kyoto-gyoen-kyoto-guesthouse" class="custom-link-3">Kyoto Gyoen - Kyoto Guesthouse</a></span></td>
+    <td rowspan="3">Osaka (1)</td>
     <td rowspan="3"></td>
   </tr>
-  <tr><td><b>傍晚</b>:<a href="/blogs/travel/Japan-Tour-Plan/#%E4%BA%AC%E9%83%BD-%E5%A4%A7%E9%98%AA-%E5%A5%88%E8%89%AF-%E5%AE%87%E6%B2%BB-%E7%90%B5%E7%90%B6%E6%B9%96" class="custom-link-3">前往大阪</a></td></tr>
-  <tr><td><b>晚上</b>:<a href="TTTTBBBBDDDD" class="custom-link-3">通天阁</a>、<span style="background-color:rgba(37, 15, 236, 0.27);"><a href="TTTTBBBBDDDD" class="custom-link-3">道顿堀</a></span></td></tr>
+  <tr><td><b>Evening</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#kyoto-osaka-nara-uji-rikugien" class="custom-link-3">Travel to Osaka</a></td></tr>
+  <tr><td><b>Evening</b>: Tsutenkaku, <span style="background-color:rgba(37, 15, 236, 0.27);"><a href="TTTTBBBBDDDD" class="custom-link-3">Dotonbori</a></span></td></tr>
 
-  <!-- 大阪 -->
+  <!-- Osaka -->
   <tr>
-    <td rowspan="2"><b>大阪</b></td>
-    <td rowspan="2">6月27日<br>（五/金）</td>
-    <td><b>上午</b>:<a href="/blogs/travel/Japan-Tour-Plan/#大阪城" class="custom-link-3">大阪城</a></td>
+    <td rowspan="2"><b>Osaka</b></td>
+    <td rowspan="2">June 27<br>(Fri)</td>
+    <td><b>Morning</b>:<a href="/tags/travel/Japan-Tour-Plan_EN/#osaka-castle" class="custom-link-3">Osaka Castle</a></td>
     <td rowspan="2">/</td>
     <td rowspan="2"></td>
   </tr>
-  <!-- <tr><td><b>下午</b>:
-        <a href="TTTTBBBBDDDD" class="custom-link-3">四天王寺</a>、
-        <a href="TTTTBBBBDDDD" class="custom-link-3">通天阁</a>、
-        <a href="TTTTBBBBDDDD" class="custom-link-3">难波八阪神社</a></td></tr> -->
-  <tr><td><b>下午</b>:前往关西国际机场返回香港</td></tr>
+  <tr><td><b>Afternoon</b>:Travel to Kansai International Airport for return to Hong Kong</td></tr>
 </table>
 </div>
 
 
-## <span style="color: gray;">说明</span>
+## <span style="color: gray;">Notes</span>
 
-- 由于部分项目有预约时间/目的地制约，<span style="background-color:rgba(236, 15, 15, 0.26);">必须</span>或<span style="background-color:rgba(37, 15, 236, 0.27);">比较建议</span>在某些时段参访。
-- 基本的排班逻辑:基本认为每天上午活动时间 3 hours（特殊早起除外），下午 4 hours, 除少数博物馆性质目的地外按照每个景点 1 hour + 通勤时间计算，笼统来说上午2个景点，下午3个景点（具体数字依相对位置关系浮动，也存在特别远的目的地单列）；晚上至多1个随便逛逛性质的景点。
-- 目前总体来说我觉得目前日程比较紧张，另外有些预约还未完成，日程可能会有变化；可以等到固定预约日程稳定之后/到实地选择扔掉一些目的地。
+- Due to some activities having reservation times/destination constraints, it is <span style="background-color:rgba(236, 15, 15, 0.26);">mandatory</span> or <span style="background-color:rgba(37, 15, 236, 0.27);">highly recommended</span> to visit certain places at specific times.
 
-# <span style="color: #8E403A;">附录 IV: 相关链接</span>
+- General Scheduling Logic: As a rule of thumb, I’ve allocated 3 hours for morning activities (barring early starts) and 4 hours for the afternoon. Excluding museum-style destinations that require more depth, I’ve calculated most sites at 1 hour per location plus commuting time. Broadly speaking, this allows for 2 sites in the morning and 3 in the afternoon (adjustable based on proximity, with far-flung destinations treated as standalone blocks). Evenings are reserved for a maximum of one "casual exploration" spot.
+
+- Current Assessment: Overall, the current itinerary feels quite tight, and some reservations are still pending, meaning the schedule remains subject to change. I plan to wait until the fixed reservation dates are solidified—or even wait until I’m on the ground—to decide which destinations to streamline or drop from the list.
+
+# <span style="color: #8E403A;">Appendix IV: Related Links</span>
 
 <div style="width: 100%; text-align: center; margin-bottom: 1em;">
   <a href="https://github.com/TomLee0122/tomlee0122.github.io" class="btn btn--inverse"
-  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(93, 93, 97, 0.52);">源码仓库</a>
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(93, 93, 97, 0.52);">Source Code Repository</a>
   <a href="https://nuwildcat-my.sharepoint.com/:f:/r/personal/glu0739_ads_northwestern_edu/Documents/File/25JapanVisa/ticket?csf=1&web=1&e=FBORQy" class="btn btn--inverse"
-  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">票据存档</a>
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(0, 100, 187, 0.52);">Ticket Archive</a>
 </div>
 <div style="width: 100%; text-align: center; margin-bottom: 2em;">
   <a href="https://maps.app.goo.gl/bWnRWETbUYmEQKz79" class="btn btn--inverse"
-  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(217, 48, 37, 0.52);">景点列表</a>
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(217, 48, 37, 0.52);">Attractions List</a>
   <a href="https://maps.app.goo.gl/fwS1rL8FCg2ZmqZj6" class="btn btn--inverse"
-  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(31, 142, 62, 0.52);">饭馆列表</a>
+  style="flex: 1; margin: 0 2em; text-align: center; padding: 20px 100px; text-decoration: none; border-radius: 10px; border: 3px solid rgba(31, 142, 62, 0.52);">Restaurants List</a>
 </div>
-
 
 <button id="back-to-top" title="Back to top">↑</button>
