@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "Posts & Blogs"
-    url: /tags/
+  - title: "Blogs (📖)"
+    url: /academic-tags/
+  - title: "Blogs (🚶)"
+    url: /personal-tags/
   - title: "Short Bio"
     url: /short_bio/

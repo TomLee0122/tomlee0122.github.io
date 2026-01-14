@@ -8,6 +8,8 @@ excerpt: |
   <img src='/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.jpg' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>
+categories:
+  - Life
 tags:
   - Travel
 # primary_tag: Travel
