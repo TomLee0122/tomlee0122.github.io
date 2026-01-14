@@ -8,6 +8,8 @@ excerpt: |
   <img src='/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>  
+categories:
+  - Life
 tags:
   - Travel
 my_wide_image: 
