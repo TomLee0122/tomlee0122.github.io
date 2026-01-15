@@ -11,7 +11,7 @@ classes: homepage
 <div class="profile-wrapper">
   <img src="/assets/images/selfie.jpg" alt="My Photo" class="profile-pic">
 <p>
-你好，我是李翊昆（Lǐ Yì Kūn），欢迎来到我的个人网站！我目前是<a href="https://statistics.northwestern.edu/" class="custom-link-3">西北大学统计与数据科学系</a>的三年级博士生，导师是 <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>。近期我们在研究 Gaussian sequence 模型下的鲁棒均值检验问题的 minimax 界。
+你好，我是李翊昆（Lǐ Yì Kūn），欢迎来到我的个人网站！我目前是<a href="https://statistics.northwestern.edu/" class="custom-link-3">西北大学统计与数据科学系</a>的三年级博士生，导师是 <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>。我的研究兴趣包括假设检验，极小极大理论，统计中的优化方法以及机器学习理论。
 </p>
 
 <p>
@@ -24,6 +24,10 @@ classes: homepage
 
 <p>
 你可以在<a href="/assets/pdf/Resume_EN.pdf" class="custom-link-3">这里</a>找到我的个人简历。
+</p>
+
+<p>
+  <b>附：</b>网页中的个人资料卡片的背景图是我仿照<a href="https://en.wikipedia.org/wiki/Piet_Mondrian" class="custom-link-3">蒙德里安</a>的风格设计的 :).
 </p>
 
 <p style="margin-top: 1em; font-size: 0.8em">

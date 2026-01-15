@@ -42,3 +42,19 @@
     mermaid.init();
   });
 </script> -->
+
+{% if separator %}{% endif %}
+{% if site.mathjax or page.mathjax %}
+  <script type="text/javascript" id="MathJax-script" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-chtml.min.js">
+  </script>
+  <script>
+    window.MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true
+      }
+    };
+  </script>
+{% endif %}

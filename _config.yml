@@ -200,6 +200,7 @@ lsi: false
 excerpt_separator: "\n\n"
 excerpt_limit: 1600
 incremental: false
+mathjax: true
 
 
 # Markdown Processing
