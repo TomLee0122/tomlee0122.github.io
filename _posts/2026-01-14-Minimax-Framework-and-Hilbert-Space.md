@@ -55,3 +55,18 @@ Once the hypothesis are designed, statisticians need to do another important thi
 </div>
 
 ## Errors of Testing
+
+Due to the limit of our knowledge, information and ability to infer, our testing function is not always accurate. There are two types of errors in hypothesis testing:<br>
+&bull; <b>type I error</b>: the testing function rejects the null hypothesis $H _{0}$ when actually $H _{0}$ is true; <br>
+&bull; <b>type II error</b>: the testing function fails to reject the null hypothesis $H _{0}$ when actually $H _{1}$ is not true.<br>
+
+In most statistical models, to relieve ourselves and simplify the analysis, we assume that our probability model is <em>parametric</em>, i.e., the true distribution $\mathcal{P}$ is indexed by a parameter $\theta \in \varTheta $. Under this assumption, we can rewrite $H _{0}$ and $H _{1}$ as
+
+$$
+\begin{aligned}
+  H_0 &: f (\theta ) \in R _{1};\\
+  H_1 &: f (\theta ) \in R _{2}.
+\end{aligned}
+$$
+
+Note that our assumption of separation requires that $R_{1} \cap R_{2} = \varnothing$. For example, if we assume that the data are drawn from a Guassian distribution, then the distribution can be parametrized by the mean $\mu$ and the standard deviation $\sigma$, and hence $\varTheta =(\mu, \sigma), \mu \in \mathbb{R}, \sigma>0$. Similarly, if we assume that the data are from a multinomial distribution with $k$ categories, then the distribution can be parametrized by the probabilities of each category $p_{1},\dots,p_{k}$, subject to the constraint that $\sum\limits_{i=1}^{k}p_{i}=1$. In this case, $\varTheta =\left\\{(p_{1},\dots,p_{k}): \sum\limits_{i=1}^{k}p _{i}=1, p _{i}\ge 0 \right\\}$, i.e., a simplex in $\mathbb{R}^{k}$.
