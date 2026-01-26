@@ -1,5 +1,5 @@
 ---
-title: Minimax Framework and Hilbert Space (Under Construction)
+title: Hypothesis Testing and Minimax Framework (Under Construction)
 excerpt: ''
 categories:
   - Academic
@@ -12,7 +12,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2026-01-14
+last_modified_at: 2026-01-25
 toc: true
 permalink: /academic-tags/minimax-framework-and-hilbert-space
 ---
@@ -60,6 +60,31 @@ Due to the limit of our knowledge, information and ability to infer, our testing
 &bull; <b>type I error</b>: the testing function rejects the null hypothesis $H _{0}$ when actually $H _{0}$ is true; <br>
 &bull; <b>type II error</b>: the testing function fails to reject the null hypothesis $H _{0}$ when actually $H _{1}$ is not true.<br>
 
+<div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
+<table class="my_table_1" border="1">
+  <col style="width: 20%;">
+  <col style="width: 40%;">
+  <col style="width: 40%;">
+  <tr>
+    <th></th>
+    <th><b>Prediction:</b> $H _{0}$</th>
+    <th><b>Prediction:</b> $H _{1}$</th>
+  </tr>
+
+  <tr>
+    <td><b>Reality:</b> $H _{0}$</td>
+    <td>Correct</td>
+    <td>Type I Error (False Positive)</td>
+  </tr>
+
+  <tr>
+    <td><b>Reality:</b> $H _{1}$</td>
+    <td>Type II Error (False Negative)</td>
+    <td>Correct</td>
+  </tr>
+</table>
+</div>
+
 In most statistical models, to relieve ourselves and simplify the analysis, we assume that our probability model is <em>parametric</em>, i.e., the true distribution $\mathcal{P}$ is indexed by a parameter $\theta \in \varTheta $. Under this assumption, we can rewrite $H _{0}$ and $H _{1}$ as
 
 $$
@@ -70,3 +95,38 @@ $$
 $$
 
 Note that our assumption of separation requires that $R_{1} \cap R_{2} = \varnothing$. For example, if we assume that the data are drawn from a Guassian distribution, then the distribution can be parametrized by the mean $\mu$ and the standard deviation $\sigma$, and hence $\varTheta =(\mu, \sigma), \mu \in \mathbb{R}, \sigma>0$. Similarly, if we assume that the data are from a multinomial distribution with $k$ categories, then the distribution can be parametrized by the probabilities of each category $p_{1},\dots,p_{k}$, subject to the constraint that $\sum\limits_{i=1}^{k}p_{i}=1$. In this case, $\varTheta =\left\\{(p_{1},\dots,p_{k}): \sum\limits_{i=1}^{k}p _{i}=1, p _{i}\ge 0 \right\\}$, i.e., a simplex in $\mathbb{R}^{k}$.
+
+<div class="example" style="">
+  We would like to determine whether a coin has fair sides. Assume 30 experiments were performed, and we obtained the results formulated as $X _{1},\dots,X _{30}$, where $X _{i}=1$ means the $i$-th experiment resulted in head, otherwise $0$. The distribution in this model is the Binomial distribution with the parameters $n=30$ (known) and $p$ (unknown). A natural guess for $p$ based on the experiments is $\hat{p}=\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}$. Therefore, we can reasonably suspect that the coin is not fair if $\hat{p}$ is too far away from $0.5$. We can formulate our hypothesis as
+
+  \[
+    \begin{aligned}
+         & H _{0}:p=0.5,      \\
+         & H _{1}:p \neq 0.5.
+    \end{aligned}
+  \]
+
+  Our test will be
+
+  \[
+    T(X _{1},X _{2}, \dots, X _{30}) = \left\{\begin{aligned}
+      1, & \text{ if } |\hat{p}-0.5| \ge c;\\
+      0, & \text{ otherwise},
+    \end{aligned}\right.
+  \]
+  where $c$ is a threshold that determined by us (for example, $c=0.1$). In this case, the type I error is $\mathbb{P}_{0.5}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| \ge c\right)$, and the type II error is $\mathbb{P}_{p}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| < c\right)$ for any $p \neq 0.5$. Note that the type II error depends on the parameter $p$ under $H _{1}$!
+</div>
+
+### Significance Level and Risk Function
+
+Let's first define the power function of a testing function given the parameter $\theta $ of the distribution:
+<div class="definition" style="">
+  For a parameter $\theta \in \varTheta$ and a testing function $T(\cdot )$, the power function of $T$ is defined as
+  \[
+    \beta (\theta ) = \mathbb{P} _{\theta }(T(X)=1).
+  \]
+  I.e., the power function is the probability of rejecting the null hypothesis $H _{0}$.
+</div>
+
+
+For any non-trivial hypothesis testing problem, it is impossible to design a perfect testing function that has both zero type I and type II errors. (However, things are not that bad, because it is also impossible to design a testing function that is a total trash --- always making mistakes! Why?) The word "both" is important, because we can trivially achieve zero type I error by never rejecting $H _{0}$, and achieve zero type II error by always rejecting $H _{0}$. In other words, to design a good testing function, we should not reduce one type of error simply by sacrificing the other type of error. A good strategy to bound the both errors is to first fix an upper bound $\alpha $ for the type I error, and see how small we can make the type II error when restricting our scope within the testing functions that have type I error no larger than $\alpha $. The $\alpha $ here is called the <em>significance level</em> of the testing function.
