@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Research"
+    url: /research-tags/
   - title: "Blogs (📖)"
     url: /academic-tags/
   - title: "Blogs (🚶)"
