@@ -805,7 +805,7 @@ body.dark-mode .image-dark {
 // Transition effect for the sidebar
 .sidebar.sticky {
   .h-card {
-    transition: opacity 0.3s ease-in-out;
+    transition: opacity 0.3s ease;
     opacity: 0.75;
   }
 
@@ -939,4 +939,87 @@ body.dark-mode .short_introduction_wrapper {
   color: $my_gray_white;
   background-color: $my_light_dark;
   border-color: $my_gray_white;
+}
+
+// ----------------------------------------
+
+/* Dark mode switch image for the excerpt image */
+
+/* 1. 容器设置 */
+.excerpt-image-container {
+  /* 确保图片不会跑出去 */
+  overflow: hidden; 
+}
+
+/* 2. 图片通用设置：加上你想要的过渡效果 */
+.excerpt-image-container img {
+  /* 这就是你想要的那行代码，关键！ */
+  transition: opacity 0.3s ease; 
+}
+
+/* 3. 默认状态（白天） */
+/* 白天图：完全不透明 */
+.excerpt-image-container .img-light {
+  opacity: 1;
+}
+/* 黑夜图：完全透明（但因为它叠在上面，所以必须透明才能看到底下的白天图） */
+.excerpt-image-container .img-dark {
+  opacity: 0;
+}
+
+/* 4. 黑夜状态（切换逻辑） */
+body.dark-mode .excerpt-image-container .img-light {
+  opacity: 0; /* 白天图淡出 */
+}
+
+body.dark-mode .excerpt-image-container .img-dark {
+  opacity: 1; /* 黑夜图淡入 */
+}
+
+/* === Blog 正文图片切换 === */
+
+/* 1. 外层容器 */
+.blog-image-wrapper {
+  position: relative;    /* 作为定位基准 */
+  display: inline-block; /* 包裹内容 */
+  line-height: 0;        /* 消除空隙 */
+}
+
+/* 2. 链接通用设置 */
+.blog-image-wrapper a {
+  transition: opacity 0.3s ease; /* 丝滑过渡放在 a 标签上 */
+  width: 100%;
+}
+
+.blog-image-wrapper img {
+  width: 100%;
+  height: auto;
+}
+
+/* 3. 白天链接（基准层） */
+.blog-image-wrapper .link-light {
+  display: block;  /* 正常流布局 */
+  opacity: 1;      /* 默认显示 */
+}
+
+/* 4. 黑夜链接（覆盖层） */
+.blog-image-wrapper .link-dark {
+  position: absolute; /* 绝对定位，盖在白天图上面 */
+  top: 0;
+  left: 0;
+  opacity: 0;           /* 默认看不见 */
+  pointer-events: none; /* 关键！看不见时，鼠标可以穿透它，点到下面的白天图 */
+}
+
+/* === 切换逻辑 === */
+
+/* 当进入黑夜模式 */
+body.dark-mode .blog-image-wrapper .link-light {
+  opacity: 0;           /* 白天图淡出 */
+  pointer-events: none; /* 白天图失效，防止误触 */
+}
+
+body.dark-mode .blog-image-wrapper .link-dark {
+  opacity: 1;           /* 黑夜图淡入 */
+  pointer-events: auto; /* 关键！恢复点击响应，现在点的是黑夜图 */
 }
