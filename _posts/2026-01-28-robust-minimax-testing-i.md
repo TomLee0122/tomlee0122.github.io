@@ -75,4 +75,4 @@ This work is concerned with robust signal detection in Gaussian noise under quad
 
 # <span style="color: #8E403A;">Availability</span>
 
-The preprint of this work is available at <a href="https://arxiv.org/abs/2308.13036" class="custom-link-3">https://arxiv.org/abs/2308.13036</a>.
+The preprint of this work is available at <a href="https://arxiv.org/abs/2308.13036" class="custom-link-3">https://arxiv.org/abs/2308.13036</a>, or you can find the up-to-date PDF file <a href="/assets/pdf/main_arXiv.pdf" class="custom-link-3">here</a>.
