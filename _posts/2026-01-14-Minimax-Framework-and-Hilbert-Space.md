@@ -128,5 +128,30 @@ Let's first define the power function of a testing function given the parameter 
   I.e., the power function is the probability of rejecting the null hypothesis $H _{0}$.
 </div>
 
+For most of non-trivial hypothesis testing problem, it is impossible to design a perfect testing function that has both zero type I and type II errors. (However, things are not that bad, because it is also impossible to design a testing function that is a total trash --- always making mistakes! Why?) The word "both" is important, because we can trivially achieve zero type I error by never rejecting $H _{0}$, and achieve zero type II error by always rejecting $H _{0}$. In other words, to design a good testing function, we should not reduce one type of error simply by sacrificing the other type of error. To balance the two types of errors of a test $T$, we can try to minimize the weighted sum of the two errors, i,e.,
 
-For any non-trivial hypothesis testing problem, it is impossible to design a perfect testing function that has both zero type I and type II errors. (However, things are not that bad, because it is also impossible to design a testing function that is a total trash --- always making mistakes! Why?) The word "both" is important, because we can trivially achieve zero type I error by never rejecting $H _{0}$, and achieve zero type II error by always rejecting $H _{0}$. In other words, to design a good testing function, we should not reduce one type of error simply by sacrificing the other type of error. A good strategy to bound the both errors is to first fix an upper bound $\alpha $ for the type I error, and see how small we can make the type II error when restricting our scope within the testing functions that have type I error no larger than $\alpha $. The $\alpha $ here is called the <em>significance level</em> of the testing function.
+\\[
+  R(\theta, T)=\mathbb{E} _{\theta}\left[\omega \cdot \text{type I error}+(1-\omega )\cdot \text{type II error}\right].
+\\]
+
+When $\omega =\frac{1}{2}$, such risk function can be viewed as an expected loss of the testing function $T$ with the <em>0-1 loss</em> $l(T)=\mathbf{1}_{T(X)=f(\theta )}$.
+
+$F$-$1$ score is also a popular evaluation for a testing function, where $F$-1 score is defined as
+\\[
+  F\text{-}1 = \frac{2}{\frac{1}{\text{precision}}+\frac{1}{\text{recall}}}=\frac{2\cdot \text{precision}\cdot \text{recall}}{\text{precision}+\text{recall}},
+\\]
+
+where precision and recall are defined as
+
+<div class="" style="">
+  \[
+  \begin{aligned}
+    \text{precision} &= \frac{\text{true positive}}{\text{true positive}+\text{false positive}};\\
+    \text{recall} &= \frac{\text{true positive}}{\text{true positive}+\text{false negative}}.
+  \end{aligned}
+  \]
+</div>
+
+In other words, precision measures "in all of predicted positive cases, how many are actually positive". Low precision means the overlap of the predicted positive cases and the actual positive cases is small compared to the size of the predicted positive cases --- there are many false alarms. Recall measures "in all of actual positive cases, how many are predicted positive". Low recall means among the actual positive cases, most are missed by the testing funciton. Both low precision and low recall are undesirable, and will lead to poor $F$-$1$ score. (Why is $F$-$1$ score not defined as the arithmetic mean of precision and recall?) Note that the roles of the actual postive cases and the predicted positive cases are not symmetric in the definitions of precision and recall, which provide a good reason to explain why typically the testing problem is not equivalent when we exchange $H _{0}$ and $H _{1}$.
+
+Another good strategy to bound the both errors is to first fix an upper bound $\alpha $ for the type I error, and see how small we can make the type II error when restricting our scope within the testing functions that have type I error no larger than $\alpha $. The $\alpha $ here is called the <em>significance level</em> of the testing function.
