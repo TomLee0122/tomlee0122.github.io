@@ -14,7 +14,7 @@ related: false
 read_time: false
 last_modified_at: 2026-01-25
 toc: true
-permalink: /academic-tags/minimax-framework-and-hilbert-space
+permalink: /academic-tags/minimax-framework
 ---
 
 # <span style="color: #8E403A;">Hypothesis Testing</span>
@@ -57,8 +57,8 @@ Once the hypothesis are designed, statisticians need to do another important thi
 ## Errors of Testing
 
 Due to the limit of our knowledge, information and ability to infer, our testing function is not always accurate. There are two types of errors in hypothesis testing:<br>
-&bull; <b>type I error</b>: the testing function rejects the null hypothesis $H _{0}$ when actually $H _{0}$ is true; <br>
-&bull; <b>type II error</b>: the testing function fails to reject the null hypothesis $H _{0}$ when actually $H _{1}$ is not true.<br>
+&bull; <b>type-I error</b>: the testing function rejects the null hypothesis $H _{0}$ when actually $H _{0}$ is true; <br>
+&bull; <b>type-II error</b>: the testing function fails to reject the null hypothesis $H _{0}$ when actually $H _{1}$ is not true.<br>
 
 <div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
 <table class="my_table_1" border="1">
@@ -74,12 +74,12 @@ Due to the limit of our knowledge, information and ability to infer, our testing
   <tr>
     <td><b>Reality:</b> $H _{0}$</td>
     <td>Correct</td>
-    <td>Type I Error (False Positive)</td>
+    <td>type-I Error (False Positive)</td>
   </tr>
 
   <tr>
     <td><b>Reality:</b> $H _{1}$</td>
-    <td>Type II Error (False Negative)</td>
+    <td>type-II Error (False Negative)</td>
     <td>Correct</td>
   </tr>
 </table>
@@ -114,7 +114,7 @@ Note that our assumption of separation requires that $R_{1} \cap R_{2} = \varnot
       0, & \text{ otherwise},
     \end{aligned}\right.
   \]
-  where $c$ is a threshold that determined by us (for example, $c=0.1$). In this case, the type I error is $\mathbb{P}_{0.5}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| \ge c\right)$, and the type II error is $\mathbb{P}_{p}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| < c\right)$ for any $p \neq 0.5$. Note that the type II error depends on the parameter $p$ under $H _{1}$!
+  where $c$ is a threshold that determined by us (for example, $c=0.1$). In this case, the type-I error is $\mathbb{P}_{0.5}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| \ge c\right)$, and the type-II error is $\mathbb{P}_{p}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| < c\right)$ for any $p \neq 0.5$. Note that the type-II error depends on the parameter $p$ under $H _{1}$!
 </div>
 
 ### Significance Level and Risk Function
@@ -128,10 +128,10 @@ Let's first define the power function of a testing function given the parameter 
   I.e., the power function is the probability of rejecting the null hypothesis $H _{0}$.
 </div>
 
-For most of non-trivial hypothesis testing problem, it is impossible to design a perfect testing function that has both zero type I and type II errors. (However, things are not that bad, because it is also impossible to design a testing function that is a total trash --- always making mistakes! Why?) The word "both" is important, because we can trivially achieve zero type I error by never rejecting $H _{0}$, and achieve zero type II error by always rejecting $H _{0}$. In other words, to design a good testing function, we should not reduce one type of error simply by sacrificing the other type of error. To balance the two types of errors of a test $T$, we can try to minimize the weighted sum of the two errors, i,e.,
+For most of non-trivial hypothesis testing problem, it is impossible to design a perfect testing function that has both zero type-I and type-II errors. (However, things are not that bad, because it is also impossible to design a testing function that is a total trash --- always making mistakes! Why?) The word "both" is important, because we can trivially achieve zero type-I error by never rejecting $H _{0}$, and achieve zero type-II error by always rejecting $H _{0}$. In other words, to design a good testing function, we should not reduce one type of error simply by sacrificing the other type of error. To balance the two types of errors of a test $T$, we can try to minimize the weighted sum of the two errors, i,e.,
 
 \\[
-  R(\theta, T)=\mathbb{E} _{\theta}\left[\omega \cdot \text{type I error}+(1-\omega )\cdot \text{type II error}\right].
+  R(\theta, T)=\mathbb{E} _{\theta}\left[\omega \cdot \text{type-I error}+(1-\omega )\cdot \text{type-II error}\right].
 \\]
 
 When $\omega =\frac{1}{2}$, such risk function can be viewed as an expected loss of the testing function $T$ with the <em>0-1 loss</em> $l(T)=\mathbf{1}_{T(X)=f(\theta )}$.
@@ -154,4 +154,24 @@ where precision and recall are defined as
 
 In other words, precision measures "in all of predicted positive cases, how many are actually positive". Low precision means the overlap of the predicted positive cases and the actual positive cases is small compared to the size of the predicted positive cases --- there are many false alarms. Recall measures "in all of actual positive cases, how many are predicted positive". Low recall means among the actual positive cases, most are missed by the testing funciton. Both low precision and low recall are undesirable, and will lead to poor $F$-$1$ score. (Why is $F$-$1$ score not defined as the arithmetic mean of precision and recall?) Note that the roles of the actual postive cases and the predicted positive cases are not symmetric in the definitions of precision and recall, which provide a good reason to explain why typically the testing problem is not equivalent when we exchange $H _{0}$ and $H _{1}$.
 
-Another good strategy to bound the both errors is to first fix an upper bound $\alpha $ for the type I error, and see how small we can make the type II error when restricting our scope within the testing functions that have type I error no larger than $\alpha $. The $\alpha $ here is called the <em>significance level</em> of the testing function.
+Another good strategy to bound the both errors is to first fix an upper bound $\alpha $ for the type-I error, and see how small we can make the type-II error when restricting our scope within the testing functions that have type-I error no larger than $\alpha $. The $\alpha $ here is called the <em>significance level</em> of the testing function. In other words, if we define $A _{s}(\mathcal{P} _{\theta },\alpha )$ as the set of all testing functions that have type-I error no larger than $\alpha $, then we want to solve the following problem:
+
+<div class="" style="">
+  \[
+    \min \limits_{T(\cdot ) \in A _{s}(\mathcal{P} _{\theta },\alpha )} \mathbb{P} _{\theta }(T(X)=0).
+  \]
+</div>
+
+## Multiple Parameters 
+
+The measures mentioned above is only for a single parameter $\theta \in \varTheta$. However, since usually we do care about a hypothesis that contains a set of parameters, how to evaluate the performance of a testing function in this case?
+
+### Prior of the Parameters
+
+If we have a prior distribution $\pi $ on the parameter space $\varTheta $ (as is the case in Bayesian statistics), then a natural way is to "take the average" of the risk function over $\varTheta $. For a given testing function $T(\cdot )$, we have a risk function $R(\theta ,T)$, which is only a function of $\theta $ and irrelevant to the samples. Therefore, we can define the <em>Bayes risk</em> of $T$ as
+
+<div class="" style="">
+  \[
+    R(T)=\mathbb{E}_{\theta }R(\theta ,T)  
+  \]
+</div>
