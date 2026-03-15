@@ -103,7 +103,7 @@ $$
 \end{aligned}
 $$
 
-for some function $f$. Note that our assumption of separation requires that $R_{1} \cap R_{2} = \varnothing$. For simplicity, let's first assume that our hypotheses are <em >simple</em>, which means $f$ is the identity and $R _{1},R _{2}$ only consist of a single element:
+for some function $f$. Such $f$ can be various. For example, it can be the expectation/variance of $f _{\theta }(x)$, or the maximum density or probability mass: $f=\max\limits _{x \in \mathcal{X}}f _{\theta }(x)$, etc, anything interested! Note that our assumption of separation requires that $R _{1} \cap R _{2} = \varnothing$. For simplicity, let's first assume that our hypotheses are <em >simple</em>, which means $f$ is the identity and $R _{1},R _{2}$ only consist of a single element:
 
 $$
 \begin{aligned}
@@ -131,6 +131,63 @@ For most of non-trivial hypothesis testing problem, it is impossible to design a
 
 When $\omega =\frac{1}{2}$, such risk function can be viewed as an expected loss of the testing function $T$ with the <em>0-1 loss</em> $l(T)=\mathbf{1}_{T(X)=f(\theta )}$.
 
+### Neyman-Pearson Framework and ROC Curve
+
+A good strategy to select useful testing functions to first fix an upper bound $\alpha $, limit our scope on the testings with Type I error less than $\alpha $, and see how small we can make the Type II error within the scope. The $\alpha $ here is called the <em>significance level</em> of the testing function. In other words, if we define $A _{s}(\mathcal{P} _{\theta },\alpha )$ as the set of all testing functions that have Type I error no larger than $\alpha $, then we want to solve the following problem:
+
+<div class="" style="">
+  \[
+    \min \limits_{T(\cdot ) \in A _{s}(\mathcal{P} _{\theta },\alpha )} \mathbb{P} _{H _{1}}(T(X)=0).
+  \]
+</div>
+
+Such approach is called the <a href="http://www.jstor.org/stable/91247" class="custom-link-3"><em >Neyman-Pearson Framework</em></a>. The optimization problem above is not easy in general. However, when $H _{0}$ and $H _{1}$ are simple hypotheses, surprisingly and beautifully, we have very intuitive solution and it is optimal in some sense.
+
+<div class="theorem" style="">
+  (Neyman--Pearson Lemma). For the hypothesis testing problem $H _{0}:\theta =\theta _{0}$ and $H _{1}:\theta =\theta _{1}$. Let $f _{\theta }(x)$ be the distribution function or density function of $X$ under $\mathbb{P} _{\theta }$. Define the <em >likelihood ratio</em> $L(X):=\frac{f _{\theta _{1}}(X)}{f _{\theta _{0}}(X)}$ and the testing function
+
+  \[
+    \begin{equation*}
+    T ^{\star }(X)=\left\{\begin{array}{ll}
+        1, & \text{if } L(X)\ge k, \\
+        0, & \text{if } L(X)<k.
+    \end{array}\right.
+\end{equation*}
+\]
+
+Let $\alpha = \mathbb{P} _{\theta _{0}}(T ^{\star }(X)=1)$. Then $T ^{\star }$ is the necessary and sufficient solution to the UMP level $\alpha $ test (see the explain below), i.e., we have:<br>
+&bull; For any testing function $T \in A _{s}(\mathcal{P} _{\theta },\alpha )$, $T ^{\star }$ always has smaller Type II error: $\mathbb{P} _{\theta _{1}}(T(X)=0) \ge \mathbb{P} _{\theta _{1}}(T ^{\star }(X)=0)$; <br>
+&bull; Any testing function of a UMP level test must be of the form of $T ^{\star }$ except on a set of measure zero under $\mathbb{P} _{\theta _{0}}$ and $\mathbb{P} _{\theta _{1}}$.
+</div>
+
+<div class="proof" style="">
+  The proof directly follows from the definition of the likelihood ratio and the construction of $T ^{\star }$. Let's define the \<em >rejection region</em> of $T ^{\star }$ as
+  \[
+    A :=\left\{x \left\lvert\right. x \in \mathcal{X},T ^{\star }(x)=1\right\}.
+  \]
+  For any other testing function $T \in A _{s}(\mathcal{P} _{\theta },\alpha )$, we can define the rejection region of $T$ as
+  \[
+    B :=\left\{x \left\lvert\right. x \in \mathcal{X},T(x)=1\right\}.
+  \]
+  <div style="text-align: center;">
+    <a href="/assets/images/Academic/minimax_framework/neyman_pearson_lemma.png">
+    <img src="/assets/images/Academic/minimax_framework/neyman_pearson_lemma.png" alt="" style="max-width: 90%; height: auto;"></a>
+  </div>
+  Since $T$ is a level $\alpha $ test, we know that $\displaystyle\int_{B}^{}f _{\theta _{0}}(x)dx \le \alpha =\displaystyle\int_{A}^{}f _{\theta _{0}}(x)dx$. Cancelling the common part $A \cap B$ from both sides, we have 
+  \[
+    \displaystyle\int_{B \cap A ^{\complement }}^{}\frac{1}{k}f _{\theta _{1}}(x)dx\overset{\text{(i)}}{\le }\displaystyle\int_{B \cap A ^{\complement }}^{}f _{\theta _{0}}(x)dx\le \displaystyle\int_{A \cap B ^{\complement }}^{}f _{\theta _{0}}(x)dx \overset{\text{(i)}}{\le } \displaystyle\int_{A \cap B ^{\complement }}^{}\frac{1}{k}f _{\theta _{1}}(x)dx,
+  \]
+  where (i) follows from the definition of $T ^{\star }$ and the likelihood ratio. The inequality above merely says that
+  \[
+    \displaystyle\int_{B \cap A ^{\complement }}^{}f _{\theta _{1}}(x)dx \le \displaystyle\int_{A \cap B ^{\complement }}^{}f _{\theta _{1}}(x)dx.
+  \]
+  If we add the common part $\displaystyle\int_{A \cap B}^{}f _{\theta _{1}}(x)dx$ to both sides, we have
+  \[
+    \mathbb{P}_{\theta _{1}}(T(X)=1)\le \mathbb{P}_{\theta _{1}}(T ^{\star }(X)=1).
+  \]
+  The equality holds only when $A \cap B ^{\complement }$ and $B \cap A ^{\complement }$ are both of measure zero under $\mathbb{P} _{\theta _{0}}$ and $\mathbb{P} _{\theta _{1}}$. This completes the proof.
+</div>
+
 ### $F$-$1$ Score
 
 $F$-$1$ score is also a popular evaluation for a testing function, where $F$-1 score is defined as
@@ -151,44 +208,9 @@ where precision and recall are defined as
 
 In other words, precision measures "in all of predicted positive cases, how many are actually positive". Low precision means the overlap of the predicted positive cases and the actual positive cases is small compared to the size of the predicted positive cases --- there are many false alarms. Recall measures "in all of actual positive cases, how many are predicted positive". Low recall means among the actual positive cases, most are missed by the testing funciton. Both low precision and low recall are undesirable, and will lead to poor $F$-$1$ score. (Why is $F$-$1$ score not defined as the arithmetic mean of precision and recall?) Note that the roles of the actual postive cases and the predicted positive cases are not symmetric in the definitions of precision and recall, which provide a good reason to explain why typically the testing problem is not equivalent when we exchange $H _{0}$ and $H _{1}$.
 
-### Neyman-Pearson Framework and ROC Curve
-
-Another good strategy to select useful testing functions to first fix an upper bound $\alpha $, limit our scope on the testings with Type I error less than $\alpha $, and see how small we can make the Type II error within the scope. The $\alpha $ here is called the <em>significance level</em> of the testing function. In other words, if we define $A _{s}(\mathcal{P} _{\theta },\alpha )$ as the set of all testing functions that have Type I error no larger than $\alpha $, then we want to solve the following problem:
-
-<div class="" style="">
-  \[
-    \min \limits_{T(\cdot ) \in A _{s}(\mathcal{P} _{\theta },\alpha )} \mathbb{P} _{H _{1}}(T(X)=0).
-  \]
-</div>
-
-Such approach is called the <a href="http://www.jstor.org/stable/91247" class="custom-link-3"><em >Neyman-Pearson Framework</em></a>. The optimization problem above is not easy in general. However, when $H _{0}$ and $H _{1}$ are simple hypotheses, surprisingly and beautifully, we have very intuitive solution and it is optimal in some sense.
-
-<div class="theorem" style="">
-  (Neyman--Pearson Lemma). For the hypothesis testing problem $H _{0}=\theta _{0}$ and $H _{1}=\theta _{1}$. Let $f _{\theta }(x)$ be the distribution function or density function of $X$ under $\mathbb{P} _{\theta }$. Define the <em >likelihood ratio</em> $L(X):=\frac{f _{\theta _{1}}(X)}{f _{\theta _{0}}(X)}$ and the testing function
-
-  \[
-    \begin{equation*}
-    T ^{\star }(X)=\left\{\begin{array}{ll}
-        1, & \text{if } L(X)\ge k, \\
-        0, & \text{if } L(X)<k.
-    \end{array}\right.
-\end{equation*}
-\]
-</div>
-
 ## Multiple Parameters 
 
 The measures mentioned above is only for a single parameter $\theta \in \varTheta$. However, since usually we do care about a hypothesis that contains a set of parameters, how to evaluate the performance of a testing function in this case?
-
-### Prior of the Parameters
-
-If we have a prior distribution $\pi $ on the parameter space $\varTheta $ (as is the case in Bayesian statistics), then a natural way is to "take the average" of the risk function over $\varTheta $. For a given testing function $T(\cdot )$, we have a risk function $R(\theta ,T)$, which is only a function of $\theta $ and irrelevant to the samples. Therefore, we can define the <em>Bayes risk</em> of $T$ as
-
-<div class="" style="">
-  \[
-    R(T)=\mathbb{E}_{\theta }R(\theta ,T)  
-  \]
-</div>
 
 For example, if we assume that the data are drawn from a Guassian distribution, then the distribution can be parametrized by the mean $\mu$ and the standard deviation $\sigma$, and hence $\varTheta =(\mu, \sigma), \mu \in \mathbb{R}, \sigma>0$. Similarly, if we assume that the data are from a multinomial distribution with $k$ categories, then the distribution can be parametrized by the probabilities of each category $p_{1},\dots,p_{k}$, subject to the constraint that $\sum\limits_{i=1}^{k}p_{i}=1$. In this case, $\varTheta =\left\\{(p_{1},\dots,p_{k}): \sum\limits_{i=1}^{k}p _{i}=1, p _{i}\ge 0 \right\\}$, i.e., a simplex in $\mathbb{R}^{k}$.
 
@@ -211,4 +233,14 @@ For example, if we assume that the data are drawn from a Guassian distribution, 
     \end{aligned}\right.
   \]
   where $c$ is a threshold that determined by us (for example, $c=0.1$). In this case, the Type I error is $\mathbb{P}_{0.5}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| \ge c\right)$, and the Type II error is $\mathbb{P}_{p}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| < c\right)$ for any $p \neq 0.5$. Note that the Type II error depends on the parameter $p$ under $H _{1}$!
+</div>
+
+### Prior of the Parameters
+
+If we have a prior distribution $\pi $ on the parameter space $\varTheta $ (as is the case in Bayesian statistics), then a natural way is to "take the average" of the risk function over $\varTheta $. For a given testing function $T(\cdot )$, we have a risk function $R(\theta ,T)$, which is only a function of $\theta $ and irrelevant to the samples. Therefore, we can define the <em>Bayes risk</em> of $T$ as
+
+<div class="" style="">
+  \[
+    R(T)=\mathbb{E}_{\theta }R(\theta ,T)  
+  \]
 </div>

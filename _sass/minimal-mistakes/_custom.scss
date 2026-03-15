@@ -147,3 +147,37 @@ body.dark-mode .example {
   background-color: $my_dark_gray;
   border-color: $my_dark_gray_light;
 }
+
+/* 证明样式盒 */
+.proof {
+  display: flow-root; /* 现代的 clearfix，防止右浮动的证毕符号溢出 */
+  margin: 1.5em 0;
+  padding: 0.5em 0.5em 0.5em 1em; /* 左侧留出 1em 的空间给边框 */
+  border-left: 3px solid $my_gray; /* 仅保留左边框，视觉上比 theorem 轻量，有引导阅读的作用 */
+  background-color: transparent; /* 证明通常不需要背景色，与正文融为一体 */
+  font-style: normal; /* 关键区分：证明的正文必须是不倾斜的常规字体 */
+}
+
+body.dark-mode .proof {
+  border-left-color: $my_dark_gray_light;
+}
+
+/* 标题样式 */
+.proof::before {
+  content: "Proof. ";
+  font-weight: bold;
+  font-style: italic; /* 经典排版中，Proof 标题通常是斜体或粗斜体 */
+}
+
+/* 自动添加证毕符号 (QED) */
+.proof::after {
+  content: "\220E"; /* \220E 是实心黑方块 ∎，如果喜欢空心白方块可以用 \25A1 □ */
+  float: right;     /* 让符号自动靠右对齐 */
+  color: $my_gray;
+  margin-left: 1em;
+  margin-top: 0.2em;
+}
+
+body.dark-mode .proof::after {
+  color: $my_dark_gray_light;
+}
