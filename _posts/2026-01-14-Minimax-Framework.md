@@ -131,7 +131,7 @@ For most of non-trivial hypothesis testing problem, it is impossible to design a
 
 When $\omega =\frac{1}{2}$, such risk function can be viewed as an expected loss of the testing function $T$ with the <em>0-1 loss</em> $l(T)=\mathbf{1}_{T(X)=f(\theta )}$.
 
-### Neyman-Pearson Framework and ROC Curve
+### Neyman-Pearson Framework
 
 A good strategy to select useful testing functions to first fix an upper bound $\alpha $, limit our scope on the testings with Type I error less than $\alpha $, and see how small we can make the Type II error within the scope. The $\alpha $ here is called the <em>significance level</em> of the testing function. In other words, if we define $A _{s}(\mathcal{P} _{\theta },\alpha )$ as the set of all testing functions that have Type I error no larger than $\alpha $, then we want to solve the following problem:
 
@@ -144,7 +144,7 @@ A good strategy to select useful testing functions to first fix an upper bound $
 Such approach is called the <a href="http://www.jstor.org/stable/91247" class="custom-link-3"><em >Neyman-Pearson Framework</em></a>. The optimization problem above is not easy in general. However, when $H _{0}$ and $H _{1}$ are simple hypotheses, surprisingly and beautifully, we have very intuitive solution and it is optimal in some sense.
 
 <div class="theorem" style="">
-  (Neyman--Pearson Lemma). For the hypothesis testing problem $H _{0}:\theta =\theta _{0}$ and $H _{1}:\theta =\theta _{1}$. Let $f _{\theta }(x)$ be the distribution function or density function of $X$ under $\mathbb{P} _{\theta }$. Define the <em >likelihood ratio</em> $L(X):=\frac{f _{\theta _{1}}(X)}{f _{\theta _{0}}(X)}$ and the testing function
+  (Neyman--Pearson Lemma). For the simple hypothesis testing problem $H _{0}:\theta =\theta _{0}$ and $H _{1}:\theta =\theta _{1}$. Let $f _{\theta }(x)$ be the distribution function or density function of $X$ under $\mathbb{P} _{\theta }$. Define the <em >likelihood ratio</em> $L(X):=\frac{f _{\theta _{1}}(X)}{f _{\theta _{0}}(X)}$ and the testing function
 
   \[
     \begin{equation*}
@@ -187,6 +187,18 @@ Let $\alpha = \mathbb{P} _{\theta _{0}}(T ^{\star }(X)=1)$. Then $T ^{\star }$ i
   \]
   The equality holds only when $A \cap B ^{\complement }$ and $B \cap A ^{\complement }$ are both of measure zero under $\mathbb{P} _{\theta _{0}}$ and $\mathbb{P} _{\theta _{1}}$. This completes the proof.
 </div>
+
+### ROC Curve
+
+We have Type I and Type II errors to evaluate the performance of a testing function. However, we are still not satisfied with these mere two numbers. Is there any way to illustrate a testing function more intuitively and visually? In this view, the <em >receiver operating characteristic</em> (ROC) curve is a good choice! However, the ROC curve is not applied to a single testing function, but rather a family of them. Typically, a testing function is <em >fixed</em> somehow, meaning that we have a raw function inside the testing function and a threshold $c$ to determine the final decision. For example, in the Neyman--Pearson lemma, the raw function is the likelihood function $L(X)$, and the threshold is $k$. In this way, the Type I and II errors are fixed. In the ROC curve, instead, we give the testing function "more freedom" by allowing the threshold to vary. These, definitely, will change the Type I and II errors. If we draw the plot of the Type I error (x-axis) and the power under $H _{1}$ (y-axis) as the threshold varies, this is the ROC curve!
+
+<div style="text-align: center;">
+  <a href="/assets/images/Academic/minimax_framework/Gemfile.svg">
+  <img src="/assets/images/Academic/minimax_framework/Gemfile.svg" alt="" style="max-width: 60%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The ROC curve. Credit: <a href="https://en.wikipedia.org/wiki/Receiver_operating_characteristic" class="custom-link-3">https://en.wikipedia.org/wiki/Receiver_operating_characteristic </a>.</figcaption>
+</div>
+
+The x-axis of the plot is the "false positive rate", which means "among all of the cases in $H _{0}$, how many are wrongly detected as $H _{1}$?", which is exactly the Type I error; the y-axis is "among all of the cases in $H _{1}$, how many are correctly concluded?", which is $1-\text{Type II error}$. The line connecting $(0,0)$ and $(1,1)$ represents the random guess (since we are guessing randomly, the probability of concluding $H _{1}$ is the same under both $H _{0}$ and $H _{1}$). The very left top corner represents the perfect test, which has zero Type I and Type II errors. This perfect test, however, rarely exists. As long as any $\mathbb{P}$ in $H _{0}$ and $\mathbb{Q}$ in $H _{1}$ has positive total variation distance, i.e., $\max\limits _{\mathbb{P}\in H _{0},\mathbb{Q}\in H _{1}}\text{TV}(\mathbb{P},\mathbb{Q})>0$, then such perfect test does not exist. In this plot, every curve starts at $(0,0)$ (representing that it never rejects $H _{0}$, and therefore cannot correctly detect any case in $H _{1}$ either), and ends at $(1,1)$ (representing that it always rejects $H _{0}$, and therefore wrongly rejects all the cases in $H _{0}$). Additionally, the closer the curve is to the top left corner, the better the testing function is. If one curve is always above another curve, then the testing function corresponding to the upper curve is better than the other one. The area under the curve (AUC) is roughly a summary of the performance of the testing function. An area close to $1$ means that the testing function is very accurate, while an area close to $0.5$ means that the testing function is as bad as random guess. These properties of ROC can be easily verified by the definition of the ROC curve and the plot.
 
 ### $F$-$1$ Score
 
