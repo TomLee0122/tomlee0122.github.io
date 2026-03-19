@@ -247,6 +247,8 @@ For example, if we assume that the data are drawn from a Guassian distribution, 
   where $c$ is a threshold that determined by us (for example, $c=0.1$). In this case, the Type I error is $\mathbb{P}_{0.5}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| \ge c\right)$, and the Type II error is $\mathbb{P}_{p}\left(\left|\frac{1}{30}\sum\limits_{i=1}^{30}X _{i}-0.5\right| < c\right)$ for any $p \neq 0.5$. Note that the Type II error depends on the parameter $p$ under $H _{1}$!
 </div>
 
+<span class="small-text" style="color: gray;">In the example above, what can you conclude about the Type II error for general $p \neq 0.5$?</span>
+
 ### Prior of the Parameters
 
 If we have a prior distribution $\pi $ on the parameter space $\varTheta $ (as is the case in Bayesian statistics), then a natural way is to "take the average" of the risk function over $\varTheta $. For a given testing function $T(\cdot )$, we have a risk function $R(\theta ,T)$, which is only a function of $\theta $ and irrelevant to the samples. Therefore, we can define the <em>Bayes risk</em> of $T$ as
@@ -256,3 +258,25 @@ If we have a prior distribution $\pi $ on the parameter space $\varTheta $ (as i
     R(T)=\mathbb{E}_{\theta }R(\theta ,T)  
   \]
 </div>
+
+The testing function that minimizes the Bayes risk is called the <em>Bayes test</em>.
+
+Such Bayes risk can actually be defined beyond the testing problem. For any decision problem with a decision function, as long as we have a risk function, we can define the Bayes risk by taking the corresponding expectation. For example, in the estimation problem, the decision function is an estimator $\hat{\theta }$ that aims to provide a good estimation of the true parameter $\theta $. The estimator that minimzes the Bayes risk is called <em >Bayes estimator</em>. A common selected risk function is the mean square error (MSE): $R(\theta ,\hat{\theta })=(\hat{\theta }-\theta )^{2}$. If we denote the prior of $\theta $ as $\pi (\theta )$, then we have 
+\\[
+  R(\theta ,\hat{\theta })=\displaystyle\int_{}^{}\displaystyle\int_{\mathcal{X}}^{}(\hat{\theta }-\theta )^{2}f(x|\theta )\pi (\theta )dx d\theta =\displaystyle\int_{\mathcal{X}}^{}\displaystyle\int_{}^{}(\hat{\theta }-\theta )^{2}f(\theta |x)g (x)d \theta dx,
+\\]
+where $f(\theta |x)$ is the posterior distribution of $\theta $ given the observed data $x$, and $g(x)$ is the marginal distribution of $x$ given the prior $\pi (\theta )$. For the inner integral $\displaystyle\int_{}^{}(\hat{\theta }-\theta )^{2}f(\theta |x)d\theta $, since the estimator $\hat{\theta }$ only depends on the observations $x$, we can minimize it by selecting $\hat{\theta }=\mathbb{E}(\theta |x)$, i.e., the mean of the posterior given $x$. In this way, the whole Bayes risk is also minimized by setting $\hat{\theta }=\mathbb{E}(\theta |x)$. We can prove the minimizer of the Bayes risk given some other risks, as summarized in the following.
+
+- If $R(\theta ,\hat{\theta })=(\hat{\theta }-\theta )^{2}$, the Bayes estimator is the mean of the posterior distribution.
+
+- If $R(\theta ,\hat{\theta })=\|\hat{\theta }-\theta \|$, the Bayes estimator is the median of the posterior distribution.
+
+- If $R(\theta ,\hat{\theta })=\mathbf{1} _{\left\\{\hat{\theta }\neq \theta \right\\}}$, the Bayes estimator is the mode of the posterior distribution.
+
+However, in general, the Bayes estimator is not necessarily a "nice" function of the posterior distribution.
+
+### Optimality of the Likelihood Ratio Test
+
+Neyman-Pearson lemma provides the guarantee of the optimality of the likelihood ratio test for simple hypotheses. For composite hypotheses, 
+
+## Minimax Framework
