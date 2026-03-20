@@ -1,6 +1,10 @@
 ---
 title: Hypothesis Testing and Minimax Framework (Under Construction)
-excerpt: ''
+excerpt: |
+  <div>
+  <img src='/assets/images/Academic/minimax_framework/neyman_pearson_lemma.png' alt='' style='max-width: 40%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'>
+  <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
+  </div>
 categories:
   - Academic
 tags:
@@ -275,8 +279,52 @@ where $f(\theta |x)$ is the posterior distribution of $\theta $ given the observ
 
 However, in general, the Bayes estimator is not necessarily a "nice" function of the posterior distribution.
 
-### Optimality of the Likelihood Ratio Test
+### Optimality of the LRT for Composite Hypotheses
 
-Neyman-Pearson lemma provides the guarantee of the optimality of the likelihood ratio test for simple hypotheses. For composite hypotheses, 
+Neyman-Pearson lemma provides the guarantee of the optimality of the likelihood ratio test for simple hypotheses. For composite hypotheses, we still have such optimality under certain conditions.
+
+<div class="definition" style="">
+  (Monotone likelihood ratio). For a univariate statistic $t(X)$ with parametric probability mass function (pmf) or probability density function (pdf) $\left\{f _{\theta }(t): \theta \in \varTheta \subset \mathbb{R}\right\}$, we say $t(X)$ has monotone likelihood ratio (MLR) if for any $\theta _{1}>\theta _{0}$, the likelihood ratio $\frac{f _{\theta _{1}}(t)}{f _{\theta _{0}}(t)}$ is a non-decreasing function of $t$.
+</div>
+
+For a set of samples $\left\\{X _{1}, X _{2}, \ldots, X _{n}\right\\}$, assume $T(X)$ is a <a href="https://en.wikipedia.org/wiki/Sufficient_statistic" class="custom-link-3">sufficient statistic</a> for $\theta $, then there is still hope that we can find the optimal testing function based on $T(X)$.
+
+<div class="theorem" style="">
+  For the composite hypothesis testing problem $H _{0}:\theta \le \theta _{0}$ and $H _{1}:\theta > \theta _{0}$, if a sufficient $T(X)$ with pmf or pdf $\left\{f _{\theta }(T): \theta \in \varTheta \subset \mathbb{R}\right\}$ has MLR, then the testing function defined as
+\[
+  T(X)=\left\{\begin{aligned}
+    1, & \text{ if } T(X) > c;\\
+    0, & \text{ otherwise},
+  \end{aligned}\right.
+\]
+and $\alpha :=\mathbb{P}_{\theta _{0}}(T(X)>c)$, is optimal in the sense that for any other testing function $T'(\cdot )$ that satisfies $\sup\limits_{\theta \le \theta _{0}}\mathbb{P}_{\theta }(T ^{\prime }(X)=1)\le \alpha $ and any $\theta > \theta _{0}$, we have 
+\[
+   \mathbb{P}_{\theta }(T(X)=1)\ge \mathbb{P}_{\theta }(T ^{\prime }(X)=1).
+\]
+I.e., $T$ has smaller Type II error than $T ^{\prime}$ for any $\theta > \theta _{0}$.
+</div>
+
+<div class="proof" style="">
+  For simplicity, assume the support of $f _{\theta }(t)$ is $\mathbb{R}$ for all $\theta $. We first prove the fact that the power function $\beta (\theta ,T)$ is non-decreasing with repsect to $\theta $. Since we reject $H _{0}$ when $T(X)>c$, we know that $\beta (\theta ,T)=\displaystyle\int_{c}^{\infty }f _{\theta }(t)dt$. For any $\theta _{1}>\theta _{0}$, consider the difference
+  \[
+    \beta (\theta _{1},T)-\beta (\theta _{0},T)=\displaystyle\int_{c}^{\infty }f _{\theta _{1}}(t)dt-\displaystyle\int_{c}^{\infty }f _{\theta _{0}}(t)dt=\displaystyle\int_{c}^{\infty }f _{\theta _{0}}(t)\left[\frac{f _{\theta _{1}}(t)}{f _{\theta _{0}}(t)}-1\right]dt.
+  \]
+  Because $f _{\theta _{0}}(t)$ and $f _{\theta _{1}}(t)$ are both pdfs (or pmfs), we have 
+  \[
+    \displaystyle\int_{-\infty }^{\infty }f _{\theta _{1}}(t)dt-\displaystyle\int_{-\infty }^{\infty }f _{\theta _{0}}(t)dt=0.
+  \]
+  Since $\frac{f _{\theta _{1}}(t)}{f _{\theta _{0}}(t)}$ is non-decreasing in $t$, we deduce that $\beta (\theta _{1},T)-\beta (\theta _{0},T)\ge 0$.
+  
+  Let $k :=\inf\limits _{t>c}\frac{f _{\theta ^{\prime }}(t)}{f _{\theta _{0}}(t)}$, then we have $T>c$ if and only if $\frac{f _{\theta ^{\prime }}(t)}{f _{\theta _{0}}(t)}>k$. Therefore, we can rewrite $T$ as
+  \[
+  T(X)=\left\{\begin{aligned}
+    1, & \text{ if } \frac{f _{\theta ^{\prime }}(T(X))}{f _{\theta _{0}}(T(X))}>k;\\
+    0, & \text{ otherwise},
+  \end{aligned}\right.
+  \]
+  which is a likelihood ratio test. By Neyman--Pearson lemma, we know that $T$ has smaller Type II error at $\theta ^{\prime }$ than any other testing function $T ^{\prime }$ that satisfies $\mathbb{P}_{\theta _{0}}(T ^{\prime }(X)=1)\le \sup\limits_{\theta \le \theta _{0}}\mathbb{P}_{\theta }(T ^{\prime }(X)=1)\le \alpha $. Since $\theta ^{\prime }>\theta _{0}$ is arbitary, this completes the proof.
+</div>
+
+<span class="small-text" style="color: gray;">There is a symmetric version of the theorem above about the testing problem $H _{0}:\theta \ge \theta _{0}$ and $H _{1}:\theta < \theta _{0}$, can you think of it? Which conditions do you require?</span>
 
 ## Minimax Framework
