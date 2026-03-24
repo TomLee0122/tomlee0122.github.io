@@ -16,7 +16,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2026-01-25
+last_modified_at: 2026-03-24
 toc: true
 permalink: /academic-tags/minimax-framework
 ---
@@ -331,19 +331,26 @@ I.e., $T$ has smaller Type II error than $T ^{\prime}$ for any $\theta > \theta 
 
 ### Minimax Risk
 
-We just discussed the Bayes risk, where the risk on a single parameter is averaged based on the prior $\pi(\theta )$. However, the Bayes risk is not the only way to evaluate a decision rule (can be a testing function, an estimator, etc). When we care more about the <b>worst case scenario</b>, or the prior is not easily available, we can consider the <em>minimax risk</em>. The minimax risk of a decision rule $T$ measures the worst case risk of $T$ over the parameter space $\varTheta $:
+We just discussed the Bayes risk, where the risk on a single parameter is averaged based on the prior $\pi(\theta )$. However, the Bayes risk is not the only way to evaluate a decision rule (can be a testing function, an estimator, etc). When we care more about the <b>worst case scenario</b>, or the prior is not easily available, we can consider the <em>minimax risk</em>. Consider the worst case risk of $T$ over the parameter space $\varTheta $:
 \\[
-  R_{\text{m}}(T)=\sup\limits _{\theta \in \varTheta }R(\theta ,T).
+  R _{\text{m}}(T)=\sup\limits _{\theta \in \varTheta }R(\theta ,T).
 \\]
+The minimax risk of the decision problem is defined as the infimum of $R _{\text{m}}(T)$ over all possible decision rules $T$:
+\\[
+  R _{\text{m}}^{\star }=\inf \limits _{T}R _{\text{m}}(T)=\inf \limits _{T}\sup\limits _{\theta \in \varTheta }R(\theta ,T).
+\\]
+
+A decision rule $T$ that (nearly) achieves the minimax risk is called a <em>minimax decision rule</em>. In other words, a minimax decision rule has the smallest worst case risk among all possible decision rules.
+
+$$
+  T ^{\star }=\arg\min \limits _{T} R _{\text{m}}(T)=\arg\min \limits _{T}\sup\limits _{\theta \in \varTheta }R(\theta ,T).
+$$
+
+$T^{\star }$ is very cool since he can confidently say "for any other decision rule, it must be at least worse than me in some cases!".
 
 ### Minimax Framework for Estimation
 
-Assume we have an estimator $T(X)$ to estimate $f(\theta )$ for some function $f$ and each $\theta \in \varTheta $, then we want to find the optimal $T ^{\star }$ that minimizes the minimax risk, i.e., 
-\\[
-  T ^{\star }=\arg\min \limits _{T} R _{\text{m}}(T)=\arg\min \limits _{T}\sup\limits _{\theta \in \varTheta }R(\theta ,T)=\mathbb{E} _{\mathbf{X}}r(f(\theta ),T(X))
-\\]
-
-Before we continue the analysis, let's first introduce the concepts of $\delta $-cover and $\delta $-packing.
+In this section, let's assume that $T$ is an estimator for $f(\theta )$. Before we continue the analysis, let's first introduce the concepts of $\delta $-cover and $\delta $-packing.
 
 <div class="definition" style="">
   ($\delta $-cover and $\delta $-packing) Given a metric $\rho $ on a set $S$, a $\delta $-cover of $S$ is a set of points $\left\{x_1, \dots, x_n\right\}$ such that for every $x\in S$, there exists an $i \in \left\{1, \dots,n\right\}$ with $\rho(x,x_i)<\delta $. The $\delta $-covering number of $S$, denoted as $N(\delta ,S, \rho )$, is the minimum cardinality of a $\delta $-cover of $S$. A $\delta $-packing of $S$ is a set of points $\left\{x_1, \dots, x_n\right\}$ such that for all $i\ne j$, we have $\rho(x_i,x_j)\ge \delta $. The $\delta $-packing number of $S$, denoted as $M(\delta ,S, \rho )$, is the maximum cardinality of a $\delta $-packing of $S$.
@@ -355,4 +362,20 @@ Before we continue the analysis, let's first introduce the concepts of $\delta $
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Illustration of covering and packing. Credit: "High-Dimensional Statistics" by Martin J. Wainwright.</figcaption>
 </div>
 
-With such concepts, we can reduce the minimax estimation problem to a multiple hypothesis testing problem. We assume that the space $\left\\{f(\theta )\left\lvert\right. \theta \in \varTheta \right\\}$ is equipped with a metric $\rho $ and the risk function $r$ is an increasing function with respect to $\rho $: $r=r(\rho(f(\theta ),T(X)))$, as is the case for most risks. The equivalence goes as follows.
+With such concepts, we can reduce the minimax estimation problem to a multiple hypothesis testing problem. We assume that the space $\left\\{f(\theta )\left\lvert\right. \theta \in \varTheta \right\\}$ is equipped with a metric $\rho $ and the risk function $r$ is an increasing function with respect to $\rho $: $r=r(\rho(f(\theta ),T(X)))$, as is the case for most risks. In this way, the minimax risk can be formulated as
+\\[
+  \mathop{\arg \min}\limits _{T}\sup \limits _{\theta }\mathbb{E} _{\mathbf{X}}r(\rho(f(\theta ),T(X))).
+\\]
+The equivalence goes as follows. Suppose $\left\\{f(\theta _{1}),\dots,f(\theta _{M})\right\\}$ is a $2\delta $-packing of $\left\\{f(\theta )\left\lvert\right. \theta \in \varTheta \right\\}$, we sample a point $Y$ from the mixture distribution $\frac{1}{M}\sum\limits _{i=1}^{M}P _{\theta _{i}}$ then we can consider which distribution $P _{\theta _{i}}$ is the source of $Y$. (This is from the definition of the mixture!) A natrual testing strategy is to look at which point in $\left\\{f(\theta _{1}),\dots,f(\theta _{M})\right\\}$ is the closest to $T(Y)$, and select the nearest point as the conclusion: $\hat{\theta } _{0}=\mathop{\arg \min}\limits _{\theta _{i}}\rho (T(Y),f (\theta _{i}))$. The error of such strategy is:
+\\[
+  \mathbb{P}\left(\hat{\theta } _{0}\neq \theta \right)=\frac{1}{M}\sum\limits _{i=1}^{M}\mathbb{P} _{\theta _{i}}\left(\hat{\theta } _{0}\neq \theta _{i}\right)\overset{\text{(i)}}{\le } \frac{1}{M}\sum\limits _{i=1}^{M}\mathbb{P} _{\theta _{i}}\left(\rho (T(Y),f(\theta _{i}))\ge \delta \right),
+\\]
+where (i) follows from the definition of $\hat{\theta }$, the definiton of the $2\delta $-packing, and the triangle inequality. Now, by the Markov's inequality, we have
+\\[
+  \sup\limits _{\theta }\mathbb{E} _{\mathbf{X}}r(\rho(f(\theta ),T(X)))\ge r (\delta )\cdot \frac{1}{M}\sum\limits _{i=1}^{M}\mathbb{P} _{\theta _{i}}\left(\rho (T(Y),f(\theta _{i}))\ge \delta \right)\ge r(\delta ) \mathbb{P}\left(\hat{\theta } _{0}\neq \theta \right)\ge r(\delta )\inf\limits _{\hat{\theta }}\mathbb{P}\left(\hat{\theta }\neq \theta \right).
+\\]
+Here the infimum in $\inf\limits _{\hat{\theta }}\mathbb{P}\left(\hat{\theta }\neq \theta \right)$ is taken with respect to all possible estimators $\hat{\theta }$, and it does not depend on the choice of $T$ (recall that $\hat{\theta }$ is only the function of the observed data $Y$). Therefore, we can take the infimum over $T$ on both sides for free!
+\\[
+  \text{minimax risk}\ge r(\delta )\inf\limits _{\hat{\theta }}\mathbb{P}\left(\hat{\theta }\neq \theta \right).
+\\]
+This is significant! If we can calculate the RHS, then we prove that no estimator can have smaller risk!
