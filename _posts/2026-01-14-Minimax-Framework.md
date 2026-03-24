@@ -64,13 +64,13 @@ Due to the limit of our knowledge, information and ability to infer, our testing
 &bull; <b>Type I error</b>: the testing function rejects the null hypothesis $H _{0}$ when actually $H _{0}$ is true; 
 
 \\[
-    \text{Type I error}=\mathbb{P}_{H _{0}}(T(X)=1)
+    \text{Type I error}=\mathbb{P}_{\theta _{0}}(T(X)=1), \theta _{0}\in H _{0}.
 \\]
 
 &bull; <b>Type II error</b>: the testing function fails to reject the null hypothesis $H _{0}$ when actually $H _{1}$ is not true.<br>
 
 \\[
-    \text{Type II error}=\mathbb{P}_{H _{1}}(T(X)=0)
+    \text{Type II error}=\mathbb{P}_{\theta _{1}}(T(X)=0), \theta _{1}\in H _{1}.
 \\]
 
 <div style="max-width: 90%; text-align: center; margin: 0 auto; margin-bottom: 2em">
@@ -130,10 +130,10 @@ Let's first define the power function of a testing function given the parameter 
 For most of non-trivial hypothesis testing problem, it is impossible to design a perfect testing function that has both zero Type I and Type II errors. (However, things are not that bad, because it is also impossible to design a testing function that is a total trash --- always making mistakes! Why?) The word "both" is important, because we can trivially achieve zero Type I error by never rejecting $H _{0}$, and achieve zero Type II error by always rejecting $H _{0}$. In other words, to design a good testing function, we should not reduce one type of error simply by sacrificing the other type of error. To balance the two types of errors of a test $T$, we can try to minimize the weighted sum of the two errors, i,e.,
 
 \\[
-  R(\theta, T)=\mathbb{E} _{\theta}\left[\omega \cdot \text{Type I error}+(1-\omega )\cdot \text{Type II error}\right].
+  R(T)=\omega \cdot \text{Type I error}+(1-\omega )\cdot \text{Type II error}=\omega \mathbb{P} _{\theta _{0}}(T(X)=1)+(1-\omega )\mathbb{P} _{\theta _{1}}(T(X)=0).
 \\]
 
-When $\omega =\frac{1}{2}$, such risk function can be viewed as an expected loss of the testing function $T$ with the <em>0-1 loss</em> $l(T)=\mathbf{1}_{T(X)=f(\theta )}$.
+Such risk can be regarded as putting a prior $\pi $ on the parameters $\theta _{0}$ and $\theta _{1}$: $\mathbb{P} _{\pi }(\theta =\theta _{0})=\omega $, $\mathbb{P}(\theta =\theta _{1})=1-\omega $. When $\omega =\frac{1}{2}$, such risk function can be viewed as an expected loss of the testing function $T$ with the <em>0-1 loss</em> $l(T)=\mathbf{1} _{\left\\{T(X)=f(\theta )\right\\}}$.
 
 ### Neyman-Pearson Framework
 
@@ -255,11 +255,11 @@ For example, if we assume that the data are drawn from a Guassian distribution, 
 
 ### Prior of the Parameters
 
-If we have a prior distribution $\pi $ on the parameter space $\varTheta $ (as is the case in Bayesian statistics), then a natural way is to "take the average" of the risk function over $\varTheta $. For a given testing function $T(\cdot )$, we have a risk function $R(\theta ,T)$, which is only a function of $\theta $ and irrelevant to the samples. Therefore, we can define the <em>Bayes risk</em> of $T$ as
+If we have a prior distribution $\pi $ on the parameter space $\varTheta $ (as is the case in Bayesian statistics), then a natural way is to "take the average" of the risk function over $\varTheta $. For a given testing function $T(\cdot )$, we have a risk function $r(\theta ,T(\mathbf{X}))$, which measures the error of $T$ for each sample $\mathbf{X}$ from $\mathbb{P} _{\theta }$ (for example, the Type I error when $H _{0}$ holds or the Type II error when $H _{1}$ holds). If we take the expectation of $r(\theta ,T(\mathbf{X}))$ over $\mathbf{X}$, we get a quantity $R(\theta ,T)=\mathbb{E} _{\mathbf{X}}r(\theta ,T(\mathbf{X}))$, which is only a function of $\theta $ and irrelevant to the samples. If we continue taking the expectation over $\theta $, we get the <em>Bayes risk</em> of $T$ as
 
 <div class="" style="">
   \[
-    R(T)=\mathbb{E}_{\theta }R(\theta ,T)  
+    R(T)=\mathbb{E}_{\theta }R(\theta ,T) =\displaystyle\int_{\varTheta }^{}R(\theta ,T)d\pi (\theta ).
   \]
 </div>
 
@@ -267,7 +267,7 @@ The testing function that minimizes the Bayes risk is called the <em>Bayes test<
 
 Such Bayes risk can actually be defined beyond the testing problem. For any decision problem with a decision function, as long as we have a risk function, we can define the Bayes risk by taking the corresponding expectation. For example, in the estimation problem, the decision function is an estimator $\hat{\theta }$ that aims to provide a good estimation of the true parameter $\theta $. The estimator that minimzes the Bayes risk is called <em >Bayes estimator</em>. A common selected risk function is the mean square error (MSE): $R(\theta ,\hat{\theta })=(\hat{\theta }-\theta )^{2}$. If we denote the prior of $\theta $ as $\pi (\theta )$, then we have 
 \\[
-  R(\theta ,\hat{\theta })=\displaystyle\int_{}^{}\displaystyle\int_{\mathcal{X}}^{}(\hat{\theta }-\theta )^{2}f(x|\theta )\pi (\theta )dx d\theta =\displaystyle\int_{\mathcal{X}}^{}\displaystyle\int_{}^{}(\hat{\theta }-\theta )^{2}f(\theta |x)g (x)d \theta dx,
+  R(\theta ,\hat{\theta })=\displaystyle\int_{\varTheta }^{}\displaystyle\int_{\mathcal{X}}^{}(\hat{\theta }-\theta )^{2}f(x|\theta )\pi (\theta )dx d\theta =\displaystyle\int_{\mathcal{X}}^{}\displaystyle\int_{\varTheta }^{}(\hat{\theta }-\theta )^{2}f(\theta |x)g (x)d \theta dx,
 \\]
 where $f(\theta |x)$ is the posterior distribution of $\theta $ given the observed data $x$, and $g(x)$ is the marginal distribution of $x$ given the prior $\pi (\theta )$. For the inner integral $\displaystyle\int_{}^{}(\hat{\theta }-\theta )^{2}f(\theta |x)d\theta $, since the estimator $\hat{\theta }$ only depends on the observations $x$, we can minimize it by selecting $\hat{\theta }=\mathbb{E}(\theta |x)$, i.e., the mean of the posterior given $x$. In this way, the whole Bayes risk is also minimized by setting $\hat{\theta }=\mathbb{E}(\theta |x)$. We can prove the minimizer of the Bayes risk given some other risks, as summarized in the following.
 
@@ -328,3 +328,31 @@ I.e., $T$ has smaller Type II error than $T ^{\prime}$ for any $\theta > \theta 
 <span class="small-text" style="color: gray;">There is a symmetric version of the theorem above about the testing problem $H _{0}:\theta \ge \theta _{0}$ and $H _{1}:\theta < \theta _{0}$, can you think of it? Which conditions do you require?</span>
 
 ## Minimax Framework
+
+### Minimax Risk
+
+We just discussed the Bayes risk, where the risk on a single parameter is averaged based on the prior $\pi(\theta )$. However, the Bayes risk is not the only way to evaluate a decision rule (can be a testing function, an estimator, etc). When we care more about the <b>worst case scenario</b>, or the prior is not easily available, we can consider the <em>minimax risk</em>. The minimax risk of a decision rule $T$ measures the worst case risk of $T$ over the parameter space $\varTheta $:
+\\[
+  R_{\text{m}}(T)=\sup\limits _{\theta \in \varTheta }R(\theta ,T).
+\\]
+
+### Minimax Framework for Estimation
+
+Assume we have an estimator $T(X)$ to estimate $f(\theta )$ for some function $f$ and each $\theta \in \varTheta $, then we want to find the optimal $T ^{\star }$ that minimizes the minimax risk, i.e., 
+\\[
+  T ^{\star }=\arg\min \limits _{T} R _{\text{m}}(T)=\arg\min \limits _{T}\sup\limits _{\theta \in \varTheta }R(\theta ,T)=\mathbb{E} _{\mathbf{X}}r(f(\theta ),T(X))
+\\]
+
+Before we continue the analysis, let's first introduce the concepts of $\delta $-cover and $\delta $-packing.
+
+<div class="definition" style="">
+  ($\delta $-cover and $\delta $-packing) Given a metric $\rho $ on a set $S$, a $\delta $-cover of $S$ is a set of points $\left\{x_1, \dots, x_n\right\}$ such that for every $x\in S$, there exists an $i \in \left\{1, \dots,n\right\}$ with $\rho(x,x_i)<\delta $. The $\delta $-covering number of $S$, denoted as $N(\delta ,S, \rho )$, is the minimum cardinality of a $\delta $-cover of $S$. A $\delta $-packing of $S$ is a set of points $\left\{x_1, \dots, x_n\right\}$ such that for all $i\ne j$, we have $\rho(x_i,x_j)\ge \delta $. The $\delta $-packing number of $S$, denoted as $M(\delta ,S, \rho )$, is the maximum cardinality of a $\delta $-packing of $S$.
+</div>
+
+<div style="text-align: center;">
+  <a href="/assets/images/Academic/minimax_framework/covering_packing.png">
+  <img src="/assets/images/Academic/minimax_framework/covering_packing.png" alt="" style="max-width: 90%; height: auto;"></a>
+  <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Illustration of covering and packing. Credit: "High-Dimensional Statistics" by Martin J. Wainwright.</figcaption>
+</div>
+
+With such concepts, we can reduce the minimax estimation problem to a multiple hypothesis testing problem. We assume that the space $\left\\{f(\theta )\left\lvert\right. \theta \in \varTheta \right\\}$ is equipped with a metric $\rho $ and the risk function $r$ is an increasing function with respect to $\rho $: $r=r(\rho(f(\theta ),T(X)))$, as is the case for most risks. The equivalence goes as follows.
