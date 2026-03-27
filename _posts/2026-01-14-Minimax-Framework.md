@@ -379,3 +379,52 @@ Here the infimum in $\inf\limits _{\hat{\theta }}\mathbb{P}\left(\hat{\theta }\n
   \text{minimax risk}\ge r(\delta )\inf\limits _{\hat{\theta }}\mathbb{P}\left(\hat{\theta }\neq \theta \right).
 \\]
 This is significant! If we can calculate the RHS, then we prove that no estimator can have smaller risk!
+
+When $M=2$, the RHS can be lower bounded by the <a href="https://en.wikipedia.org/wiki/Total_variation_distance_of_probability_measures" class="custom-link-3">total variation distance</a>:
+<div class="" style="">
+  \[
+    \text{RHS}=\frac{r(\delta )}{2}\left[\mathbb{P}_{\theta _{1}}(\hat{\theta }=\theta _{2})+\mathbb{P}_{\theta _{2}}(\hat{\theta }=\theta _{1})\right]=\frac{r(\delta )}{2}\left[1-\mathbb{P}_{\theta _{1}}(\hat{\theta }=\theta _{1})+\mathbb{P}_{\theta _{2}}(\hat{\theta }=\theta _{1})\right]\ge \frac{r(\delta )}{2}\left[1-\text{TV}(\mathbb{P}_{\theta _{1}},\mathbb{P}_{\theta _{2}})\right].
+  \]
+</div>
+This demonstartes that, if we can find two parameters $\theta _{1}$ and $\theta _{2}$ such that $f(\theta _{1})$ and $f(\theta _{2})$ are far away ($2\delta $) in the metric $\rho$, then the minimax risk is at least $r(\delta )\cdot \frac{1-\text{TV}(\mathbb{P} _{\theta _{1}},\mathbb{P} _{\theta _{2}})}{2}$!
+
+<div class="example" style="">
+Consider the Gaussian location family $\mathbb{P}_{\mu },\mu \in \mathbb{R}$, where $\mathbb{P}_{\mu }\sim \mathcal{N}(\mu ,\sigma ^{2})$. Given $n$ samples $X _{1},\dots,X _{n}$ from $\mathbb{P}_{\mu }$, we want to estimate $\mu $ with the square error loss. In this example, we have $f(\mu )=\mu $, $\rho (\mu _{1},\mu _{2})=\left|\mu _{1}-\mu _{2}\right|$. For a fixed $\delta >0$, a easy way to construct a $2\delta $-packing set is to select $\mu _{1}=-\delta ,\mu _{2}=\delta $. Then we only need to calculate the total variation distance between $\mathbb{P}^{\otimes n}_{\mu _{1}}$ and $\mathbb{P}^{\otimes n}_{\mu _{2}}$, where $\mathbb{P}^{\otimes n}_{\mu }$ denotes the $n$-fold tensor product of $\mathbb{P}_{\mu }$. It is known (see the exercise 15.10 of "High-Dimensional Statistics" by Martin J. Wainwright) that
+\begin{equation*}
+    \text{TV}(\mathbb{P}_{\mu _{1}}^{\otimes n},\mathbb{P}_{\mu _{2}}^{\otimes n})\le \frac{1}{4}\left(\exp\left\{\frac{n(\mu _{1}-\mu _{2})^{2}}{\sigma ^{2}}\right\}-1\right)=\frac{1}{4}\left(\exp\left\{\frac{4n\delta ^{2}}{\sigma ^{2}}\right\}-1\right).
+\end{equation*}
+Therefore we have 
+\begin{equation*}
+    \text{minimax risk}\ge \frac{r(\delta )}{2}\left[1-\text{TV}(\mathbb{P}_{\mu _{1}}^{\otimes n},\mathbb{P}_{\mu _{2}}^{\otimes n})\right]\ge \frac{r(\delta )}{2}\left(1-\sqrt{\frac{1}{4}\left(\exp\left\{\frac{4n\delta ^{2}}{\sigma ^{2}}\right\}-1\right)}\right).
+\end{equation*}
+Setting $\delta =\frac{\sigma }{2 \sqrt{n}}$, we have:
+\begin{equation*}
+    \inf\limits _{T}\sup\limits _{\mu \in \mathbb{R}}\mathbb{E}r(\left|\mu -T(X _{1},\dots,X _{n})\right|)\ge \frac{r(\sigma /(2 \sqrt{n}))}{2}\left(1-\frac{1}{2}\sqrt{e-1}\right).
+\end{equation*}
+Specially, setting $r(x)=x ^{2}$, we have:
+\begin{equation}
+    \inf\limits _{T}\sup\limits _{\mu \in \mathbb{R}}\mathbb{E}(\mu -T(X _{1},\dots,X _{n}))^{2}\ge \frac{\sigma ^{2}}{8n}\left(1-\frac{1}{2}\sqrt{e-1}\right).
+\end{equation}
+</div>
+The example above shows that given $X _{1},\dots,X _{n}$, no matter how elaborate the estimator is, there always exists a $\mu \in \mathbb{R}$ such that the square risk is at least in the same rate as $\frac{\sigma ^{2}}{n}$. In fact, the sample mean $\bar{X}=\frac{1}{n}\sum\limits _{i=1}^{n}X _{i}$ has the risk $\mathbb{E}(\mu -\bar{X})^{2}=\frac{\sigma ^{2}}{n}$, which is minimax optimal up to a constant factor. (So do not waste your time!)
+
+Sometimes we do not care about the exact parameter $\theta $, but rather a function of it, which means that $f$ is no longer the identity, but rather a function that maps $\theta $ to $\mathbb{R}$. In such case, the following Le Cam's lemma of functional is useful.
+
+<div class="theorem" style="">
+  (Le Cam’s lemma of functional). Define 
+\begin{equation*}
+    \omega (\epsilon ,f,\varTheta ):=\sup\limits _{\theta _{1},\theta _{2}\in \varTheta }\left\{\left|f(\theta _{1})-f(\theta _{2})\right|\left\lvert\right. H ^{2}(\mathbb{P}_{\theta _{1}}, \mathbb{P}_{\theta _{2}})\le \epsilon ^{2}\right\},
+\end{equation*}
+where $H(\cdot ,\cdot )$ is the <a href="https://en.wikipedia.org/wiki/Hellinger_distance" class="custom-link-3">Hellinger distance</a> between two probability measures. Then we have:
+\begin{equation*}
+    \inf\limits _{T}\sup\limits _{\theta \in \varTheta }\mathbb{E}\left[r(T(\mathbf{X})-f(\theta ))\right]\ge \frac{1}{4}r\left(\frac{1}{2}\omega \left(\frac{1}{2 \sqrt{n}},f,\varTheta \right)\right).
+\end{equation*}
+</div>
+
+<div class="proof" style="">
+  For a fixed $\epsilon >0$, take $\theta _{1}, \theta _{2}$ that achieve the supremum in $\omega (\epsilon ,f,\varTheta )$. Then we have $\left|f(\theta _{1})-f(\theta _{2})\right|=\omega \left(\epsilon ,f,\varTheta \right)$ and $H ^{2}(\mathbb{P}_{\theta _{1}}, \mathbb{P}_{\theta _{2}})\le \epsilon ^{2}$. Then we have $\text{TV}^{2}(\mathbb{P}_{\theta _{0}}^{\otimes n},\mathbb{P}_{\theta _{1}}^{\otimes n})\le H ^{2}(\mathbb{P}_{\theta _{1}}^{\otimes n},\mathbb{P}_{\theta _{2}}^{\otimes n})\le nH ^{2}(\mathbb{P}_{\theta _{1}}, \mathbb{P}_{\theta _{2}})\le n\epsilon ^{2}$ (relationship between the total variation distance and the Hellinger distance and the property of the Hellinger distance). In addition, take $\delta =\frac{1}{2}\omega \left(\epsilon ,f,\varTheta \right)$. By the argument above, we have 
+\begin{equation*}
+    \inf\limits _{T}\sup\limits _{\theta \in \varTheta }\mathbb{E}\left[r(T(\mathbf{X})-f(\theta ))\right]\ge \frac{1}{2}r\left(\frac{1}{2}\omega \left(\epsilon ,f,\varTheta \right)\right)(1-\sqrt{n}\epsilon ).
+\end{equation*}
+Now setting $\epsilon =\frac{1}{2 \sqrt{n}}$ completes the proof.
+</div>
