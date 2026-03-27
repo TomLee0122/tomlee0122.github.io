@@ -125,6 +125,28 @@ body.dark-mode .theorem {
   font-style: normal;
 }
 
+.lemma {
+  display: block;
+  margin: 1.5em 0;
+  padding: 0.5em 0.5em 0.2em 0.5em;
+  border: 2px solid $my_gray;
+  border-radius: 4px;
+  background-color: $my_gray_white;
+  font-style: italic;
+}
+
+body.dark-mode .lemma {
+  background-color: $my_dark_gray;
+  border-color: $my_dark_gray_light;
+}
+
+/* 标题样式 */
+.lemma::before {
+  content: "Lemma ";
+  font-weight: bold;
+  font-style: normal;
+}
+
 /* 例子样式盒 */
 .example {
   display: block;
