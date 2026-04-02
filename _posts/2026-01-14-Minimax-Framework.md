@@ -1,10 +1,20 @@
 ---
-title: Hypothesis Testing and Minimax Framework (Under Construction)
+title: Hypothesis Testing and Minimax Framework
 excerpt: |
-  <div>
-  <img src='/assets/images/Academic/minimax_framework/neyman_pearson_lemma.png' alt='' style='max-width: 40%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'>
-  <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
+  <div class="excerpt-image-container" style="max-width: 60%; position: relative;">
+    
+    <img src='/assets/images/Academic/minimax_framework/neyman_pearson_lemma.png' 
+         alt='excerpt light' 
+         class="img-light" 
+         style='width: 100%; height: auto; display: block;'>
+    
+    <img src='/assets/images/Academic/minimax_framework/neyman_pearson_lemma_invert.png' 
+         alt='excerpt dark' 
+         class="img-dark" 
+         style='width: 100%; height: auto; position: absolute; top: 0; left: 0;'>
+         
   </div>
+  <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
 categories:
   - Academic
 tags:
@@ -16,7 +26,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2026-03-24
+last_modified_at: 2026-04-02
 toc: true
 permalink: /academic-tags/minimax-framework
 ---
@@ -395,7 +405,10 @@ Consider the Gaussian location family $\mathbb{P}_{\mu },\mu \in \mathbb{R}$, wh
 \end{equation*}
 Therefore we have 
 \begin{equation*}
-    \text{minimax risk}\ge \frac{r(\delta )}{2}\left[1-\text{TV}(\mathbb{P}_{\mu _{1}}^{\otimes n},\mathbb{P}_{\mu _{2}}^{\otimes n})\right]\ge \frac{r(\delta )}{2}\left(1-\sqrt{\frac{1}{4}\left(\exp\left\{\frac{4n\delta ^{2}}{\sigma ^{2}}\right\}-1\right)}\right).
+    \begin{aligned}
+        \text{minimax risk}&\ge \frac{r(\delta )}{2}\left[1-\text{TV}(\mathbb{P}_{\mu _{1}}^{\otimes n},\mathbb{P}_{\mu _{2}}^{\otimes n})\right]\\ 
+        &\ge \frac{r(\delta )}{2}\left(1-\sqrt{\frac{1}{4}\left(\exp\left\{\frac{4n\delta ^{2}}{\sigma ^{2}}\right\}-1\right)}\right).
+    \end{aligned}
 \end{equation*}
 Setting $\delta =\frac{\sigma }{2 \sqrt{n}}$, we have:
 \begin{equation*}
@@ -427,4 +440,194 @@ where $H(\cdot ,\cdot )$ is the <a href="https://en.wikipedia.org/wiki/Hellinger
     \inf\limits _{T}\sup\limits _{\theta \in \varTheta }\mathbb{E}\left[r(T(\mathbf{X})-f(\theta ))\right]\ge \frac{1}{2}r\left(\frac{1}{2}\omega \left(\epsilon ,f,\varTheta \right)\right)(1-\sqrt{n}\epsilon ).
 \end{equation*}
 Now setting $\epsilon =\frac{1}{2 \sqrt{n}}$ completes the proof.
+</div>
+
+### Minimax Framework for Testing
+
+Recall how we define the <a href="/academic-tags/minimax-framework#significance-level-and-risk-function" class="custom-link-3">risk function</a> for a testing $T$ under simple hypotheses. This definition can be naturally extended to the case of composite hypotheses by our understanding of <a href="/academic-tags/minimax-framework#minimax-risk" class="custom-link-3">minimax risk</a>. For a testing function $T$ and the parameter spaces $\varTheta _{0}$ and $\varTheta _{1}$ under $H _{0}$ and $H _{1}$ respectively, we can define the risk function as
+\\[
+  R _{m}(T)=\sup\limits _{\theta \in \varTheta }R(\theta ,T)=\sup\limits _{\theta \in \varTheta _{0}}\mathbb{P} _{\theta }(T(X)=1)+\sup\limits _{\theta \in \varTheta _{1}}\mathbb{P} _{\theta }(T(X)=0).
+\\]
+I.e., we consider the worst case Type I and Type II errors over $\varTheta _{0}$ and $\varTheta _{1}$. However, if we do not impose any additional condition on $\varTheta _{0}$ and $\varTheta _{1}$, such minimax risk is not useful. Specifically, if we naively let $\varTheta _{1}=\varTheta \backslash \varTheta _{0}$ for some null $\varTheta _{0}$ and the whole space $\varTheta$, we will usually find that the minimax risk is always $1$, irrelevant with the testing function $T$. The reason is that the distance between $\varTheta _{0}$ and $\varTheta _{1}$ can be arbitrarily small, which means that the alternative can be as close to the null as possible, and hence leading to very bad worst-case performance.
+
+<div class="example" style="">
+  <p>Imagine it is the year 3026, and the global population has reached a staggering 1 trillion. Now, consider a magical hypothetical machine that takes a person and an event as inputs. It can perfectly simulate how the scenario would unfold for that specific person, all while maintaining absolute privacy with zero leakage of their true identity. You, my best friend, are tasked with finding a needle in a haystack: recognizing me among the other 1 trillion people. Your only tool is to feed candidates into this machine and observe the simulated outcomes. Could you design a foolproof strategy to identify me in the worst-case scenario?</p>
+
+  <p>The harsh reality is: no. No matter how brilliantly you craft the test event, a population of 1 trillion guarantees the existence of my "behavioral twin"—someone whose life experiences are so remarkably similar to mine on that specific event that they would react indistinguishably. Faced with the machine's identical outputs, you would be utterly confused, rendering your prediction no better than a random coin flip.</p>
+
+  <p>But the game changes entirely if we introduce a constraint. If you possess the prior knowledge that the candidate belongs to a very narrow subgroup—say, PhD students at Northwestern University—you could easily formulate an effective strategy to filter me out. Ultimately, this thought experiment captures the absolute essence of why prior knowledge of on the parameter spaces $\varTheta _{0}$ and $\varTheta _{1}$ can facilitate the testing!</p>
+</div>
+
+Suppose there exists a distance function $d(\cdot ,\cdot )$ defined on $\varTheta $ such that $\varTheta _{1}$ is defined as all the points that are at least $\epsilon $ away from $\varTheta _{0}$: $\varTheta _{1}:=\varTheta _{1}(\epsilon )=\left\\{\theta \in \varTheta : d(\theta ,\varTheta _{0})\ge \epsilon \right\\}$. In this way, the risk function of $T$ is
+\\[
+  R _{m}(T)=\sup\limits _{\theta \in \varTheta _{0}}\mathbb{P} _{\theta }(T(X)=1)+\sup\limits _{\theta \in \varTheta _{1}(\epsilon )}\mathbb{P} _{\theta }(T(X)=0).
+\\]
+For a fixed error tolerance $\alpha $, we are interested in the smallest $\epsilon $ such that there exists a testing function $T$ with $R _{m}(T)\le \alpha $:
+\\[
+  \epsilon ^{\star }=\inf\limits _{}\left\\{\epsilon >0:\inf\limits _{T}R _{\epsilon }(T)\le \alpha \right\\}.
+\\]
+A test $T$ is called <em >minimax rate optimal</em> if $R _{\epsilon ^{\star }}(T)\le \alpha $. 
+
+In general, it is very difficult to find the exact value of $\epsilon ^{\star }$. Therefore, people are usually satisfied with finding a lower bound and upper bound of $\epsilon ^{\star }$ up to a constant or logarithmic factors.
+
+We can also adopt the <a href="/academic-tags/minimax-framework#neyman-pearson-framework" class="custom-link-3">Neyman-Pearson framework</a> to restrict our attention to the set of level $\alpha $ tests:
+\\[
+    \mathbb{T} _{\alpha }:=\left\\{T :\sup\limits _{\theta \in \Theta _{0}}\mathbb{P} _{\theta }(T(X)=1)\le \alpha \right\\}.
+\\]
+Then compute the minimax risk function 
+\\[
+    R _{\epsilon ,\alpha }(\phi ):=\sup\limits _{\theta \in \Theta _{1}(\epsilon )}\mathbb{P} _{\theta }(T(X)=0).
+\\]
+The critical radius is defined similarly:
+\\[
+    \epsilon ^{\star }:=\inf\limits _{}\left\\{\epsilon >0:\inf\limits _{T \in \mathbb{T} _{\alpha }}R _{\epsilon ,\alpha }(T)\le \alpha \right\\}.
+\\]
+
+How to find such testing function $T$? The following lemmas provide us some sufficient conditions.
+
+<div class="lemma" style="">
+  Consider a test $T$ that rejects $H _{0}$ if $T(X)>t _{\alpha }$. If $t _{\alpha }\ge \mathbb{E}_{\theta }(T)+\sqrt{\frac{1}{\alpha }\text{Var}\left(T\right)}, \forall \theta \in \Theta _{0}$, then the Type I error is bounded above by $\alpha $ uniformly over $\Theta _{0}$:
+    \begin{equation*}
+      \sup\limits_{\theta \in \Theta _{0}}\mathbb{P}_{\theta }(T(X)>t _{\alpha })\le \alpha .
+    \end{equation*}
+</div>
+
+<div class="lemma" style="">
+  Suppose we reject $H _{0}$ if $T(X)>t _{\alpha }$. Consider a class of alternative distributions $\Theta _{1}$ such that for any $\theta \in \Theta _{1}$:
+  \begin{equation*}
+    \mathbb{E}_{\theta }(T)\ge t _{\alpha }+\sqrt{\frac{1}{\alpha }\text{Var}\left(T\right)},
+  \end{equation*}
+  then the Type II error is bounded above by $\alpha $ uniformly over $\Theta _{1}$:
+  \begin{equation*}
+    \sup\limits_{\theta \in \Theta _{1}}\mathbb{P}_{\theta }(T(X) \le t _{\alpha })\le \alpha .
+  \end{equation*}
+</div>
+
+<div class="proof" style="">
+  Using the definition and Chebyshev's inequality.
+</div>
+
+Let $v _{0}$ be a distribution with $S _{0}:=\text{Support}(v _{0})\subset \Theta _{0}$, and $v _{\epsilon }$ be a distribution with $\text{Support}(v _{\epsilon })\subset \Theta _{1}(\epsilon )$. Let $\mathbb{P} _{\theta \sim v _{0}}=\mathbb{E} _{\theta \sim v _{0}}\mathbb{P} _{\theta }, \mathbb{P} _{\theta \sim v _{\epsilon }}=\mathbb{E} _{\theta \sim v _{\epsilon }}\mathbb{P} _{\theta }$. For any test $T =\mathbf{1} _{A}$ with some event $A \in \mathcal{F}$, we have:
+<div class="" style="">
+  \begin{equation*}
+    \begin{aligned}
+        \sup\limits_{\theta \in \Theta _{0}}\mathbb{P}_{\theta }(\phi =1)+\sup\limits_{\theta \in \Theta _{1}(\epsilon )}\mathbb{P}_{\theta }(\phi =0)&\ge \mathbb{P}_{\theta \sim v _{0}}(\phi =1)+\mathbb{P}_{\theta \sim v _{\epsilon }}(\phi =0)\\ 
+        &=1-\left(\mathbb{P}_{\theta \sim v _{\epsilon }}(A)-\mathbb{P}_{\theta \sim v _{0}}(A)\right)\\
+        &\ge 1-\sup\limits_{A \in \mathcal{F}}\left|\mathbb{P}_{\theta \sim v _{\epsilon }}(A)-\mathbb{P}_{\theta \sim v _{0}}(A)\right|\\ 
+        &=1-\text{TV}\left(\mathbb{P}_{\theta \sim v _{0}},\mathbb{P}_{\theta \sim v _{\epsilon }}\right)\\ 
+        &\overset{\text{(i)}}{\ge } 1-\frac{1}{2}\left(\displaystyle\int_{}^{}\left(\frac{d \mathbb{P}_{\theta \sim v _{\epsilon }}}{d \mathbb{P}_{\theta \sim v _{0}}}\right)^{2}d \mathbb{P}_{\theta \sim v _{0}}-1\right)^{\frac{1}{2}}\\ 
+        &=1-\frac{1}{2}\sqrt{\chi ^{2}(\mathbb{P}_{\theta \sim v _{0}},\mathbb{P}_{\theta \sim v _{\epsilon }})},
+    \end{aligned}
+\end{equation*}
+</div>
+where (i) is assuming $\mathbb{P} _{\theta \sim v _{\epsilon }}\ll \mathbb{P} _{\theta \sim v _{0}}$ with densities $\frac{d \mathbb{P} _{\theta \sim v _{\epsilon }}}{d \mathbb{P} _{\theta \sim v _{0}}}$ and follows from the following argument:
+<div class="" style="">
+\begin{equation*}
+    \begin{aligned}
+      \text{TV}(\mathbb{P},\mathbb{Q})&=\frac{1}{2}\displaystyle\int_{}^{}\left|\frac{d \mathbb{P}}{d\mu }-\frac{d \mathbb{Q}}{d\mu }\right|d\mu \\ 
+      &\overset{\text{(ii)}}{\le } \frac{1}{2}\left(\displaystyle\int_{}^{}\left|\frac{d \mathbb{P}}{d\mu }-\frac{d \mathbb{Q}}{d\mu }\right|^{2}d\mu \right)^{\frac{1}{2}}\\ 
+      &=\frac{1}{2}\sqrt{\displaystyle\int_{}^{}\frac{\left(d \mathbb{P}/d\mu \right)^{2}}{\left(d \mathbb{Q}/d\mu \right)^{2}}\frac{d \mathbb{Q}}{d\mu }d\mu -1},
+    \end{aligned}
+\end{equation*}
+</div>
+where again (ii) is from the Jensen's inequality.
+
+Recall we defined:
+<div class="" style="">
+  \begin{equation*}
+    \epsilon ^{\star }:=\inf\limits_{}\left\{\epsilon >0:\inf\limits_{T \in \mathbb{T} _{\alpha }}R _{\epsilon ,\alpha }(T)\le \alpha \right\}.
+\end{equation*}
+</div>
+We have:
+<div class="" style="">
+  \begin{equation*}
+    \begin{aligned}
+        R _{\epsilon ,\alpha }(T)=\sup\limits_{\theta  \in \Theta _{1}(\epsilon )}\mathbb{P}_{\theta }(T=0)&\ge \mathbb{P}_{\theta \sim v _{0}}(T=0)+\mathbb{P}_{\theta \sim v _{\epsilon }}(T=0)-\mathbb{P}_{\theta \sim v _{0}}(T=0)\\ 
+        &\ge 1-\alpha-\text{TV}\left(\mathbb{P}_{\theta \sim v _{0}},\mathbb{P}_{\theta \sim v _{\epsilon }}\right)\\ 
+        &\ge 1-\alpha -\frac{1}{2}\sqrt{\chi ^{2}(\mathbb{P}_{\theta \sim v _{0}},\mathbb{P}_{\theta \sim v _{\epsilon }})}.
+    \end{aligned}
+\end{equation*}
+</div>
+
+<div class="example" style="">
+(Gaussian sequence model). Assume $\sigma>0$ is known. Let $d \in \mathbb{N},\sigma >0,\Theta =\mathbb{R}^{d},\Theta _{0}=\left\{0\right\},Y \sim \mathbb{P}_{\theta }=\mathcal{N}(0,\sigma ^{2}\mathbf{I}_{d}),\rho _{\Theta _{0}}(\theta )=\left\lVert \theta \right\rVert_{2}^{}=\sqrt{\sum\limits_{i=1}^{d}\theta _{i}^{2}}$. The hypotheses are: $H _{0}:\theta =0 \text{ vs } H _{1}:\left\lVert \theta \right\rVert_{2}^{}\ge \epsilon $. Let $T(Y)=\left\lVert Y\right\rVert_{2}^{2}=\sum\limits_{i=1}^{d}Y _{i}^{2}$. Then:
+\begin{equation*}
+    \begin{aligned}
+        &\mathbb{E}T(Y)=\mathbb{E}\sum\limits_{i=1}^{d}Y _{i}^{2}=\sum\limits_{i=1}^{d}(Y _{i}-\mathbb{E}Y _{i}+\mathbb{E}Y _{i})^{2}=\left\lVert \theta \right\rVert_{2}^{2}+d \sigma ^{2},\\ 
+        &\text{Var}\left(T\right)=\sum\limits_{i=1}^{d}\text{Var}\left(Y _{i}^{2}\right)=2d \sigma ^{4}+4 \sigma ^{2}\left\lVert \theta \right\rVert_{2}^{2}.
+    \end{aligned}
+\end{equation*}
+<b>Upper bound</b>. Use $\mathbb{E}_{0}, \text{Var}_{0}$ to denote the expectation and variance  under $H _{0}$; and $\mathbb{E}_{1},\text{Var}_{1}$ under $H _{1}$. The test $T$ rejects the null hypothesis if 
+\begin{equation*}
+    T \ge \underbrace{\mathbb{E}_{0}T+\sqrt{\frac{1}{\alpha }\text{Var}_{0}\left(T\right)}}_{t _{\alpha }}=\sigma ^{2}d+\sqrt{2 \alpha ^{-1}\sigma ^{4}d}.
+\end{equation*}
+By the lemma above, the Type I error of $T$ is below $\alpha $ uniformly. The Type II error is also below $\alpha $ if:
+\begin{equation*}
+    \mathbb{E}_{1}T\ge t _{\alpha }+\sqrt{\frac{1}{\alpha }\text{Var}_{1}\left(T\right)}=\sigma ^{2}d+\sqrt{2 \alpha ^{-1}\sigma ^{4}d}+\sqrt{\alpha ^{-1}\left(4 \left\lVert \theta \right\rVert_{2}^{2}\sigma ^{2}+2 \sigma ^{4}d\right)}.
+\end{equation*}
+Therefore, we require:
+\begin{equation*}
+    \begin{aligned}
+        & \left\lVert \theta \right\rVert_{2}^{2}+\sigma ^{2}d \ge \sigma ^{2}d+\sqrt{2 \alpha ^{-1}\sigma ^{4}d}+\sqrt{\alpha ^{-1}\left(4 \left\lVert \theta \right\rVert_{2}^{2}\sigma ^{2}+2 \sigma ^{4}d\right)},\\
+        \Rightarrow &\left\lVert \theta \right\rVert_{2}^{}\gtrsim \sigma d ^{\frac{1}{4}}.
+    \end{aligned}
+\end{equation*}
+Hence, by the definition of $\epsilon ^{\star}$, we have:
+\begin{equation*}
+    \epsilon ^{\star }\lesssim \sigma d ^{\frac{1}{4}}.
+\end{equation*}
+<b>Remark.</b> We only have 1 observation in the example above, what if we have $n$ observation? Since $\frac{\sum\limits_{i=1}^{n}Y _{i}}{n}$ is the sufficient statistic for $\theta $, we reasonly consider $T(Y)=\left\lVert \frac{\sum\limits_{i=1}^{n}Y _{i}}{n}\right\rVert_{2}^{2}$. The same argument leads to:
+\begin{equation*}
+    \epsilon ^{\star }\lesssim \frac{\sigma }{\sqrt{n}}d ^{\frac{1}{4}}.
+\end{equation*}
+
+<b>Lower bound.</b> Let $v _{0}$ be a Dirac mass at 0, and $v _{\epsilon }$ be uniform on $\mathcal{P}_{h}=h \times \left\{-1,1\right\}^{d}$ with $h=\frac{\epsilon }{\sqrt{d}}$. For any point $\mathbb{P}_{h}\in \mathcal{P}_{h}$, $\left\lVert \mathbb{P}_{h}\right\rVert_{2}^{2}=\epsilon ^{2} \Rightarrow \mathbb{P}_{h}\in \Theta _{1}(\epsilon )$. Recall $\text{cosh}=\frac{e ^{x}+e ^{-x}}{2}$, and
+\begin{equation*}
+    \begin{aligned}
+        & d \mathbb{P}_{v _{0}}=\frac{1}{(2\pi \sigma ^{2})^{\frac{d}{2}}}\prod\limits_{i=1}^{d} e ^{-\frac{y _{i}^{2}}{2\sigma ^{2}}}dy,\\
+        & \begin{aligned}
+            d \mathbb{P}_{v _{\epsilon }}&=\frac{1}{2 ^{d}}\sum\limits_{v _{1},\dots,v _{d}\in \left\{-1,1\right\}}^{}\frac{1}{(2\pi \sigma ^{2})^{\frac{d}{2}}}\prod\limits_{i=1}^{d}e ^{-\frac{1}{2 \sigma ^{2}}(y _{i}-hv _{i})^{2}}dy\\ 
+            &=\frac{1}{(2\pi \sigma ^{2})^{\frac{d}{2}}}\prod\limits_{i=1}^{d}\exp\left\{-\frac{y _{i}^{2}+h ^{2}}{2 \sigma ^{2}}\right\}\cosh \left(\frac{hy _{i}}{\sigma ^{2}}\right)\\ 
+            &=\frac{1}{(2\pi \sigma ^{2})^{\frac{d}{2}}}\exp\left\{-\frac{dh ^{2}}{2 \sigma ^{2}}\right\}\prod\limits_{i=1}^{d}\exp\left\{-\frac{y _{i}^{2}}{2 \sigma ^{2}}\right\}\cosh \left(\frac{hy _{i}}{\sigma ^{2}}\right).
+        \end{aligned}
+    \end{aligned}
+\end{equation*}
+To calculate the $\chi ^{2}$-divergence, we need to compute $\frac{\left(d \mathbb{P}_{v _{\epsilon }}\right)^{2}}{d \mathbb{P}_{v _{0}}}$:
+\begin{equation*}
+    \begin{aligned}
+        \displaystyle\int_{\mathbb{R}^{d}}^{}\frac{\left(d \mathbb{P}_{v _{\epsilon }}\right)^{2}}{d \mathbb{P}_{v _{0}}}dy _{1}\dots dy _{d}&=\exp\left\{-\frac{dh ^{2}}{\sigma ^{2}}\right\}\left\{\displaystyle\int_{\mathbb{R}}^{}\cosh ^{2}\left(\frac{hy}{\sigma ^{2}}\right)\frac{1}{\sqrt{2\pi \sigma ^{2}}}\exp\left\{-\frac{y ^{2}}{2 \sigma ^{2}}\right\}dy\right\}^{d}\\ 
+        &=\exp\left\{-\frac{dh ^{2}}{\sigma ^{2}}\right\}\left[\mathbb{E}_{\mathcal{N}(0,\sigma ^{2})}\left(\cosh ^{2}\left(\frac{hY}{\sigma ^{2}}\right)\right)\right]^{d}\\
+        &=\exp\left\{-\frac{dh ^{2}}{\sigma ^{2}}\right\}\left[\mathbb{E}_{\mathcal{N}(0,\sigma ^{2})}\left(\frac{\exp\left\{\frac{2hY}{\sigma ^{2}}\right\}+\exp\left\{-\frac{2hY}{\sigma ^{2}}\right\}+2}{4}\right)\right]^{d}\\ 
+        &=\frac{1}{2}\exp\left\{-\frac{dh ^{2}}{\sigma ^{2}}\right\}\left[\left(\exp\left\{\frac{2h ^{2}}{\sigma ^{2}}\right\}+1\right)\right]^{d}\\
+        &=\frac{1}{2}\exp\left\{-\frac{dh ^{2}}{\sigma ^{2}}\right\}\exp\left\{\frac{dh ^{2}}{\sigma ^{2}}\right\}\left(\cosh \left(\frac{h ^{2}}{\sigma ^{2}}\right)\right)^{d}\\
+        &=\left(\cosh \left(\frac{h ^{2}}{\sigma ^{2}}\right)\right)^{d}.
+    \end{aligned}
+\end{equation*}
+With the inequality $\cosh (x)\le e ^{\frac{x ^{2}}{2}}$, we have:
+\begin{equation*}
+        \displaystyle\int_{\mathbb{R}^{d}}^{}\frac{\left(d \mathbb{P}_{v _{\epsilon }}\right)^{2}}{d \mathbb{P}_{v _{0}}}dy _{1}\dots dy _{d}\le \exp\left\{\frac{h ^{4}d}{2\sigma ^{4}}\right\}.
+\end{equation*}
+Therefore, we have $\chi ^{2}\left(\mathbb{P}_{v _{0}},\mathbb{P}_{v _{\epsilon }}\right)\le \exp\left\{\frac{h ^{4}d}{2 \sigma ^{4}}\right\}-1$ and consequently 
+\begin{equation*}
+    R _{\epsilon ,\alpha }(\phi )\ge 1-\alpha -\frac{1}{2}\sqrt{\exp\left\{\frac{h ^{4}d}{2 \sigma ^{4}}\right\}-1}=1-\alpha -\frac{1}{2}\sqrt{\exp\left\{\frac{\epsilon ^{4}}{2d \sigma ^{4}}\right\}}.
+\end{equation*}
+If $\epsilon \lesssim \sigma d ^{\frac{1}{4}}$, then we know $R _{\epsilon ,\alpha }(T)\ge \alpha $. Therefore, we conclude that 
+\begin{equation*}
+    \epsilon ^{\star }\gtrsim \sigma d ^{\frac{1}{4}}.
+\end{equation*}
+Combine the lower bound with the upper bound, we come to the famous minimax rate for testing in the Gaussian sequence model:
+\begin{equation*}
+    \epsilon ^{\star }\asymp \sigma d ^{\frac{1}{4}}.
+\end{equation*}
+
+<b>Remark.</b> For the general setting where $H _{0}:\theta =0$ vs $H _{1}:\left\lVert \theta \right\rVert_{p}^{}\ge \epsilon ,p>0$, the minimax rate for $\epsilon $ is:
+\begin{equation*}
+    \epsilon ^{\star }\asymp \left\{
+    \begin{aligned}
+         & \sigma d ^{\frac{1}{p}-\frac{1}{4}}, (0<p<2), \\
+         & \sigma d ^{\frac{1}{4}},(p=2),\\
+         & \sigma d ^{\frac{1}{2p}}, (2<p<\infty ).
+    \end{aligned}
+    \right.
+\end{equation*}
 </div>

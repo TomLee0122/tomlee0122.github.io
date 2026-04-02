@@ -22,9 +22,9 @@ classes: homepage
 学习和研究之余，我还有广泛的兴趣爱好。在业余时间，我喜欢旅游（见我的<a href="/personal-tags/" class="custom-link-3">个人博客</a>！）、打羽毛球和阅读。此外，我是一名业余三段的<a href="https://zh.wikipedia.org/wiki/%E5%9B%B4%E6%A3%8B" class="custom-link-3">围棋</a>选手。我同时还热衷于 Minecraft 和 Counter-Strike 2. 如果你也对这些话题感兴趣，欢迎随时与我畅谈！
 </p>
 
-<p>
+<!-- <p>
 你可以在<a href="/assets/pdf/Resume_EN.pdf" class="custom-link-3">这里</a>找到我的个人简历。
-</p>
+</p> -->
 
 <p>
   <b>附：</b>网页中的个人资料卡片的背景图是我仿照<a href="https://en.wikipedia.org/wiki/Piet_Mondrian" class="custom-link-3">蒙德里安</a>的风格设计的 :).
