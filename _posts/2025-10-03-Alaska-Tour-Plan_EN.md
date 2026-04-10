@@ -27,12 +27,12 @@ related: false
 read_time: false
 last_modified_at: 2025-10-04
 toc: true
-permalink: /tags/travel/Alaska-Tour-Plan_EN
+permalink: /personal-tags/Alaska-Tour-Plan_EN
 ---
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
 
-<b>这篇 blog 的<a href="/tags/travel/Alaska-Tour-Plan" class="custom-link-3">中文版本</a>。</b>
+<b>这篇 blog 的<a href="/personal-tags/Alaska-Tour-Plan" class="custom-link-3">中文版本</a>。</b>
 
 # <span style="color: #8E403A;">Foreword</span>
 
