@@ -26,12 +26,12 @@ read_time: false
 last_modified_at: 2025-09-11
 toc: true
 toc_label: '目录 (Table of Contents)'
-permalink: /tags/travel/Alaska-Tour-Plan
+permalink: /personal-tags/Alaska-Tour-Plan
 ---
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
 
-<b><a href="/tags/travel/Alaska-Tour-Plan_EN" class="custom-link-3">English version</a> of the blog.</b>
+<b><a href="/personal-tags/Alaska-Tour-Plan_EN" class="custom-link-3">English version</a> of the blog.</b>
 
 # <span style="color: #8E403A;">前言</span>
 

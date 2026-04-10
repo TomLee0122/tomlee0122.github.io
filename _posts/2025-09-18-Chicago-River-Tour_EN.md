@@ -27,12 +27,12 @@ related: false
 read_time: false
 last_modified_at: 2025-09-19
 toc: true
-permalink: /tags/travel/chicago-river-tour_EN
+permalink: /personal-tags/travel/chicago-river-tour_EN
 ---
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>
 
-<b>这篇 blog 的<a href="/tags/travel/chicago-river-tour" class="custom-link-3">中文版本</a>。</b>
+<b>这篇 blog 的<a href="/personal-tags/chicago-river-tour" class="custom-link-3">中文版本</a>。</b>
 
 <span style="font-family: 'Lucida Handwriting';font-size:1.5em;color: #0AAD4E">The Beauty of Chicago: series 1.</span>
 
