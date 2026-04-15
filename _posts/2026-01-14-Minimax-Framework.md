@@ -337,9 +337,9 @@ I.e., $T$ has smaller Type II error than $T ^{\prime}$ for any $\theta > \theta 
 
 <span class="small-text" style="color: gray;">There is a symmetric version of the theorem above about the testing problem $H _{0}:\theta \ge \theta _{0}$ and $H _{1}:\theta < \theta _{0}$, can you think of it? Which conditions do you require?</span>
 
-## Minimax Framework
+# <span style="color: #8E403A;">Minimax Framework</span>
 
-### Minimax Risk
+## Minimax Risk
 
 We just discussed the Bayes risk, where the risk on a single parameter is averaged based on the prior $\pi(\theta )$. However, the Bayes risk is not the only way to evaluate a decision rule (can be a testing function, an estimator, etc). When we care more about the <b>worst case scenario</b>, or the prior is not easily available, we can consider the <em>minimax risk</em>. Consider the worst case risk of $T$ over the parameter space $\varTheta $:
 \\[
@@ -358,7 +358,7 @@ $$
 
 $T^{\star }$ is very cool since he can confidently say "for any other decision rule, it must be at least worse than me in some cases!".
 
-### Minimax Framework for Estimation
+## Minimax Framework for Estimation
 
 In this section, let's assume that $T$ is an estimator for $f(\theta )$. Before we continue the analysis, let's first introduce the concepts of $\delta $-cover and $\delta $-packing.
 
@@ -442,7 +442,7 @@ where $H(\cdot ,\cdot )$ is the <a href="https://en.wikipedia.org/wiki/Hellinger
 Now setting $\epsilon =\frac{1}{2 \sqrt{n}}$ completes the proof.
 </div>
 
-### Minimax Framework for Testing
+## Minimax Framework for Testing
 
 Recall how we define the <a href="/academic-tags/minimax-framework#significance-level-and-risk-function" class="custom-link-3">risk function</a> for a testing $T$ under simple hypotheses. This definition can be naturally extended to the case of composite hypotheses by our understanding of <a href="/academic-tags/minimax-framework#minimax-risk" class="custom-link-3">minimax risk</a>. For a testing function $T$ and the parameter spaces $\varTheta _{0}$ and $\varTheta _{1}$ under $H _{0}$ and $H _{1}$ respectively, we can define the risk function as
 \\[
