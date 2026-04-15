@@ -11,7 +11,7 @@ classes: homepage
 <div class="profile-wrapper">
   <img src="/assets/images/selfie.jpg" alt="My Photo" class="profile-pic">
 <p>
-你好，我是李翊昆（Lǐ Yì Kūn），欢迎来到我的个人网站！我目前是<a href="https://statistics.northwestern.edu/" class="custom-link-3">西北大学统计与数据科学系</a>的三年级博士生，导师是 <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>。我的研究兴趣包括假设检验，极小极大理论，统计中的优化方法以及机器学习理论。你可以在<a href="/research-tags/" class="custom-link-3">这里</a>了解我最近的研究工作。
+你好，我是李翊昆（Lǐ Yì Kūn），欢迎来到我的个人网站！我目前是<a href="https://statistics.northwestern.edu/" class="custom-link-3">西北大学统计与数据科学系</a>的三年级博士生，导师是 <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>。我的研究兴趣包括极小极大理论，假设检验，统计中的优化方法以及机器学习理论。你可以在<a href="/research-tags/" class="custom-link-3">这里</a>了解我最近的研究工作。
 </p>
 
 <p>
