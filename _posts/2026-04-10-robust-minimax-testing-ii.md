@@ -77,3 +77,5 @@ Robust statistical inference often faces a severe computational-statistical gap 
 # <span style="color: #8E403A;">Availability</span>
 
 You can find the up-to-date preprint PDF file of this work <a href="/assets/pdf/Research/robust-minimax-testing-ii/main_arXiv.pdf" class="custom-link-3">here</a>.
+
+<button id="back-to-top" title="Back to top">↑</button>
