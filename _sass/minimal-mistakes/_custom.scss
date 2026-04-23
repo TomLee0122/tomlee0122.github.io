@@ -203,3 +203,85 @@ body.dark-mode .proof {
 body.dark-mode .proof::after {
   color: $my_dark_gray_light;
 }
+
+/* ==========================================
+   Problem (问题/模型设定) 样式盒
+   ========================================== */
+.problem {
+  display: block;
+  margin: 1.5em 0;
+  padding: 0.5em 0.5em 0.2em 0.5em;
+  border: 2px solid $my_gray;
+  border-radius: 4px;
+  background-color: $my_gray_white;
+  font-style: normal; /* 遵循 LaTeX 规范，Problem 正文使用常规字体，不倾斜 */
+}
+
+/* 标题样式 */
+.problem::before {
+  content: "Problem. ";
+  font-weight: bold;
+  font-style: normal;
+}
+
+body.dark-mode .problem {
+  background-color: $my_dark_gray;
+  border-color: $my_dark_gray_light;
+}
+
+/* 缩小 problem 内部所有段落的底部间距 */
+.problem p {
+  margin-bottom: 0.5em; 
+}
+
+/* 关键细节：移除盒子内最后一个段落的底部间距 */
+.problem p:last-child {
+  margin-bottom: 0; 
+}
+
+/* ==========================================
+   Solution (解答) 样式盒
+   ========================================== */
+.solution {
+  display: flow-root; 
+  margin: 1.5em 0;
+  padding: 0.5em 0.5em 0.5em 1em; 
+  border-left: 3px solid $my_gray; /* 沿用 proof 的左边框设计，保持视觉统一 */
+  background-color: transparent; 
+  font-style: normal; 
+}
+
+body.dark-mode .solution {
+  border-left-color: $my_dark_gray_light;
+}
+
+/* 标题样式 */
+.solution::before {
+  content: "Solution. ";
+  font-weight: bold;
+  font-style: italic; /* 与 Proof 保持一致，使用斜体标题 */
+}
+
+/* 自动添加解答完毕符号 */
+.solution::after {
+  content: "\25C4"; /* 使用向左的黑三角 ◄ (\25C4)，以区别于 proof 的黑方块 ∎ */
+  /* 如果你想和 proof 保持完全一致，也可以改回 "\220E" */
+  float: right;     
+  color: $my_gray;
+  margin-left: 1em;
+  margin-top: 0.2em;
+}
+
+body.dark-mode .solution::after {
+  color: $my_dark_gray_light;
+}
+
+/* 缩小 solution 内部所有段落的底部间距 */
+.solution p {
+  margin-bottom: 0.5em; 
+}
+
+/* 关键细节：移除盒子内最后一个段落的底部间距 */
+.solution p:last-child {
+  margin-bottom: 0; 
+}

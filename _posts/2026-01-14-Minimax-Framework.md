@@ -631,3 +631,5 @@ Combine the lower bound with the upper bound, we come to the famous minimax rate
     \right.
 \end{equation*}
 </div>
+
+<button id="back-to-top" title="Back to top">↑</button>
