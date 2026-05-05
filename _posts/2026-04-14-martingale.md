@@ -72,7 +72,7 @@ permalink: /academic-tags/ce_martingale
 
 设 $f$ 是概率空间 $(\Omega ,\mathscr{F},\mu )$ 上的实值随机变量，$\mathscr{G}$ 是一个子 $\sigma$-代数。称二元函数 $F _{f|\mathscr{G}}(\cdot ,\cdot ):(\Omega ,\mathbb{R})\rightarrow \mathbb{R}$ 为 $f$ 关于 $\mathscr{G}$ 的正则条件分布函数，如果它满足：<br>
 (1). 对每个 $\omega \in \Omega$, $F _{\mathscr{G}}(\omega ,\cdot )$ 是一个分布函数。<br>
-(2). 对每个 $A \in \mathcal{B} _{\mathbb{R}}$, $F _{\mathscr{G}}(\cdot ,A)$ 是事件 $\left\\{f \in A\right\\}$ 关于 $\mathscr{G}$ 的条件概率。
+(2). 对每个 $a \in \mathbb{R}$, $F _{\mathscr{G}}(\cdot ,a)$ 是事件 $\left\\{f \le a\right\\}$ 关于 $\mathscr{G}$ 的条件概率。
 
 由于 $\sigma (f)=f ^{-1}(\mathcal{B} _{\mathbb{R}})\subset \mathscr{F}$, 正则条件分布函数的定义其实弱化了正则条件概率的定义。下面的定理保证了对于实值随机变量 $f$ 的正则条件分布函数的存在性：
 
@@ -104,20 +104,59 @@ permalink: /academic-tags/ce_martingale
     \end{aligned}
     \right.
 \end{equation*}
-下面证明 $F _{\mathscr{G}}(\cdot ,\cdot )$ 是 $f$ 关于 $\mathscr{G}$ 的一个正则条件分布函数。</p>
+容易验证，上述定义出的 $F _{f|\mathscr{G}}(\cdot ,\cdot )$ 是一个正则条件分布函数。</p>
+</div>
 
-<p>易知对于任意的 $\omega \in \Omega $, $F _{\mathscr{G}}(\omega ,\cdot )$ 是一个分布函数。下面验证对于任意的 $A \in \mathcal{B} _{\mathbb{R}}$, $F _{\mathscr{G}}(\cdot ,A)$ 是事件 $\left\{f \in A\right\}$ 关于 $\mathscr{G}$ 的条件概率。</p>
+由 Caratheodory 测度扩张定理可知（当前情况是一个特殊的推论），任何定义在 $\mathbb{R}$ 上的分布函数都可以唯一扩张为 $(\mathbb{R},\mathcal{B} _{\mathbb{R}})$ 上的一个概率测度。由此，我们可以得到下述有关正则条件分布的存在性定理。
 
-<p>首先，对于任意的 $A=\left(-\infty ,a\right]$, 由定义我们有 $F _{\mathscr{G}}(\cdot ,A)$ 关于 $\mathscr{G}$ 是可测的。记 $m _{\mathscr{G}}:=\left\{A:A \in \mathcal{B}_{\mathbb{R}},F _{\mathscr{G}}(\cdot ,A) \text{ 是 } \mathscr{G} \text{ 可测的}\right\}$, 则可以验证 $m _{\mathscr{G}}$ 是一个包含了 $\pi $-系 $\left\{(-\infty ,a]:a \in \mathbb{R}\right\}$ 的 $\lambda$-系, 由 $\pi$-$\lambda$ 定理可知 $\mathcal{B} _{\mathbb{R}} \subset \mathscr{G}$. 即对于任意 $A \in \mathcal{B}_{\mathbb{R}}$, $F _{\mathscr{G}}(A,\cdot )$ 是 $\mathscr{G}$ 可测的。</p>
+<div class="theorem" style="">
+  设 $F _{f|\mathscr{G}}(\cdot ,\cdot )$ 是随机变量 $f$ 关于子 $\sigma$-代数 $\mathscr{G}$ 的一个正则条件分布函数。对每个 $\omega \in \Omega $, 记 $\mu _{f|\mathscr{G}}(x,\cdot )$ 为 $F _{f|\mathscr{G}}(\omega ,\cdot )$ 唯一扩张的概率测度。则二元函数
+\begin{equation*}
+    \mu _{f|\mathscr{G}}=\mu _{f|\mathscr{G}}(\omega ,A):\left(\Omega \times \mathcal{B} _{\mathbb{R}}\right)\rightarrow \mathbb{R}
+\end{equation*}
+是 $f$ 关于 $\mathscr{G}$ 的一个正则条件分布，满足：<br>
+
+(1). 对于任意的 $\omega \in \Omega $, $\mu _{f|\mathscr{G}}(\omega ,\cdot )$ 是 $\mathcal{B} _{\mathbb{R}}$ 上的一个概率测度；<br>
+
+(2). 对于任意的 $A \in \mathcal{B} _{\mathbb{R}}$, $\mu _{f|\mathscr{G}}(\cdot ,A)$ 是 $\left\{\omega \left\lvert\right. f(\omega )\in A\right\}$ 关于 $\mathscr{G}$ 的条件概率，即有 $\displaystyle\int _{G}^{}\mu _{f|\mathscr{G}}(\omega ,A)d \mathbb{P}(\omega )=\mathbb{E}\left[\mathbf{1}_{\left\{f \in A\right\}}\cdot \mathbf{1}_{\left\{G\right\}}\right]$ 对任意的 $G \in \mathscr{G}$ 成立。
+</div>
+
+<div class="proof" style="">
+
+<p>对于任意 $A \in \mathcal{B} _{\mathbb{R}}$, 定义
+\begin{equation*}
+    \mu _{f \left\lvert\right. \mathscr{G}}(\omega ,A):=\mathbb{P}\left(\left\{f \in A\right\}\left\lvert\right. \mathscr{G}\right)(\omega )
+\end{equation*}</p>
+
+<p>由上述正则条件分布函数的存在性定理与 Caratheodory 测度扩张定理，我们知 (1) 成立。下面验证对于任意的 $A \in \mathcal{B} _{\mathbb{R}}$, $\mu _{f|\mathscr{G}}(\cdot ,A)$ 是事件 $\left\{f \in A\right\}$ 关于 $\mathscr{G}$ 的条件概率。</p>
+
+<p>首先，对于任意的 $A=\left(-\infty ,a\right]$, 由上一个定理，我们有 $\mu _{f|\mathscr{G}}(\cdot ,A)$ 关于 $\mathscr{G}$ 是可测的。记 $m _{\mathscr{G}}:=\left\{A:A \in \mathcal{B}_{\mathbb{R}},\mu _{f|\mathscr{G}}(\cdot ,A) \text{ 是 } \mathscr{G} \text{ 可测的}\right\}$, 则可以验证 $m _{\mathscr{G}}$ 是一个包含了 $\pi $-系 $\left\{(-\infty ,a]:a \in \mathbb{R}\right\}$ 的 $\lambda$-系, 由 $\pi$-$\lambda$ 定理可知 $\mathcal{B} _{\mathbb{R}} \subset \mathscr{G}$. 即对于任意 $A \in \mathcal{B}_{\mathbb{R}}$, $\mu _{f|\mathscr{G}}(\cdot ,A)$ 是 $\mathscr{G}$ 可测的。</p>
 
 <p>其次，对于任意固定的 $G \in \mathscr{G}$, 记
 \begin{equation*}
-    c _{G}:=\left\{A:A \in \mathcal{B}_{\mathbb{R}},\displaystyle\int _{G}^{}F(A,\omega )d \mathbb{P}(\omega )=\mathbb{E}\left[\mathbf{1}_{\left\{f \in A\right\}}\cdot \mathbf{1}_{\left\{G\right\}}\right]\right\}.
+    c _{G}:=\left\{A:A \in \mathcal{B}_{\mathbb{R}},\displaystyle\int _{G}^{}\mu _{f|\mathscr{G}}(A,\omega )d \mathbb{P}(\omega )=\mathbb{E}\left[\mathbf{1}_{\left\{f \in A\right\}}\cdot \mathbf{1}_{\left\{G\right\}}\right]\right\}.
 \end{equation*}
-由 $F _{\mathscr{G}}(\cdot ,\cdot )$ 的定义与条件期望的单调收敛定理知道 $c _{G}$ 是一个包含了 $\pi $-系 $\left\{(-\infty ,a]:a \in \mathbb{R}\right\}$ 的 $\lambda$-系, 由 $\pi$-$\lambda$ 定理可知 $\mathcal{B} _{\mathbb{R}} \subset c _{G}$. 由 $G$ 的任意性，我们知 $F _{\mathscr{G}}(\cdot , A)$ 是 $\left\{f \in A\right\}$ 关于 $\mathscr{G}$ 的条件概率。证毕。</p>
+由 $\mu _{f|\mathscr{G}}(\cdot ,\cdot )$ 的定义与条件期望的单调收敛定理知道 $c _{G}$ 是一个包含了 $\pi $-系 $\left\{(-\infty ,a]:a \in \mathbb{R}\right\}$ 的 $\lambda$-系, 由 $\pi$-$\lambda$ 定理可知 $\mathcal{B} _{\mathbb{R}} \subset c _{G}$. 由 $G$ 的任意性，我们知 $\mu _{f|\mathscr{G}}(\cdot , A)$ 是 $\left\{f \in A\right\}$ 关于 $\mathscr{G}$ 的条件概率。证毕。</p>
 </div>
 
-<b>注：</b>上述定理的证明非常依赖于实数的性质——可数的有理数集是其稠密子集。否则，我们就无法从 $G(\omega, r)$ 良定义出 $F _{\mathscr{G}}(\omega ,\left\\{f \le a\right\\})$ 了。
+<b>注：</b>上述正则条件分布函数与正则条件分布的存在性定理的证明非常依赖于实数的性质——可数的有理数集是其稠密子集。否则，我们就无法从 $G(\omega, r)$ 良定义出 $F _{f\|\mathscr{G}}(\omega ,\left\\{f \le a\right\\})$ 了。
+
+那么，正则条件分布（函数）的存在性有什么用呢？下面的定理说明，如果一个随机变量 $X$ 的正则条件分布（函数）存在，那么我们就可以像计算一般的期望一样计算 $g(X)$ 的条件期望了，其中 $g$ 是任意一个可测函数。
+
+<div class="theorem" style="">
+  设随机变量 $X$ 关于 $\mathscr{G}$ 的一个正则条件分布函数与正则条件分布为 $F _{X|\mathscr{G}}(\cdot ,\cdot )$ $\mu _{X|\mathscr{G}}(\cdot ,\cdot )$, 则对于任意的可测函数 $g$, 我们有：
+\begin{equation*}
+    \mathbb{E}\left[g(X)|\mathscr{G}\right](\omega )=\displaystyle\int _{\mathbb{R}}^{}g(y)F _{X|\mathscr{G}}(\omega ,dy)=\displaystyle\int _{\mathbb{R}}^{}g(y)d\mu _{X|\mathscr{G}}(\omega ,y), a.s.
+\end{equation*}
+特别的，当 $g(x)=x$ 时，我们有：
+\begin{equation*}
+    \mathbb{E}\left[X|\mathscr{G}\right](\omega )=\displaystyle\int _{\mathbb{R}}^{}yF _{X|\mathscr{G}}(\omega ,dy)=\displaystyle\int _{\mathbb{R}}^{}yd\mu _{X|\mathscr{G}}(\omega ,y), a.s.
+\end{equation*}
+</div>
+
+<div class="proof" style="">
+  <p>当 $g=\mathbf{1}_{\left\{(-\infty ,a]\right\}}$ 时，上述等式就是正则条件分布函数与正则条件分布的定义。上述等式显然对于 $g$ 是线性的，因此当 $g$ 是非负简单函数时，定理也成立。对于一般的非负可测函数，我们可以通过使用单调递增的简单函数列与单调收敛定理来验证上述等式的正确性。对于一般的可测函数，我们可以将其分解为正负两部分来验证上述等式的正确性。证毕。</p>
+</div>
 
 # <span style="color: #8E403A;">鞅</span>
 
@@ -173,6 +212,28 @@ permalink: /academic-tags/ce_martingale
 <p style="margin-left: 1em;">(d). 证明 $\left\{Y_{n}\right\}$ 是 $L_{1}$ 有界的当且仅当 $\sum\limits_{k=1}^{\infty }a_{k}<\infty $。</p>
 
 <p style="margin-left: 1em;">(e). 假设此外对于所有 $k \ge 1$，在 $A_{k}$ 上有 $\left|Z_{k}\right|\ge \frac{1}{a_{k}}$。使用维塔利（Vitali）收敛定理，你能推导出什么？</p>
+</div>
+
+<div class="problem" style="">
+  假设 $\left\{X _{n}\right\}$ 是一个具有自然滤波的非负上鞅（sup-MG）。<br>
+
+  <p style="margin-left: 1em;">(a). 证明如果 $\tau $ 是一个停时，那么 $\mathbb{E}X _{0}\ge \mathbb{E}X _{n \wedge \tau }\ge \mathbb{E}\left[X _{\tau }\mathbf{1}_{\left\{\tau \le n\right\}}\right]$。</p>
+
+  <p style="margin-left: 1em;">(b). 推导出如果 $\left\{X _{n}\right\}$ 是一个非负上鞅，那么对于任意的 $x>0$，我们有 
+\begin{equation*}
+    \mathbb{P}\left(\sup\limits _{k}X _{k}\ge x\right)\le \frac{1}{x}\mathbb{E}X _{0}.
+\end{equation*}</p>
+
+  <p style="margin-left: 1em;">(c). 假设 $S _{n}=\sum\limits _{i=1}^{n}\xi _{i}$ 是一个随机游走，满足 $\mathbb{E}\xi _{1}=-\mu $ 且 $\text{Var}\left(\xi _{1}\right)=\sigma ^{2}>0$。令 $\alpha :=\frac{\mu }{\sigma ^{2}+\mu ^{2}}$ 并且 $f(x)=\frac{1}{1+\alpha (z-x)_{+}}$。</p>
+
+  <p style="margin-left: 2em;">(i). 令 $v(x)=\alpha f(x)^{2}\mathbf{1}_{\left\{x<z\right\}}$。证明对于所有的 $x,y \in \mathbb{R}$，都有 $g _{x}(y):=f(x)+v(x)[(y-x)+\alpha (y-x)^{2}]\ge f(y)$。</p>
+
+  <p style="margin-left: 2em;">(ii). 证明 $f(S _{n})=\mathbb{E}\left[g _{S _{n}}(S _{n+1})|S _{k},k \le n\right]$。</p>
+
+  <p style="margin-left: 2em;">(iii). 利用 (b) 中的结果推导出，对于任意的 $z>0$，有
+\begin{equation*}
+    \mathbb{P}\left(\sup\limits _{k}S _{k}\ge z\right)\le \frac{1}{1+\alpha z}.
+\end{equation*}</p>
 </div>
 
 <button id="back-to-top" title="Back to top">↑</button>
