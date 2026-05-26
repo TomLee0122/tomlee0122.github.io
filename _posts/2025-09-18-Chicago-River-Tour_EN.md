@@ -27,7 +27,7 @@ related: false
 read_time: false
 last_modified_at: 2025-09-19
 toc: true
-permalink: /personal-tags/travel/chicago-river-tour_EN
+permalink: /personal-tags/chicago-river-tour_EN
 ---
 
 <script src="{{ '/assets/js/my_script_2.js' | relative_url }}"></script>

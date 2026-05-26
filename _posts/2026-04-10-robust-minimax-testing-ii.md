@@ -31,10 +31,10 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2026-04-10
+last_modified_at: 2026-05-26
 toc: false
 permalink: /research-tags/robust-minimax-testing-ii
-published: false
+# published: false
 ---
 
 # <span style="color: #8E403A;">Authors</span>
@@ -70,7 +70,7 @@ Robust statistical inference often faces a severe computational-statistical gap 
   </div>
 
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">
-    The image illustrating the main technique of the work.
+    The image illustrating the main technique (the ellipsoid method) of the work.
   </figcaption>
 </div>
 

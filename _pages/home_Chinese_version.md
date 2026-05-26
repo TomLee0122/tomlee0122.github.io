@@ -41,7 +41,7 @@ classes: homepage
   <span style="color: #8E403A;">动态</span>
 </h1>
 
-现在还没有什么新鲜的事！
+<b>2026年5月20日：</b>我通过了我的博士开题报告！可以在<a href="/assets/pdf/Research/prospectus/slide.pdf" class="custom-link-3">这里</a>找到我的报告幻灯片。
 
 <!-- <div style="margin-top: 16em;">
   <b>Welcome to my website! The home page is currently under construction but you can explore my blogs by the link at the top of the page.</b>
