@@ -51,8 +51,8 @@ Although the exact origin of the nickname may never be fully confirmed, it was a
 </blockquote>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1.5em;">The skyline of Chicago, captured from the Willis Tower.</figcaption>
 </div>
@@ -96,8 +96,8 @@ When completed in 1900, this ambitious project permanently reversed the flow of 
 In 1999, the American Society of Civil Engineers named the river reversal project and its water management system a Civil Engineering Monument of the Millennium, recognizing it as one of the most significant engineering achievements in modern history.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.jpg" alt="" style="max-width: 80%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.webp" alt="" style="max-width: 80%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">Milestones from the plan of the project to its final complete. Credit: <a href="https://chicagology.com/harbor/riverreversal/" class="custom-link-3">https://chicagology.com/harbor/riverreversal/.</a></figcaption>
 </div>
@@ -130,8 +130,8 @@ The following buildings are introduced in roughly the order they appear along th
 The Wrigley Building is located at 400–410 North Michigan Avenue in Chicago, on the northwest corner of the Michigan Avenue Bridge and at the intersection of the Chicago River and the city’s renowned “<a href="https://www.google.com/search?q=The+Magnificent+Mile&oq=The+Magnificent+Mile&gs_lcrp=EgRlZGdlKgkIABBFGDkYgAQyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABge0gEHMTI3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8" class="custom-link-3">The Magnificent Mile</a>.” Around 1910, <span class="custom-link-3">William Wrigley Jr.</span>, the founder of the Wrigley Company, decided to build this skyscraper in Chicago as the company’s headquarters. Construction began in 1920 and consisted of two sections: the South Tower and the North Tower. The South Tower was completed in 1921, and the North Tower was completed in 1924. The building’s design was inspired by the bell tower of the Seville Cathedral in Spain and the architectural style of the Renaissance in France. All six façades of each tower are clad in a distinctive bright white terra cotta. In the World's Columbian Exposition held in Chicago in 1893, the city earned the nickname “White City,” which is said to have inspired William Wrigley Jr. when envisioning the building’s exterior.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" alt="" style="max-width: 90%; height: auto;">
+  <a href="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.webp" alt="" style="max-width: 90%; height: auto;">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">The Wrigley Building. Credit: <a href="https://en.wikipedia.org/wiki/Wrigley_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Wrigley_Building</a>.</figcaption>
 </div>
@@ -179,8 +179,8 @@ Located in the heart of Chicago's bustling commercial district, the Wrigley Buil
 Marina City is located at 300 N State St, 60654, on the north bank of the Chicago River. It has a unique corn cob-like appearance, making it easily recognizable at a glance. However, Marina City's uniqueness goes far beyond its appearance. Marina City consists of two "cities" that are almost identical in appearance and internal structure. They were designed by architect Bertrand Goldberg in 1959 and finally completed in 1969. When designing this building, Bertrand Goldberg based it on a very avant-garde idea at the time: a city within a city. That is, the building is not simply used as a residence or office building, but is able to fully support all the most basic facilities of a city and have the basic functions of a city. This idea was later realized in the construction of Marina City. The bottom 19 floors of any "city" in Marina City are spiral parking lots, providing parking spaces for residents within the "city". Floors 20-60 are residential areas, including residents' rooms, supermarkets and pharmacies, restaurants, bars, swimming pools, gyms, and more. The 61st floor is an open panoramic observation deck. The underground of the "city" is a large dock for mooring yachts of residents or visitors.
 
 <div style="text-align: center;">
-    <a href="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg" target="_blank">
-    <img src="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg" alt="Click to view larger image" style="max-width: 40%; height: auto;">
+    <a href="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.webp" target="_blank">
+    <img src="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.webp" alt="Click to view larger image" style="max-width: 40%; height: auto;">
 </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Marina City. Credit: <a href="https://en.wikipedia.org/wiki/Marina_City" class="custom-link-3">https://en.wikipedia.org/wiki/Marina_City</a>.</figcaption>
 </div>
@@ -235,8 +235,8 @@ Constructing such a colossal structure was by no means an easy feat. Massive bar
 From the groundbreaking of the Merchandise Mart in 1928 to its completion in 1930, the project consumed 29 million bricks, 40 miles (64 km) of piping, 380 miles (610 km) of wiring, 3.1 million cubic meters of concrete, 5,700 cubic meters of stone, and 60,000 tons of steel. Upon completion, the building featured 4,000 windows and as many as 30 elevators. In total, about 5,700 workers were directly involved in its construction, which cost more than 26 million U.S. dollars at the time.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em;">The Mart. Credit: <a href="https://en.wikipedia.org/wiki/Merchandise_Mart#" class="custom-link-3">https://en.wikipedia.org/wiki/Merchandise_Mart#</a>.</figcaption>
 </div>
@@ -246,8 +246,8 @@ The Merchandise Mart was designed in the Art Deco style, with both its exterior 
 Some of the most iconic buildings that adopted the Art Deco style include the Chrysler Building, the Empire State Building, and the Rockefeller Center in New York; the Palais de la Porte Dorée in France; and the Shanghai Tower and Peace Hotel in Shanghai, China.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">A close-up view of the Merchandise Mart.</figcaption>
 </div>
@@ -288,8 +288,8 @@ When introducing the architecture of a city, bridges generally do not take cente
 Unlike the typical bridges we see, most of the bridges over the Chicago River are movable. This does not mean that the bridge can freely move along the river to where it is needed, but rather that it can be "lifted" or "lowered" when necessary to allow boats to pass underneath.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em;">The Lyric Opera Bridge on Madison Street is about to be lifted. Credit: <a href="https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)" class="custom-link-3">https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)</a>.</figcaption>
 </div>
@@ -307,8 +307,8 @@ Soon after, more pedestrian bridges connecting the north and south banks were bu
 The first railroad bridge across the Chicago River was built in 1852, also near Kinzie Street. Today, Chicago has the second-largest number of movable bridges in the world — surpassed only by Amsterdam in the Netherlands.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/chicagoriver1931.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/chicagoriver1931.jpg" alt="" style="max-width: 90%; height: auto;">
+  <a href="/assets/images/Travel/Chicago River Tour/chicagoriver1931.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/chicagoriver1931.webp" alt="" style="max-width: 90%; height: auto;">
   </a>
   <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">The Chicago River in 1931 <span class="small-text" style="color: gray;"><em> (Where is it in today's Chicago?)</em></span>. Credit: <a href="https://chicagology.com/harbor/riverbridges/" class="custom-link-3">https://chicagology.com/harbor/riverbridges/</a>.</figcaption>
 </div>
@@ -367,8 +367,8 @@ To this day, near many important movable bridges in Chicago, you can find a smal
 There are currently 70 Bridge Tender Houses in Chicago, distributed along the three main branches of the Chicago River. Bridge tenders used to stay in these houses day and night, monitoring the condition of the bridges. However, with the passage of time, major commercial ships heading to Chicago no longer enter the inner Chicago River but dock at the Port of Chicago, significantly reducing the working hours of bridge tenders. Today, only 7 Bridge Tender Houses are staffed 24 hours a day, while most are unstaffed more than 95% of the year, with bridge tenders only arriving at these houses on specific dates when the bridges need to be "lifted."
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Bridge_Tender_House.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/THP-map-01.jpg" alt="" style="max-width: 90%; height: auto;">
+  <a href="/assets/images/Travel/Chicago River Tour/Bridge_Tender_House.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/THP-map-01.webp" alt="" style="max-width: 90%; height: auto;">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">The location of existing Bridge Tender Houses along the Chicago River. Credit: <a href="https://www.tenderhouseproject.com/chicagobridgehouses" class="custom-link-3">https://www.tenderhouseproject.com/chicagobridgehouses</a>.</figcaption>
 </div>
@@ -476,7 +476,7 @@ Tuned mass dampers are commonly used in tall buildings to reduce the effects of 
 The Chicago Opera House is located at 20 N Wacker Drive, Chicago, IL 60606. It was built in 1929 on the east bank of the North Branch of the Chicago River and has stood for nearly a century. When it was first constructed, it served as the home of the Chicago Civic Opera. However, the company went bankrupt during the Great Depression. After several bankruptcies and reorganizations, it was reestablished and renamed the Lyric Opera of Chicago in 1954. Since then, the Chicago Opera House has remained the headquarters of the Lyric Opera of Chicago.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Lyric_Opera_of_Chicago.jpg" target="_blank">
+  <a href="/assets/images/Travel/Chicago River Tour/Civic_Opera_House_060528.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/Civic_Opera_House_060528.jpg" alt="" style="max-width: 90%; height: auto;">
   </a>
   <figcaption style="margin-top: 1em;">The exterior of the Chicago Opera House (rear view). Credit: <a href="https://en.wikipedia.org/wiki/Civic_Opera_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Civic_Opera_Building</a>.</figcaption>
@@ -520,8 +520,8 @@ The first opera performed in Chicago was "La sonnambula" in 1850, but the exact 
 </blockquote>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.jpg" alt="" style="max-width: 90%; height: auto;">
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.webp" alt="" style="max-width: 90%; height: auto;">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">The back of the Chicago Opera House, with the word "BVILDING" clearly visible.</figcaption>
 </div>
@@ -589,17 +589,17 @@ Tube structure and bundled tube structure have become standard structural system
 <a href="https://theskydeck.com/" class="custom-link-3">Skydeck</a> is an observation deck located inside the Willis Tower, on the 103rd floor. It is the highest indoor observation deck in the United States. From here, you can enjoy panoramic views of Chicago's cityscape in all directions.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.webp" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;">
   </a>
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.webp" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;">
   </a>
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.webp" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;">
   </a>
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.jpg" alt="" style="max-width: 90%; height: auto;">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.webp" alt="" style="max-width: 90%; height: auto;">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">Photos taken at Skydeck. The four photos correspond to the east, south, west, and north directions respectively.</figcaption>
 </div>
@@ -624,16 +624,16 @@ Tube structure and bundled tube structure have become standard structural system
 The St. Regis Chicago is located on the east side of the Chicago River near Lake Michigan. Built in 2020, it stands 1,198 feet (approximately 365 meters) tall with 93 floors, making it the third tallest building in Chicago, after the <a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E9%9F%A6%E8%8E%B1%E9%9B%86%E5%9B%A2%E5%A4%A7%E5%8E%A6-willis-tower--" class="custom-link-3">Willis Tower</a> and the Trump International Hotel and Tower. It is also the tallest building constructed in Chicago in the 21st century. As the name suggests, the primary function of the St. Regis Chicago is hotel accommodation, and it is mainly operated by the St. Regis Group. The first ten floors of the St. Regis Chicago contain 192 hotel rooms, while the remaining floors are residential, with a total of 393 extraordinary lake-view residences. <span class="reveal-on-hover">Guess how much a lake-view residence costs?</span>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.jpg">
-  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.jpg" alt="" style="max-width: 70%; height: auto;"></a>
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.webp">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.webp" alt="" style="max-width: 70%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The St. Regis Chicago as seen from a boat on the Chicago River.</figcaption>
 </div>
 
 The St. Regis Chicago consists of three buildings of increasing height, with a distinctive sea-blue wavy exterior that evokes the undulating ocean. To ensure the stability of the building, it employs a buttressed core structure internally. The buttressed core structure consists of a central main load-bearing column with several wings attached to it and connected to the ground. This structure is different from the <a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E6%B7%B7%E5%90%88%E7%AE%A1%E7%8A%B6%E7%BB%93%E6%9E%84-bundled-tube-structure-" class="custom-link-3">bundled tube structure</a>, but it is equally effective in distributing the weight of the building. The buttressed core structure inside the St. Regis Chicago has three "Y"-shaped wings with equal angles. To resist wind loads, the 83rd floor of the main tower of the St. Regis Chicago is designed as a hollow space, with no decoration, windows, or elevator stops, allowing wind to pass through and reduce wind pressure. This design decision was made by the design team after conducting wind tunnel tests during the design process.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.jpg">
-  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.webp">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The eastern Chicago skyline as seen from the confluence of the Chicago River and Lake Michigan. The tallest building in the image is the St. Regis Chicago.</figcaption>
 </div>
 

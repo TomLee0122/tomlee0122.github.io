@@ -5,7 +5,7 @@ excerpt: |
   <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #C0C0C0">Eastern Gate of Asia. <img src='/assets/images/Travel/Japan Tour Plan/Flag_of_Japan.png' alt='' style='max-width: 6%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'></span>
   </div>
   <div>
-  <img src='/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg' alt='' style='max-width: 40%; height: auto;'>
+  <img src='/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.webp' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>  
 categories:
@@ -129,20 +129,20 @@ The visionary behind the National Museum of Western Art (NMWA) was Kojiro Matsuk
 However, his path was fraught with setbacks. In 1927, Kawasaki Dockyard fell into a financial crisis, leading to Matsukata’s resignation the following year. Many artworks that had already reached Japan were auctioned off to settle debts, while those remaining in a London warehouse were tragically destroyed in a fire in 1939. After enduring these numerous trials and tribulations, the National Museum of Western Art finally opened its doors in April 1959. Sadly, Matsukata passed away in June 1950, never living to see the museum’s completion or its grand opening. For a more detailed history of the museum, please refer to <a href="https://www.nmwa.go.jp/qrcode/matsukata/2023_1/index_zh.html" class="custom-link-3">The National Museum of Western Art and the Matsukata Collection</a>.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3630.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em;">The main entrance of the National Museum of Western Art.</figcaption>
 </div>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3634.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3634.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3640.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3640.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.webp" alt="Image 3">
   </a>
 </div>
 
@@ -221,14 +221,14 @@ Website: <a href="https://www.kensetsu.metro.tokyo.lg.jp/jimusho/toubuk/ueno" cl
 Senso-ji, officially known as Kinryuzan Senso-ji, is located in Tokyo's Taito District. Its "Sango" (mountain name) is Kinryuzan. As the oldest temple in Tokyo, Senso-ji is a profound historical landmark. Both the iconic Kaminarimon Gate and the temple's five-story pagoda are legendary spots that have become must-visit destinations for travelers and photographers alike.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3563.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3563.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3563.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3563.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3565.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3565.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3565.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3565.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.webp" alt="Image 3">
   </a>
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 211821.jpg" class="gallery-item" style="max-width:47.5%;">
     <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 211821.jpg" alt="Image 4">
@@ -317,8 +317,8 @@ Website: <a href="https://www.tokyo-skytree.jp/" class="custom-link-3">Tokyo Sky
 World-renowned as the ultimate sanctuary for ACG (Anime, Comic, and Games) culture, Akihabara is home to countless specialty shops and <span class="reveal-on-hover">maid cafes</span>. It is also a premier destination for those looking to buy electronics, especially second-hand gadgets! <span class="reveal-on-hover">(My apologies, but graphics cards are still way too expensive...)</span>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3624.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3624.JPG.jpeg" alt="" style="max-width: 70%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3624.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3624.webp" alt="" style="max-width: 70%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Street view of Akihabara.</figcaption>
 </div>
 
@@ -352,8 +352,8 @@ World-renowned as the ultimate sanctuary for ACG (Anime, Comic, and Games) cultu
 
 <div id="real_or_virtual_Akihabara" class="collapse-panel" hidden>
   <div style="text-align: center;">
-    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.png">
-    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.png" alt="" style="max-width: 90%; height: auto;"></a>
+    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.webp">
+    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.webp" alt="" style="max-width: 90%; height: auto;"></a>
     <figcaption style="margin-top: 1em;">Akihabara in Persona 5 Royal.</figcaption>
   </div>
 </div>
@@ -365,17 +365,17 @@ World-renowned as the ultimate sanctuary for ACG (Anime, Comic, and Games) cultu
 The Imperial Palace is the primary residence and workplace of the Emperor of Japan. Located in Tokyo's Chiyoda District, it occupies the former site of Edo Castle, which served as the seat of the Tokugawa Shogunate for generations. The palace grounds are a sanctuary of tranquility and exquisite beauty, where the placement and function of every plant and architectural element have been meticulously considered.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 101816.jpg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 101816.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 101816.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 101816.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 105248.jpg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 105248.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 105248.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 105248.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 104705.jpg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 104705.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 104705.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 104705.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 105734.jpg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 105734.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 105734.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 105734.webp" alt="Image 2">
   </a>
 </div>
 
@@ -416,16 +416,16 @@ Website:<a href="https://sankan.kunaicho.go.jp/" class="custom-link-3">Imperial 
 Japan is a constitutional monarchy where the National Diet serves as the sole law-making organ and the highest power of the state. The Diet is bicameral, consisting of the House of Representatives and the House of Councillors. The National Diet Building, located in Tokyo’s Chiyoda District, is the seat of the Japanese parliament.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">National Diet Building in Chiyoda, Tokyo.</figcaption>
 </div>
 
 Both the House of Representatives and the House of Councillors are housed within the National Diet Building; however, their administrative jurisdictions over the premises are asymmetrical, with the House of Representatives overseeing a significantly larger portion of the complex.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">House of Representatives inside the National Diet Building.</figcaption>
 </div>
 
@@ -463,8 +463,8 @@ Website: <a href="https://www.sangiin.go.jp/" class="custom-link-3">House of Cou
 Tokyo Station, located at 1-chome, Marunouchi, Chiyoda District, Tokyo, serves as a major railway hub for East Japan Railway Company (JR East), Central Japan Railway Company (JR Central), and Tokyo Metro. Opened in 1914, it is the terminal for numerous main railway lines across Japan. As the central station of the Tokyo metropolis, it is often referred to as the "Front Gateway" (Omote-genkan) to the city. For more information, please refer to <a href="https://en.wikipedia.org/wiki/Tokyo_Station" class="custom-link-3">Wikipedia</a>.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Tokyo Station.</figcaption>
 </div>
 
@@ -614,8 +614,8 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
 
 <div id="real_or_virtual_Meiji_Shrine" class="collapse-panel" hidden>
   <div style="text-align: center;">
-    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png">
-    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png" alt="" style="max-width: 90%; height: auto;"></a>
+    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.webp">
+    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.webp" alt="" style="max-width: 90%; height: auto;"></a>
     <figcaption style="margin-top: 1em;">Meiji Shrine in Persona 5 Royal.</figcaption>
   </div>
 </div>
@@ -625,8 +625,8 @@ Website and Visit Guide: <a href="https://www.meijijingu.or.jp/" class="custom-l
 Shinjuku, a special ward of Tokyo located west of the city center, stands as one of the metropolis’s most thriving districts. Centered around Shinjuku Station, the area spans several blocks densely packed with shopping malls, bars, gaming parlors, and various entertainment venues. <span class="reveal-on-hover">A distinctive feature of Shinjuku is that it houses Tokyo’s largest red-light district;</span> the famous Kabukicho Ichibangai is located right here. Along with Shibuya and Ikebukuro, Shinjuku is recognized as one of Tokyo’s three major "Subcenters" (Fukudoshin).
 
 <div style="text-align: center;">    
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg" alt="" style="max-width: 70%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.webp" alt="" style="max-width: 70%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Kabukicho Ichibangai in Shinjuku.</figcaption>
 </div>
 
@@ -666,13 +666,13 @@ Address: 〒160-0021 Shinjuku, Tokyo
 
 <div id="real_or_virtual_Shinjuku" class="collapse-panel" hidden>
   <div style="text-align: center;">
-    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png">
-    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png" alt="" style="max-width: 90%; height: auto;"></a>
+    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.webp">
+    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.webp" alt="" style="max-width: 90%; height: auto;"></a>
     <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Shinjuku shopping street in Persona 5 Royal.</figcaption>
   </div>
   <div style="text-align: center;">
-    <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+    <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.webp">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.webp" alt="" style="max-width: 90%; height: auto;"></a>
     <figcaption style="margin-top: 1em;">A street corner in Shinjuku.</figcaption>
   </div>
 </div>
@@ -750,11 +750,11 @@ Address: 〒154-0024 Setagaya City, Tokyo
 
 Tokyo Tower (officially the Nippon Television City Corporation tower) is a telecommunications and observation tower in Tokyo, primarily used for broadcasting television and radio signals. Built in 1958 and standing at 332.9 meters, it is the second-tallest structure in Japan, surpassed only by the <a href="/tags/travel/Japan-Tour-Plan/#Tokyo-Skytree" class="custom-link-3">Tokyo Skytree</a>. With its elegant and minimalist silhouette, Tokyo Tower attracts millions of visitors annually. <span class="reveal-on-hover">(It is also an iconic filming location for countless Japanese dramas, anime, and games!)</span>
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.webp" alt="Image 2">
   </a>
 </div>
 
@@ -810,8 +810,8 @@ Website: <a href="https://cn.tokyotower.co.jp/" class="custom-link-3">Tokyo Towe
 Zojoji Temple is located in Minato City, Tokyo, near Tokyo Tower. It is a Jodo sect Buddhist temple, with the mountain name Sanyenzan.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Tradition and Modernity: Zojoji Temple with Tokyo Tower in the background.</figcaption>
 </div>
 
@@ -851,32 +851,32 @@ Website: <a href="https://www.zojoji.or.jp/" class="custom-link-3">Zojoji Temple
 Visit the hangars of Japan Airlines (JAL) and All Nippon Airways (ANA) located at Tokyo Haneda Airport. Explore the composition and functions of the hangars, learn about the maintenance and care processes of aircraft, and get up close to the sky machines that represent modern human aviation technology!
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3570.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3570.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3570.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3570.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3585.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3585.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3585.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3585.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3590.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3590.JPG.jpeg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3590.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3590.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3593.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3593.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3593.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3593.webp" alt="Image 4">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3595.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3595.JPG.jpeg" alt="Image 5">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3595.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3595.webp" alt="Image 5">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3601.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3601.JPG.jpeg" alt="Image 6">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3601.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3601.webp" alt="Image 6">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3603.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3603.JPG.jpeg" alt="Image 7">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3603.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3603.webp" alt="Image 7">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3606.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3606.JPG.jpeg" alt="Image 8">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3606.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3606.webp" alt="Image 8">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3610.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3610.JPG.jpeg" alt="Image 9">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3610.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3610.webp" alt="Image 9">
   </a>
 </div>
 
@@ -994,8 +994,8 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
 ## <span style="color: #7F82BB;">The Mount Fuji</span>
 
 <div class="my_section_hero" style="">
-  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3969_revised.JPG.jpeg')"></div>
-  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3954_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3969_revised.webp')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3954_revised.webp')"></div>
   <div class="my_section_hero_content" style="">
     The Mount Fuji
   </div>
@@ -1014,19 +1014,19 @@ Website: <a href="https://www.ghibli-museum.jp/" class="custom-link-3">Ghibli Mu
 The world-renowned Mount Fuji (ふじさん, the Mount Fuji) is situated approximately 80 kilometers southwest of Tokyo, straddling the border between Shizuoka and Yamanashi prefectures. With its primary peak reaching an elevation of 3,776 meters, it stands as the highest mountain in Japan. As an enduring symbol of the nation, Mount Fuji has held a sacred status in the hearts of the Japanese people since ancient times, featuring prominently in a vast array of classical literature, poetry, and artwork. In 2013, Mount Fuji, along with the Fujisan Hongu Sengen Taisha shrines, was officially designated as a UNESCO World Heritage site.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">One of the cover photos: Mount Fuji and the Sengen Shrine in a single frame. It is said (ptr) that this is the very first image that springs to mind for most people when thinking of Japan.</figcaption>
 </div>
 
 "合目" is a Japanese unit, where one "合目" represents one-tenth of the height from the base to the summit. Mount Fuji has well-maintained roads leading up the mountain, allowing visitors to travel by car (or drive themselves) to the fifth station of Mount Fuji. Along the way, there are numerous signs and viewing platforms to stop at. The fifth station of Mount Fuji is the largest rest and supply area in the Mount Fuji scenic area, featuring many food shops and souvenir stores, as well as the Fuji Post Office and the Mount Fuji Komitake Shrine! <span class="info_span" style="">For visitors who do not require reaching the summit of Mount Fuji, the fifth station is an excellent final destination within the Mount Fuji scenic area.</span>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1218,17 +1218,17 @@ The Fuji Five Lakes are five lakes formed by eruptions of Mount Fuji, located on
 The Fuji Five Lakes are also excellent and just right places to appreciate Mount Fuji, making them a perfect "appetizer" for a Mount Fuji trip. There are well-maintained roads around the Fuji Five Lakes, making self-driving an excellent choice for visitors with an international driving permit (IDP). (You can also drive to the 5th Station of Mount Fuji.)<span class="reveal-on-hover">（Sorry, ptr!）</span>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3940.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3940.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3940.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3940.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3954.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3954.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3954.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3954.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3969.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3969.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3969.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3969.webp" alt="Image 4">
   </a>
 </div>
 
@@ -1277,8 +1277,8 @@ The Fuji Five Lakes are also excellent and just right places to appreciate Mount
 </div>
 
 <div class="my_section_hero" style="">
-  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4315_revised.JPG.jpeg')"></div>
-  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4581_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4315_revised.jpeg')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4581_revised.jpeg')"></div>
   <div class="my_section_hero_content" style="">
     Kyoto
   </div>
@@ -1308,8 +1308,8 @@ The Fuji Five Lakes are also excellent and just right places to appreciate Mount
 Kiyomizu-dera, located in the Higashiyama District of Kyoto, was founded in 778 AD and stands as the city's oldest temple. Its honorary mountain name is Mount Otowa, and it primarily enshrines the Eleven-Headed Thousand-Armed Kannon. As one of Kyoto’s most celebrated landmarks, its Hondo (Main Hall) is an absolute must-visit destination for every traveler venturing to the temple.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Main Hall of Kiyomizu-dera.</figcaption>
 </div>
 
@@ -1352,8 +1352,8 @@ Website:<a href="https://www.kiyomizudera.or.jp/" class="custom-link-3">Kiyomizu
 Sanjūsangendō is located in Higashiyama Ward, Kyoto, and was built in 1164. It is an external Buddhist hall of the Tendai sect's Myōhō-in. "Ken" is a Japanese unit of length, approximately 1.8 meters. Before the Edo period, Sanjūsangendō was about 59.4 meters long, hence the name. The main hall of Sanjūsangendō houses a large number of well-preserved wooden sculptures of the Thousand-Armed Kannon, a rare treasure.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4147.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4147.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4147.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4147.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">In the rain, the view of the outer courtyard of Sanjūsangendō. <span class="warning_span" style="">Photography is prohibited inside Sanjūsangendō.</span></figcaption>
 </div>
 
@@ -1392,16 +1392,16 @@ Website:<a href="https://www.sanjusangendo.jp/" class="custom-link-3">Sanjūsang
 Nanzen-ji is located in Higashiyama Ward, Kyoto, and was built in 1291. It is dedicated to Shakyamuni Buddha, with the mountain name Zuiryūzan. The Sanmon gate is the main gate of Nanzen-ji, grand and rich in the atmosphere of ancient Japanese and Chinese architecture, and its fixed structure on the beams is also worth observing.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4159.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4159.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4159.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4159.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Sanmon gate of Nanzen-ji.</figcaption>
 </div>
 
 The remains of the Lake Biwa Canal aqueduct within Nanzen-ji Temple are also quite interesting. It was originally designed by Tanabe Sakurō to supply water to many Japanese gardens in the surrounding area and was completed in 1888.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4165.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4165.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4165.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4165.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Remains of the Lake Biwa Canal aqueduct.</figcaption>
 </div>
 
@@ -1443,8 +1443,8 @@ Zenrin-ji, also known as Eikando or Muryōju-in, is located in Sakyo Ward, Kyoto
 The most beautiful season to visit Zenrin-ji is autumn when the maple leaves create a breathtaking scene. Inside Zenrin-ji, there are accessible Japanese-style buildings where visitors can closely appreciate the Japanese gardens. The buildings also lead to the main hall of Nanzen-ji, where one can admire the serene and solemn place of monk practice and exquisite Buddhist statues.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4190.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4190.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4190.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4190.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Courtyard within Nanzen-ji captured from inside the building.</figcaption>
 </div>
 
@@ -1577,17 +1577,17 @@ The state guest house of Kyoto is located inside the Kyoto Imperial Palace Park 
 The interior decoration of the Kyoto State Guest House is a typical example of Japanese-style rooms. From large paintings, floors, and ceilings to small patterns, lighting angles, and furniture arrangements, the Kyoto State Guest House can be said to meticulously decorate every detail. The guest house has multiple rooms, each serving different purposes when visitors arrive, but all are named "XX Room."
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4560.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4560.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4560.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4560.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4581.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4581.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4581.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4581.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4580.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4580.JPG.jpeg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4580.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4580.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4559.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4559.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4559.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4559.webp" alt="Image 4">
   </a>
 </div>
 
@@ -1596,11 +1596,11 @@ The interior decoration of the Kyoto State Guest House is a typical example of J
 Beyond the exquisite interior decorations, the State Guest House also boasts an extensive and stunning collection of traditional Japanese garden landscapes.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4583.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4583.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4583.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4583.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4585.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4585.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4585.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4585.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1641,11 +1641,11 @@ Website: <a href="https://www.geihinkan.go.jp/zh-cn/kyoto/" class="custom-link-3
 Nijo Castle was built in 1603 and is located in Nakagyo Ward, Kyoto. It served as the residence of Tokugawa Ieyasu, the first shogun of the Edo period, when he stayed in Kyoto and met the Emperor. In 1867, the famous "Taisei Hokan" ceremony was held at Nijo Castle, marking the end of Japan's 682-year shogunate era. Broadly speaking, Nijo Castle refers to the residence of each shogun in Kyoto, and its location has changed multiple times throughout history.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4348.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4348.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4348.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4348.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4350.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4350.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4350.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4350.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1726,11 +1726,11 @@ Website: <a href="https://www.seimeijinja.jp/" class="custom-link-3">Official Se
 Kitano Tenmangu Shrine is located in Kamigyo Ward, Kyoto. It is dedicated to Sugawara no Michizane, the god of learning, and is equivalent to a Confucian temple in Japan, suitable for seeking academic amulets. <span class="reveal-on-hover">What wish will you make?</span>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4337.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4337.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4337.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4337.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4343.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4343.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4343.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4343.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1769,8 +1769,8 @@ Website: <a href="https://kitanotenmangu.or.jp/" class="custom-link-3">Official 
 Kinkaku-ji (also known as Rokuon-ji) is located in Kita Ward, Kyoto. It was originally the villa of Ashikaga Yoshimitsu, later converted into a Zen temple. The most prominent building of Kinkaku-ji is the Shariden, whose exterior was redecorated in the 1980s with gold paint and gold leaf, using about 1.6 tons of pure gold, currently valued at approximately $170 million. Such a highly valuable object appearing before your eyes is hard not to marvel at!
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4315.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4315.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4315.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4315.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Shariden of Kinkaku-ji.</figcaption>
 </div>
 
@@ -1816,11 +1816,11 @@ Website: <a href="https://www.shokoku-ji.jp/kinkakuji/" class="custom-link-3">Of
 Ginkaku-ji (officially named Jisho-ji) is located in Sakyo Ward, Kyoto. It was founded by Ashikaga Yoshimasa, the shogun of the Muromachi shogunate, and its mountain name is Higashiyama. The temple is named after the "Silver Pavilion" (Ginkaku) within its grounds, which contrasts with the "Golden Pavilion" (Kinkaku-ji or Rokuon-ji). Compared to the splendor of Kinkaku-ji, Ginkaku-ji is renowned for its simple and elegant architecture and gardens.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4244.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4244.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4244.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4244.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4239.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4239.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4239.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4239.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1832,8 +1832,8 @@ Ginkaku-ji (officially named Jisho-ji) is located in Sakyo Ward, Kyoto. It was f
 
 <b>Map Location</b>:
 <div style="text-align: center; margin-bottom: 1.3em;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.webp" alt="" style="max-width: 90%; height: auto;"></a>
 </div>
 
 <b>Estimated Visit Duration</b>: 1 hour.
@@ -1938,17 +1938,17 @@ Website: <a href="https://www.jakkoin.jp/" class="custom-link-3">Official Jakkoi
 Located in the northern part of Sakyo Ward, Kyoto, Kifune Shrine is surrounded by mountains, creating a serene environment. Walking along the mountain paths, you will occasionally see brightly colored lanterns, adding a touch of magic to the scenery. The Okumiya (main hall of Kifune Shrine) at the highest point is hidden among several towering trees. Standing in front of the shrine, one might feel spiritually awakened. The shrine also offers a unique experience called <span class="info_span" style="">Mizu-uranai</span> (water fortune-telling).
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4383.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4383.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4383.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4383.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4388.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4388.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4388.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4388.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4398.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4398.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4398.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4398.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4395.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4395.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4395.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4395.webp" alt="Image 2">
   </a>
 </div>
 
@@ -2001,8 +2001,8 @@ Arashiyama is an area located in the northwest of Kyoto City, featuring low hill
 <p>Arashiyama Bamboo Grove is located next to Tenryu-ji Temple, about a 15-minute walk from the subway station. The bamboo grove is one of the must-visit spots in Arashiyama, offering a serene and picturesque pathway, especially when it is less crowded.</p>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4282.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4282.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4282.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4282.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">Arashiyama Bamboo Grove.</figcaption>
 </div>
 
@@ -2047,8 +2047,8 @@ Website: <a href="https://ja.kyoto.travel/tourism/single01.php?category_id=8&tou
 <p>Tenryu-ji Temple is located about a 10-minute walk northwest of Arashiyama Station. Founded in 1339, it is ranked as the top of Kyoto's five great Zen temples. The temple complex includes various halls, the Dharma Hall with the famous cloud dragon painting, and other sightseeing spots. Tenryu-ji was once a large complex consisting of multiple buildings. However, some buildings have been destroyed over history, and the existing structures represent only a small portion of the original temple. Visitors can enter the main hall to experience traditional Japanese tatami rooms up close.</p>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4275.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4275.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">Exterior view of Tenryu-ji Temple.</figcaption>
 </div>
 
@@ -2102,16 +2102,16 @@ Website: <a href="https://www.tenryuji.com/" class="custom-link-3">Official Tenr
 <p>Togetsukyo Bridge is located about a 5-minute walk southeast of Tenryu-ji Temple. It was originally built in 836 and has undergone multiple repairs and reconstructions. The current Togetsukyo Bridge was built in 1934. The bridge is only 155 meters long and spans the Katsura River next to Arashiyama. Togetsukyo Bridge is one of the iconic landmarks of the Arashiyama area and is also an excellent spot for cherry blossom and autumn leaf viewing in spring and fall.</p>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4308.JPG">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4308.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4308.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4308.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">Togetsukyo Bridge in the Arashiyama area, with the Katsura River flowing underneath.</figcaption>
 </div>
 
 <p>You can take a rickshaw ride to explore Togetsukyo Bridge, or rent a boat to enjoy the Katsura River beneath the bridge. Nearby Togetsukyo Bridge, there is also a memorial monument dedicated to Zhou Enlai, which is worth a visit.</p>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4307.JPG">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4307.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4307.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4307.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">Memorial monument dedicated to Zhou Enlai near Togetsukyo Bridge.</figcaption>
 </div>
 
@@ -2160,11 +2160,11 @@ Website: <a href="https://ja.kyoto.travel/tourism/single01.php?category_id=8&tou
 Fushimi Inari Taisha is a Shinto shrine located in Fushimi-ku, Kyoto. It serves as the head shrine for all Inari shrines and is dedicated to the deity Inari Okami. It is a popular place to seek amulets (omamori) for success in business and luck in love. <span class="info_span" style="">It is home to the famous Senbon Torii (Thousand Torii Gates)</span>. According to legend, Inari Okami was enshrined on Mount Inari in 711 AD during the Nara period, giving the shrine a history spanning over 1,300 years.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4525.JPG" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4525.JPG" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4525.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4525.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4529.JPG" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4529.JPG" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4529.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4529.webp" alt="Image 2">
   </a>
 </div>
 
@@ -2207,22 +2207,22 @@ To-ji Temple is located in Minami-ku, Kyoto, also known as Kyo-o Gokoku-ji, dedi
 The main buildings within To-ji include the Kondo (National Treasure), Kodo (Important Cultural Property), and the Five-story Pagoda (National Treasure), the latter being the most famous. It is the tallest wooden pagoda in Japan and is considered a symbol of Kyoto.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4269.JPG" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4269.JPG" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4269.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4269.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4268.JPG" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4268.JPG" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4268.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4268.webp" alt="Image 2">
   </a>
 </div>
 
 <figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>Left</b>: Kondo of To-ji; <b>Right</b>: Kodo of To-ji.</figcaption>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4265.JPG" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4265.JPG" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4265.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4265.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4270.JPG" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4270.JPG" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4270.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4270.webp" alt="Image 2">
   </a>
 </div>
 
@@ -2323,17 +2323,17 @@ Website: <a href="https://www.kyotorailwaymuseum.jp/" class="custom-link-3">Kyot
 Toshodai-ji Temple is located in Gojocho, Nara City. It was personally planned and built by the Chinese Tang Dynasty monk Jianzhen during his eastward journey to Japan in 759. The temple as a whole adopts the architectural style of the flourishing Tang Dynasty.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4444.JPG">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4444.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4444.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4444.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The main hall of Toshodai-ji Temple.</figcaption>
 </div>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4448.JPG" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4448.JPG" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4448.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4448.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4450.JPG" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4450.JPG" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4450.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4450.webp" alt="Image 2">
   </a>
 </div>
 
@@ -2376,8 +2376,8 @@ Website: <a href="https://www.toshodaiji.jp/" class="custom-link-3">Official Tos
 Todai-ji Temple is located in Zoshicho, Nara City, and was built in 728 by Emperor Shomu of Japan. The front width of Todai-ji Temple is 57 meters, and the depth is 50 meters, making it the <b>largest wooden building</b> in the world. The Buddha statues inside Todai-ji Temple are also very large, evoking awe and reverence.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4462.JPG">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4462.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4462.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4462.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The front of Todai-ji Temple, showcasing its massive architecture.</figcaption>
 </div>
 
@@ -2428,8 +2428,8 @@ Website: <a href="https://www.todaiji.or.jp/" class="custom-link-3">Official Tod
 Nara Park is located at the foot of Mount Wakakusa in Nara City. Besides the typical scenic views of a park, Nara Park's biggest feature is the free-roaming deer that visitors can interact with. If interested, you can also buy deer crackers for 200 yen per pack from nearby shops to feed the deer. Additionally, Nara Park is situated near the center of Nara City, making it convenient to visit several important attractions such as Todai-ji Temple, Kasuga Taisha Shrine, and Mount Wakakusa.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4467.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4467.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4467.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4467.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The lovely deer of Nara Park.</figcaption>
 </div>
 
@@ -2544,8 +2544,8 @@ Website: <a href="https://www.kasugataisha.or.jp/" class="custom-link-3">Kasuga 
 ## Osaka
 
 <div class="my_section_hero" style="">
-  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4646_revised.JPG.jpeg')"></div>
-  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4609_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4646_revised.webp')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4609_revised.webp')"></div>
   <div class="my_section_hero_content" style="">
     Osaka
   </div>
@@ -2566,11 +2566,11 @@ The castle’s history is a tumultuous one. The original structure was razed in 
 While the modern Osaka Castle is not a "historical relic" in the strictest sense, its design and appearance meticulously reference the original blueprints from both the Toyotomi and Tokugawa eras. Today, the Main Tower functions as a comprehensive history museum, housing a wealth of artifacts and archives. From its top floor, visitors can enjoy a breathtaking panoramic view of the Osaka cityscape.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4642.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4642.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4642.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4642.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4624.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4624.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4624.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4624.webp" alt="Image 2">
   </a>
 </div>
 

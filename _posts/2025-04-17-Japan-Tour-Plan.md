@@ -5,7 +5,7 @@ excerpt: |
   <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #C0C0C0">Eastern Gate of Asia. <img src='/assets/images/Travel/Japan Tour Plan/Flag_of_Japan.png' alt='' style='max-width: 6%; height: auto; box-shadow: 0 4px 12px rgba(0,0,0,0.2); border-radius: 6px;'></span>
   </div>
   <div>
-  <img src='/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg' alt='' style='max-width: 40%; height: auto;'>
+  <img src='/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.webp' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>  
 # tags:
@@ -122,20 +122,20 @@ permalink: /personal-tags/Japan-Tour-Plan
 最先提出建设国立西洋美术馆计划的是日本川崎造船所（现在的川崎重工业）的社长、企业家松方幸次郎（1865年－1950年）。他于1916年开始在伦敦、巴黎等地购买和收集各种欧洲的艺术品，并在随后将这些艺术品运输回国内，以期望在日本建设一座能够展示西方艺术的博物馆。然而，事情进展并不顺利，川崎造船所在1927年陷入了经营危机，松方也在次年辞去了社长职务。很多已经抵达日本的艺术品被拍卖用作还债，仍然存留在伦敦仓库中的作品则又在1939年的一次火灾中被烧毁。在历经种种变故后，国立西洋美术馆终于在1959年4月开馆。不幸的是，松方在1950年6月已离开人世，彼时的国立西洋美术馆仍未建成，松方并没有看到它开馆的一天。有关更多国立西洋美术馆的历史，可参阅<a href="https://www.nmwa.go.jp/qrcode/matsukata/2023_1/index_zh.html" class="custom-link-3">国立西洋美术馆与松方收藏品</a>。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3630.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3630.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em;">国立西洋美术馆的正门。</figcaption>
 </div>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3634.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3634.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3634.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3640.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3640.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3640.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 160456.webp" alt="Image 3">
   </a>
 </div>
 
@@ -215,14 +215,14 @@ permalink: /personal-tags/Japan-Tour-Plan
 浅草寺全称为金龙山浅草寺，位于东京都台东区，山号为金龙山。浅草寺是东京都内历史最悠久的寺院。雷门与内部的五重塔都是旅游打卡圣地。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3563.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3563.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3563.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3563.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3565.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3565.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3565.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3565.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 211743.webp" alt="Image 3">
   </a>
   <a href="/assets/images/Travel/Japan Tour Plan/2025-06-19 211821.jpg" class="gallery-item" style="max-width:47.5%;">
     <img src="/assets/images/Travel/Japan Tour Plan/2025-06-19 211821.jpg" alt="Image 4">
@@ -312,8 +312,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 闻名世界，著名的二次元文化圣地，拥有众多动漫、游戏主题相关的周边商店以及<span class="reveal-on-hover">女仆咖啡厅</span>。秋叶原同时是购买（二手）电子产品的好去处！<span class="reveal-on-hover">（对不起，显卡还是太贵了…）</span>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3624.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3624.JPG.jpeg" alt="" style="max-width: 70%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3624.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_3624.webp" alt="" style="max-width: 70%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">秋叶原的街景。</figcaption>
 </div>
 
@@ -347,8 +347,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 
 <div id="real_or_virtual_Akihabara" class="collapse-panel" hidden>
   <div style="text-align: center;">
-    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.png">
-    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.png" alt="" style="max-width: 90%; height: auto;"></a>
+    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.webp">
+    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 220003.webp" alt="" style="max-width: 90%; height: auto;"></a>
     <figcaption style="margin-top: 1em;">女神异闻录5：皇家版中的秋叶原。</figcaption>
   </div>
 </div>
@@ -361,17 +361,17 @@ permalink: /personal-tags/Japan-Tour-Plan
 皇居即日本天皇的宫殿，同时也是天皇居住与办公的场所。现在的皇居位于东京都千代田区，原是江户幕府时代历代将军所居住的江户城。皇居内部环境幽静精美，园区内的植物与建筑的位置、作用都经过细心推敲。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 101816.jpg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 101816.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 101816.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 101816.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 105248.jpg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 105248.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 105248.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 105248.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 104705.jpg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 104705.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 104705.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 104705.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 105734.jpg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 105734.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 105734.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 105734.webp" alt="Image 2">
   </a>
 </div>
 
@@ -412,16 +412,16 @@ permalink: /personal-tags/Japan-Tour-Plan
 日本的政治制度为君主立宪制，国会是国家的立法机关与最高权力机构，由众议院与参议院组成。国会议事堂位于东京都千代田区，是日本国会的所在地。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 160550.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">位于东京都千代田区的国会议事堂。</figcaption>
 </div>
 
 众议院与参议院均位于国会议事堂内部，但二者对于国会议事堂的管理范围并不对称，众议院拥有更大的管理范围。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 151823.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">国会议事堂内部的众议院。</figcaption>
 </div>
 
@@ -459,8 +459,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 东京车站位于日本东京都千代田区丸之内一丁目，为东日本旅客铁道（JR东日本）、东海旅客铁道（JR东海）、东京地铁的铁路车站。开业于1914年，是日本多条铁路干线的端点站，也是东京主要交通枢纽之一，拥有东京都市中央车站的地位，被誉为“表玄关”。更多信息可参阅<a href="https://zh.wikipedia.org/wiki/%E6%9D%B1%E4%BA%AC%E7%AB%99" class="custom-link-3">维基百科</a>。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 091817.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">东京车站。</figcaption>
 </div>
 
@@ -611,8 +611,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 
 <div id="real_or_virtual_Meiji_Shrine" class="collapse-panel" hidden>
   <div style="text-align: center;">
-    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png">
-    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.png" alt="" style="max-width: 90%; height: auto;"></a>
+    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.webp">
+    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 232155.webp" alt="" style="max-width: 90%; height: auto;"></a>
     <figcaption style="margin-top: 1em;">女神异闻录5：皇家版中的明治神宫。</figcaption>
   </div>
 </div>
@@ -622,8 +622,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 新宿 (Shinjuku), 即新宿区，是东京都的一个特别区，位于东京都中心以西，是东京都最为繁华的区之一。新宿区以新宿站为中心，在周围纵横数个街区内聚集了大量的购物中心、酒吧、棋牌室等娱乐场所，<span class="reveal-on-hover">作为新宿的特色，它还拥有东京最大的红灯区，</span>著名的歌舞伎町一番街就位于新宿。新宿与涩谷 (Shibuya), 池袋 (Ikebukuro) 并称为东京的三大副都心。
 
 <div style="text-align: center;">    
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.jpg" alt="" style="max-width: 70%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 101401.webp" alt="" style="max-width: 70%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">新宿的歌舞伎町一番街。</figcaption>
 </div>
 
@@ -663,13 +663,13 @@ permalink: /personal-tags/Japan-Tour-Plan
 
 <div id="real_or_virtual_Shinjuku" class="collapse-panel" hidden>
   <div style="text-align: center;">
-    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png">
-    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.png" alt="" style="max-width: 90%; height: auto;"></a>
+    <a href="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.webp">
+    <img src="/assets/images/Travel/Japan Tour Plan/Screenshot 2025-07-06 231819.webp" alt="" style="max-width: 90%; height: auto;"></a>
     <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">女神异闻录5：皇家版中的新宿商业街。</figcaption>
   </div>
   <div style="text-align: center;">
-    <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+    <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.webp">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 094702.webp" alt="" style="max-width: 90%; height: auto;"></a>
     <figcaption style="margin-top: 1em;">新宿街角一景。</figcaption>
   </div>
 </div>
@@ -748,11 +748,11 @@ permalink: /personal-tags/Japan-Tour-Plan
 东京塔（又称东京铁塔，日本电波塔），是东京都的一座电波塔，主要用于发射电视与广播信号。东京塔建于1958年，高332.9米，是日本第二高的建筑物，仅次于<a href="/tags/travel/Japan-Tour-Plan/#东京晴空塔天空树" class="custom-link-3">东京晴空塔</a>。东京塔以其简洁优美的外形，每年吸引了众多游客参观。<span class="reveal-on-hover">（同时也是众多日本电视剧、动漫、游戏的取景地！）</span>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 082811.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 083211.webp" alt="Image 2">
   </a>
 </div>
 
@@ -808,8 +808,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 增上寺位于东京都港区，临近东京塔，是一座净土宗寺院，山号为三缘山。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-20 085532.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">传统与现代：增上寺与其后的东京塔。</figcaption>
 </div>
 
@@ -849,32 +849,32 @@ permalink: /personal-tags/Japan-Tour-Plan
 参观位于东京羽田空港的日本航空 (JAL) 和全日空 (ANA) 的机库，实地探索机库的组成、作用，了解飞机的维护和保养过程，近距离感受代表了人类现代航空工业技术的天空机器！
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3570.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3570.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3570.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3570.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3585.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3585.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3585.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3585.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3590.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3590.JPG.jpeg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3590.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3590.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3593.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3593.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3593.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3593.webp" alt="Image 4">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3595.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3595.JPG.jpeg" alt="Image 5">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3595.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3595.webp" alt="Image 5">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3601.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3601.JPG.jpeg" alt="Image 6">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3601.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3601.webp" alt="Image 6">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3603.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3603.JPG.jpeg" alt="Image 7">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3603.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3603.webp" alt="Image 7">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3606.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3606.JPG.jpeg" alt="Image 8">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3606.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3606.webp" alt="Image 8">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3610.JPG.jpeg" class="gallery-item">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3610.JPG.jpeg" alt="Image 9">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3610.webp" class="gallery-item">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3610.webp" alt="Image 9">
   </a>
 </div>
 
@@ -992,8 +992,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 ## <span style="color: #7F82BB;">富士山地区</span>
 
 <div class="my_section_hero" style="">
-  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3969_revised.JPG.jpeg')"></div>
-  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3954_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3969_revised.webp')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_3954_revised.webp')"></div>
   <div class="my_section_hero_content" style="">
     富士山 The Mount Fuji
   </div>
@@ -1020,11 +1020,11 @@ permalink: /personal-tags/Japan-Tour-Plan
 “合目”是日语中的一个单位，一合目表示从山脚到山顶高度的十分之一。富士山拥有路况良好的上山公路，可从山脚乘车（或自驾）到达富士山五合目，一路上有众多标志与观景台可打卡。富士山五合目是富士山景区最大的休息、补充营地，有着许多食品店与纪念品商店，同时还拥有富士邮便局与富士山小御岳神社！<span class="info_span" style="">对于不要求到达富士山顶的游客而言，富士山五合目非常适合作为富士山景区的最终目的地。</span>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 133115.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-22 134414.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1219,17 +1219,17 @@ permalink: /personal-tags/Japan-Tour-Plan
 富士五湖同时是极佳的、恰到好处的欣赏富士山的地点，非常适合作为富士山之旅的“前菜”。富士五湖附近有修建良好的公路，对于拥有国际驾照 (international driving permit, IDP) 的游客而言，自驾富士五湖无疑是绝佳的选择。（富士山五合目也可自驾到达。）<span class="reveal-on-hover">（对不起, ptr!）</span>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3940.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3940.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3940.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3940.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3954.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3954.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3954.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3954.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/2025-06-21 201158.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3969.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3969.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_3969.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_3969.webp" alt="Image 4">
   </a>
 </div>
 
@@ -1278,8 +1278,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 </div>
 
 <div class="my_section_hero" style="">
-  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4315_revised.JPG.jpeg')"></div>
-  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4581_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4315_revised.jpeg')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4581_revised.jpeg')"></div>
   <div class="my_section_hero_content" style="">
     京都 Kyoto
   </div>
@@ -1309,8 +1309,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 清水寺位于京都市东山区，建于公元778年，是京都最古老的寺院。它山号为音羽山，主要供奉千手观音。清水寺是京都最为有名的景点之一，它的本堂（即正殿）是每个前往清水寺的游客必然打卡的地点。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 081428.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">清水寺的本堂。</figcaption>
 </div>
 
@@ -1353,8 +1353,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 三十三间堂位于京都市东山区，建于1164年，是天台宗妙法院的境外佛堂。“间”是日本的长度单位，一间约合1.8米。江户年代以前三十三间堂约59.4米长，故得名。三十三间堂的本堂中展出了大量保存完好的木制雕刻千手观音像，是难得一见的珍品。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4147.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4147.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4147.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4147.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">雨中，三十三间堂外庭院景色。<span class="warning_span" style="">三十三间堂内部禁止拍照摄影</span>。</figcaption>
 </div>
 
@@ -1393,16 +1393,16 @@ permalink: /personal-tags/Japan-Tour-Plan
 南禅寺位于京都市东山区，建于1291年，侍奉释迦如来，山号为瑞龙山。三门是南禅寺的正门，雄伟且富有日本、中国的古代建筑的气息，其房梁上的固定结构也值得观察一番。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4159.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4159.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4159.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4159.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">南禅寺的三门。</figcaption>
 </div>
 
 南禅寺院内的琵琶湖疏水水路阁遗迹也颇有意思。它最初由田边朔郎设计用于给周边众多的日本庭院供水，并在1888年建造完成。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4165.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4165.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4165.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4165.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">琵琶湖疏水水路阁遗迹。</figcaption>
 </div>
 
@@ -1444,8 +1444,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 禅林寺最为美丽的季节是秋季，届时禅林寺内枫叶飘飘，使人恍如隔世。禅林寺内有可以进入的日式建筑，在内部可以仔细地揣摩它置身其中的日本庭园。建筑还通往南禅寺的本堂，可以欣赏幽静庄严的僧人修习之所与精美的佛像。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4190.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4190.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4190.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4190.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">在建筑内拍摄的南禅寺内的庭院。</figcaption>
 </div>
 
@@ -1579,17 +1579,17 @@ permalink: /personal-tags/Japan-Tour-Plan
 京都迎宾馆内部装饰是十分典型的日本和室风格。大到挂画、地板、屋顶，小到花纹、灯光角度、桌椅排布，京都迎宾馆可以称为无微不至地精心装饰了每一个细节。迎宾馆内有多个房间，它们的用途在访客来临时不尽相同，但都以“XX之间”命名。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4560.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4560.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4560.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4560.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4581.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4581.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4581.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4581.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4580.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4580.JPG.jpeg" alt="Image 3">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4580.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4580.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4559.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4559.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4559.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4559.webp" alt="Image 4">
   </a>
 </div>
 
@@ -1598,11 +1598,11 @@ permalink: /personal-tags/Japan-Tour-Plan
 除室内的各种精美装饰，迎宾馆也拥有相当丰富的日式庭院景观。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4583.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4583.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4583.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4583.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4585.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4585.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4585.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4585.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1643,11 +1643,11 @@ permalink: /personal-tags/Japan-Tour-Plan
 二条城建于1603年，位于京都市中京区。二条城是江户幕府初代德川家康在京都落脚、住宿以及拜见天皇的地方。1867年，著名的“大政奉还”仪式在二条城举行，标志着日本长达682年的幕府时代结束。广义上，二条城代指每一任幕府将军在京都的住所，因此其位置上在历史上发生过多次变化。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4348.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4348.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4348.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4348.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4350.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4350.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4350.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4350.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1728,11 +1728,11 @@ permalink: /personal-tags/Japan-Tour-Plan
 北野天满宫是位于京都市上京区的神社。它供奉学问之神菅原道真，相当于日本的文庙，适合在此求学业御守り。<span class="reveal-on-hover">你会许什么愿呢？</span>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4337.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4337.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4337.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4337.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4343.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4343.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4343.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4343.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1771,8 +1771,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 金阁寺（又称鹿苑寺）位于京都市北区。它是足利义满的别墅，后改为禅寺。金阁寺的最主要建筑物是舍利殿，其外层在20世纪80年代使用金漆与金箔重新装饰，使用了约1.6吨纯黄金，现价值约1.7亿美元。如此高价值的的物体赫然出现在眼前，很难不让人感叹！
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4315.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4315.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4315.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4315.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">金阁寺的舍利殿。</figcaption>
 </div>
 
@@ -1818,11 +1818,11 @@ permalink: /personal-tags/Japan-Tour-Plan
 银阁寺（本名慈照寺）位于京都市左京区，创立者为室町幕府将军足利义政，山号为东山。由于寺内的观音殿被称为“银阁”，因此得名，与金阁寺（鹿苑寺）遥相呼应。相较于金阁寺的辉煌，银阁寺则以它朴素而优雅的建筑与庭院闻名。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4244.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4244.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4244.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4244.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4239.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4239.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4239.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4239.webp" alt="Image 2">
   </a>
 </div>
 
@@ -1834,8 +1834,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 
 <b>景区地图</b>：
 <div style="text-align: center; margin-bottom: 1.3em;">
-  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.jpg">
-  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/2025-06-23 150637.webp" alt="" style="max-width: 90%; height: auto;"></a>
 </div>
 
 <b>预计游览时间</b>：1小时。
@@ -1940,17 +1940,17 @@ permalink: /personal-tags/Japan-Tour-Plan
 位于京都市左京区北边的神社。贵船神社被京都北部的群山环绕，环境颇为幽静。走在山路两旁，不时有色彩鲜明的灯笼出现，给人柳暗花明之感。位于最高处的奥宫（贵船神社的主殿）更是被数棵参天大树隐匿其中。站在神社前，似能被神明点醒。这里还有特色的<span class="info_span" style="">水占卜</span>可供体验。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4383.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4383.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4383.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4383.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4388.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4388.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4388.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4388.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4398.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4398.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4398.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4398.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4395.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4395.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4395.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4395.webp" alt="Image 2">
   </a>
 </div>
 
@@ -2003,8 +2003,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 <p>岚山竹林小径位于天龙寺旁，距离地铁站约15分钟步行距离。竹林小径是岚山的必打卡景点之一，（在没有人时）曲径幽深，颇有美感。</p>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4282.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4282.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4282.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4282.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">岚山竹林小径。</figcaption>
 </div>
 
@@ -2049,8 +2049,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 <p>天龙寺位于地铁岚山站西北边步行约10分钟处。天龙寺建于1339年，其等级位列京都市五大禅寺之首。其内有诸堂参拜区、法堂云龙图等观光景点。天龙寺曾经规模庞大，由一系列建筑组成。然而部分建筑在历史中已被毁坏，现存建筑只是天龙寺建成时的一小部分。天龙寺的本堂可进入参观，零距离感受日本和室。</p>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4275.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4275.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4275.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">天龙寺外景。</figcaption>
 </div>
 
@@ -2104,16 +2104,16 @@ permalink: /personal-tags/Japan-Tour-Plan
 <p>渡月桥位于天龙寺东南方向约5分钟步行距离之处。它最初建于836年，后经多次维护重修。现在的渡月桥建于1934年。渡月桥全长仅155米，横跨岚山旁的桂川。渡月桥是岚山景区的标志性景点之一，在春秋季时同样是赏樱与赏红叶的绝佳观景点。</p>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4308.JPG">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4308.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4308.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4308.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">岚山景区的渡月桥，桥下即是桂川。</figcaption>
 </div>
 
 <p>可以乘坐人力车游览渡月桥，亦可以租船在桥下的桂川中游玩。渡月桥附近还有周恩来纪念碑，值得一去。</p>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4307.JPG">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4307.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4307.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4307.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">位于渡月桥附近的周恩来纪念碑。</figcaption>
 </div>
 
@@ -2162,11 +2162,11 @@ permalink: /personal-tags/Japan-Tour-Plan
 伏见稻荷大社是位于京都市伏见区的神社，亦是伏见稻荷社的本社，供奉稻荷大神。适宜求商业和爱情的御守り。<span class="info_span" style="">内有著名的千本鸟居</span>。据传说称，稻荷大神在奈良时代的711年就已镇座于稻荷山，至今已有超过1300年历史。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4525.JPG" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4525.JPG" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4525.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4525.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4529.JPG" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4529.JPG" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4529.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4529.webp" alt="Image 2">
   </a>
 </div>
 
@@ -2209,22 +2209,22 @@ permalink: /personal-tags/Japan-Tour-Plan
 东寺内的主要建筑包括金堂（国宝）、讲堂（重要文化财）、五重塔（国宝），其中最著名的非其五重塔莫属，它是日本最高的木制塔，被视为京都的象征。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4269.JPG" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4269.JPG" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4269.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4269.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4268.JPG" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4268.JPG" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4268.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4268.webp" alt="Image 2">
   </a>
 </div>
 
 <figcaption style="text-align: center; margin-top: 0em; margin-bottom: 1.3em;"><b>左</b>：东寺的金堂；<b>右</b>：东寺的讲堂。</figcaption>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4265.JPG" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4265.JPG" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4265.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4265.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4270.JPG" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4270.JPG" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4270.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4270.webp" alt="Image 2">
   </a>
 </div>
 
@@ -2325,17 +2325,17 @@ permalink: /personal-tags/Japan-Tour-Plan
 唐招提寺位于奈良市五条町，<span class="info_span" style="">是759年中国唐代高僧鉴真东渡日本期间亲自规划修建的寺院</span>。寺院整体采用了盛唐时期的建筑风格。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4444.JPG">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4444.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4444.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4444.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">唐招提寺的金堂。</figcaption>
 </div>
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4448.JPG" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4448.JPG" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4448.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4448.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4450.JPG" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4450.JPG" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4450.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4450.webp" alt="Image 2">
   </a>
 </div>
 
@@ -2378,8 +2378,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 东大寺位于奈良市杂司町，由日本圣武天皇建于728年。东大寺正面宽度57米，深50米，是<span class="info_span" style="">世界上最大的木质建筑</span>。东大寺内的佛像也十分巨大，令人震撼而敬畏。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4462.JPG">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4462.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4462.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4462.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">东大寺的正面，其建筑之庞大一目了然。</figcaption>
 </div>
 
@@ -2430,8 +2430,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 奈良公园位于奈良市若草山麓。除了一般的公园拥有的景色外，奈良公园最大的特色是可以免费撸小鹿，有兴趣的话还可以在旁边的商铺买200日元一份的鹿饼投喂。此外，奈良公园位于奈良市近乎中心的区域，距离奈良的几个重要景点（如东大寺、春日大社、若草山等）距离不远，是很方便前往的公园。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4467.JPG.jpeg">
-  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4467.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4467.webp">
+  <img src="/assets/images/Travel/Japan Tour Plan/IMG_4467.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">奈良公园的可爱小鹿。</figcaption>
 </div>
 
@@ -2546,8 +2546,8 @@ permalink: /personal-tags/Japan-Tour-Plan
 ## 大阪府
 
 <div class="my_section_hero" style="">
-  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4646_revised.JPG.jpeg')"></div>
-  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4609_revised.JPG.jpeg')"></div>
+  <div class="my_section_hero_image image-light" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4646_revised.webp')"></div>
+  <div class="my_section_hero_image image-dark" style="background-image: url('/assets/images/Travel/Japan Tour Plan/IMG_4609_revised.webp')"></div>
   <div class="my_section_hero_content" style="">
     大阪 Osaka
   </div>
@@ -2568,11 +2568,11 @@ permalink: /personal-tags/Japan-Tour-Plan
 如今的大阪城从本质上并不是真正的历史古迹，但它的结构与样貌都参照了丰臣与德川时代的大阪城原迹。如今的大阪城天守阁更像是一个讲述大阪城与天守阁的历史博物馆，内有非常丰富的有关历史资料。在天守阁的顶楼还可一览大阪市区的风采。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4642.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4642.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4642.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4642.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4624.JPG.jpeg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4624.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Japan Tour Plan/IMG_4624.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Japan Tour Plan/IMG_4624.webp" alt="Image 2">
   </a>
 </div>
 

@@ -44,8 +44,8 @@ permalink: /personal-tags/chicago-river-tour
 </blockquote>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 174547.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1.5em;">芝加哥天际线，摄于韦莱集团大厦 (Willis Tower)。</figcaption>
 </div>
@@ -79,8 +79,8 @@ permalink: /personal-tags/chicago-river-tour
 19世纪中期以前，芝加哥河始终从芝加哥西部地区的平原缓慢地流向密西根湖。缓慢的水流使得芝加哥河的水体难以有效地新陈代谢，从而导致了水体污染的问题。每逢恶劣天气，大量的污水更是直接涌入芝加哥河与密西根湖，加剧了芝加哥河的污染情况与芝加哥地区的水资源短缺问题。长期的水体污染问题还诱导了一系列的公共卫生问题，尤其是霍乱、伤寒等传染病。1887年，<a href="https://www.ilga.gov/">伊利诺伊州议会 (Illinois General Assembly) </a>正式决定通过人造工程改变芝加哥河的流向。这项艰巨的工程在芝加哥西南部修建了一条长达 28 miles（约合45公里）的芝加哥运河 (Chicago Sanitary and Ship Canal)，以连接芝加哥河南支与德斯普兰斯河 (Des Plaines River)，并于1900年最终完全改变了芝加哥河主要支流的流向。这项工程一举解决了芝加哥河的水体污染问题，并且打通了密西根湖与密西西比河之间的水上交通通道，为后续芝加哥的经济发展奠定了基础。芝加哥运河至今仍然是连接密西根湖与密西西比河的唯一水道。1999年，芝加哥河的水体治理计划与流向逆转工程被美国土木工程师学会 (American Society of Civil Engineers) 评选为人造工程的千年纪念碑 (Civil Engineering Monument of the Millennium)。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.jpg" alt="" style="max-width: 80%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/chronologyofcanal1900.webp" alt="" style="max-width: 80%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1em;">历史上芝加哥运河工程从提出到最后实现的主要节点。Credit: <a href="https://chicagology.com/harbor/riverreversal/" class="custom-link-3">https://chicagology.com/harbor/riverreversal/.</a></figcaption>
 </div>
@@ -111,8 +111,8 @@ permalink: /personal-tags/chicago-river-tour
 箭牌大厦坐落于芝加哥北密西根大道 (North Michigan Avenue) 南部400-410号，密西根大道桥的西北角，同时也位于芝加哥著名的“<a href="https://www.google.com/search?q=The+Magnificent+Mile&oq=The+Magnificent+Mile&gs_lcrp=EgRlZGdlKgkIABBFGDkYgAQyCQgAEEUYORiABDIGCAEQABgeMgYIAhAAGB4yBggDEAAYHjIGCAQQABgeMgYIBRAAGB4yBggGEAAYHjIGCAcQABge0gEHMTI3ajBqMagCALACAA&sourceid=chrome&ie=UTF-8" class="custom-link-3">华丽一英里 (The Magnificent Mile)</a>”与芝加哥河交界处。箭牌集团的创始人William Wrigley Jr.于1910年前后决定在芝加哥修建这座大厦作为箭牌集团的总部。大厦于1920年正式开始修建，包含南塔与北塔两个部分。南塔于1921年完工，北塔于1924年完工完工。这座建筑的灵感来源于西班牙的塞维利亚主教座堂 (Seville Cathedral) 的钟楼与法国文艺复兴时期 (Renaissance) 的建筑风格。每座塔的六个面都由非常特殊的明亮白色陶瓦覆盖。芝加哥于1893年的世界博览会中获得了“白城 (White City)”的称号，据称 William Wrigley Jr. 在考虑这座建筑的外观时，受到了“白城”的启发。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Wrigley_Building_1.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">箭牌大厦。Credit: <a href="https://en.wikipedia.org/wiki/Wrigley_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Wrigley_Building</a>.</figcaption>
 </div>
@@ -160,8 +160,8 @@ permalink: /personal-tags/chicago-river-tour
 马利纳城位于 300 N State St, 60654, 坐落于芝加哥河的北岸。它有着酷似玉米棒的独特外形，使得它能够被一眼辨认出来。然而，马利纳城的独特之处还远不止它的外形。马利纳城由两座外观与内部结构都几乎一模一样的“城”组成，它们于1959年由建筑师 Bertrand Goldberg 设计，并最终在1969年建造完成。Bertrand Goldberg 在设计这座建筑时，基于了一个在当时看来非常前卫的想法：城中之城 (City within a city)。即这座建筑并不单一地用作住宅或者写字楼，而是能够完整地配套一座城市所有的最基本的设施，拥有一座城市的基本功能。这个想法也在后来马利纳城的建造中得到了实现。马利纳城的任何一座“城”的最下方19层是螺旋形的停车场，用于给“城”内的住户提供停车位。20-60层则是住宅区，包括了住户的房间、超市与药店、餐馆、酒吧、游泳池、健身房等等。61层是一个开放式的全景观景台。“城”的地下则是一座大型船坞，用于停靠住户或访客的游艇。
 
 <div style="text-align: center;">
-    <a href="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg" target="_blank">
-    <img src="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.jpg" alt="Click to view larger image" style="max-width: 40%; height: auto;">
+    <a href="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.webp" target="_blank">
+    <img src="/assets/images/Travel/Chicago River Tour/Marina_City,_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_01.webp" alt="Click to view larger image" style="max-width: 40%; height: auto;">
 </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">马利纳城。Credit: <a href="https://en.wikipedia.org/wiki/Marina_City" class="custom-link-3">https://en.wikipedia.org/wiki/Marina_City</a>.</figcaption>
 </div>
@@ -212,8 +212,8 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 建造如此庞大的建筑自然非易事。装载着水泥原料的巨大货船开到芝加哥河的交叉口，水泥原料由压缩空气运送至20米高处，建筑内有巨大的水泥搅拌机，搅拌后的水泥被运送到垂直塔吊上的货机中，塔吊也随着建造进程的不断推进而被不断延长；建造所用的沙子和石砾则由火车直接运输到施工工地附近，而后由长传送带和运输电梯运送到高处的施工工地。自1928年芝加哥商品市场动工，至1930年最终建成，这个庞然大物消耗了两千九百万块砖、40 miles （约合64公里）长的管道、380 miles （约合610公里）长的线路、三百一十万立方米的混凝土、五千七百立方米的的石头以及六万吨钢铁。建成之后，整个建筑物一共包含4000扇窗户、建筑物内有多达30座电梯。建筑前后，共有约5700人直接参与了这项工程的修建。整个工程的耗资在当时超过了两千六百万美元。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Merchandise_Mart_080405.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em;">芝加哥商品市场。Credit: <a href="https://en.wikipedia.org/wiki/Merchandise_Mart#" class="custom-link-3">https://en.wikipedia.org/wiki/Merchandise_Mart#</a>.</figcaption>
 </div>
@@ -221,8 +221,8 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 芝加哥商品市场使用了装饰风艺术 (Art Deco) 的建筑风格。它的外观与内部装饰都非常精致。装饰风艺术在20世纪上半叶非常流行，它强调了建筑物上的几何图案、装饰细节、对称结构。著名的使用了装饰风艺术的建筑包括了纽约的克莱斯勒大厦 (Chrysler Building)、帝国大厦 (Empire State Building)、洛克菲勒中心 (Rockefeller Center)，法国的镀金门宫殿 (Palais de la Porte Dorée)，中国上海的上海大厦 (Shanghai Tower)，和平饭店 (Peace Hotel) 等等。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 115728.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">近距离的芝加哥商品市场。</figcaption>
 </div>
@@ -263,8 +263,8 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 与我们一般见到的桥不同，芝加哥河上横跨的桥，大多数是可移动的 (Movable)，这并不是指这座桥可以沿着河道自由地移动到需要它的位置，而是指这座桥可以在需要的时候“抬起”或“放下”，供下方的船只通过。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.jpeg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/Madison_Street_Bridge.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em;">正要抬起的位于麦迪逊大街 (Madison Street) 上的 Lyric Opera Bridge. Credit: <a href="https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)" class="custom-link-3">https://en.wikipedia.org/wiki/Madison_Street_Bridge_(Chicago)</a>.</figcaption>
 </div>
@@ -274,8 +274,8 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 虽然如今芝加哥河上有着众多的桥，穿越芝加哥河并非难事，但是在19世纪20年代，为了穿越芝加哥河到达对岸，人们需要颇费周折。当时常见的交通工具包括渡船和木筏。建造一座方便通行的，永久性的桥的提议很早就被人们提出了，但是反对的声音也不绝于耳。一是当时的芝加哥河的南北两岸的发展情况有很大差异，南岸的经济状况要明显好于北岸，因此南岸的商人担心建议一座连接南北两岸的桥会使得他们的生意被北岸抢走；二是有许多人的职业与芝加哥河的通行密切相关，例如他们是渡船的船主、船夫、木筏的制造者或者为这些人提供伙食、住宿的服务商，他们担心桥的建造会使得他们失业；三是当时芝加哥河上的贸易运输非常繁忙，人们担心桥的建造会阻挡大型船只进入芝加哥的港口。基于种种情况，桥的建造计划被搁置了很长时间。1832年，北岸的居民完全出资在如今 Kinzie Street 附近修建了第一座供行人与马车通行的，连通芝加哥河南北两岸的桥，它也是芝加哥河历史上第一座永久性的桥。随后，芝加哥河上修建了越来越多的类似的连接南北两岸的人行桥。第一座可移动的桥建于1834年，位于如今的 Dearborn Street 附近。然而，这座桥存在着严重的设计缺陷，这使得它在使用过程中经常出现故障，导致无法正常地“抬起”与“落下”，影响了交通通行。严重时，桥梁的故障会导致河两岸的行人与车辆需要等待数个小时甚至数天时间。第一座穿越芝加哥河的铁路桥于1852年建成，地点同样位于 Kinzie Street 附近。如今，芝加哥是世界上拥有可移动桥数量第二多的城市，第一多的则是荷兰的阿姆斯特丹 (Amsterdam)。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/chicagoriver1931.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/chicagoriver1931.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/chicagoriver1931.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/chicagoriver1931.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em;margin-bottom: 1.5em;">1931年时的芝加哥河景象<span class="small-text" style="color: gray;"><em>（这是今天芝加哥的哪里呢？）</em></span>。Credit: <a href="https://chicagology.com/harbor/riverbridges/" class="custom-link-3">https://chicagology.com/harbor/riverbridges/</a>.</figcaption>
 </div>
@@ -334,8 +334,8 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 现存在芝加哥的桥梁小屋一共有70座，分布在芝加哥河的三条主要支流上。桥梁维护员曾经日夜待在这些小屋中，监视着桥梁的状态。然而，随着时代的演变，如今开往芝加哥的主要的贸易商船都不再驶入芝加哥河内部，而是停泊于芝加哥港 (Port of Chicago)，桥梁维护员的工作时间也大大缩短。如今，仅有7座桥梁小屋为24小时值守，大部分桥梁小屋在全年95%以上的时间都处于无人值守状态，桥梁维护员也仅仅会在特定的桥梁需要“抬起”的日期到达这些桥梁小屋。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Bridge_Tender_House.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/THP-map-01.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/Bridge_Tender_House.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/THP-map-01.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">芝加哥河上现存的桥梁小屋以及它们的位置。Credit: <a href="https://www.tenderhouseproject.com/chicagobridgehouses" class="custom-link-3">https://www.tenderhouseproject.com/chicagobridgehouses</a>.</figcaption>
 </div>
@@ -437,7 +437,7 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 芝加哥歌剧院位于 20 N Wacker Drive, Chicago, IL 60606. 它建于1929年，坐落在芝加哥河南支的东侧河岸，至今已有近100年的历史。在它最初建成的时候，它是芝加哥市民歌剧公司 (Chicago Civic Opera). 然而，芝加哥市民歌剧公司在美国大萧条时期破产，公司几经破产与重组，在1954年重组并且重新命名为 Lyric Opera of Chicago. 自那之后，芝加哥歌剧院一直是 Lyric Opera of Chicago 的总部所在地。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/Lyric_Opera_of_Chicago.jpg" target="_blank">
+  <a href="/assets/images/Travel/Chicago River Tour/Civic_Opera_House_060528.jpg" target="_blank">
   <img src="/assets/images/Travel/Chicago River Tour/Civic_Opera_House_060528.jpg" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em;">芝加哥歌剧院外貌（背面）。Credit: <a href="https://en.wikipedia.org/wiki/Civic_Opera_Building" class="custom-link-3">https://en.wikipedia.org/wiki/Civic_Opera_Building</a>.</figcaption>
@@ -477,8 +477,8 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 </blockquote>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 121300.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">芝加哥歌剧院的背面，"BVILDING" 一词清晰可见。</figcaption>
 </div>
@@ -538,17 +538,17 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 <a href="https://theskydeck.com/" class="custom-link-3">Skydeck</a> 是位于韦莱集团大厦内部的观景台，位于大厦的第103层。Skydeck 是美国境内最高的室内观景台。在此，你可以从东西南北一览芝加哥的城市风貌。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180030.webp" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
   </a>
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171337.webp" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
   </a>
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.jpg" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 180347.webp" alt="" style="max-width: 90%; height: auto; margin-bottom: 1.5em;}">
   </a>
-  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.jpg" target="_blank">
-  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.jpg" alt="" style="max-width: 90%; height: auto;}">
+  <a href="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.webp" target="_blank">
+  <img src="/assets/images/Travel/Chicago River Tour/2024-10-16 171037.webp" alt="" style="max-width: 90%; height: auto;}">
   </a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.5em;">摄于Skydeck. 四张照片分别对应东、南、西、北四个方向。</figcaption>
 </div>
@@ -573,16 +573,16 @@ Bertrand Goldberg “城中之城”的构思背后，是美国部分城市在20
 芝加哥瑞吉酒店位于芝加哥河干流东侧靠近密西根湖处。它建于2020年，高1198英尺（约合365米），共93层，是芝加哥第三高的建筑物，仅次于<a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E9%9F%A6%E8%8E%B1%E9%9B%86%E5%9B%A2%E5%A4%A7%E5%8E%A6-willis-tower--" class="custom-link-3">韦莱集团大厦</a>与特朗普大厦 (Trump International Hotel and Tower)，它同时是芝加哥21世纪以来建成的最高的建筑物。顾名思义，瑞吉酒店的主要作用是酒店住宿，它的内部主要由瑞吉集团运营。瑞吉酒店的前十层包含192个酒店房间，其余部分则是住宅区，共有393套非凡的湖景房。<span class="reveal-on-hover">猜猜一套湖景房要多少钱呢？</span>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.jpg">
-  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.jpg" alt="" style="max-width: 70%; height: auto;"></a>
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.webp">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125028.webp" alt="" style="max-width: 70%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">于游船上拍摄的芝加哥瑞吉酒店。</figcaption>
 </div>
 
 瑞吉酒店由三栋高度递增的建筑组成，它们的外表是颇有特色的海蓝色波纹，使人联想到起伏的海洋。为了保证大楼的稳定性，其内部采用了支撑核心筒结构 (buttressed core). 支撑核心筒结构由建筑物中央的主要承重柱与若干个附着在主承重柱上，并且连接地面的侧翼构成。这种结构与<a href="http://localhost:4000/blogs/travel/chicago-river-tour/#-%E6%B7%B7%E5%90%88%E7%AE%A1%E7%8A%B6%E7%BB%93%E6%9E%84-bundled-tube-structure-" class="custom-link-3">混合管状结构</a>截然不同，但同样能有效地分担建筑物各个部位的重量。瑞吉酒店内的支撑筒结构有三个呈现 "Y" 形的等角对称侧翼。为了抵抗风阻，瑞吉酒店的主塔的第83层采用了镂空的设计，即不包含任何装修，不设窗户，也没有任何电梯停靠，目的是使风能直接通过以减小风压。这是在瑞吉酒店的设计过程中，设计团队在进行了酒店的风洞模型试验后决定的。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.jpg">
-  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.webp">
+  <img src="/assets/images/Travel/Chicago River Tour/2023-10-22 125731.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">在芝加哥河干流与密西根湖交汇处拍摄的芝加哥东部的城市天际线。图中最高的建筑物即是芝加哥瑞吉酒店。</figcaption>
 </div>
 

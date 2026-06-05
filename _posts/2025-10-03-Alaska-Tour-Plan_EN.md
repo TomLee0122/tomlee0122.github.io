@@ -5,7 +5,7 @@ excerpt: |
   <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #A52A2A">🌳Into the Nature from Alaska.🌳</span>
   </div>
   <div>
-  <img src='/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.jpg' alt='' style='max-width: 40%; height: auto;'>
+  <img src='/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.webp' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>
 categories:
@@ -14,7 +14,7 @@ tags:
   - Travel
 # primary_tag: Travel
 my_wide_image: 
-  src: '/assets/images/Travel/Alaska Tour Plan/IMG_3163.JPG.jpeg'
+  src: '/assets/images/Travel/Alaska Tour Plan/IMG_3163.jpeg'
   src_dark: '/assets/images/Travel/Alaska Tour Plan/2025-03-27 010746.jpg'
   title: 'Alaska'
   subtitle: 'End of the World'
@@ -39,8 +39,8 @@ permalink: /personal-tags/Alaska-Tour-Plan_EN
 Alaska is located outside the contiguous United States, bordered by Canada to the east and separated from Russia by the Bering Strait to the west, with the Arctic Ocean to the north and the Pacific Ocean to the south. Alaska is the largest state in the U.S., with an area greater than the combined size of the next five largest states in the mainland. It is home to breathtaking natural landscapes such as snow-capped mountains, glaciers, lakes, rivers, and forests, along with an abundance of wildlife resources. This blog was originally prepared as a travel guide for the Alaska trip with V1ncent, Steven, Tina, and Chenghong from March 24 to April 2, 2025, covering the state’s major attractions and itinerary planning. The 10-day, 9-night journey was filled with the magnificent scenery of the far north, along with challenges, thrills, and the serenity of the return. In fond remembrance.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Map of Alaska.</figcaption>
 </div>
 
@@ -53,17 +53,17 @@ Alaska is located outside the contiguous United States, bordered by Canada to th
 Anchorage Museum was established in 1968 and is located in downtown Anchorage. It is the largest museum in Alaska, showcasing the state's history, natural landscapes, ecology, and indigenous cultures.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.jpg" alt="Image 4">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.webp" alt="Image 4">
   </a>
 </div>
 
@@ -194,8 +194,8 @@ Website: <a href="https://alaskabg.org/" class="custom-link-1">Alaska Botanical 
 Earthquake Park is located north of Ted Stevens Anchorage International Airport, at the southwest corner of the city of Anchorage. The park is dedicated to commemorating the Great Alaska Earthquake that occurred on March 27, 1964 (also known as Good Friday Earthquake, as it happened to fall on Good Friday). The earthquake had a magnitude of 8.5 and a moment magnitude of 9.2, making it the strongest earthquake ever recorded in North America and the second strongest earthquake globally since the advent of systematic seismic measurement methods in 1900. The earthquake triggered a tsunami, resulting in a total of 139 deaths and $300 million in damages in the Alaska region. The park contains existing geological features from the earthquake.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3362.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3362.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3362.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3362.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">A view in Earthquake Park, seemingly calm and showing no signs of the past earthquake.</figcaption>
 </div>
 
@@ -230,14 +230,14 @@ Website: No official website. For more information, please refer to <a href="htt
 Flattop Mountain is located in the southeastern suburbs of Anchorage and is one of the city's iconic attractions. The summit of Flattop Mountain has an elevation of about 1,070 meters, making it the highest peak in the Anchorage area. The summit offers panoramic views of the city, Cook Inlet, and the Alaska Range.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;"></figcaption>
 </div>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The view of Flattop Mountain.</figcaption>
 </div>
 
@@ -276,8 +276,8 @@ Website: No official website. For more information, please refer to <a href="htt
 At the meeting point of mountains, glaciers, and the ocean lies Kenai Fjords National Park, located in Seward, about 200 kilometers south of Anchorage. Kenai Fjords National Park is one of the most popular national parks in Alaska and the only one in the U.S. National Park System themed around glaciers. The park is home to numerous glaciers, marine life, and bird species.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Fishing boats docked at the Seward harbor.
 </figcaption>
 </div>
@@ -285,17 +285,17 @@ At the meeting point of mountains, glaciers, and the ocean lies Kenai Fjords Nat
 Boarding a cruise from Seward Harbor, we sailed along Resurrection Bay toward the waters where the southern part of Kenai Fjords National Park meets the North Pacific. The surface of Resurrection Bay, unlike the open ocean, is unusually calm and austere, creating a striking contrast with the marine animals that accompany the journey. The pristine forests lining both shores are part of the national park, yet in winter’s icy grip, they temporarily lose their vitality, leaving only the dark depths of the woods and the snow-capped peaks. According to the guide, in summer the scenery transforms completely, with the possibility of spotting mountain goats clinging to the cliffs.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3014.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3014.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3014.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3014.webp" alt="Image 4">
   </a>
 </div>
 
@@ -347,8 +347,8 @@ Phone: Kenai Fjords Tours: +1 800-808-8068; Major Marine Tours: +1 800-764-7300;
 The University of Alaska Museum of the North is located on the University of Alaska campus in the northwest corner of downtown Fairbanks, and its exterior resembles an igloo. The museum's theme is the history, nature, and local culture of the Arctic region.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3182.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3182.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3182.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3182.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The exterior of the University of Alaska Museum of the North resembles an igloo.</figcaption>
 </div>
 
@@ -394,8 +394,8 @@ Website: <a href="https://www.uaf.edu/museum/" class="custom-link-1">University 
 The Morris Thompson Cultural & Visitors Center is located in the northern part of downtown Fairbanks and serves as a comprehensive center for visitor information, cultural exhibits, and community events.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3243.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3243.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3243.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3243.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">A model airplane inside the Morris Thompson Cultural Center.</figcaption>
 </div>
 
@@ -512,8 +512,8 @@ Website: <a href="http://icemuseum.com/" class="custom-link-1">Fairbanks Ice Mus
 Running Reindeer Ranch is a family-owned establishment where the owners have spent decades living alongside reindeer. Here, you can listen to the ranchers explain the fascinating habits, unique personalities, and life journeys of these amazing animals. You can even experience close encounters with the reindeer, take photos while holding a fawn, and purchase gifts made from shed antlers at the end of your visit. <span class="reveal-on-hover">The hot chocolate provided is also wonderfully warming, isn't it, ptr?</span>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3186.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3186.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3186.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3186.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Inside Running Reindeer Ranch.</figcaption>
 </div>
 
@@ -556,27 +556,27 @@ Website: <a href="https://runningreindeer.com/" class="custom-link-1">Running Re
 The road of the brave to the Arctic! The Dalton Highway stretches 666 kilometers from Fairbanks to Deadhorse, next to the Arctic Ocean. Built in 1974 for the construction of the Alaska oil pipeline, most of the road is unpaved and is one of the most remote and treacherous roads in the United States. The Dalton Highway offers stunning scenery, crossing the Arctic Circle, the Alaska Range, and the Arctic tundra, and passes through another national park in Alaska: Gates of the Arctic National Park and Preserve. The famous Arctic Circle sign is located at 65°52′50″N, 185 kilometers along the Dalton Highway (near Coldfoot).
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3194.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3194.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3194.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3194.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The starting point sign of the Dalton Highway.</figcaption>
 </div>
 
 Although Alaska has countless breathtaking landscapes, the scenery along the Dalton Highway left the deepest impression on me. Departing from Fairbanks, the urban landscape was quickly left behind, replaced by vast, mysterious white plains, rolling hills, unreachable snow-capped mountains in the distance, and a lonely road stretching into the unknown. For hundreds of kilometers, the route was almost entirely uninhabited, with no houses or even cell signal, only the occasional truck and swirling dust reminding us of human existence. The sights along the Dalton Highway may not be as spectacular as many other attractions in Alaska, but the eternal tranquility and solitude are even more moving.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/DSC01957.JPG">
-  <img src="/assets/images/Travel/Alaska Tour Plan/DSC01957.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/DSC01957.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/DSC01957.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The Dalton Highway, permafrost, and distant snow-capped mountains.</figcaption>
 </div>
 
 After crossing the Yukon River, the Dalton Highway welcomes its only supply station in the first half: the Yukon River Supply Station. Here, you can replenish food and fuel (due to the distance from the city, the fuel price here is twice that of Fairbanks), and you can also send a postcard from the Yukon River.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3213.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3213.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3213.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3213.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.jpg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.webp" alt="Image 2">
   </a>
 </div>
 
@@ -585,19 +585,19 @@ After crossing the Yukon River, the Dalton Highway welcomes its only supply stat
 When we reached the Arctic Circle sign, it was already 7:30 PM, and the sky was getting darker, but it recorded the moment when a group of people first entered the Arctic Circle.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3221.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3221.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3221.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3221.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The Arctic Circle sign, a symbol of bravery!</figcaption>
 </div>
 
 When we returned from the Arctic Circle sign, it was already 8:30 PM. The return journey was anything but straightforward. As night gradually fell, the temperature outside the car dropped below zero, and all the sights of the day were slowly swallowed by darkness. The fuel gauge showed only half a tank remaining. To make matters worse, shortly after leaving the Arctic Circle sign, the vehicle emitted a tire pressure warning: the pressure in the right rear tire was slowly decreasing. This was like a bolt from the blue—the Yukon River Supply Station had already closed, and Fairbanks was nearly 400 kilometers away. If the tire were to lose all its pressure, we would be unable to safely navigate the icy mountain roads and would have to wait for rescue in the desolate wilderness.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3226.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3226.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3226.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3226.webp" alt="Image 2">
   </a>
 </div>
 
@@ -606,8 +606,8 @@ When we returned from the Arctic Circle sign, it was already 8:30 PM. The return
 Fortunately, things did not get worse. The rate of tire pressure loss was not as fast as we had imagined, and a rough estimate told us that there was still some room for maneuver. Under the starry sky, two faint headlights slowly moved forward in the darkness. Nature is great and awe-inspiring, the vast night marks 14 hours of isolation from the world. In a daze, it seemed that we really merged into this darkness, wandering in the boundless universe and starlight.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">The starlight during the return journey.</figcaption>
 </div>
 
@@ -648,11 +648,11 @@ It was 3:30 AM when we returned to our accommodation in Fairbanks. After 14 hour
 Matanuska Glacier is located on the Eastern Loop (Glenn Highway) connecting Anchorage and Fairbanks, about 160 kilometers northeast of Anchorage. It is one of the largest glaciers in Alaska and the largest accessible by car in the world. The Matanuska River originates from the meltwater of Matanuska Glacier.
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3082.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3082.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3082.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3082.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3101.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3101.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3101.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3101.webp" alt="Image 2">
   </a>
 </div>
 
@@ -700,14 +700,14 @@ Website: <a href="https://glacier-tours.com/matanuska-glacier-tours-in-winter/" 
 Denali National Park and Preserve is located along the George Parks Highway, connecting Anchorage and Fairbanks, approximately 380 kilometers from Anchorage and 200 kilometers from Fairbanks. The park is centered around North America's highest peak, Denali (formerly known as Mount McKinley, with an elevation of 6,190 meters), and covers about 24,585 square kilometers. The park is home to a variety of wildlife, including brown bears, caribou, wolves, and moose.
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Denali National Park and Preserve sign.</figcaption>
 </div>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3279.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3279.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3279.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3279.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">Near Denali National Park and Preserve, the frozen Nenana River in winter and the bridge spanning it. This bridge is part of the Western Loop.</figcaption>
 </div>
 
@@ -716,17 +716,17 @@ Denali National Park and Preserve has a visitor center where you can pick up inf
 Denali National Park and Preserve has many hiking trails, with a wide range of difficulty levels and required times, suitable for hikers of all levels!
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3331.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3331.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3331.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3331.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3303.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3303.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3303.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3303.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3311.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3311.JPG.jpeg" alt="Image 3">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3311.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3311.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3326.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3326.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3326.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3326.webp" alt="Image 4">
   </a>
 </div>
 
@@ -763,8 +763,8 @@ Website: <a href="https://www.nps.gov/dena/index.htm" class="custom-link-1">Dena
 <b>Park Map (From the <a href="https://www.nps.gov/dena/planyourvisit/maps.htm#onthisPage-0" class="custom-link-1">official website of Denali National Park</a>)</b>：
 
 <div style="text-align: center;margin-bottom: 1.5em;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png" target="_blank">
-    <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png " alt="Click to view larger image" style="max-width: 90%; height: auto;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/Denali_Map.webp" target="_blank">
+    <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.webp" alt="Click to view larger image" style="max-width: 90%; height: auto;">
   </a>
 </div>
 

@@ -5,14 +5,14 @@ excerpt: |
   <span style="font-family: 'Lucida Handwriting';font-size:1.2em;color: #A52A2A">🌳Into the Nature from Alaska.🌳</span>
   </div>
   <div>
-  <img src='/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.jpg' alt='' style='max-width: 40%; height: auto;'>
+  <img src='/assets/images/Travel/Alaska Tour Plan/2025-03-27 011018.webp' alt='' style='max-width: 40%; height: auto;'>
   <hr style="width: 100%; height: 2px; background-color:#b8b8b8; border: none;">
   </div>
 # tags:
 #   - Travel
 # primary_tag: Travel
 my_wide_image: 
-  src: '/assets/images/Travel/Alaska Tour Plan/IMG_3163.JPG.jpeg'
+  src: '/assets/images/Travel/Alaska Tour Plan/IMG_3163.jpeg'
   src_dark: '/assets/images/Travel/Alaska Tour Plan/2025-03-27 010746.jpg'
   title: '阿拉斯加'
   subtitle: '世界尽头'
@@ -38,8 +38,8 @@ permalink: /personal-tags/Alaska-Tour-Plan
 阿拉斯加位于美国本土以外，东与加拿大接壤，西与俄罗斯隔白令海峡相望，北临北冰洋，南濒太平洋。阿拉斯加是美国最大的州，其面积超过美国本土面积前五的州的总和。阿拉斯加拥有令人叹为观止的雪山、冰川、湖泊、河流、森林等自然风光与极为丰富的野生动植物资源。本篇 blog 最初用于准备于2025年3月24日至4月2日与 V1ncent, Steven, Tina, Chenghong 的阿拉斯加之旅的攻略，介绍了阿拉斯加的主要旅行景点与行程规划。10天9晚的旅途充满了来自北国的壮丽风光，也不乏挑战、惊险与归途中的心旷神怡。谨以纪念。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/ATLAS-OF-PLACES-USGS-ALASKA-TOPOGRAPHIC-MAPS-GPH-1.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">阿拉斯加地图。</figcaption>
 </div>
 
@@ -52,17 +52,17 @@ permalink: /personal-tags/Alaska-Tour-Plan
 安克雷奇博物馆建于1968年，位于安克雷奇市区。安克雷奇博物馆是阿拉斯加州最大的博物馆，讲述了阿拉斯加的历史、自然风光、生态、当地土著文化等。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 123015.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103241.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 103733.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.jpg" alt="Image 4">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 112257.webp" alt="Image 4">
   </a>
 </div>
 
@@ -193,8 +193,8 @@ $12 青少年（3-15岁）；<br>
 地震公园位于泰德·史蒂文斯安克雷奇国际机场北部，安克雷奇市西南角。地震公园旨在纪念于1964年3月27日发生的安克雷奇大地震（由于当天恰好是耶稣受难日，故又称耶稣受难日地震）。安克雷奇大地震的里氏震级为8.5，矩震级为9.2，是北美洲有记录以来最强烈的地震，也是自1900年系统的地震测量方法问世以来，全球第二强烈的地震。地震引发了海啸，造成了阿拉斯加地区共139人死亡与彼时3亿美元的损失。地震公园内有现存的地震遗迹。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3362.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3362.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3362.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3362.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">地震公园内一景，平静地似乎看不出曾经大地震的痕迹。</figcaption>
 </div>
 
@@ -229,14 +229,14 @@ $12 青少年（3-15岁）；<br>
 平顶山位于安克雷奇市的东南部郊区，是安克雷奇市的标志性景点之一。平顶山的山顶海拔高度约为1,070米，是安克雷奇市区最高的山峰。平顶山山顶视野开阔，可以俯瞰安克雷奇市区、库克入海口、阿拉斯加山脉等风景。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 145105.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;"></figcaption>
 </div>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-25 144308.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">平顶山景色。</figcaption>
 </div>
 
@@ -275,25 +275,25 @@ $12 青少年（3-15岁）；<br>
 山脉、冰川、海洋交汇之处，基奈峡湾国家公园位于安克雷奇以南约200公里的西沃德 (Seward)。基奈峡湾国家公园是阿拉斯加州最受欢迎的国家公园之一，也是美国国家公园系统中唯一一个以冰川为主题的国家公园。基奈峡湾国家公园内有众多冰川、海洋生物、鸟类等。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 123623.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">停泊在西沃德港口的许多渔船。</figcaption>
 </div>
 
 乘坐游船从西沃德港口出发，沿着 Resurrection Bay 航行，前往基奈峡湾国家公园南部与北太平洋交界的海域。Resurrection Bay 的水面不像一般的大洋，罕见地平静而冷酷，与沿途前来助兴的海洋动物们形成鲜明对比。两岸的原始森林是国家公园的一部分，却在冬季的冰封中暂时隐去了它们的生机，只剩森林深处的漆黑与山顶的雪白。据导游说，夏季这里又是另一番景象，甚至能在峭壁上看到山羊。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 130320.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 133743.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.jpg" alt="Image 3">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-26 140130.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3014.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3014.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3014.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3014.webp" alt="Image 4">
   </a>
 </div>
 
@@ -345,8 +345,8 @@ $12 青少年（3-15岁）；<br>
 北方极地博物馆位于费尔班克斯市区西北角的阿拉斯加大学 (University of Alaska) 校园内，其外表似一座冰屋。博物馆的主题是北极地区的历史、自然、当地文化等。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3182.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3182.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3182.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3182.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">北方极地博物馆的外表。其造型似一个冰屋。</figcaption>
 </div>
 
@@ -392,8 +392,8 @@ $14 团体票（8人及以上）<br>
 莫里斯汤普森文化中心位于费尔班克斯的市区北部，是一个集游客信息、文化展示和社区活动于一体的综合中心。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3243.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3243.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3243.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3243.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">莫里斯汤普森文化中心内的飞机模型。</figcaption>
 </div>
 
@@ -510,8 +510,8 @@ $8 团体票（10人及以上）。
 驯鹿农场是一家 Family House, 它的主人们在与驯鹿朝夕相处的生活中已经度过了数十年。在此可以听驯鹿农场的农场主详细讲解这种神奇动物的生活习性、独特性格与一生的轨迹，甚至还可以体验与驯鹿亲密接触，牵着小鹿合影，旅程结束后还能买掉落的鹿角做成的礼物。<span class="reveal-on-hover">提供的巧克力奶也温暖宜人，是吗 ptr?</span>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3186.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3186.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3186.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3186.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">驯鹿农场内。</figcaption>
 </div>
 
@@ -554,8 +554,8 @@ $110 儿童（3-11岁）；<br>
 通往北极的勇敢者之路！道顿公路全程666公里，始于费尔班克斯，止于北冰洋旁的戴德霍斯 (Deadhorse)。道顿公路于1974为了建设阿拉斯加输油管道而修建，大部分路段为未铺装公路，是美国最偏远、最艰险的公路之一。道顿公路沿途风景壮丽，穿越了北极圈、阿拉斯加山脉、北极苔原等地，还经过了阿拉斯加的另一个国家公园：北极门国家公园与保护区 (Gates of the Arctic National Park and Preserve). 著名的北极圈标志碑位于北纬65度52分50秒，道顿公路185公里处（位于 coldfoot 附近）。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3194.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3194.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3194.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3194.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">道顿公路的起点标志。</figcaption>
 </div>
 
@@ -570,11 +570,11 @@ $110 儿童（3-11岁）；<br>
 驾车跨越育空河 (Yukon River) 后，道顿公路迎来的它前半段唯一一个补给站：育空河补给站。在此，可以补充食物与燃料（由于距离城市太远，这里的油价是费尔班克斯的两倍），还可以寄出一封来自育空河的明信片。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3213.JPG.jpeg" class="gallery-item" style="max-width:34.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3213.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3213.webp" class="gallery-item" style="max-width:34.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3213.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.jpg" class="gallery-item" style="max-width:60.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.jpg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.webp" class="gallery-item" style="max-width:60.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 171232.webp" alt="Image 2">
   </a>
 </div>
 
@@ -583,19 +583,19 @@ $110 儿童（3-11岁）；<br>
 到达北极圈标志处时已是晚上7点30分，天色渐晚，却记录了一行人第一次进入北极圈的时刻。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3221.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3221.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3221.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3221.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">北极圈标志，勇敢者的象征！</figcaption>
 </div>
 
 从北极圈标志处返程，已是晚上8点30分。回程的道路不可谓不曲折。夜晚逐渐来临，车外的温度已降至零下，一切白天的景色都逐渐被黑暗吞噬，汽车油箱中的油也只剩一半。更糟糕的是，在从北极圈标志处返程不久，车辆就发出了胎压警报：右后方轮胎的压力正在缓慢降低。这如同一道霹雳——育空河补给站已经关闭，而距离费尔班克斯更是有着遥远的近400公里。倘若最后轮胎彻底失压，我们将无法安全通过结冰的山路，只能在荒无人烟的茫茫中等待救援。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.jpg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-29 223716.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3226.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3226.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3226.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3226.webp" alt="Image 2">
   </a>
 </div>
 
@@ -604,8 +604,8 @@ $110 儿童（3-11岁）；<br>
 万幸的是，事情没有变得更糟，胎压下降的速度并没有想象中快，粗略的估算告诉我们还有些回转的余地。星空之下，两盏微弱的车灯在黑暗中缓慢前行。自然是伟大而令人敬畏的，茫茫的黑夜，标志着与世隔绝的14个小时。恍惚之间，似真的融入了这黑暗中，遨游在无垠的宇宙与星光里。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 000631.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">返程途中的星光。</figcaption>
 </div>
 
@@ -646,11 +646,11 @@ $110 儿童（3-11岁）；<br>
 马塔努斯卡冰川位于连接安克雷奇与费尔班克斯的东部环线上 (Glenn Highway)，位于安克雷奇东北角约160公里处。马塔努斯卡冰川是阿拉斯加州最大的冰川之一，同时也是世界上最大的可以驾车到达的冰川。马塔努斯卡河 (Matanuska River) 源自马塔努斯卡冰川的融水。
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3082.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3082.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3082.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3082.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3101.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3101.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3101.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3101.webp" alt="Image 2">
   </a>
 </div>
 
@@ -698,14 +698,14 @@ $60 阿拉斯加居民的亲朋好友（参观时需由本地居民陪同）。
 迪纳利国家公园和保留区位于连接安克雷奇与费尔班克斯的西部环线上 (George Parks Highway)，距安克雷奇约380公里，距费尔班克斯约200公里。迪纳利国家公园和保留区以北美洲最高峰：迪纳利山（原名麦金利山，海拔6190米）为中心，占地约24585平方公里。迪纳利国家公园和保留区内有众多野生动物，包括棕熊、驯鹿、狼、麋鹿等。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.jpg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.jpg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/2025-03-30 170256.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">迪纳利国家公园与保留区的标志牌。</figcaption>
 </div>
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3279.JPG.jpeg">
-  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3279.JPG.jpeg" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3279.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3279.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">迪纳利国家公园和保留区旁，在冬季已结冰的 Nenana 河与横跨它的桥梁。这座桥梁是西部环线的一部分。</figcaption>
 </div>
 
@@ -714,17 +714,17 @@ $60 阿拉斯加居民的亲朋好友（参观时需由本地居民陪同）。
 迪纳利国家公园和保留区内有许多徒步线路，其难度与所需时间都有很大跨度，适合各个水平的徒步爱好者！
 
 <div id="lightgallery">
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3331.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3331.JPG.jpeg" alt="Image 1">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3331.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3331.webp" alt="Image 1">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3303.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3303.JPG.jpeg" alt="Image 2">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3303.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3303.webp" alt="Image 2">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3311.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3311.JPG.jpeg" alt="Image 3">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3311.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3311.webp" alt="Image 3">
   </a>
-  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3326.JPG.jpeg" class="gallery-item" style="max-width:47.5%;">
-    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3326.JPG.jpeg" alt="Image 4">
+  <a href="/assets/images/Travel/Alaska Tour Plan/IMG_3326.webp" class="gallery-item" style="max-width:47.5%;">
+    <img src="/assets/images/Travel/Alaska Tour Plan/IMG_3326.webp" alt="Image 4">
   </a>
 </div>
 
@@ -761,8 +761,8 @@ $15 成人；<br>
 <b>景区地图 (From the <a href="https://www.nps.gov/dena/planyourvisit/maps.htm#onthisPage-0" class="custom-link-1">official website of Denali National Park</a>)</b>：
 
 <div style="text-align: center;margin-bottom: 1.5em;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png" target="_blank">
-    <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.png " alt="Click to view larger image" style="max-width: 90%; height: auto;">
+  <a href="/assets/images/Travel/Alaska Tour Plan/Denali_Map.webp" target="_blank">
+    <img src="/assets/images/Travel/Alaska Tour Plan/Denali_Map.webp" alt="Click to view larger image" style="max-width: 90%; height: auto;">
   </a>
 </div>
 
