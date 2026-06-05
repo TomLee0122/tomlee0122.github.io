@@ -41,7 +41,13 @@ classes: homepage
   <span style="color: #8E403A;">动态</span>
 </h1>
 
-<b>2026年5月20日：</b>我通过了我的博士开题报告！可以在<a href="/assets/pdf/Research/prospectus/slide.pdf" class="custom-link-3">这里</a>找到我的报告幻灯片。
+<p>
+<b>2026年5月20日：</b>我通过了我的博士开题报告！非常感谢我的 committee: <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>、 <a href="https://racz.statistics.northwestern.edu/" class="custom-link-3">Miklos Racz 教授</a> 和 <a href="https://fengruan.github.io/" class="custom-link-3">Feng Ruan 教授</a>。可以在<a href="/assets/pdf/Research/prospectus/slide.pdf" class="custom-link-3">这里</a>找到我的报告幻灯片。
+</p>
+
+<p>
+<b>2026年5月29日：</b>我收到了西北大学统计与数据科学系的 Bruce Spencer TA/GA 奖项！
+</p>
 
 <!-- <div style="margin-top: 16em;">
   <b>Welcome to my website! The home page is currently under construction but you can explore my blogs by the link at the top of the page.</b>

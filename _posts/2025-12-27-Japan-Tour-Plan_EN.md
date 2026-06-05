@@ -26,7 +26,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2026-01-08
+last_modified_at: 2026-06-04
 toc: true
 toc_label: 'Table of Contents'
 permalink: /personal-tags/Japan-Tour-Plan_EN/

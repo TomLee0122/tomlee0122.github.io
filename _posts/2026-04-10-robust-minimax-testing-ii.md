@@ -31,7 +31,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2026-05-26
+last_modified_at: 2026-06-04
 toc: false
 permalink: /research-tags/robust-minimax-testing-ii
 # published: false
@@ -76,6 +76,6 @@ Robust statistical inference often faces a severe computational-statistical gap 
 
 # <span style="color: #8E403A;">Availability</span>
 
-You can find the up-to-date preprint PDF file of this work <a href="/assets/pdf/Research/robust-minimax-testing-ii/main_arXiv.pdf" class="custom-link-3">here</a>.
+The preprint of this work is available <a href="https://arxiv.org/abs/2605.11238" class="custom-link-3">here</a>, or you can find the up-to-date PDF file <a href="/assets/pdf/Research/robust-minimax-testing-ii/main_arXiv.pdf" class="custom-link-3">here</a>.
 
 <button id="back-to-top" title="Back to top">↑</button>

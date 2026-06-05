@@ -31,7 +31,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2026-01-28
+last_modified_at: 2026-06-04
 toc: false
 permalink: /research-tags/robust-minimax-testing-i
 ---
@@ -75,6 +75,6 @@ This paper studies the problem of robust signal detection in Gaussian noise unde
 
 # <span style="color: #8E403A;">Availability</span>
 
-The preprint of this work is available at <a href="https://arxiv.org/abs/2308.13036" class="custom-link-3">https://arxiv.org/abs/2308.13036</a>, or you can find the up-to-date (even contains some fixes that are not included in the arXiv version) PDF file <a href="/assets/pdf/Research/robust-minimax-testing-i/main_arXiv.pdf" class="custom-link-3">here</a>.
+The preprint of this work is available <a href="https://arxiv.org/abs/2308.13036" class="custom-link-3">here</a>, or you can find the up-to-date (even contains some fixes that are not included in the arXiv version) PDF file <a href="/assets/pdf/Research/robust-minimax-testing-i/main_arXiv.pdf" class="custom-link-3">here</a>.
 
 <button id="back-to-top" title="Back to top">↑</button>
