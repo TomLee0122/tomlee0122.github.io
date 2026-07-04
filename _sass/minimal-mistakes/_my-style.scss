@@ -643,7 +643,8 @@ body,
 .page__footer::before,
 .sidebar.sticky,
 #dark-mode-toggle,
-.short_introduction_wrapper {
+.short_introduction_wrapper,
+.important_info_wrapper {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
@@ -939,6 +940,21 @@ body.dark-mode .short_introduction_wrapper {
   color: $my_gray_white;
   background-color: $my_light_dark;
   border-color: $my_gray_white;
+}
+
+.important_info_wrapper {
+  background-color: $my_gray_white;
+  color: $--color-7;
+  border: 2px solid $my_gray;
+  border-radius: 8px;
+  margin-bottom: $indent-var;
+  padding: 0.5em;
+}
+
+body.dark-mode .important_info_wrapper {
+  // color: $my_gray_white;
+  background-color: $my_dark_gray_light;
+  border-color: $my_dark_gray_light;
 }
 
 // ----------------------------------------

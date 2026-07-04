@@ -2,35 +2,45 @@
 title: "Short Bio"
 permalink: /short_bio/
 layout: single
+classes: wide
 author_profile: true
 toc: false
 ---
 
 ## Education Experience
 
-&bull; Bachelor of Science, Department of Probability and Statistics, School of Mathematical Sciences, <b>Peking University</b>, 2019-2023.
+<b>Northwestern University</b>, <em>Evanston, IL, USA</em>, 2023-2028 (expected)<br>
+PhD in Statistics, Department of Statistics and Data Science
 
-&bull; Master of Science in Statistics & Data Science, Department of Statistics and Data Science, <b>Northwestern University</b>, 2023-2025.
+<b>Northwestern University</b>, <em>Evanston, IL, USA</em>, 2023-2025 <br>
+Master of Science in Statistics & Data Science, Department of Statistics and Data Science, 
 
-&bull; PhD in Statistics, Department of Statistics and Data Science, <b>Northwestern University</b>, 2023-2028 (expected).
+<b>Peking University</b>, <em>Beijing, China</em>, 2019-2023 <br>
+Bachelor of Science in Statistics, Department of Probability and Statistics, School of Mathematical Sciences,
 
 
 ## Honors and Awards
 
-&bull; Merit Student, Peking University, 2019-2020.
+### Peking University
 
-&bull; Award for Academic Excellence, Peking University, 2021-2022.
+&bull; Merit Student, 2019-2020
 
-&bull; Merit Student, Peking University, 2022-2023.
+&bull; Award for Academic Excellence, 2021-2022
 
-&bull; Excellent Graduate, Peking University, class of 2023.
+&bull; Merit Student, 2022-2023
 
-&bull; Second prize, Chinese Mathematics Competition for College Students (class A), 2020.
+&bull; Excellent Graduate, class of 2023
 
-&bull; Second prize, Chinese Mathematics Competition for College Students (class A), 2021.
+&bull; Second prize, Chinese Mathematics Competition for College Students (class A), 2020
 
-&bull; Third Class Scholarships, Peking University (￥4000), 2019-2020.
+&bull; Second prize, Chinese Mathematics Competition for College Students (class A), 2021
 
-&bull; Third Class Scholarships, Peking University (￥4000), 2020-2021.
+&bull; Third Class Scholarships, 2019-2020
 
-&bull; Third Class Scholarships, Peking University (￥4000), 2021-2022.
+&bull; Third Class Scholarships, 2020-2021
+
+&bull; Third Class Scholarships, 2021-2022
+
+### Northwestern University
+
+&bull; Bruce Spencer TA/GA Award, 2025-2026

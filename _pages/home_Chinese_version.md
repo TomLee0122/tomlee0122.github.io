@@ -19,7 +19,7 @@ classes: homepage
 </p>
 
 <p>
-学习和研究之余，我还有广泛的兴趣爱好。在业余时间，我喜欢旅游（见我的<a href="/personal-tags/" class="custom-link-3">个人博客</a>！）、打羽毛球和阅读。此外，我是一名业余三段的<a href="https://zh.wikipedia.org/wiki/%E5%9B%B4%E6%A3%8B" class="custom-link-3">围棋</a>选手。我同时还热衷于 Minecraft 和 Counter-Strike 2. 如果你也对这些话题感兴趣，欢迎随时与我畅谈！
+学习和研究之余，我还有广泛的兴趣爱好。在业余时间，我喜欢在世界各地旅游（见我的<a href="/personal-tags/" class="custom-link-3">个人博客</a>！）、打羽毛球和阅读。此外，我是一名业余三段的<a href="https://zh.wikipedia.org/wiki/%E5%9B%B4%E6%A3%8B" class="custom-link-3">围棋</a>选手。我同时还热衷于 Minecraft. 如果你也对这些话题感兴趣，欢迎随时与我畅谈！
 </p>
 
 <!-- <p>
@@ -40,6 +40,10 @@ classes: homepage
 <h1 id="news">
   <span style="color: #8E403A;">动态</span>
 </h1>
+
+<div class="important_info_wrapper">
+  我正在积极寻找2027年夏季的量化、机器学习或数据科学实习机会。如果您认为我的背景适合您的团队，请随时与我联系。
+</div>
 
 <p>
 <b>2026年5月20日：</b>我通过了我的博士开题报告！非常感谢我的 committee: <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>、 <a href="https://racz.statistics.northwestern.edu/" class="custom-link-3">Miklos Racz 教授</a> 和 <a href="https://fengruan.github.io/" class="custom-link-3">Feng Ruan 教授</a>。可以在<a href="/assets/pdf/Research/prospectus/slide.pdf" class="custom-link-3">这里</a>找到我的报告幻灯片。
