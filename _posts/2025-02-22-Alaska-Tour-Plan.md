@@ -562,8 +562,8 @@ $110 儿童（3-11岁）；<br>
 虽然阿拉斯加有着数不胜数、令人赞叹的美景，但道顿公路沿途的风光却是令我印象最深刻的之一。从费尔班克斯出发，城市的景象很快就被抛在身后，所剩的不过是茫茫而飘动着神秘的白的平原、一座又一座起伏的山丘、远处无法抵达的雪山和一条孤零零、不知尽头的公路。一路上几百公里几乎都是渺无人烟的无人区，没有房屋，甚至没有信号，只有偶尔迎面遇到的卡车和卷起的尘土提醒着人类的存在。道顿公路沿途的景象并不如阿拉斯加的许多其他景点一般波澜壮阔，但永恒的静谧与孤独却更能打动人心。
 
 <div style="text-align: center;">
-  <a href="/assets/images/Travel/Alaska Tour Plan/DSC01957.JPG">
-  <img src="/assets/images/Travel/Alaska Tour Plan/DSC01957.JPG" alt="" style="max-width: 90%; height: auto;"></a>
+  <a href="/assets/images/Travel/Alaska Tour Plan/DSC01957.webp">
+  <img src="/assets/images/Travel/Alaska Tour Plan/DSC01957.webp" alt="" style="max-width: 90%; height: auto;"></a>
   <figcaption style="margin-top: 1em; margin-bottom: 1.3em;">道顿公路、永久冻土与远方的雪山。</figcaption>
 </div>
 

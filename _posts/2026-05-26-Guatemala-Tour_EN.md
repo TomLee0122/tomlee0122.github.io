@@ -1,7 +1,7 @@
 ---
 title: |
   <div>
-  Guatemala Tour
+  Guatemala Tour (Under Construction)
   </div>
 excerpt: |
   <div style="margin-bottom: 1em;">
@@ -27,7 +27,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2026-06-05
+last_modified_at: 2026-08-01
 toc: true
 permalink: /personal-tags/guatemala-tour_EN
 ---

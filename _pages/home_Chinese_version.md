@@ -46,11 +46,15 @@ classes: homepage
 </div>
 
 <p>
-<b>2026年5月20日：</b>我通过了我的博士开题报告！非常感谢我的 committee: <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>、 <a href="https://racz.statistics.northwestern.edu/" class="custom-link-3">Miklos Racz 教授</a> 和 <a href="https://fengruan.github.io/" class="custom-link-3">Feng Ruan 教授</a>。可以在<a href="/assets/pdf/Research/prospectus/slide.pdf" class="custom-link-3">这里</a>找到我的报告幻灯片。
+<b>2026年7月31日：</b> 我与 Guanghong, Matey 的新研究 "Minimaxity and Efficiency in Exponential Family Regression: From Star-Shaped to Convex Constraints" 已经上传到 <a href="https://arxiv.org/abs/2503.10794" class="custom-link-3">arXiv</a> 了! 在<a href="/research-tags/exponential-regression" class="custom-link-3">这里</a>可以找到它的简要的介绍.
 </p>
 
 <p>
 <b>2026年5月29日：</b>我收到了西北大学统计与数据科学系的 Bruce Spencer TA/GA 奖项！
+</p>
+
+<p>
+<b>2026年5月20日：</b>我通过了我的博士开题报告！非常感谢我的 committee: <a href="https://mateyneykov.com/" class="custom-link-3">Matey Neykov 教授</a>、 <a href="https://racz.statistics.northwestern.edu/" class="custom-link-3">Miklos Racz 教授</a> 和 <a href="https://fengruan.github.io/" class="custom-link-3">Feng Ruan 教授</a>。可以在<a href="/assets/pdf/Research/prospectus/slide.pdf" class="custom-link-3">这里</a>找到我的报告幻灯片。
 </p>
 
 <!-- <div style="margin-top: 16em;">

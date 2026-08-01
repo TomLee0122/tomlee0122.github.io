@@ -1,7 +1,7 @@
 ---
 title: |
   <div>
-  Guatemala Tour
+  危地马拉之旅
   </div>
 excerpt: ''
 # tags:
@@ -18,7 +18,7 @@ authors:
   - yikun
 related: false
 read_time: false
-last_modified_at: 2026-06-05
+last_modified_at: 2026-08-01
 toc: true
 permalink: /personal-tags/guatemala-tour
 ---
