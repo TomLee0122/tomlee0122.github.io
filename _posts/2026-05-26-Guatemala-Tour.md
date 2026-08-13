@@ -35,6 +35,8 @@ permalink: /personal-tags/guatemala-tour
 
 ## 危地马拉城 (Guatemala City)
 
+危地马拉城是危地马拉共和国的首都，也是该国乃至中美洲最大的城市。
+
 ## 阿蒂特兰湖 (Lake Atitlán)
 
 ### 圣佩德罗－拉拉古纳小镇 (San Pedro La Laguna)
