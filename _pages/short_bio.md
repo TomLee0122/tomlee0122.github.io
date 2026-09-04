@@ -21,26 +21,18 @@ Bachelor of Science in Statistics, Department of Probability and Statistics, Sch
 
 ## Honors and Awards
 
-### Peking University
-
-&bull; Merit Student, 2019-2020
-
-&bull; Award for Academic Excellence, 2021-2022
-
-&bull; Merit Student, 2022-2023
-
-&bull; Excellent Graduate, class of 2023
-
-&bull; Second prize, Chinese Mathematics Competition for College Students (class A), 2020
-
-&bull; Second prize, Chinese Mathematics Competition for College Students (class A), 2021
-
-&bull; Third Class Scholarships, 2019-2020
-
-&bull; Third Class Scholarships, 2020-2021
-
-&bull; Third Class Scholarships, 2021-2022
-
 ### Northwestern University
 
-&bull; Bruce Spencer TA/GA Award, 2025-2026
+&bull; Bruce Spencer TA/GA Award (2026)
+
+### Peking University
+
+&bull; Merit Student (2020, 2022)
+
+&bull; Award for Academic Excellence (2021)
+
+&bull; Excellent Graduate, Class of 2023 (2023)
+
+&bull; Second prize, Chinese Mathematics Competition for College Students (class A) (2020, 2021)
+
+&bull; Third Class Scholarships, 2019-2020 (2020, 2021, 2022)

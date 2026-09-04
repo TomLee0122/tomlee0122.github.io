@@ -129,26 +129,22 @@ body.dark-mode .my_table_1 {
 }
 
 .my_table_1 th,
-td {
+.my_table_1 td {
   padding: 10px;
   border: 1px solid #ccc;
   text-align: center;
 }
 
-
 .my_table_1 th {
   background-color: #f2f2f2;
-  /* 表头背景色 */
 }
 
 .my_table_1 tbody tr:nth-child(even) {
   background-color: #f9f9f9;
-  /* 每隔一行添加背景色 */
 }
 
-.my_table_1 tbody tr:hover {
+.my_table_1 tbody td:hover {
   background-color: $my_gray_white;
-  /* 鼠标悬停时改变背景色 */
 }
 
 // ----------------------------------------
