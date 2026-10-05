@@ -20,7 +20,12 @@ layout: default
 
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
+      {% if page.classes contains 'homepage' %}
+        <p class="page__eyebrow">{{ site.subtitle }}</p>
+        <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ site.author.name }}</h1>
+      {% else %}
+        <h1 id="page-title" class="page__title"{% if page.locale %} lang="{{ page.locale }}"{% endif %}>{{ page.title }}</h1>
+      {% endif %}
     {% endunless %}
     {{ content }}
   </div>

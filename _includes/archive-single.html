@@ -4,6 +4,16 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
+{% assign card_mapping = site.data.post-card-images[post.slug] %}
+{% assign explicit_card_image = post.card_image | default: post.header.teaser %}
+{% assign card_image = explicit_card_image | default: post.my_wide_image.src | default: post.header.image %}
+{% if explicit_card_image == nil or explicit_card_image == empty %}
+  {% if card_mapping.source == card_image and card_mapping.image %}
+    {% assign card_image = card_mapping.image %}
+  {% endif %}
+{% endif %}
+{% assign card_image = card_image | default: card_mapping.image | default: '/assets/images/cards/default.svg' %}
+
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
@@ -11,20 +21,25 @@
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src="{{ teaser | relative_url }}" alt="">
-      </div>
-    {% endif %}
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}" class="custom-link-1">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ post.url | relative_url }}" rel="permalink" class="custom-link-1">{{ title }}</a>
+  <article class="archive__item post-card" itemscope itemtype="https://schema.org/CreativeWork"{% if post.locale %} lang="{{ post.locale }}"{% endif %}>
+    <div class="post-card__visual" aria-hidden="true">
+      <img class="post-card__image" src="{{ card_image | relative_url | escape }}" alt="" loading="lazy" decoding="async">
+    </div>
+    <div class="post-card__body">
+      {% if include.type == "grid" and teaser %}
+        <div class="archive__item-teaser">
+          <img src="{{ teaser | relative_url }}" alt="">
+        </div>
       {% endif %}
-    </h2>
-    {% include page__meta.html type=include.type %}
-    {% if post.excerpt %}{{ post.excerpt | markdownify | truncate: 1600 }}{% endif %}
+      <h2 class="archive__item-title no_toc" itemprop="headline">
+        {% if post.link %}
+          <a href="{{ post.link }}" class="custom-link-1">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ post.url | relative_url }}" rel="permalink" class="custom-link-1">{{ title }}</a>
+        {% endif %}
+      </h2>
+      {% include page__meta.html type=include.type %}
+      {% if post.excerpt %}<div class="post-card__excerpt">{{ post.excerpt | markdownify | truncate: 1600 }}</div>{% endif %}
+    </div>
   </article>
 </div>

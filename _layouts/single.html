@@ -43,26 +43,6 @@ layout: default
 
     <div class="page__inner-wrap">
 
-      <style>
-        body {
-          font-family: "Times New Roman", sans-serif;
-          /* 默认字体（英文） */
-        }
-
-        /* 匹配中文字符 */
-        @font-face {
-          font-family: "ChineseFont";
-          src: local("SimSun"), local("Microsoft YaHei"), local("SimHei");
-          unicode-range: U+4E00-9FFF;
-          /* 中文字符范围 */
-        }
-
-        p {
-          font-family: "ChineseFont", "Times New Roman", sans-serif;
-          /* 优先中文字体 */
-        }
-      </style>
-
       {% unless page.header.overlay_color or page.header.overlay_image %}
       <header>
         {% if page.title -%}

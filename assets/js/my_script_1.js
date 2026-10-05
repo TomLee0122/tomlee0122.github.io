@@ -1,60 +1,39 @@
-$(document).ready(function () {
-    // FitVids init
-    $("#main").fitVids();
+// The profile menu can initialize before the theme's jQuery bundle is loaded.
+document.addEventListener('DOMContentLoaded', function () {
+  const buttons = document.querySelectorAll('.author__urls-wrapper button');
 
-    // Follow menu drop down
-    $(".author__urls-wrapper button").on("click", function (e) {
-        e.preventDefault();     // 阻止默认动作（更保险）
-        e.stopImmediatePropagation(); // 非常重要！！！阻止后续冒泡和事件处理！
-
-        var $wrapper = $(this).closest(".author__urls-wrapper");
-        var $menu = $wrapper.find(".author__urls");
-
-        var isVisible = $menu.hasClass("is--visible");
-
-        // 关闭所有
-        $(".author__urls").removeClass("is--visible");
-        $(".author__urls-wrapper button").removeClass("open");
-
-        // 只在当前是关闭状态时才打开
-        if (!isVisible) {
-            $menu.addClass("is--visible");
-            $(this).addClass("open");
-        }
+  function closeMenus() {
+    document.querySelectorAll('.author__urls').forEach(function (menu) {
+      menu.classList.remove('is--visible');
     });
-
-    // 点击空白处，关闭所有菜单
-    $(document).on("click", function () {
-        $(".author__urls").removeClass("is--visible");
-        $(".author__urls-wrapper button").removeClass("open");
+    buttons.forEach(function (button) {
+      button.classList.remove('open');
+      button.setAttribute('aria-expanded', 'false');
     });
+  }
+
+  buttons.forEach(function (button) {
+    button.setAttribute('aria-expanded', 'false');
+    button.addEventListener('click', function (event) {
+      event.preventDefault();
+      // Capture prevents the theme's legacy click handler from toggling twice.
+      event.stopImmediatePropagation();
+      const menu = button.closest('.author__urls-wrapper').querySelector('.author__urls');
+      if (!menu) return;
+      const wasOpen = menu.classList.contains('is--visible');
+      closeMenus();
+      if (!wasOpen) {
+        menu.classList.add('is--visible');
+        button.classList.add('open');
+        button.setAttribute('aria-expanded', 'true');
+      }
+    }, true);
+  });
+
+  document.addEventListener('click', function (event) {
+    if (!event.target.closest('.author__urls-wrapper')) closeMenus();
+  });
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape') closeMenus();
+  });
 });
-
-// $(document).ready(function () {
-//     // FitVids init
-//     $("#main").fitVids();
-
-//     // Follow menu drop down
-//     $(".author__urls-wrapper button").on("click", function (e) {
-//         e.stopPropagation(); // 防止事件冒泡影响其他东西
-
-//         var $wrapper = $(this).closest(".author__urls-wrapper");
-//         var $menu = $wrapper.find(".author__urls");
-
-//         // 关闭所有菜单
-//         $(".author__urls").removeClass("is--visible");
-//         $(".author__urls-wrapper button").removeClass("open");
-
-//         // 如果当前菜单是已经打开的，再次点击就不打开了
-//         if (!$menu.hasClass("is--visible")) {
-//             $menu.addClass("is--visible");
-//             $(this).addClass("open");
-//         }
-//     });
-
-//     // 点击页面其他地方时，关闭所有菜单
-//     $(document).on("click", function () {
-//         $(".author__urls").removeClass("is--visible");
-//         $(".author__urls-wrapper button").removeClass("open");
-//     });
-// });

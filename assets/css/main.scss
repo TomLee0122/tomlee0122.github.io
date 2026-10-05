@@ -5,5 +5,9 @@ search: false
 
 @charset "utf-8";
 
+$sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", Arial, sans-serif;
+$sans-serif-narrow: $sans-serif;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "minimal-mistakes/modern"; // personal visual refresh

@@ -131,9 +131,9 @@ $(document).ready(function () {
   });
 
   // Add anchors for headings
-  document
-    .querySelector(".page__content")
-    .querySelectorAll("h1, h2, h3, h4, h5, h6")
+  var pageContent = document.querySelector(".page__content");
+  if (pageContent) {
+    pageContent.querySelectorAll("h1, h2, h3, h4, h5, h6")
     .forEach(function (element) {
       var id = element.getAttribute("id");
       if (id) {
@@ -146,6 +146,7 @@ $(document).ready(function () {
         element.appendChild(anchor);
       }
     });
+  }
 
   // Add copy button for <pre> blocks
   var copyText = function (text) {

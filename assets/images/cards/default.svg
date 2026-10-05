@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="land" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#eaf0eb"/>
+      <stop offset="1" stop-color="#dfd7c6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#land)"/>
+  <g fill="none" stroke="#49736d" stroke-width="1.4" opacity=".35">
+    <path d="M-100 560C125 388 227 672 443 484S678 99 874 261S1083 576 1300 328"/>
+    <path d="M-100 524C130 357 227 640 442 452S681 67 878 229S1084 544 1300 296"/>
+    <path d="M-100 488C137 325 227 608 441 420S684 35 882 197S1085 512 1300 264"/>
+    <path d="M-100 452C144 293 227 576 440 388S687 3 886 165S1086 480 1300 232"/>
+    <path d="M-100 416C151 261 227 544 439 356S690-29 890 133S1087 448 1300 200"/>
+    <path d="M-100 380C158 229 227 512 438 324S693-61 894 101S1088 416 1300 168"/>
+    <path d="M-100 344C165 197 227 480 437 292S696-93 898 69S1089 384 1300 136"/>
+    <path d="M-100 308C172 165 227 448 436 260S699-125 902 37S1090 352 1300 104"/>
+    <path d="M-100 272C179 133 227 416 435 228S702-157 906 5S1091 320 1300 72"/>
+    <path d="M-100 236C186 101 227 384 434 196S705-189 910-27S1092 288 1300 40"/>
+  </g>
+  <g fill="none" stroke="#faf9f3" stroke-width="1.1" opacity=".6">
+    <ellipse cx="930" cy="533" rx="275" ry="147" transform="rotate(-24 930 533)"/>
+    <ellipse cx="930" cy="533" rx="232" ry="119" transform="rotate(-24 930 533)"/>
+    <ellipse cx="930" cy="533" rx="189" ry="91" transform="rotate(-24 930 533)"/>
+    <ellipse cx="930" cy="533" rx="146" ry="63" transform="rotate(-24 930 533)"/>
+  </g>
+</svg>

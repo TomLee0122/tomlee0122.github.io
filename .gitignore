@@ -33,3 +33,6 @@ _site
 
 # VSCode Files
 *.code-workspace
+
+# Prompt
+prompt.md

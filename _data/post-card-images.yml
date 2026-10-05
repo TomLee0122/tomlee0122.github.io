@@ -1,0 +1,36 @@
+# Decorative listing images only. The original article images remain unchanged.
+# Keys are the exact Jekyll post.slug values from the filenames, not permalinks.
+# When source matches the selected article hero, its lightweight image is used.
+# Explicit post.card_image and post.header.teaser values always take precedence.
+Chicago-River-Tour: &chicago
+  source: "/assets/images/Travel/Chicago River Tour/2024-11-01 185249_revised.jpg"
+  image: "/assets/images/cards/chicago.jpg"
+Chicago-River-Tour_EN: *chicago
+
+Alaska-Tour-Plan: &alaska
+  source: "/assets/images/Travel/Alaska Tour Plan/IMG_3163.jpeg"
+  image: "/assets/images/cards/alaska.jpg"
+Alaska-Tour-Plan_EN: *alaska
+
+Japan-Tour-Plan: &japan
+  source: "/assets/images/Travel/Japan Tour Plan/2025-06-22 110128.jpg"
+  image: "/assets/images/cards/japan.jpg"
+Japan-Tour-Plan_EN: *japan
+
+Guatemala-Tour: &guatemala
+  source: "/assets/images/Travel/Guatemala Tour/IMG_6177.JPG"
+  image: "/assets/images/cards/guatemala.jpg"
+Guatemala-Tour_EN: *guatemala
+
+Thailand-Tour: &thailand
+  source: "/assets/images/Travel/Thailand Tour/IMG_6952.jpg"
+  image: "/assets/images/cards/thailand.jpg"
+Thailand-Tour_EN: *thailand
+
+robust-minimax-testing-i: &mathematics
+  image: "/assets/images/cards/mathematics.svg"
+robust-minimax-testing-ii: *mathematics
+exponential-regression: *mathematics
+Minimax-Framework: *mathematics
+martingale: *mathematics
+martingale_EN: *mathematics
