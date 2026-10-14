@@ -2,13 +2,14 @@
 :root {
   --site-bg: #f6f8f7;
   --site-surface: #fff;
-  --card-surface: #e7e7e5;
+  --card-surface: #efefed;
   --site-ink: #243831;
   --site-muted: #63756d;
   --site-accent: #276957;
   --site-border: #dfe7e2;
   --site-soft: #edf3ef;
   --site-shadow: 0 4px 18px rgba(31, 57, 44, 0.045);
+  --footer-starmap: #{url('/assets/images/Textures/footer-starmap-light.svg')};
   --card-overlay: linear-gradient(110deg, rgba(255, 255, 255, 0.97) 10%, rgba(255, 255, 255, 0.88) 50%, rgba(255, 255, 255, 0.68) 100%);
 }
 
@@ -34,6 +35,7 @@ body.dark-mode {
   --site-border: #34473b;
   --site-soft: #25382d;
   --site-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+  --footer-starmap: #{url('/assets/images/Textures/footer-starmap-dark.svg')};
   --card-overlay: linear-gradient(110deg, rgba(28, 40, 34, 0.97) 10%, rgba(28, 40, 34, 0.89) 50%, rgba(28, 40, 34, 0.76) 100%);
   background: var(--site-bg);
   color: var(--site-ink);
@@ -74,8 +76,8 @@ body .masthead, body.dark-mode .masthead {
 }
 
 .masthead__inner-wrap {
-  max-width: 1360px;
-  padding: 1.15em 2em;
+  max-width: 1440px;
+  padding: 1.15em 1.5em;
 }
 
 body #site-nav, body.dark-mode #site-nav {
@@ -203,8 +205,8 @@ body #site-nav .hidden-links a:hover, body.dark-mode #site-nav .hidden-links a:h
 .greedy-nav .hidden-links li { border-bottom-color: var(--site-border); }
 
 #main {
-  max-width: 1360px;
-  padding: 0 2em;
+  max-width: 1440px;
+  padding: 0 1.5em;
   margin-top: 2.75em;
 }
 
@@ -468,8 +470,14 @@ body #footer, body.dark-mode #footer {
 }
 
 /* Keep the Chicago article's special photographic footer. */
-body:not(.custom-footer-chicago) .page__footer::before { background-image: none; }
-.page__footer footer { max-width: 1360px; padding: 1.75em 2em; }
+body:not(.custom-footer-chicago) .page__footer::before {
+  background-image: var(--footer-starmap);
+  background-position: right bottom;
+  background-size: auto 100%;
+  opacity: 0.85;
+  pointer-events: none;
+}
+.page__footer footer { max-width: 1440px; padding: 1.75em 1.5em; }
 .page__footer-follow li { text-transform: none; font-size: 0.75rem; }
 .page__footer-copyright { font-size: 0.7rem; }
 
@@ -482,6 +490,15 @@ body:not(.custom-footer-chicago) .page__footer::before { background-image: none;
 
 @media (min-width: 1600px) {
   .archive { width: calc(100% - 380px); padding-right: 0; }
+}
+
+/* Grow smoothly beyond Full HD while keeping the existing laptop layout. */
+@media (min-width: 1920px) {
+  .masthead__inner-wrap,
+  #main,
+  .page__footer footer {
+    max-width: clamp(1440px, calc(100vw - 480px), 1920px);
+  }
 }
 
 @media (max-width: 1279px) {
@@ -506,6 +523,10 @@ body:not(.custom-footer-chicago) .page__footer::before { background-image: none;
   .post-card__body { padding: 1.25em; }
   .post-card .archive__item-title { font-size: 1.1em; }
   .page__footer footer { padding: 1.5em 1.15em; }
+  body:not(.custom-footer-chicago) .page__footer::before {
+    background-size: auto 120px;
+    opacity: 0.45;
+  }
 }
 
 @media (max-width: 420px) {

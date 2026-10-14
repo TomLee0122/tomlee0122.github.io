@@ -147,6 +147,10 @@ body.dark-mode .my_table_1 {
   background-color: $my_gray_white;
 }
 
+body.dark-mode .my_table_1 tbody td:hover {
+  background-color: $my_dark_gray_light;
+}
+
 // ----------------------------------------
 
 // The styles of the hidden content 
